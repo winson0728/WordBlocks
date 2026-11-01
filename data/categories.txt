@@ -1,0 +1,10 @@
+time|時間與順序
+dir|方向與位置
+num|數量與程度
+sense|感官與表達
+move|動作與力量
+mind|心智與情感
+life|生命與群體
+nature|自然與空間
+rel|關係與否定
+suf|詞性字尾

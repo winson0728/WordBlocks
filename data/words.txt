@@ -1,0 +1,289 @@
+construct|con struct|建造；構成|一起 + 建造|They plan to construct a new bridge over the river.
+structure|struct ure|結構|建造 + 結果|The structure of this sentence is simple.
+instruct|in struct|指導；指示|向內 + 建造：把知識建進腦中|The coach instructed us to warm up first.
+obstruct|ob struct|阻礙|對著 + 建造：在面前築起障礙|A fallen tree obstructed the road.
+destroy|de struct=stroy|摧毀|反轉 + 建造：把蓋好的拆掉|The storm destroyed several houses.
+infrastructure|infra struct ure|基礎建設|下方 + 建造 + 結果|The city is investing in new infrastructure.
+inspect|in spect|檢查|向內 + 看|Workers inspect every car before delivery.
+prospect|pro spect|前景；可能性|向前 + 看|The job offers good prospects for promotion.
+retrospect|retro spect|回顧|向後 + 看|In retrospect, it was the right decision.
+spectator|spect or=ator|觀眾|看 + 的人|Thousands of spectators filled the stadium.
+perspective|per spect ive|觀點；透視|穿過 + 看 + 性質|Try to see it from her perspective.
+suspicious|sub=su spect=spic ous=ious|可疑的|從下 + 看 + 充滿：從下方偷瞄|The guard noticed a suspicious bag.
+transport|trans port|運輸|跨越 + 搬運|Public transport is cheap in this city.
+import|in=im port|進口|向內 + 搬運|The country imports most of its oil.
+export|ex port|出口|向外 + 搬運|Taiwan exports a lot of computer chips.
+portable|port able|可攜帶的|搬運 + 可…的|I bought a portable charger for the trip.
+support|sub=sup port|支持|從下 + 搬運：從底下撐住|My family supported my decision.
+report|re port|報告|回 + 搬運：把消息帶回來|She reported the problem to her manager.
+predict|pre dict|預測|預先 + 說|No one can predict the future.
+unpredictable|un pre dict able|無法預測的|不 + 預先 + 說 + 可…的|The weather here is unpredictable.
+contradict|contra dict|反駁；與…矛盾|相反 + 說|His actions contradict his words.
+dictionary|dict ion ary|字典|說 + 名詞 + 集合|Look the word up in a dictionary.
+verdict|ver dict|判決|真實 + 說|The jury reached a verdict after two days.
+dictate|dict ate|口述；命令|說 + 使|The manager dictated a letter to his assistant.
+project|pro ject|投射；計畫|向前 + 丟|The project will take three months.
+reject|re ject|拒絕|回 + 丟|The company rejected my application.
+inject|in ject|注射|向內 + 丟|The nurse injected the vaccine into my arm.
+eject|ex=e ject|彈出|向外 + 丟|Press this button to eject the disc.
+object|ob ject|物體；反對|對著 + 丟：丟到你面前的東西|What is that strange object in the sky?
+subject|sub ject|主題；科目|在下 + 丟：被置於下方者|Math is my favorite subject.
+interrupt|inter rupt|打斷|之間 + 破|Please don't interrupt me while I'm talking.
+erupt|ex=e rupt|爆發|向外 + 破|The volcano erupted last night.
+corrupt|con=cor rupt|腐敗的|徹底 + 破|The corrupt official was arrested.
+disrupt|dis rupt|擾亂；中斷|分開 + 破|The strike disrupted train services.
+abrupt|ab rupt|突然的|離開 + 破：斷開的|The bus came to an abrupt stop.
+bankrupt|bank rupt|破產的|長凳 + 破|The company went bankrupt in 2020.
+describe|de scrib=scribe|描述|向下 + 寫|Can you describe the man you saw?
+prescribe|pre scrib=scribe|開處方；規定|預先 + 寫|The doctor prescribed some medicine.
+subscribe|sub scrib=scribe|訂閱|在下 + 寫：在文件下方簽名|I subscribe to three newsletters.
+manuscript|manu scrib=script|手稿|手 + 寫|The museum holds the original manuscript.
+chronic|chron ic|慢性的；長期的|時間 + 的|He suffers from chronic back pain.
+synchronize|syn chron ize|同步|同時 + 時間 + 使…化|Let's synchronize our watches.
+chronology|chron ology|年表；時間順序|時間 + 學問|The book follows the chronology of the war.
+anachronism|ana chron ism|時代錯誤|逆 + 時間 + 狀態|A smartphone in a Tang dynasty drama is an anachronism.
+chronicle|chron icle|編年史；記錄|時間 + 紀錄|The film chronicles the life of a famous singer.
+evident|ex=e vid ent|明顯的|向外 + 看 + 的：露在外面看得見|It was evident that she was tired.
+visible|vid=vis able=ible|可見的|看 + 可…的|The stars are visible tonight.
+revise|re vid=vise|修訂|再 + 看|Please revise your essay before Friday.
+supervise|super vid=vise|監督|在上 + 看|A teacher supervises the students during lunch.
+vision|vid=vis ion|視力；願景|看 + 名詞|The company has a clear vision for the future.
+provide|pro vid=vide|提供|向前 + 看：預見並事先準備|The hotel provides free breakfast.
+transmit|trans mit|傳送；傳染|跨越 + 送|The virus is transmitted through the air.
+submit|sub mit|提交；屈服|在下 + 送|Submit your report by Monday.
+mission|mit=miss ion|任務|送 + 名詞：被派出去做的事|The mission was a success.
+dismiss|dis mit=miss|解散；駁回|分開 + 送：送走|The teacher dismissed the class early.
+permit|per mit|允許|穿過 + 送：放行|Smoking is not permitted here.
+emit|ex=e mit|發出；排放|向外 + 送|Cars emit harmful gases.
+panorama|pan orama|全景|全部 + 景象|The tower offers a panorama of the city.
+pandemic|pan dem ic|全球大流行病|全部 + 人民 + 的|The pandemic changed how we work.
+panacea|pan acea|萬靈丹|全部 + 治療|Technology is not a panacea for every problem.
+panic|panGod=pan ic|恐慌|牧神潘 + 的|Don't panic; stay calm.
+autograph|auto graph|親筆簽名|自己 + 寫|The fans asked for her autograph.
+biography|bio graph y|傳記|生命 + 寫 + 作品|I'm reading a biography of Marie Curie.
+photograph|photo graph|照片|光 + 畫|This photograph was taken in 1950.
+paragraph|para graph|段落|旁邊 + 寫：在旁邊畫記號|Read the first paragraph carefully.
+telegraph|tele graph|電報|遠 + 寫|News once traveled by telegraph.
+biology|bio ology=logy|生物學|生命 + 學問|She studies marine biology.
+antibiotic|anti bio ic=tic|抗生素|對抗 + 生命 + 的|Antibiotics do not work against viruses.
+symbiosis|syn=sym bio sis|共生|一起 + 生命 + 狀態|Clownfish and sea anemones live in symbiosis.
+credible|cred able=ible|可信的|相信 + 可…的|We need a credible witness.
+incredible|inneg=in cred able=ible|難以置信的|不 + 相信 + 可…的|The view from the top is incredible.
+credential|cred ent ial|資格證明|相信 + 的 + 的：讓人相信你的東西|Please show your credentials at the door.
+conduct|con duc=duct|指揮；進行|一起 + 引導|She conducts the city orchestra.
+produce|pro duc=duce|生產|向前 + 引導：引出來|This factory produces cars.
+educate|ex=e duc ate|教育|向外 + 引導 + 使：把潛能引導出來|Schools educate children for the future.
+introduce|intro duc=duce|介紹；引進|向內 + 引導|Let me introduce my friend Amy.
+deduct|de duc=duct|扣除|向下 + 引導|Tax is deducted from your salary.
+progress|pro gress|進步；進展|向前 + 走|You have made great progress in English.
+progressive|pro gress ive|進步的；漸進的|向前 + 走 + 性質|The city has progressive policies.
+aggressive|ad=ag gress ive|侵略性的；積極的|朝向 + 走 + 性質：朝人逼近|The dog became aggressive.
+regress|re gress|退步|回 + 走|His health began to regress.
+congress|con gress|國會；大會|一起 + 走：走到一起開會|Congress passed the new law.
+premonition|pre mon ion=ition|預感|預先 + 提醒 + 名詞|She had a premonition of danger.
+monitor|mon or=itor|監控；螢幕|提醒 + 者|Nurses monitor the patients all night.
+admonish|ad mon ish|告誡|朝向 + 提醒 + 做|The teacher admonished him for being late.
+forewarn|fore warn|預先警告|預先 + 警告|We were forewarned about the storm.
+warning|warn ing|警告|警告 + 動作|The sign gave a clear warning.
+telephone|tele phon=phone|電話|遠 + 聲音|She answered the telephone.
+symphony|syn=sym phon y|交響曲|一起 + 聲音 + 作品|Beethoven wrote nine symphonies.
+microphone|micro phon=phone|麥克風|微小 + 聲音：收下細小的聲音|Please speak into the microphone.
+democracy|dem=demo cracy|民主|人民 + 統治|Taiwan is a democracy.
+epidemic|epi dem ic|流行病|散布 + 人民 + 的|The flu epidemic closed many schools.
+precede|pre cede|在…之前發生|預先 + 走|A short speech preceded the dinner.
+proceed|pro cede=ceed|繼續進行|向前 + 走|Please proceed to gate 12.
+exceed|ex cede=ceed|超過|向外 + 走：走出界線|The cost exceeded our budget.
+succeed|sub=suc cede=ceed|成功；接替|在下 + 走：緊跟著接上|She succeeded in passing the exam.
+access|ad=ac cede=cess|進入；使用權|朝向 + 走|Students have free access to the library.
+process|pro cede=cess|過程；處理|向前 + 走|Learning a language is a slow process.
+concede|con cede|承認；讓步|徹底 + 讓步|He conceded that he was wrong.
+recession|re cede=cess ion|經濟衰退|回 + 走 + 名詞：往後退|The country fell into a recession.
+transfer|trans fer|轉移；轉乘|跨越 + 攜帶|You need to transfer at Taipei Main Station.
+refer|re fer|提到；參考|回 + 攜帶：把話題帶回|Please refer to page 20.
+prefer|pre fer|偏好|預先 + 攜帶：先拿某樣|I prefer tea to coffee.
+offer|ob=of fer|提供|對著 + 攜帶：拿到你面前|They offered me a job.
+differ|dis=dif fer|不同|分開 + 攜帶：各自帶開|Our opinions differ on this point.
+infer|in fer|推論|向內 + 攜帶：把結論帶進來|What can you infer from the data?
+conference|con fer ence|會議|一起 + 攜帶 + 名詞：把意見帶到一起|She is speaking at a conference in Tokyo.
+attract|ad=at tract|吸引|朝向 + 拉|The festival attracts many tourists.
+distract|dis tract|使分心|分開 + 拉|Don't distract the driver.
+extract|ex tract|提取；拔出|向外 + 拉|The dentist extracted my tooth.
+contract|con tract|合約；收縮|一起 + 拉：把雙方拉在一起|Read the contract before you sign it.
+subtract|sub tract|減去|從下 + 拉：拉掉|Subtract 5 from 12.
+tractor|tract or|拖拉機|拉 + 物|The farmer drove a tractor across the field.
+abstract|ab=abs tract|抽象的；摘要|離開 + 拉：從具體中抽離|Love is an abstract idea.
+express|ex press|表達|向外 + 壓：把想法擠出來|It's hard to express my feelings in English.
+impress|in=im press|使印象深刻|向內 + 壓：壓出印記|Her speech impressed everyone.
+depress|de press|使沮喪|向下 + 壓|Rainy days depress me.
+compress|con=com press|壓縮|一起 + 壓|Compress the files before sending them.
+suppress|sub=sup press|壓制；抑制|在下 + 壓|He tried to suppress a laugh.
+oppress|ob=op press|壓迫|對著 + 壓|The people were oppressed by the king.
+pressure|press ure|壓力|壓 + 結果|She works well under pressure.
+depend|de pend|依賴|向下 + 懸掛：吊在別人身上|Children depend on their parents.
+independent|inneg=in de pend ent|獨立的|不 + 向下 + 懸掛 + 的|She is an independent woman.
+suspend|sub=sus pend|暫停；懸掛|在下 + 懸掛|The game was suspended because of rain.
+expensive|ex pend=pens ive|昂貴的|向外 + 付錢 + 性質：花出很多錢|This bag is too expensive.
+compensate|con=com pend=pens ate|補償|一起 + 秤重 + 使：秤平|The airline will compensate you for the delay.
+append|ad=ap pend|附加|朝向 + 懸掛：掛在後面|Append your name to the list.
+convert|con vert|轉換|徹底 + 轉|Convert the file to PDF.
+reverse|re vert=verse|相反的；倒轉|回 + 轉|Put the car in reverse.
+divert|dis=di vert|轉移；使轉向|分開 + 轉|Police diverted traffic away from the accident.
+invert|in vert|倒置|向內 + 轉：翻過來|Invert the cup to dry it.
+introvert|intro vert|內向的人|向內 + 轉|As an introvert, he enjoys quiet evenings.
+extrovert|extro vert|外向的人|向外 + 轉|She is an extrovert who loves parties.
+advertise|ad vert ise|做廣告|朝向 + 轉 + 使：讓人轉頭注意|They advertise on social media.
+capture|cap=capt ure|捕捉|拿 + 結果|The police captured the thief.
+accept|ad=ac cap=cept|接受|朝向 + 拿|Please accept my apology.
+except|ex cap=cept|除了…之外|向外 + 拿：拿出去|Everyone came except Tom.
+concept|con cap=cept|概念|一起 + 拿：抓在一起的想法|The concept is easy to understand.
+receive|re cap=ceive|收到|回 + 拿|I received your email.
+deceive|de cap=ceive|欺騙|去除 + 拿：把東西騙走|Don't let the ads deceive you.
+perceive|per cap=ceive|察覺|徹底 + 拿：完全抓住|Dogs perceive sounds we cannot hear.
+intercept|inter cap=cept|攔截|之間 + 拿：半路抓住|The goalkeeper intercepted the pass.
+factory|fact ory|工廠|做 + 場所|My uncle works in a car factory.
+manufacture|manu fact ure|製造|手 + 做 + 行為|The company manufactures phones.
+effect|ex=ef fact=fect|效果；影響|向外 + 做：做出來的結果|The medicine had no effect.
+affect|ad=af fact=fect|影響|朝向 + 做：對某人起作用|Stress can affect your sleep.
+infect|in fact=fect|感染|向內 + 做：在體內作怪|The virus infected thousands of people.
+perfect|per fact=fect|完美的|徹底 + 做：做到完|Nobody is perfect.
+efficient|ex=ef fact=fic ent=ient|有效率的|向外 + 做 + 的|This new machine is more efficient.
+benefactor|bene fact or|捐助者|好 + 做 + 者|An unknown benefactor paid for the new library.
+benefit|bene fact=fit|好處；有益於|好 + 做|Exercise has many benefits.
+prevent|pre vent|預防|預先 + 來：搶先來擋住|Exercise helps prevent disease.
+invent|in vent|發明|向內 + 來：想法來到腦中|Who invented the telephone?
+event|ex=e vent|事件；活動|向外 + 來：發生出來的事|The event starts at 7 p.m.
+adventure|ad vent ure|冒險|朝向 + 來 + 結果：即將來臨的事|Traveling alone was a real adventure.
+convention|con vent ion|大會；慣例|一起 + 來 + 名詞|Thousands attended the comic convention.
+intervene|inter vent=vene|介入；干預|之間 + 來|The teacher intervened to stop the fight.
+extend|ex tend|延長；延伸|向外 + 伸展|They extended the deadline by a week.
+intend|in tend|打算|向內 + 伸展：把心思伸向目標|I intend to study abroad.
+pretend|pre tend|假裝|預先 + 伸展：先擺在前面當藉口|He pretended to be sick.
+attend|ad=at tend|出席；注意|朝向 + 伸展：把注意力伸過去|Over 200 people attended the meeting.
+tension|tend=tens ion|緊張；張力|伸展 + 名詞：拉緊的狀態|There was tension in the room.
+intense|in tend=tense|強烈的|向內 + 伸展：繃得很緊|The heat was intense.
+include|in clud=clude|包含|向內 + 關閉：關在裡面|The price includes breakfast.
+exclude|ex clud=clude|排除|向外 + 關閉：關在門外|Don't exclude anyone from the game.
+conclude|con clud=clude|下結論；結束|徹底 + 關閉|The meeting concluded at noon.
+seclude|se clud=clude|使隔離|分開 + 關閉|The cabin is secluded in the mountains.
+exclusive|ex clud=clus ive|獨家的；排外的|向外 + 關閉 + 性質|The magazine has an exclusive interview.
+motion|mot ion|運動；動作|移動 + 名詞|The film is shown in slow motion.
+promote|pro mot=mote|升遷；推廣|向前 + 移動|She was promoted to manager.
+remote|re mot=mote|遙遠的；遙控器|回 + 移動：移得遠遠的|They live in a remote village.
+emotion|ex=e mot ion|情緒|向外 + 移動 + 名詞：從心裡湧出|He couldn't hide his emotions.
+mobile|mot=mob ile|可移動的；手機|移動 + 可…的|Mobile phones are everywhere.
+current|cur=curr ent|現在的；水流|跑 + 的：正在流動的|What is your current address?
+occur|ob=oc cur|發生|對著 + 跑：跑到眼前|The accident occurred at midnight.
+excursion|ex cur=curs ion|短途旅行|向外 + 跑 + 名詞|We went on an excursion to the beach.
+recur|re cur|再發生|再 + 跑|The problem recurred last week.
+fluent|flu ent|流利的|流 + 的|She is fluent in three languages.
+fluid|flu id|液體；流動的|流 + 的|Drink plenty of fluids.
+influence|in flu ence|影響|向內 + 流 + 名詞：流進來的力量|My teacher had a big influence on me.
+affluent|ad=af flu ent|富裕的|朝向 + 流 + 的：財富湧來|They live in an affluent neighborhood.
+pedal|ped al|踏板|腳 + 的|Push the pedal to start the bike.
+centipede|cent=centi ped=pede|蜈蚣|百 + 腳|A centipede never has exactly 100 legs.
+expedition|ex ped ion=ition|遠征；探險|向外 + 腳 + 名詞：把腳放出去|They joined an expedition to the South Pole.
+impede|in=im ped=pede|妨礙|向內 + 腳：絆住腳|Heavy snow impeded the rescue.
+tripod|tri pod|三腳架|三 + 腳|Put the camera on a tripod.
+select|se lect|挑選|分開 + 選|Select a file to upload.
+collect|con=col lect|收集|一起 + 選|He collects old coins.
+elect|ex=e lect|選舉|向外 + 選|The country will elect a new president.
+lecture|lect ure|演講；講課|讀 + 行為：讀給大家聽|The professor gave a lecture on climate change.
+audience|aud ence=ience|觀眾；聽眾|聽 + 名詞|The audience clapped loudly.
+audible|aud able=ible|聽得見的|聽 + 可…的|Her voice was barely audible.
+audition|aud ion=ition|試鏡|聽 + 名詞|She has an audition for the musical.
+vocal|voc al|聲音的；歌唱的|聲音 + 的|Vocal training takes years.
+advocate|ad voc ate|提倡；擁護者|朝向 + 呼喚 + 使：替人發聲|She advocates for animal rights.
+provoke|pro voc=voke|激怒；引起|向前 + 呼喚：叫出來|His words provoked anger.
+evoke|ex=e voc=voke|喚起|向外 + 呼喚|The song evokes memories of my childhood.
+revoke|re voc=voke|撤銷|回 + 呼喚：叫回來|The government revoked his license.
+signal|sign al|信號|記號 + 的|The phone has no signal here.
+design|de sign|設計|向下 + 記號：畫出記號|She designs websites.
+assign|ad=as sign|指派|朝向 + 記號：標給某人|The teacher assigned us homework.
+signature|sign ure=ature|簽名|記號 + 結果|Put your signature here.
+telescope|tele scope|望遠鏡|遠 + 看|We watched the moon through a telescope.
+microscope|micro scope|顯微鏡|微小 + 看|Bacteria can be seen under a microscope.
+periscope|peri scope|潛望鏡|周圍 + 看|The submarine raised its periscope.
+bilingual|bi lingu al|雙語的|雙 + 語言 + 的|He grew up bilingual in Chinese and English.
+multilingual|multi lingu al|多語的|許多 + 語言 + 的|Singapore is a multilingual country.
+monotone|mono ton=tone|單調的聲音|單一 + 聲調|He spoke in a boring monotone.
+intonation|in ton ion=ation|語調|向內 + 聲調 + 名詞|English intonation often rises in yes-no questions.
+dialogue|dia log=logue|對話|穿過 + 話語：兩人之間來回|The movie has very little dialogue.
+prologue|pro log=logue|序幕；序言|向前 + 話語|The prologue introduces the main character.
+monologue|mono log=logue|獨白|單一 + 話語|The actor delivered a long monologue.
+anonymous|an onym ous|匿名的|沒有 + 名字 + 的|The letter was anonymous.
+synonym|syn onym|同義字|相同 + 名字|"Big" is a synonym of "large".
+antonym|anti=ant onym|反義字|相反 + 名字|"Hot" is the antonym of "cold".
+surface|sur fac=face|表面|在上 + 面|The surface of the table is smooth.
+sensible|sens able=ible|明智的|感覺 + 可…的|That's a sensible decision.
+sensitive|sens ive=itive|敏感的|感覺 + 性質|My skin is sensitive to the sun.
+consent|con sens=sent|同意|一起 + 感覺：感受一致|You need your parents' consent.
+resent|re sens=sent|憎恨；不滿|再 + 感覺：一再感到不舒服|He resents being told what to do.
+nonsense|non sens=sense|胡說|非 + 感覺：沒道理|Stop talking nonsense.
+record|re cord|紀錄；錄製|再 + 心：重新記在心上|She broke the world record.
+discord|dis cord|不和|分開 + 心|There was discord within the team.
+cordial|cord ial|親切的|心 + 的|They gave us a cordial welcome.
+courage|cord=cour age|勇氣|心 + 名詞|It takes courage to speak up.
+encourage|en cord=cour age|鼓勵|使 + 心 + 名詞：給人勇氣|My parents encouraged me to try.
+sympathy|syn=sym path y|同情|一起 + 感受 + 名詞|I have a lot of sympathy for her.
+empathy|en=em path y|同理心|進入 + 感受 + 名詞|Good doctors show empathy.
+apathy|an=a path y|冷漠|沒有 + 感受 + 名詞|Voter apathy is a big problem.
+telepathy|tele path y|心電感應|遠 + 感受 + 名詞|Twins sometimes joke about telepathy.
+philosophy|phil=philo soph y|哲學|愛 + 智慧 + 名詞|Socrates is a key figure in philosophy.
+philanthropy|phil anthrop y|慈善|愛 + 人類 + 名詞|He gave millions to philanthropy.
+anthropology|anthrop ology|人類學|人類 + 學問|She studies anthropology.
+benevolent|bene vol ent|仁慈的|好 + 意願 + 的|She is a benevolent leader.
+malevolent|mal=male vol ent|惡意的|壞 + 意願 + 的|The story has a malevolent witch.
+inspire|in spir=spire|激勵；啟發|向內 + 呼吸：吹進一口氣|Her story inspired me.
+expire|ex spir=pire|到期|向外 + 呼吸：吐出最後一口氣|My passport expires next month.
+conspire|con spir=spire|密謀|一起 + 呼吸|They conspired against the king.
+perspire|per spir=spire|流汗|穿過 + 呼吸：從皮膚透出|Everyone perspires in this heat.
+mortal|mort al|會死的；凡人|死 + 的|All humans are mortal.
+immortal|inneg=im mort al|不朽的|不 + 死 + 的|The gods in Greek myths are immortal.
+mortgage|mort gage|房貸|死 + 誓約|They took out a mortgage to buy the house.
+survive|sur viv=vive|存活|超過 + 活：活過災難|Only two people survived the crash.
+revive|re viv=vive|復甦|再 + 活|The rain revived the plants.
+vivid|viv id|生動的|活 + 的|She has vivid memories of her childhood.
+vital|viv=vit al|極重要的|活 + 的：攸關生命|Water is vital to all living things.
+generate|gen=gener ate|產生|產生 + 使|Solar panels generate electricity.
+hydrogen|hydr=hydro gen|氫|水 + 產生|Water is made of hydrogen and oxygen.
+oxygen|oxy gen|氧|酸 + 產生|Plants release oxygen.
+monarchy|mono=mon arch y|君主制|單一 + 統治 + 名詞|The UK is a constitutional monarchy.
+anarchy|an arch y|無政府狀態|沒有 + 統治 + 名詞|The country fell into anarchy.
+novel|nov el|小說；新穎的|新 + 小：新奇的小故事|I'm reading a novel by Murakami.
+innovate|in nov ate|創新|向內 + 新 + 使|Companies must innovate to survive.
+renovate|re nov ate|翻修|再 + 新 + 使|They renovated the old house.
+final|fin al|最後的|結束 + 的|This is the final exam.
+infinite|inneg=in fin ite|無限的|不 + 界限 + 的|The universe seems infinite.
+define|de fin=fine|定義|徹底 + 界限：畫清界線|How do you define success?
+confine|con fin=fine|限制|一起 + 界限|The patient is confined to bed.
+semifinal|semi fin al|準決賽|一半 + 結束 + 的|Our team lost in the semifinal.
+geography|geo graph y|地理|地球 + 寫 + 名詞|Geography is my favorite class.
+geology|geo ology=logy|地質學|土地 + 學問|He studied geology in college.
+geometry|geo meter=metr y|幾何|土地 + 測量 + 名詞：丈量土地|We learned about triangles in geometry.
+territory|terr ory=itory|領土|土地 + 場所|The island is disputed territory.
+subterranean|sub terr ian=anean|地下的|在下 + 土地 + 的|They explored subterranean caves.
+mediate|medi ate|調解|中間 + 使|A teacher mediated between the two students.
+intermediate|inter medi ate|中級的|之間 + 中間 + 的|I'm taking an intermediate English course.
+local|loc al|當地的|地方 + 的|Try the local food.
+locate|loc ate|找出位置；位於|地方 + 使|The hotel is located near the station.
+allocate|ad=al loc ate|分配|朝向 + 地方 + 使|The school allocated money for new books.
+relocate|re loc ate|搬遷|再 + 地方 + 使|The company relocated to Taichung.
+thermometer|therm=thermo meter|溫度計|熱 + 測量|The thermometer shows 35 degrees.
+thermal|therm al|熱的；保暖的|熱 + 的|Wear thermal underwear in winter.
+diameter|dia meter|直徑|穿過 + 測量|The circle has a diameter of 10 cm.
+perimeter|peri meter|周長|周圍 + 測量|Find the perimeter of the square.
+symmetry|syn=sym meter=metr y|對稱|相同 + 測量 + 名詞|The building has perfect symmetry.
+dehydrate|de hydr ate|使脫水|去除 + 水 + 使|Running in the heat can dehydrate you.
+reform|re form|改革|再 + 形狀|The government promised to reform education.
+transform|trans form|轉變|跨越 + 形狀|The caterpillar transforms into a butterfly.
+inform|in form|通知|向內 + 形狀：在腦中塑形|Please inform us of any changes.
+uniform|uni form|制服；一致的|單一 + 形狀|Students wear uniforms at my school.
+conform|con form|遵從|一起 + 形狀：變成一樣的形狀|Not everyone wants to conform.
+bicycle|bi cycl=cycle|腳踏車|雙 + 圓輪|I ride my bicycle to school.
+recycle|re cycl=cycle|回收|再 + 循環|We recycle paper and plastic.
+triangle|tri angl=angle|三角形|三 + 角|Draw a triangle on the board.
+rectangle|rect angl=angle|長方形|直 + 角|The table is a rectangle.
+correct|con=cor rect|正確的；改正|徹底 + 直|Correct the mistakes in red.
+direct|dis=di rect|直接的；指引|分開 + 直：拉直方向|Is there a direct flight to Osaka?
+unicorn|uni corn|獨角獸|單一 + 角|The unicorn is the national animal of Scotland.
+percent|per cent|百分比|每 + 百|Ninety percent of students passed.
