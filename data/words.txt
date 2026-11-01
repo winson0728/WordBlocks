@@ -1875,3 +1875,220 @@ interdiction|inter dict ion|禁令；攔截|之間 + 說 + 名詞|The navy carri
 adherent|ad her ent|擁護者|朝向 + 黏 + 的人|The religion has millions of adherents.
 subordination|sub ordin ion=ation|從屬|在下 + 順序 + 名詞|The subordination of women was common in the past.
 passivity|pass ive=iv ity|消極|承受 + 性質 + 名詞|His passivity frustrated his team.
+community|con=com mun ity|社區；群體|一起 + 義務 + 名詞|The library is open to the whole community.
+communicate|con=com mun ic ate|溝通|一起 + 共同 + 的 + 使|We communicate mostly by email.
+communication|con=com mun ic ion=ation|溝通；通訊|一起 + 共同 + 的 + 名詞|Good communication is key in a team.
+communism|con=com mun ism|共產主義|一起 + 共同 + 主義|The book explains the history of communism.
+immune|inneg=im mun=mune|免疫的|不 + 義務：免除負擔|Some people are immune to the disease.
+immunity|inneg=im mun ity|免疫力|不 + 義務 + 名詞|Vitamin C may help your immunity.
+experience|ex pert=peri ence|經驗；經歷|向外 + 嘗試 + 名詞|She has ten years of teaching experience.
+experiment|ex pert=peri ment|實驗|向外 + 嘗試 + 名詞|We did a science experiment in class.
+experimental|ex pert=peri ment al|實驗性的|向外 + 嘗試 + 名詞 + 的|The drug is still experimental.
+expert|ex pert|專家|向外 + 嘗試：試過很多次的人|She is an expert in artificial intelligence.
+expertise|ex pert ise|專業知識|向外 + 嘗試 + 名詞|We need someone with legal expertise.
+relax|re lax|放鬆|再 + 鬆|Sit down and relax.
+relaxation|re lax ion=ation|放鬆|再 + 鬆 + 名詞|Yoga is good for relaxation.
+quality|qual ity|品質|性質 + 名詞|The quality of the food is excellent.
+qualify|qual ify|有資格；合格|性質 + 使|She qualified for the final.
+qualification|qual ific ion=ation|資格|性質 + 產生…的 + 名詞|What qualifications do you need for the job?
+quantity|quant ity|數量|數量 + 名詞|We bought a large quantity of rice.
+practice|pract ice|練習；實踐|做 + 名詞|Practice makes perfect.
+practical|pract ic al|實際的；實用的|做 + 的 + 的|Here is some practical advice.
+addition|ad don=dit ion|加法；增加|朝向 + 給 + 名詞|In addition, we offer free parking.
+additional|ad don=dit ion al|額外的|朝向 + 給 + 名詞 + 的|There is an additional charge for breakfast.
+edit|ex=e don=dit|編輯|向外 + 給：拿出來出版|Can you edit my essay?
+edition|ex=e don=dit ion|版本；版|向外 + 給 + 名詞|This is the second edition of the book.
+editor|ex=e don=dit or|編輯|向外 + 給 + 者|She is a magazine editor.
+tradition|trans=tra don=dit ion|傳統|跨越 + 給 + 名詞：代代傳下來|It's a family tradition to eat dumplings at New Year.
+traditional|trans=tra don=dit ion al|傳統的|跨越 + 給 + 名詞 + 的|She wore a traditional dress.
+donate|don ate|捐贈|給 + 使|He donated $1,000 to the school.
+donation|don ion=ation|捐款|給 + 名詞|Thank you for your generous donation.
+donor|don or|捐贈者|給 + 者|She is a regular blood donor.
+potential|pot ent ial|潛力；潛在的|能力 + 的 + 的|The young player has great potential.
+potent|pot ent|強效的|能力 + 的|This is a potent medicine.
+possible|pot=poss able=ible|可能的|能力 + 可…的|Is it possible to change my seat?
+possibility|pot=poss able=ibil ity|可能性|能力 + 可…的 + 名詞|There is a possibility of rain.
+impossible|inneg=im pot=poss able=ible|不可能的|不 + 能力 + 可…的|It's impossible to finish today.
+normal|norm al|正常的|規範 + 的|Is this behavior normal for a dog?
+abnormal|ab norm al|異常的|離開 + 規範 + 的|The test showed abnormal results.
+enormous|ex=e norm ous|巨大的|向外 + 規範 + 充滿：超出標準|The house has an enormous garden.
+normalize|norm al ize|使正常化|規範 + 的 + 使|The two countries normalized relations.
+compute|con=com put=pute|計算|一起 + 計算|The program computes the total cost.
+computer|con=com put er|電腦|一起 + 計算 + 物|My computer is very slow.
+reputation|re put ion=ation|名聲|再 + 思考 + 名詞：別人再三考量的看法|The restaurant has a good reputation.
+dispute|dis put=pute|爭議|分開 + 思考：想法分歧|They settled the dispute in court.
+imagine|imag ine|想像|影像 + 使：在心中成像|Imagine life without phones.
+imagination|imag ine=in ion=ation|想像力|影像 + 名詞|Children have a vivid imagination.
+imaginary|imag ine=in ary|想像的|影像 + 的|She has an imaginary friend.
+imaginative|imag ine=in ate=at ive|富想像力的|影像 + 使 + 性質|It's an imaginative design.
+civil|civ ile=il|公民的；民事的|公民 + 的|Civil rights are protected by law.
+civilian|civ ile=il ian|平民|公民 + 的 + 人|Many civilians were hurt in the war.
+civilization|civ ile=il ize=iz ion=ation|文明|公民 + 的 + 使 + 名詞|Ancient Egypt was a great civilization.
+concern|con cern|關心；擔憂|一起 + 分辨|Thank you for your concern.
+discern|dis cern|辨別|分開 + 分辨|It's hard to discern the difference.
+secret|se cern=cret|祕密|分開 + 分辨：分出來藏好|Can you keep a secret?
+secretary|se cern=cret ary|秘書|分開 + 分辨 + 人：處理機密的人|Leave a message with my secretary.
+senior|sen ior|年長的；資深的|老 + 較|She is a senior manager.
+senate|sen ate|參議院|老 + 名詞：長老會議|The Senate passed the bill.
+senator|sen ate=at or|參議員|老 + 使 + 者|The senator gave a speech.
+library|libr ary|圖書館|書 + 場所|I borrowed this book from the library.
+librarian|libr ary=ar ian|圖書館員|書 + 場所 + 人|Ask the librarian for help.
+attempt|ad=at tempt|嘗試|朝向 + 嘗試|She attempted to swim across the lake.
+temptation|tempt ion=ation|誘惑|嘗試 + 名詞|It was hard to resist the temptation.
+animal|anim al|動物|生命氣息 + 的：有呼吸的|Dogs are friendly animals.
+animation|anim ion=ation|動畫|生命氣息 + 名詞：賦予生命|She works in animation.
+animate|anim ate|使有生氣|生命氣息 + 使|Her face was animated with joy.
+unanimous|uni=un anim ous|一致同意的|單一 + 心靈 + 的|The decision was unanimous.
+foundation|fund=found ion=ation|基礎；基金會|底部 + 名詞|Trust is the foundation of a good relationship.
+fundamental|fund ment=ament al|基本的|底部 + 名詞 + 的|Education is a fundamental right.
+founder|fund=found er|創辦人|底部 + 的人：打地基的人|He is the founder of the company.
+profound|pro fund=found|深刻的|向前 + 底部：深到底|The book had a profound effect on me.
+negative|neg ive=ative|負面的；否定的|否定 + 性質|Don't be so negative.
+neglect|neg lect|忽略|不 + 選：不去撿|The old house was neglected for years.
+deny|de neg=ny|否認|徹底 + 否定|He denied stealing the money.
+denial|de neg=ni al|否認|徹底 + 否定 + 名詞|She is in denial about the problem.
+function|funct ion|功能|執行 + 名詞|What is the function of this button?
+functional|funct ion al|功能性的；可運作的|執行 + 名詞 + 的|The kitchen is small but functional.
+malfunction|mal funct ion|故障|壞 + 執行 + 名詞|A computer malfunction delayed the flight.
+journal|journ al|日誌；期刊|日 + 的|She writes in her journal every night.
+journalist|journ al ist|記者|日 + 的 + 人|He is a sports journalist.
+journalism|journ al ism|新聞業|日 + 的 + 狀態|She studied journalism in Taipei.
+vehicle|veh icle|車輛|運送 + 物|Electric vehicles are becoming popular.
+suggest|sub=sug gest|建議|在下 + 攜帶：悄悄帶出|I suggest we leave early.
+suggestion|sub=sug gest ion|建議|在下 + 攜帶 + 名詞|Do you have any suggestions?
+digest|dis=di gest|消化|分開 + 攜帶|Some people can't digest milk.
+digestion|dis=di gest ion|消化|分開 + 攜帶 + 名詞|Fiber helps digestion.
+gesture|gest ure|手勢|進行 + 結果|She made a friendly gesture.
+congestion|con gest ion|擁擠；鼻塞|一起 + 攜帶 + 名詞：堆在一起|Traffic congestion is bad at rush hour.
+festival|fest ive=iv al|節日；節慶|節慶 + 性質 + 的|The Lantern Festival is in February.
+festive|fest ive|節慶的|節慶 + 性質|The city has a festive mood.
+property|propr=proper ity=ty|財產；特性|自己的 + 名詞|This land is private property.
+appropriate|ad=ap propr=propri ate|適當的|朝向 + 自己的 + 使|Jeans are not appropriate for the meeting.
+inappropriate|inneg=in ad=ap propr=propri ate|不恰當的|不 + 朝向 + 自己的 + 使|His joke was inappropriate.
+alternative|alter=altern ive=ative|替代方案|另一個 + 性質|Is there an alternative to driving?
+alternate|alter=altern ate|交替的|另一個 + 使|We alternate cooking every other night.
+alteration|alter ion=ation|修改|另一個 + 名詞|The tailor made some alterations to my suit.
+discuss|dis cuss|討論|分開 + 敲打：拆開來敲敲看|Let's discuss this tomorrow.
+discussion|dis cuss ion|討論|分開 + 敲打 + 名詞|We had a long discussion about money.
+percussion|per cuss ion|打擊樂|徹底 + 敲打 + 名詞|He plays percussion in a band.
+repercussion|re per cuss ion|後果；影響|回 + 徹底 + 敲打 + 名詞：回彈的衝擊|The decision had serious repercussions.
+intelligence|inter=intel lect=lig ence|智力；情報|之間 + 選 + 名詞：在其中做選擇|Artificial intelligence is changing many jobs.
+intelligent|inter=intel lect=lig ent|聰明的|之間 + 選 + 的|Dolphins are intelligent animals.
+intellectual|inter=intel lect al=ual|知識分子；智力的|之間 + 選 + 的|He enjoys intellectual conversations.
+eligible|ex=e lect=lig able=ible|有資格的|向外 + 選 + 可…的|You are eligible for a discount.
+ancient|ante=anc ent=ient|古代的|之前 + 的|We visited an ancient temple.
+ancestor|ante=an cede=cest or|祖先|之前 + 走 + 者|Our ancestors came from Fujian.
+candidate|cand id ate|候選人|白 + 的 + 人：穿白袍的人|There are three candidates for mayor.
+candid|cand id|坦率的|白 + 的：純白無瑕|She gave a candid answer.
+abuse|ab us=use|濫用；虐待|離開 + 使用：用歪了|Drug abuse is a serious problem.
+usage|us age|用法；用量|使用 + 名詞|Water usage rises in summer.
+usual|us al=ual|通常的|使用 + 的：常用的|Let's meet at the usual place.
+unusual|un us al=ual|不尋常的|不 + 使用 + 的|It's unusual to see snow here.
+utility|us=ut ile=il ity|公用事業；實用|使用 + 可…的 + 名詞|Utilities include water and electricity.
+utilize|us=ut ile=il ize|利用|使用 + 可…的 + 使|We need to utilize our resources better.
+identity|ident ity|身分|相同 + 名詞|Please show proof of identity.
+identify|ident ify|辨認|相同 + 使|Can you identify the man in the photo?
+identical|ident ic al|完全相同的|相同 + 的 + 的|The twins are identical.
+identification|ident ific ion=ation|身分證明|相同 + 產生…的 + 名詞|You need identification to enter.
+conflict|con flict|衝突|一起 + 打擊|There is a conflict between the two plans.
+inflict|in flict|使遭受|向內 + 打擊|The storm inflicted heavy damage.
+afflict|ad=af flict|折磨|朝向 + 打擊|Many people are afflicted by allergies.
+context|con text|上下文；背景|一起 + 編織|Guess the meaning from the context.
+textile|text ile|紡織品|編織 + 可…的|The region is known for textiles.
+texture|text ure|質地|編織 + 結果|This bread has a soft texture.
+pretext|pre text|藉口|預先 + 編織|He called on the pretext of asking for help.
+create|cre ate|創造|創造 + 使|She created a new app.
+creative|cre ate=at ive|有創意的|創造 + 使 + 性質|He is a very creative designer.
+creation|cre ion=ation|創造；作品|創造 + 名詞|The dress is her own creation.
+creature|cre ate=at ure|生物|創造 + 使 + 結果|The sea is full of strange creatures.
+creator|cre ate=at or|創作者|創造 + 使 + 者|The creator of the show is from Taiwan.
+recreation|re cre ion=ation|娛樂；休閒|再 + 創造 + 名詞：恢復精神|The park is used for recreation.
+typical|typ ic al|典型的|類型 + 的 + 的|This is a typical Taiwanese breakfast.
+prototype|proto typ=type|原型|第一 + 類型|The engineers built a prototype.
+pacific|pac ific|和平的|和平 + 產生…的|The Pacific Ocean is the largest ocean.
+pacify|pac ify|安撫|和平 + 使|She tried to pacify the crying baby.
+error|err or|錯誤|偏離 + 名詞：走偏|There is an error in the report.
+erratic|err ic=atic|不規律的|偏離 + 的|His behavior has been erratic lately.
+expand|ex pand|擴大|向外 + 展開|The company plans to expand into Asia.
+expansion|ex pand=pans ion|擴張|向外 + 展開 + 名詞|The expansion of the airport will take years.
+expansive|ex pand=pans ive|廣闊的|向外 + 展開 + 性質|The hotel has expansive gardens.
+junior|jun ior|較年輕的；初級的|年輕 + 較|He is a junior engineer.
+juvenile|jun=juven ile|青少年的|年輕 + 可…的|Juvenile crime has dropped.
+physics|phys ics|物理學|自然 + 學科|She teaches physics.
+physical|phys ic al|身體的；物理的|自然 + 的 + 的|Physical exercise is good for you.
+physician|phys ic ian|內科醫生|自然 + 的 + 人|Consult your physician before taking it.
+physicist|phys ic ist|物理學家|自然 + 的 + 人|Einstein was a famous physicist.
+precious|prec ous=ious|珍貴的|價值 + 充滿|Time is precious.
+appreciate|ad=ap prec=preci ate|感激；欣賞|朝向 + 價值 + 使|I really appreciate your help.
+appreciation|ad=ap prec=preci ion=ation|感謝；欣賞|朝向 + 價值 + 名詞|We gave her flowers as a sign of appreciation.
+depreciate|de prec=preci ate|貶值|向下 + 價值 + 使|New cars depreciate quickly.
+radical|radic al|根本的；激進的|根 + 的|We need radical changes.
+eradicate|ex=e radic ate|根除|向外 + 根 + 使：連根拔起|The goal is to eradicate polio.
+invest|in vest|投資|向內 + 衣服：穿上|She invested in a small business.
+investment|in vest ment|投資|向內 + 衣服 + 名詞|Education is a good investment.
+investor|in vest or|投資人|向內 + 衣服 + 者|The startup found new investors.
+symbol|syn=sym bol|象徵；符號|一起 + 丟：拼在一起的信物|The dove is a symbol of peace.
+symbolic|syn=sym bol ic|象徵性的|一起 + 丟 + 的|The gesture was symbolic.
+empire|imper=empire|帝國|統治|The Roman Empire lasted for centuries.
+emperor|imper=emper or|皇帝|統治 + 者|The emperor lived in a palace.
+imperial|imper ial|帝國的；皇室的|統治 + 的|The imperial palace is now a museum.
+imperative|imper ate=at ive|必要的；命令式|命令 + 使 + 性質|It is imperative that we act now.
+naval|nav al|海軍的|船 + 的|The city has a naval base.
+navy|nav y|海軍|船 + 名詞|He served in the navy.
+navigate|nav=navig ate|導航|船 + 使|We navigated using a map.
+navigation|nav=navig ion=ation|導航|船 + 名詞|The car has a navigation system.
+toxic|tox ic|有毒的|毒 + 的|Some plants are toxic to cats.
+electric|electr ic|電的|琥珀 + 的|I drive an electric car.
+electricity|electr ic ity|電|琥珀 + 的 + 名詞|The storm cut off the electricity.
+electrician|electr ic ian|電工|琥珀 + 的 + 人|We called an electrician to fix the lights.
+aviation|avi ion=ation|航空|鳥 + 名詞|She works in the aviation industry.
+confirm|con firm|確認|徹底 + 穩固|Please confirm your booking.
+confirmation|con firm ion=ation|確認|徹底 + 穩固 + 名詞|You will receive an email confirmation.
+affirm|ad=af firm|斷言；肯定|朝向 + 穩固|He affirmed his support for the plan.
+reveal|re vel=veal|揭露|回 + 面紗：掀開面紗|The survey revealed some surprising results.
+revelation|re vel ion=ation|揭露；啟示|回 + 面紗 + 名詞|The news was a revelation to me.
+moral|mor al|道德的；寓意|習俗 + 的|What is the moral of the story?
+morality|mor al ity|道德|習俗 + 的 + 名詞|The film raises questions about morality.
+atmosphere|atmo spher=sphere|大氣；氣氛|蒸氣 + 球|The restaurant has a relaxed atmosphere.
+hemisphere|hemi spher=sphere|半球|半 + 球|Taiwan is in the Northern Hemisphere.
+digital|digit al|數位的|手指 + 的：用手指數的數字|We sell digital cameras.
+condition|con dict=dit ion|條件；狀況|一起 + 說 + 名詞：說好的事|The car is in good condition.
+interview|inter vid=view|面試；訪問|之間 + 看|I have a job interview tomorrow.
+execute|ex sequ=ecute|執行；處決|向外 + 跟隨：跟到底|The plan was executed perfectly.
+executive|ex sequ=ecut ive|主管；行政的|向外 + 跟隨 + 性質|She is a senior executive.
+execution|ex sequ=ecut ion|執行|向外 + 跟隨 + 名詞|The execution of the project took a year.
+famous|fa=fam ous|有名的|說 + 充滿：大家都在說|Taipei 101 is a famous building.
+infamous|inneg=in fa=fam ous|惡名昭彰的|不 + 說 + 充滿|The prison is infamous for its conditions.
+fashion|fact=fash ion|時尚|做 + 名詞：做法|She works in the fashion industry.
+federal|fid=feder al|聯邦的|信任 + 的：盟約|The federal government sets the tax rate.
+federation|fid=feder ion=ation|聯邦；聯盟|信任 + 名詞|The football federation chose a new coach.
+capacity|cap=capac ity|容量；能力|拿 + 名詞：能裝多少|The stadium has a capacity of 50,000.
+movement|mot=move ment|動作；運動|移動 + 名詞|The women's movement changed society.
+remove|re mot=move|移除|回 + 移動|Please remove your shoes.
+removal|re mot=mov al|移除|回 + 移動 + 名詞|Snow removal is expensive.
+superior|super ior|較好的；上司|在上 + 較|This phone is superior to the old model.
+inferior|infra=infer ior|較差的|在下 + 較|The copy is inferior to the original.
+exterior|extra=exter ior|外部|超出 + 較|The exterior of the house is painted white.
+interior|inter ior|內部|之間 + 較|She works as an interior designer.
+deliver|de liber=liver|遞送；發表|離開 + 自由：放出去|We deliver pizza until midnight.
+delivery|de liber=liver y|遞送|離開 + 自由 + 名詞|Delivery is free for orders over $500.
+ultimate|ultra=ultim ate|最終的|超越 + 的|Our ultimate goal is to win the league.
+secondary|sequ=second ary|次要的；中等教育的|跟隨 + 的|Price is a secondary concern.
+instrument|in struct=stru ment|樂器；工具|向內 + 建造 + 名詞|Can you play a musical instrument?
+portrait|pro=por tract=trait|肖像|向前 + 拉：描繪出來|She painted a portrait of her mother.
+explode|ex plaud=plode|爆炸|向外 + 拍手：把演員轟下台|The bomb exploded at noon.
+explosion|ex plaud=plos ion|爆炸|向外 + 拍手 + 名詞|The explosion broke windows nearby.
+explosive|ex plaud=plos ive|爆炸物；爆炸性的|向外 + 拍手 + 性質|Police found explosives in the car.
+continuous|con tain=tin ous=uous|連續的|一起 + 握住 + 充滿|There was continuous rain for three days.
+disaster|dis astro=aster|災難|壞 + 星星：星象不吉|The earthquake was a disaster.
+disastrous|dis astro=astr ous|災難性的|壞 + 星星 + 充滿|The results were disastrous.
+volunteer|vol=volunt eer|志工|意願 + 人|She works as a volunteer at the hospital.
+voluntary|vol=volunt ary|自願的|意願 + 的|Taking part is voluntary.
+testimony|test imony|證詞|見證 + 狀態|The witness gave testimony in court.
+apology|apo log y|道歉|離開 + 話語 + 名詞：辯解|Please accept my apology.
+apologize|apo log ize|道歉|離開 + 話語 + 使|I apologize for being late.
+contrary|contra=contr ary|相反的|相反 + 的|Contrary to popular belief, bats are not blind.
+century|cent ure=ury|世紀|百 + 名詞|The temple was built in the 18th century.
+unity|uni ity=ty|團結|單一 + 名詞|The leader called for national unity.
+monster|mon=monst er|怪物|警告 + 物：凶兆|The children were scared of the monster in the movie.
+medium|medi um|中等的；媒介|中間 + 名詞|I'd like a medium coffee, please.
