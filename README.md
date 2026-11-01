@@ -5,7 +5,7 @@
 
 **線上版：https://winson0728.github.io/WordBlocks/**
 
-目前收錄：48 個字首、91 個字根、32 個字尾，540 個單字，分成 10 個主題區。每個單字都有人工校對的拆解、字面義、中文釋義與例句。
+目前收錄：54 個字首、215 個字根、47 個字尾，1,488 個單字，分成 10 個主題區。每個單字都有人工校對的拆解、字面義、中文釋義與例句，並依常用程度分成三級：基礎 641、進階 601、高階 246。
 
 ## 專案結構
 
@@ -17,6 +17,7 @@ data/
   morphemes.txt          字首／字根／字尾
   words.txt              單字與拆解
   stories.txt            字源故事、聯想插圖提示
+  levels.txt             每個單字的程度（由 assign_levels.py 產生）
   wordblocks.json        由上面四個檔案產生，網頁與 App 共用（勿手動修改）
   candidates.tsv         待審的高頻候選單字（由匯入腳本產生）
   candidate-roots.tsv    尚未收錄、但能解鎖最多常用字的字根
@@ -25,6 +26,7 @@ supabase/schema.sql      同步用的資料表與權限規則
 tools/
   build-data.mjs         驗證資料並產生 wordblocks.json、更新 index.html 與 App 資料
   import_candidates.py   從開源字根資料集找出高頻候選單字
+  assign_levels.py       依英文詞頻把單字分成基礎／進階／高階
 ```
 
 ## 網頁版
@@ -40,6 +42,8 @@ tools/
 | 今日複習 | 間隔重複（SM-2 簡化版）：字根字義、選出含某字根的單字、拼出否定形單字 |
 | 字根積木 | 給中文字義，拖拉或點選積木拼出單字 |
 | 解鎖地圖 | 各主題區銅／銀／金牌與成就勳章 |
+
+右上角的「基礎／＋進階／全部」決定字根地圖、複習和積木要出現哪些程度的單字（預設：基礎＋進階）；拆解查詢不受影響。手機 App 在「設定」裡調整。
 
 學習進度存在瀏覽器 `localStorage`；第一次開啟會載入示範進度，可按右上角「從零開始」清除。登入同步後，示範進度會被捨棄，不會上傳到帳號。
 
@@ -89,7 +93,8 @@ flutter run
 1. 編輯 `data/words.txt`（或 `morphemes.txt`、`stories.txt`），一行一筆，欄位用 `|` 分隔。
    拆解寫成字根 id，拼法不同時寫 `id=拼法`，例如：
    `destroy|de struct=stroy|摧毀|反轉 + 建造：把蓋好的拆掉|The storm destroyed several houses.`
-2. 執行 `node tools/build-data.mjs`。它會檢查每個拆解是否正好拼出單字、每個 id 是否存在，
+2. 執行 `python3 tools/assign_levels.py`（需要 `pip install wordfreq`）替新單字標上程度；想手動指定程度，寫在 `data/level-overrides.txt`（格式 `word|1`）。
+3. 執行 `node tools/build-data.mjs`。它會檢查每個拆解是否正好拼出單字、每個 id 是否存在，
    再更新 `data/wordblocks.json`、`index.html` 與 App 的資料。有錯誤時不會寫入任何檔案。
 
 ### 從開源資料集找高頻字
@@ -120,4 +125,4 @@ python3 tools/import_candidates.py --min-zipf 3.5
 - 候選字來源（僅供 `tools/import_candidates.py` 在本機下載使用，不隨 App 發布）：
   - [colingoldberg/morphemes](https://github.com/colingoldberg/morphemes)，MIT License，© 2019 Colin Goldberg
   - [WithEnglishWeCan/generated-english-roots-list](https://github.com/WithEnglishWeCan/generated-english-roots-list)，MIT License
-- 詞頻：[wordfreq](https://github.com/rspeer/wordfreq)，資料為 CC BY-SA 4.0；只在篩選時使用，不隨 App 發布。
+- 詞頻：[wordfreq](https://github.com/rspeer/wordfreq)（Robyn Speer 等，資料為 CC BY-SA 4.0）。用來篩選候選字，並把單字分成三個程度；隨 App 發布的只有每個單字的程度（1–3），沒有詞頻數值。

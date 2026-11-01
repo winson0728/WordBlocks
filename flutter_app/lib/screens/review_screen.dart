@@ -216,16 +216,25 @@ class _ReviewScreenState extends State<ReviewScreen> {
               ),
           ]);
 
-    return ListView(
-      padding: const EdgeInsets.fromLTRB(16, 8, 16, 24),
-      children: [
-        stats,
-        const SizedBox(height: 14),
-        Card(child: Padding(padding: const EdgeInsets.all(18), child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: body))),
-        const SizedBox(height: 14),
-        footer,
-      ],
-    );
+    // The answer buttons stay pinned at the bottom so they never scroll off screen on long cards.
+    return Column(children: [
+      Expanded(
+        child: ListView(
+          padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
+          children: [
+            stats,
+            const SizedBox(height: 14),
+            Card(
+              child: Padding(
+                padding: const EdgeInsets.all(18),
+                child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: body),
+              ),
+            ),
+          ],
+        ),
+      ),
+      Padding(padding: const EdgeInsets.fromLTRB(16, 8, 16, 16), child: footer),
+    ]);
   }
 }
 

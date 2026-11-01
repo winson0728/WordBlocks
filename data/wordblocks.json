@@ -807,7 +807,7 @@
   {
    "id": "fact",
    "type": "root",
-   "forms": "fact / fac / fect / fic / fit",
+   "forms": "fact / fac / fect / fic / fit / feat",
    "meaning": "做",
    "origin": "拉丁語 facere",
    "category": "move"
@@ -1805,7 +1805,7 @@
   {
    "id": "scend",
    "type": "root",
-   "forms": "scend / cend",
+   "forms": "scend / cend / scent",
    "meaning": "爬",
    "origin": "拉丁語 scandere",
    "category": "move"
@@ -2201,6 +2201,114 @@
    "category": "life"
   },
   {
+   "id": "fend",
+   "type": "root",
+   "forms": "fend / fens / fense",
+   "meaning": "打擊、防衛",
+   "origin": "拉丁語 fendere",
+   "category": "move"
+  },
+  {
+   "id": "cresc",
+   "type": "root",
+   "forms": "cresc / crease / crete / cruit",
+   "meaning": "生長",
+   "origin": "拉丁語 crescere",
+   "category": "life"
+  },
+  {
+   "id": "tort",
+   "type": "root",
+   "forms": "tort",
+   "meaning": "扭曲",
+   "origin": "拉丁語 torquere",
+   "category": "move"
+  },
+  {
+   "id": "vad",
+   "type": "root",
+   "forms": "vad / vade / vas",
+   "meaning": "走、去",
+   "origin": "拉丁語 vadere",
+   "category": "move"
+  },
+  {
+   "id": "trud",
+   "type": "root",
+   "forms": "trud / trude / trus",
+   "meaning": "推、擠",
+   "origin": "拉丁語 trudere",
+   "category": "move"
+  },
+  {
+   "id": "plaud",
+   "type": "root",
+   "forms": "plaud / plaus",
+   "meaning": "拍手",
+   "origin": "拉丁語 plaudere",
+   "category": "sense"
+  },
+  {
+   "id": "rog",
+   "type": "root",
+   "forms": "rog",
+   "meaning": "詢問、要求",
+   "origin": "拉丁語 rogare",
+   "category": "sense"
+  },
+  {
+   "id": "sacr",
+   "type": "root",
+   "forms": "sacr / sanct / secr",
+   "meaning": "神聖",
+   "origin": "拉丁語 sacer、sanctus",
+   "category": "life",
+   "story": "sacrifice（犧牲）字面是「使神聖」（sacr + fic）：古人把祭品獻給神，祭品就變成神聖的東西。",
+   "scene": "祭壇上燃著一盞燈。"
+  },
+  {
+   "id": "lumin",
+   "type": "root",
+   "forms": "lumin / luc",
+   "meaning": "光",
+   "origin": "拉丁語 lumen、lux",
+   "category": "nature"
+  },
+  {
+   "id": "loqu",
+   "type": "root",
+   "forms": "loqu",
+   "meaning": "說話",
+   "origin": "拉丁語 loqui",
+   "category": "sense"
+  },
+  {
+   "id": "hosp",
+   "type": "root",
+   "forms": "hosp / hospit",
+   "meaning": "客人、款待",
+   "origin": "拉丁語 hospes",
+   "category": "life",
+   "story": "hospital 和 hotel、host 是同一家族，都來自 hospes「客人、款待客人的人」。中世紀的 hospital 是收留旅人和病人的地方。",
+   "scene": "一扇敞開的門，門口掛著燈籠迎客。"
+  },
+  {
+   "id": "vulner",
+   "type": "root",
+   "forms": "vulner",
+   "meaning": "傷口",
+   "origin": "拉丁語 vulnus",
+   "category": "life"
+  },
+  {
+   "id": "sol",
+   "type": "root",
+   "forms": "sol",
+   "meaning": "太陽",
+   "origin": "拉丁語 sol",
+   "category": "nature"
+  },
+  {
    "id": "ure",
    "type": "suf",
    "forms": "-ure / -ature / -ur",
@@ -2243,7 +2351,7 @@
   {
    "id": "ary",
    "type": "suf",
-   "forms": "-ary",
+   "forms": "-ary / -uary",
    "meaning": "相關事物、集合（名詞）",
    "origin": "拉丁語 -arium",
    "category": "suf"
@@ -2307,7 +2415,7 @@
   {
    "id": "icle",
    "type": "suf",
-   "forms": "-icle / -cle",
+   "forms": "-icle / -cle / -icul",
    "meaning": "紀錄、小物（名詞）",
    "origin": "拉丁語 -iculum",
    "category": "suf"
@@ -2483,7 +2591,7 @@
   {
    "id": "ific",
    "type": "suf",
-   "forms": "-ific",
+   "forms": "-ific / -ifice",
    "meaning": "產生…的（形容詞）",
    "origin": "拉丁語 -ificus",
    "category": "suf"
@@ -27662,6 +27770,3332 @@
    "meaning": "政治的",
    "literal": "城邦 + 的 + 的",
    "example": "There are three main political parties.",
+   "level": 1
+  },
+  {
+   "word": "particular",
+   "parts": [
+    {
+     "id": "part",
+     "text": "part"
+    },
+    {
+     "id": "icle",
+     "text": "icul"
+    },
+    {
+     "id": "ar",
+     "text": "ar"
+    }
+   ],
+   "meaning": "特定的；挑剔的",
+   "literal": "部分 + 小 + 的：小小的一部分",
+   "example": "Is there a particular reason you called?",
+   "level": 1
+  },
+  {
+   "word": "privacy",
+   "parts": [
+    {
+     "id": "priv",
+     "text": "priv"
+    },
+    {
+     "id": "acy",
+     "text": "acy"
+    }
+   ],
+   "meaning": "隱私",
+   "literal": "個人 + 性質",
+   "example": "Please respect my privacy.",
+   "level": 1
+  },
+  {
+   "word": "faculty",
+   "parts": [
+    {
+     "id": "fact",
+     "text": "fac"
+    },
+    {
+     "id": "ule",
+     "text": "ul"
+    },
+    {
+     "id": "ity",
+     "text": "ty"
+    }
+   ],
+   "meaning": "能力；全體教師",
+   "literal": "做 + 小 + 名詞",
+   "example": "The faculty met to discuss the new course.",
+   "level": 1
+  },
+  {
+   "word": "speculation",
+   "parts": [
+    {
+     "id": "spect",
+     "text": "spec"
+    },
+    {
+     "id": "ule",
+     "text": "ul"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "推測；投機",
+   "literal": "看 + 小 + 名詞：瞭望台上的觀察",
+   "example": "There is a lot of speculation about his plans.",
+   "level": 2
+  },
+  {
+   "word": "compatible",
+   "parts": [
+    {
+     "id": "con",
+     "text": "com"
+    },
+    {
+     "id": "pass",
+     "text": "pat"
+    },
+    {
+     "id": "able",
+     "text": "ible"
+    }
+   ],
+   "meaning": "相容的",
+   "literal": "一起 + 承受 + 可…的",
+   "example": "This charger is compatible with most phones.",
+   "level": 2
+  },
+  {
+   "word": "advocacy",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ad"
+    },
+    {
+     "id": "voc",
+     "text": "voc"
+    },
+    {
+     "id": "acy",
+     "text": "acy"
+    }
+   ],
+   "meaning": "倡議",
+   "literal": "朝向 + 呼喚 + 性質",
+   "example": "She is known for her advocacy of women's rights.",
+   "level": 2
+  },
+  {
+   "word": "confession",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "fa",
+     "text": "fess"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "坦白；告解",
+   "literal": "徹底 + 說 + 名詞",
+   "example": "He made a full confession.",
+   "level": 2
+  },
+  {
+   "word": "citation",
+   "parts": [
+    {
+     "id": "cit",
+     "text": "cit"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "引用；傳票",
+   "literal": "引用 + 名詞",
+   "example": "Include a citation for every quote.",
+   "level": 2
+  },
+  {
+   "word": "assurance",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "as"
+    },
+    {
+     "id": "cura",
+     "text": "sur"
+    },
+    {
+     "id": "ence",
+     "text": "ance"
+    }
+   ],
+   "meaning": "保證",
+   "literal": "朝向 + 安心 + 名詞",
+   "example": "He gave me his assurance that it would be fixed.",
+   "level": 2
+  },
+  {
+   "word": "reassure",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "ad",
+     "text": "as"
+    },
+    {
+     "id": "cura",
+     "text": "sure"
+    }
+   ],
+   "meaning": "使安心",
+   "literal": "再 + 朝向 + 安心",
+   "example": "The doctor reassured me that it was nothing serious.",
+   "level": 2
+  },
+  {
+   "word": "reassurance",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "ad",
+     "text": "as"
+    },
+    {
+     "id": "cura",
+     "text": "sur"
+    },
+    {
+     "id": "ence",
+     "text": "ance"
+    }
+   ],
+   "meaning": "安慰；保證",
+   "literal": "再 + 朝向 + 安心 + 名詞",
+   "example": "She needed some reassurance.",
+   "level": 3
+  },
+  {
+   "word": "insure",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "cura",
+     "text": "sure"
+    }
+   ],
+   "meaning": "投保",
+   "literal": "向內 + 安心",
+   "example": "Is your car insured?",
+   "level": 2
+  },
+  {
+   "word": "variant",
+   "parts": [
+    {
+     "id": "vari",
+     "text": "vari"
+    },
+    {
+     "id": "ent",
+     "text": "ant"
+    }
+   ],
+   "meaning": "變體",
+   "literal": "變化 + 的",
+   "example": "A new variant of the virus has appeared.",
+   "level": 2
+  },
+  {
+   "word": "variance",
+   "parts": [
+    {
+     "id": "vari",
+     "text": "vari"
+    },
+    {
+     "id": "ence",
+     "text": "ance"
+    }
+   ],
+   "meaning": "差異",
+   "literal": "變化 + 名詞",
+   "example": "There is some variance in the test results.",
+   "level": 2
+  },
+  {
+   "word": "ecology",
+   "parts": [
+    {
+     "id": "eco",
+     "text": "eco"
+    },
+    {
+     "id": "ology",
+     "text": "logy"
+    }
+   ],
+   "meaning": "生態學；生態",
+   "literal": "家 + 學問",
+   "example": "The new road could harm the local ecology.",
+   "level": 2
+  },
+  {
+   "word": "efficacy",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "ef"
+    },
+    {
+     "id": "fact",
+     "text": "fic"
+    },
+    {
+     "id": "acy",
+     "text": "acy"
+    }
+   ],
+   "meaning": "功效",
+   "literal": "向外 + 做 + 性質",
+   "example": "The efficacy of the vaccine is high.",
+   "level": 2
+  },
+  {
+   "word": "turbine",
+   "parts": [
+    {
+     "id": "turb",
+     "text": "turb"
+    },
+    {
+     "id": "ine",
+     "text": "ine"
+    }
+   ],
+   "meaning": "渦輪機",
+   "literal": "攪動 + 名詞",
+   "example": "Wind turbines produce clean energy.",
+   "level": 2
+  },
+  {
+   "word": "comprise",
+   "parts": [
+    {
+     "id": "con",
+     "text": "com"
+    },
+    {
+     "id": "prehend",
+     "text": "prise"
+    }
+   ],
+   "meaning": "包含；組成",
+   "literal": "一起 + 抓住",
+   "example": "The team comprises five engineers.",
+   "level": 2
+  },
+  {
+   "word": "disturbance",
+   "parts": [
+    {
+     "id": "dis",
+     "text": "dis"
+    },
+    {
+     "id": "turb",
+     "text": "turb"
+    },
+    {
+     "id": "ence",
+     "text": "ance"
+    }
+   ],
+   "meaning": "干擾；騷亂",
+   "literal": "徹底 + 攪動 + 名詞",
+   "example": "Police were called to a disturbance downtown.",
+   "level": 2
+  },
+  {
+   "word": "connectivity",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "nect",
+     "text": "nect"
+    },
+    {
+     "id": "ive",
+     "text": "iv"
+    },
+    {
+     "id": "ity",
+     "text": "ity"
+    }
+   ],
+   "meaning": "連線能力",
+   "literal": "一起 + 綁 + 性質 + 名詞",
+   "example": "The hotel offers free Wi-Fi connectivity.",
+   "level": 2
+  },
+  {
+   "word": "modular",
+   "parts": [
+    {
+     "id": "mod",
+     "text": "mod"
+    },
+    {
+     "id": "ule",
+     "text": "ul"
+    },
+    {
+     "id": "ar",
+     "text": "ar"
+    }
+   ],
+   "meaning": "模組化的",
+   "literal": "尺度 + 小 + 的",
+   "example": "The office uses modular furniture.",
+   "level": 2
+  },
+  {
+   "word": "primer",
+   "parts": [
+    {
+     "id": "prim",
+     "text": "prim"
+    },
+    {
+     "id": "er",
+     "text": "er"
+    }
+   ],
+   "meaning": "入門書；底漆",
+   "literal": "第一 + 物",
+   "example": "Apply a primer before you paint the wall.",
+   "level": 2
+  },
+  {
+   "word": "nautical",
+   "parts": [
+    {
+     "id": "naut",
+     "text": "naut"
+    },
+    {
+     "id": "ic",
+     "text": "ic"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "航海的",
+   "literal": "航行 + 的 + 的",
+   "example": "The ship traveled 200 nautical miles.",
+   "level": 2
+  },
+  {
+   "word": "gradient",
+   "parts": [
+    {
+     "id": "gress",
+     "text": "grad"
+    },
+    {
+     "id": "ent",
+     "text": "ient"
+    }
+   ],
+   "meaning": "坡度；漸層",
+   "literal": "步伐 + 的",
+   "example": "The road has a steep gradient.",
+   "level": 2
+  },
+  {
+   "word": "turbulent",
+   "parts": [
+    {
+     "id": "turb",
+     "text": "turb"
+    },
+    {
+     "id": "ule",
+     "text": "ul"
+    },
+    {
+     "id": "ent",
+     "text": "ent"
+    }
+   ],
+   "meaning": "動盪的",
+   "literal": "攪動 + 小 + 的",
+   "example": "The country went through a turbulent period.",
+   "level": 2
+  },
+  {
+   "word": "nobility",
+   "parts": [
+    {
+     "id": "gno",
+     "text": "no"
+    },
+    {
+     "id": "able",
+     "text": "bil"
+    },
+    {
+     "id": "ity",
+     "text": "ity"
+    }
+   ],
+   "meaning": "貴族；高尚",
+   "literal": "知道 + 可…的 + 名詞",
+   "example": "He was born into the nobility.",
+   "level": 2
+  },
+  {
+   "word": "regent",
+   "parts": [
+    {
+     "id": "rect",
+     "text": "reg"
+    },
+    {
+     "id": "ent",
+     "text": "ent"
+    }
+   ],
+   "meaning": "攝政者",
+   "literal": "統治 + 的人",
+   "example": "The queen's uncle ruled as regent.",
+   "level": 2
+  },
+  {
+   "word": "depiction",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "pict",
+     "text": "pict"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "描繪",
+   "literal": "向下 + 畫 + 名詞",
+   "example": "The film is a realistic depiction of war.",
+   "level": 2
+  },
+  {
+   "word": "linguistics",
+   "parts": [
+    {
+     "id": "lingu",
+     "text": "lingu"
+    },
+    {
+     "id": "ist",
+     "text": "ist"
+    },
+    {
+     "id": "ics",
+     "text": "ics"
+    }
+   ],
+   "meaning": "語言學",
+   "literal": "語言 + 人 + 學科",
+   "example": "She is studying linguistics.",
+   "level": 2
+  },
+  {
+   "word": "ascent",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "a"
+    },
+    {
+     "id": "scend",
+     "text": "scent"
+    }
+   ],
+   "meaning": "上升；攀登",
+   "literal": "朝向 + 爬",
+   "example": "The climbers began their ascent at dawn.",
+   "level": 2
+  },
+  {
+   "word": "astrology",
+   "parts": [
+    {
+     "id": "astro",
+     "text": "astro"
+    },
+    {
+     "id": "ology",
+     "text": "logy"
+    }
+   ],
+   "meaning": "占星術",
+   "literal": "星星 + 學問",
+   "example": "Astrology is not a science.",
+   "level": 2
+  },
+  {
+   "word": "astronomer",
+   "parts": [
+    {
+     "id": "astro",
+     "text": "astro"
+    },
+    {
+     "id": "nom",
+     "text": "nom"
+    },
+    {
+     "id": "er",
+     "text": "er"
+    }
+   ],
+   "meaning": "天文學家",
+   "literal": "星星 + 法則 + 的人",
+   "example": "The astronomer discovered a new comet.",
+   "level": 3
+  },
+  {
+   "word": "doctorate",
+   "parts": [
+    {
+     "id": "doc",
+     "text": "doct"
+    },
+    {
+     "id": "or",
+     "text": "or"
+    },
+    {
+     "id": "ate",
+     "text": "ate"
+    }
+   ],
+   "meaning": "博士學位",
+   "literal": "教導 + 者 + 名詞",
+   "example": "She earned her doctorate in 2019.",
+   "level": 2
+  },
+  {
+   "word": "manageable",
+   "parts": [
+    {
+     "id": "manu",
+     "text": "man"
+    },
+    {
+     "id": "age",
+     "text": "age"
+    },
+    {
+     "id": "able",
+     "text": "able"
+    }
+   ],
+   "meaning": "可管理的",
+   "literal": "手 + 名詞 + 可…的",
+   "example": "The workload is manageable.",
+   "level": 2
+  },
+  {
+   "word": "rebate",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "bat",
+     "text": "bate"
+    }
+   ],
+   "meaning": "退款；折扣",
+   "literal": "回 + 打：打回來的錢",
+   "example": "You can get a tax rebate on solar panels.",
+   "level": 2
+  },
+  {
+   "word": "analytic",
+   "parts": [
+    {
+     "id": "ana",
+     "text": "ana"
+    },
+    {
+     "id": "ly",
+     "text": "ly"
+    },
+    {
+     "id": "ic",
+     "text": "tic"
+    }
+   ],
+   "meaning": "分析的",
+   "literal": "向後 + 鬆開 + 的",
+   "example": "She has an analytic mind.",
+   "level": 2
+  },
+  {
+   "word": "explanatory",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "ex"
+    },
+    {
+     "id": "plan",
+     "text": "plan"
+    },
+    {
+     "id": "ate",
+     "text": "at"
+    },
+    {
+     "id": "ory",
+     "text": "ory"
+    }
+   ],
+   "meaning": "說明的",
+   "literal": "向外 + 平的 + 使 + 的",
+   "example": "Read the explanatory notes first.",
+   "level": 2
+  },
+  {
+   "word": "modulation",
+   "parts": [
+    {
+     "id": "mod",
+     "text": "mod"
+    },
+    {
+     "id": "ule",
+     "text": "ul"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "調節；轉調",
+   "literal": "尺度 + 小 + 名詞",
+   "example": "The song has a key modulation near the end.",
+   "level": 3
+  },
+  {
+   "word": "postgraduate",
+   "parts": [
+    {
+     "id": "post",
+     "text": "post"
+    },
+    {
+     "id": "gress",
+     "text": "grad"
+    },
+    {
+     "id": "ate",
+     "text": "uate"
+    }
+   ],
+   "meaning": "研究生",
+   "literal": "之後 + 步伐 + 使",
+   "example": "She is a postgraduate student in Tokyo.",
+   "level": 3
+  },
+  {
+   "word": "dialysis",
+   "parts": [
+    {
+     "id": "dia",
+     "text": "dia"
+    },
+    {
+     "id": "ly",
+     "text": "ly"
+    },
+    {
+     "id": "sis",
+     "text": "sis"
+    }
+   ],
+   "meaning": "洗腎",
+   "literal": "穿過 + 鬆開 + 過程",
+   "example": "He needs dialysis three times a week.",
+   "level": 3
+  },
+  {
+   "word": "immersive",
+   "parts": [
+    {
+     "id": "in",
+     "text": "im"
+    },
+    {
+     "id": "merg",
+     "text": "mers"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "沉浸式的",
+   "literal": "向內 + 浸 + 性質",
+   "example": "The museum offers an immersive experience.",
+   "level": 3
+  },
+  {
+   "word": "insidious",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "sid",
+     "text": "sid"
+    },
+    {
+     "id": "ous",
+     "text": "ious"
+    }
+   ],
+   "meaning": "暗中為害的",
+   "literal": "向內 + 坐 + 充滿：埋伏著的",
+   "example": "High blood pressure is an insidious disease.",
+   "level": 3
+  },
+  {
+   "word": "seductive",
+   "parts": [
+    {
+     "id": "se",
+     "text": "se"
+    },
+    {
+     "id": "duc",
+     "text": "duc"
+    },
+    {
+     "id": "ive",
+     "text": "tive"
+    }
+   ],
+   "meaning": "誘人的",
+   "literal": "分開 + 引導 + 性質",
+   "example": "The offer was very seductive.",
+   "level": 3
+  },
+  {
+   "word": "fragmentation",
+   "parts": [
+    {
+     "id": "fract",
+     "text": "frag"
+    },
+    {
+     "id": "ment",
+     "text": "ment"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "分裂；碎片化",
+   "literal": "破 + 名詞 + 名詞",
+   "example": "The fragmentation of the market makes it hard to compete.",
+   "level": 3
+  },
+  {
+   "word": "puncture",
+   "parts": [
+    {
+     "id": "punct",
+     "text": "punct"
+    },
+    {
+     "id": "ure",
+     "text": "ure"
+    }
+   ],
+   "meaning": "刺穿；（輪胎）破洞",
+   "literal": "刺 + 結果",
+   "example": "I got a puncture on the way home.",
+   "level": 3
+  },
+  {
+   "word": "valor",
+   "parts": [
+    {
+     "id": "val",
+     "text": "val"
+    },
+    {
+     "id": "or",
+     "text": "or"
+    }
+   ],
+   "meaning": "英勇",
+   "literal": "強壯 + 名詞",
+   "example": "He was awarded a medal for valor.",
+   "level": 3
+  },
+  {
+   "word": "reactionary",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "act",
+     "text": "act"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    },
+    {
+     "id": "ary",
+     "text": "ary"
+    }
+   ],
+   "meaning": "反動的",
+   "literal": "回 + 做 + 名詞 + 的",
+   "example": "He holds reactionary political views.",
+   "level": 3
+  },
+  {
+   "word": "signify",
+   "parts": [
+    {
+     "id": "sign",
+     "text": "sign"
+    },
+    {
+     "id": "ify",
+     "text": "ify"
+    }
+   ],
+   "meaning": "表示；象徵",
+   "literal": "記號 + 使",
+   "example": "A red light signifies danger.",
+   "level": 3
+  },
+  {
+   "word": "pictorial",
+   "parts": [
+    {
+     "id": "pict",
+     "text": "pict"
+    },
+    {
+     "id": "or",
+     "text": "or"
+    },
+    {
+     "id": "ial",
+     "text": "ial"
+    }
+   ],
+   "meaning": "圖畫的",
+   "literal": "畫 + 者 + 的",
+   "example": "The book is a pictorial history of Taipei.",
+   "level": 3
+  },
+  {
+   "word": "specificity",
+   "parts": [
+    {
+     "id": "spect",
+     "text": "spec"
+    },
+    {
+     "id": "ific",
+     "text": "ific"
+    },
+    {
+     "id": "ity",
+     "text": "ity"
+    }
+   ],
+   "meaning": "明確性",
+   "literal": "看 + 產生…的 + 名詞",
+   "example": "The report lacks specificity.",
+   "level": 3
+  },
+  {
+   "word": "presumption",
+   "parts": [
+    {
+     "id": "pre",
+     "text": "pre"
+    },
+    {
+     "id": "sum",
+     "text": "sumpt"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "推定；冒昧",
+   "literal": "預先 + 拿 + 名詞",
+   "example": "There is a presumption of innocence.",
+   "level": 3
+  },
+  {
+   "word": "migratory",
+   "parts": [
+    {
+     "id": "migr",
+     "text": "migr"
+    },
+    {
+     "id": "ate",
+     "text": "at"
+    },
+    {
+     "id": "ory",
+     "text": "ory"
+    }
+   ],
+   "meaning": "遷徙的",
+   "literal": "遷移 + 使 + 的",
+   "example": "Many migratory birds stop here in winter.",
+   "level": 3
+  },
+  {
+   "word": "detain",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "tain",
+     "text": "tain"
+    }
+   ],
+   "meaning": "拘留；耽擱",
+   "literal": "離開 + 握住：扣住不放",
+   "example": "He was detained at the airport.",
+   "level": 3
+  },
+  {
+   "word": "symmetric",
+   "parts": [
+    {
+     "id": "syn",
+     "text": "sym"
+    },
+    {
+     "id": "meter",
+     "text": "metr"
+    },
+    {
+     "id": "ic",
+     "text": "ic"
+    }
+   ],
+   "meaning": "對稱的",
+   "literal": "相同 + 測量 + 的",
+   "example": "The design is perfectly symmetric.",
+   "level": 3
+  },
+  {
+   "word": "defer",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "fer",
+     "text": "fer"
+    }
+   ],
+   "meaning": "延期；順從",
+   "literal": "離開 + 攜帶：帶到以後",
+   "example": "We decided to defer the decision.",
+   "level": 3
+  },
+  {
+   "word": "permissible",
+   "parts": [
+    {
+     "id": "per",
+     "text": "per"
+    },
+    {
+     "id": "mit",
+     "text": "miss"
+    },
+    {
+     "id": "able",
+     "text": "ible"
+    }
+   ],
+   "meaning": "允許的",
+   "literal": "穿過 + 送 + 可…的",
+   "example": "Is it permissible to take photos here?",
+   "level": 3
+  },
+  {
+   "word": "correlate",
+   "parts": [
+    {
+     "id": "con",
+     "text": "cor"
+    },
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "lat",
+     "text": "late"
+    }
+   ],
+   "meaning": "相關",
+   "literal": "一起 + 回 + 攜帶",
+   "example": "Income correlates with education.",
+   "level": 3
+  },
+  {
+   "word": "vocation",
+   "parts": [
+    {
+     "id": "voc",
+     "text": "voc"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "職業；天職",
+   "literal": "呼喚 + 名詞：被召喚去做的事",
+   "example": "Teaching is her true vocation.",
+   "level": 3
+  },
+  {
+   "word": "equate",
+   "parts": [
+    {
+     "id": "equ",
+     "text": "equ"
+    },
+    {
+     "id": "ate",
+     "text": "ate"
+    }
+   ],
+   "meaning": "等同",
+   "literal": "相等 + 使",
+   "example": "Don't equate money with happiness.",
+   "level": 3
+  },
+  {
+   "word": "confer",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "fer",
+     "text": "fer"
+    }
+   ],
+   "meaning": "商討；授予",
+   "literal": "一起 + 攜帶",
+   "example": "The university conferred an honorary degree on her.",
+   "level": 3
+  },
+  {
+   "word": "nonexistent",
+   "parts": [
+    {
+     "id": "non",
+     "text": "non"
+    },
+    {
+     "id": "ex",
+     "text": "ex"
+    },
+    {
+     "id": "sta",
+     "text": "ist"
+    },
+    {
+     "id": "ent",
+     "text": "ent"
+    }
+   ],
+   "meaning": "不存在的",
+   "literal": "非 + 向外 + 站立 + 的",
+   "example": "Public transport is almost nonexistent here.",
+   "level": 3
+  },
+  {
+   "word": "renounce",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "nounce",
+     "text": "nounce"
+    }
+   ],
+   "meaning": "放棄；宣布斷絕",
+   "literal": "回 + 宣告",
+   "example": "He renounced his citizenship.",
+   "level": 3
+  },
+  {
+   "word": "imposition",
+   "parts": [
+    {
+     "id": "in",
+     "text": "im"
+    },
+    {
+     "id": "pos",
+     "text": "pos"
+    },
+    {
+     "id": "ion",
+     "text": "ition"
+    }
+   ],
+   "meaning": "強加；負擔",
+   "literal": "向內 + 放置 + 名詞",
+   "example": "I hope it's not an imposition.",
+   "level": 3
+  },
+  {
+   "word": "intersect",
+   "parts": [
+    {
+     "id": "inter",
+     "text": "inter"
+    },
+    {
+     "id": "sect",
+     "text": "sect"
+    }
+   ],
+   "meaning": "交叉",
+   "literal": "之間 + 切",
+   "example": "The two roads intersect near the station.",
+   "level": 3
+  },
+  {
+   "word": "tangent",
+   "parts": [
+    {
+     "id": "tact",
+     "text": "tang"
+    },
+    {
+     "id": "ent",
+     "text": "ent"
+    }
+   ],
+   "meaning": "切線；離題",
+   "literal": "接觸 + 的",
+   "example": "He went off on a tangent during the talk.",
+   "level": 3
+  },
+  {
+   "word": "remission",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "mit",
+     "text": "miss"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "緩解；減免",
+   "literal": "回 + 送 + 名詞",
+   "example": "Her cancer is in remission.",
+   "level": 3
+  },
+  {
+   "word": "provocation",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "voc",
+     "text": "voc"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "挑釁",
+   "literal": "向前 + 呼喚 + 名詞",
+   "example": "He lost his temper at the slightest provocation.",
+   "level": 3
+  },
+  {
+   "word": "abstinence",
+   "parts": [
+    {
+     "id": "ab",
+     "text": "abs"
+    },
+    {
+     "id": "tain",
+     "text": "tin"
+    },
+    {
+     "id": "ence",
+     "text": "ence"
+    }
+   ],
+   "meaning": "節制；戒除",
+   "literal": "離開 + 握住 + 名詞",
+   "example": "Total abstinence from alcohol is recommended.",
+   "level": 3
+  },
+  {
+   "word": "circumference",
+   "parts": [
+    {
+     "id": "circum",
+     "text": "circum"
+    },
+    {
+     "id": "fer",
+     "text": "fer"
+    },
+    {
+     "id": "ence",
+     "text": "ence"
+    }
+   ],
+   "meaning": "圓周",
+   "literal": "環繞 + 攜帶 + 名詞",
+   "example": "The circumference of the earth is about 40,000 km.",
+   "level": 3
+  },
+  {
+   "word": "concur",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "cur",
+     "text": "cur"
+    }
+   ],
+   "meaning": "同意；同時發生",
+   "literal": "一起 + 跑",
+   "example": "I concur with your view.",
+   "level": 3
+  },
+  {
+   "word": "repulsive",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "pel",
+     "text": "puls"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "令人厭惡的",
+   "literal": "回 + 推 + 性質",
+   "example": "The smell was repulsive.",
+   "level": 3
+  },
+  {
+   "word": "impunity",
+   "parts": [
+    {
+     "id": "inneg",
+     "text": "im"
+    },
+    {
+     "id": "pen",
+     "text": "pun"
+    },
+    {
+     "id": "ity",
+     "text": "ity"
+    }
+   ],
+   "meaning": "不受懲罰",
+   "literal": "不 + 懲罰 + 名詞",
+   "example": "They broke the rules with impunity.",
+   "level": 3
+  },
+  {
+   "word": "deport",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "port",
+     "text": "port"
+    }
+   ],
+   "meaning": "驅逐出境",
+   "literal": "離開 + 搬運",
+   "example": "He was deported for overstaying his visa.",
+   "level": 3
+  },
+  {
+   "word": "intermediary",
+   "parts": [
+    {
+     "id": "inter",
+     "text": "inter"
+    },
+    {
+     "id": "medi",
+     "text": "medi"
+    },
+    {
+     "id": "ary",
+     "text": "ary"
+    }
+   ],
+   "meaning": "中間人",
+   "literal": "之間 + 中間 + 人",
+   "example": "The bank acts as an intermediary.",
+   "level": 3
+  },
+  {
+   "word": "transnational",
+   "parts": [
+    {
+     "id": "trans",
+     "text": "trans"
+    },
+    {
+     "id": "nat",
+     "text": "nat"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "跨國的",
+   "literal": "跨越 + 出生 + 名詞 + 的",
+   "example": "Climate change is a transnational problem.",
+   "level": 3
+  },
+  {
+   "word": "envision",
+   "parts": [
+    {
+     "id": "en",
+     "text": "en"
+    },
+    {
+     "id": "vid",
+     "text": "vis"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "設想",
+   "literal": "使 + 看 + 名詞",
+   "example": "I envision a city with more parks.",
+   "level": 3
+  },
+  {
+   "word": "rectify",
+   "parts": [
+    {
+     "id": "rect",
+     "text": "rect"
+    },
+    {
+     "id": "ify",
+     "text": "ify"
+    }
+   ],
+   "meaning": "糾正",
+   "literal": "直 + 使",
+   "example": "We will rectify the error immediately.",
+   "level": 3
+  },
+  {
+   "word": "equivalence",
+   "parts": [
+    {
+     "id": "equ",
+     "text": "equi"
+    },
+    {
+     "id": "val",
+     "text": "val"
+    },
+    {
+     "id": "ence",
+     "text": "ence"
+    }
+   ],
+   "meaning": "等值",
+   "literal": "相等 + 價值 + 名詞",
+   "example": "The study tests the equivalence of the two drugs.",
+   "level": 3
+  },
+  {
+   "word": "prefecture",
+   "parts": [
+    {
+     "id": "pre",
+     "text": "pre"
+    },
+    {
+     "id": "fact",
+     "text": "fect"
+    },
+    {
+     "id": "ure",
+     "text": "ure"
+    }
+   ],
+   "meaning": "縣（日本）",
+   "literal": "在前 + 做 + 結果：被派來主事的人管的地方",
+   "example": "Kyoto Prefecture is famous for its temples.",
+   "level": 3
+  },
+  {
+   "word": "selector",
+   "parts": [
+    {
+     "id": "se",
+     "text": "se"
+    },
+    {
+     "id": "lect",
+     "text": "lect"
+    },
+    {
+     "id": "or",
+     "text": "or"
+    }
+   ],
+   "meaning": "選擇器",
+   "literal": "分開 + 選 + 物",
+   "example": "Turn the selector to \"auto\".",
+   "level": 3
+  },
+  {
+   "word": "commandment",
+   "parts": [
+    {
+     "id": "con",
+     "text": "com"
+    },
+    {
+     "id": "mand",
+     "text": "mand"
+    },
+    {
+     "id": "ment",
+     "text": "ment"
+    }
+   ],
+   "meaning": "戒律",
+   "literal": "徹底 + 命令 + 名詞",
+   "example": "The Ten Commandments are rules in the Bible.",
+   "level": 3
+  },
+  {
+   "word": "reconnect",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "nect",
+     "text": "nect"
+    }
+   ],
+   "meaning": "重新連接",
+   "literal": "再 + 一起 + 綁",
+   "example": "Try to reconnect to the network.",
+   "level": 3
+  },
+  {
+   "word": "incision",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "cis",
+     "text": "cis"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "切口",
+   "literal": "向內 + 切 + 名詞",
+   "example": "The surgeon made a small incision.",
+   "level": 3
+  },
+  {
+   "word": "procure",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "cura",
+     "text": "cure"
+    }
+   ],
+   "meaning": "取得；採購",
+   "literal": "向前 + 照料",
+   "example": "The company procures parts from Japan.",
+   "level": 3
+  },
+  {
+   "word": "cyclical",
+   "parts": [
+    {
+     "id": "cycl",
+     "text": "cycl"
+    },
+    {
+     "id": "ic",
+     "text": "ic"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "週期性的",
+   "literal": "循環 + 的 + 的",
+   "example": "The tourism industry is cyclical.",
+   "level": 3
+  },
+  {
+   "word": "fable",
+   "parts": [
+    {
+     "id": "fa",
+     "text": "fa"
+    },
+    {
+     "id": "able",
+     "text": "ble"
+    }
+   ],
+   "meaning": "寓言",
+   "literal": "說 + 可…的：可講述的故事",
+   "example": "Aesop's fables teach simple lessons.",
+   "level": 3
+  },
+  {
+   "word": "propensity",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "pend",
+     "text": "pens"
+    },
+    {
+     "id": "ity",
+     "text": "ity"
+    }
+   ],
+   "meaning": "傾向",
+   "literal": "向前 + 懸掛 + 名詞",
+   "example": "He has a propensity to exaggerate.",
+   "level": 3
+  },
+  {
+   "word": "collaborator",
+   "parts": [
+    {
+     "id": "con",
+     "text": "col"
+    },
+    {
+     "id": "labor",
+     "text": "labor"
+    },
+    {
+     "id": "or",
+     "text": "ator"
+    }
+   ],
+   "meaning": "合作者",
+   "literal": "一起 + 工作 + 者",
+   "example": "She is my main collaborator.",
+   "level": 3
+  },
+  {
+   "word": "prenatal",
+   "parts": [
+    {
+     "id": "pre",
+     "text": "pre"
+    },
+    {
+     "id": "nat",
+     "text": "nat"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "產前的",
+   "literal": "預先 + 出生 + 的",
+   "example": "Prenatal care is important for mothers.",
+   "level": 3
+  },
+  {
+   "word": "duplication",
+   "parts": [
+    {
+     "id": "du",
+     "text": "du"
+    },
+    {
+     "id": "plic",
+     "text": "plic"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "重複",
+   "literal": "二 + 摺疊 + 名詞",
+   "example": "Avoid duplication of work.",
+   "level": 3
+  },
+  {
+   "word": "fortitude",
+   "parts": [
+    {
+     "id": "fort",
+     "text": "fort"
+    },
+    {
+     "id": "itude",
+     "text": "itude"
+    }
+   ],
+   "meaning": "堅毅",
+   "literal": "強壯 + 狀態",
+   "example": "She showed great fortitude during her illness.",
+   "level": 3
+  },
+  {
+   "word": "tributary",
+   "parts": [
+    {
+     "id": "trib",
+     "text": "tribut"
+    },
+    {
+     "id": "ary",
+     "text": "ary"
+    }
+   ],
+   "meaning": "支流",
+   "literal": "給予 + 的：把水送進主流的",
+   "example": "The river has many tributaries.",
+   "level": 3
+  },
+  {
+   "word": "monograph",
+   "parts": [
+    {
+     "id": "mono",
+     "text": "mono"
+    },
+    {
+     "id": "graph",
+     "text": "graph"
+    }
+   ],
+   "meaning": "專論",
+   "literal": "單一 + 寫",
+   "example": "He wrote a monograph on Tang poetry.",
+   "level": 3
+  },
+  {
+   "word": "pathologist",
+   "parts": [
+    {
+     "id": "path",
+     "text": "path"
+    },
+    {
+     "id": "ology",
+     "text": "olog"
+    },
+    {
+     "id": "ist",
+     "text": "ist"
+    }
+   ],
+   "meaning": "病理學家",
+   "literal": "痛苦 + 學問 + 人",
+   "example": "The pathologist examined the samples.",
+   "level": 3
+  },
+  {
+   "word": "proponent",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "pos",
+     "text": "pon"
+    },
+    {
+     "id": "ent",
+     "text": "ent"
+    }
+   ],
+   "meaning": "支持者",
+   "literal": "向前 + 放置 + 的人",
+   "example": "She is a proponent of free trade.",
+   "level": 3
+  },
+  {
+   "word": "intercontinental",
+   "parts": [
+    {
+     "id": "inter",
+     "text": "inter"
+    },
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "tain",
+     "text": "tin"
+    },
+    {
+     "id": "ent",
+     "text": "ent"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "洲際的",
+   "literal": "之間 + 一起 + 握住 + 的 + 的",
+   "example": "We took an intercontinental flight.",
+   "level": 3
+  },
+  {
+   "word": "circumvent",
+   "parts": [
+    {
+     "id": "circum",
+     "text": "circum"
+    },
+    {
+     "id": "vent",
+     "text": "vent"
+    }
+   ],
+   "meaning": "規避",
+   "literal": "環繞 + 來：繞過去",
+   "example": "They tried to circumvent the rules.",
+   "level": 3
+  },
+  {
+   "word": "claimant",
+   "parts": [
+    {
+     "id": "claim",
+     "text": "claim"
+    },
+    {
+     "id": "ent",
+     "text": "ant"
+    }
+   ],
+   "meaning": "申請人；索賠人",
+   "literal": "喊叫 + 的人",
+   "example": "The claimant received compensation.",
+   "level": 3
+  },
+  {
+   "word": "ratification",
+   "parts": [
+    {
+     "id": "rat",
+     "text": "rat"
+    },
+    {
+     "id": "ific",
+     "text": "ific"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "批准",
+   "literal": "計算 + 產生…的 + 名詞",
+   "example": "The treaty awaits ratification.",
+   "level": 3
+  },
+  {
+   "word": "habitual",
+   "parts": [
+    {
+     "id": "hab",
+     "text": "habit"
+    },
+    {
+     "id": "al",
+     "text": "ual"
+    }
+   ],
+   "meaning": "習慣性的",
+   "literal": "持有 + 的",
+   "example": "He is a habitual liar.",
+   "level": 3
+  },
+  {
+   "word": "adhesion",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ad"
+    },
+    {
+     "id": "her",
+     "text": "hes"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "黏著",
+   "literal": "朝向 + 黏 + 名詞",
+   "example": "The tires have good adhesion on wet roads.",
+   "level": 3
+  },
+  {
+   "word": "depletion",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "ple",
+     "text": "plet"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "耗盡",
+   "literal": "去除 + 填滿 + 名詞",
+   "example": "Ozone depletion is a serious problem.",
+   "level": 3
+  },
+  {
+   "word": "superstitious",
+   "parts": [
+    {
+     "id": "super",
+     "text": "super"
+    },
+    {
+     "id": "sta",
+     "text": "stit"
+    },
+    {
+     "id": "ous",
+     "text": "ious"
+    }
+   ],
+   "meaning": "迷信的",
+   "literal": "在上 + 站立 + 充滿",
+   "example": "My grandmother is very superstitious.",
+   "level": 3
+  },
+  {
+   "word": "vacate",
+   "parts": [
+    {
+     "id": "vac",
+     "text": "vac"
+    },
+    {
+     "id": "ate",
+     "text": "ate"
+    }
+   ],
+   "meaning": "空出；撤離",
+   "literal": "空 + 使",
+   "example": "Please vacate the room by noon.",
+   "level": 3
+  },
+  {
+   "word": "reclamation",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "claim",
+     "text": "clam"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "開墾；回收",
+   "literal": "回 + 喊叫 + 名詞",
+   "example": "The land was created by reclamation.",
+   "level": 3
+  },
+  {
+   "word": "collectible",
+   "parts": [
+    {
+     "id": "con",
+     "text": "col"
+    },
+    {
+     "id": "lect",
+     "text": "lect"
+    },
+    {
+     "id": "able",
+     "text": "ible"
+    }
+   ],
+   "meaning": "收藏品",
+   "literal": "一起 + 選 + 可…的",
+   "example": "Old toys are now valuable collectibles.",
+   "level": 3
+  },
+  {
+   "word": "speciality",
+   "parts": [
+    {
+     "id": "spect",
+     "text": "spec"
+    },
+    {
+     "id": "ial",
+     "text": "ial"
+    },
+    {
+     "id": "ity",
+     "text": "ity"
+    }
+   ],
+   "meaning": "專長；特產",
+   "literal": "看 + 的 + 名詞",
+   "example": "Seafood is the speciality of this town.",
+   "level": 3
+  },
+  {
+   "word": "antisocial",
+   "parts": [
+    {
+     "id": "anti",
+     "text": "anti"
+    },
+    {
+     "id": "soci",
+     "text": "soci"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "反社會的；不愛交際的",
+   "literal": "對抗 + 同伴 + 的",
+   "example": "Teenagers can seem antisocial at times.",
+   "level": 3
+  },
+  {
+   "word": "epilogue",
+   "parts": [
+    {
+     "id": "epi",
+     "text": "epi"
+    },
+    {
+     "id": "log",
+     "text": "logue"
+    }
+   ],
+   "meaning": "尾聲",
+   "literal": "在…之上 + 話語：附加在後的話",
+   "example": "The novel ends with a short epilogue.",
+   "level": 3
+  },
+  {
+   "word": "commotion",
+   "parts": [
+    {
+     "id": "con",
+     "text": "com"
+    },
+    {
+     "id": "mot",
+     "text": "mot"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "騷動",
+   "literal": "一起 + 移動 + 名詞",
+   "example": "What's all the commotion outside?",
+   "level": 3
+  },
+  {
+   "word": "habitable",
+   "parts": [
+    {
+     "id": "hab",
+     "text": "habit"
+    },
+    {
+     "id": "able",
+     "text": "able"
+    }
+   ],
+   "meaning": "可居住的",
+   "literal": "持有 + 可…的",
+   "example": "Scientists are searching for habitable planets.",
+   "level": 3
+  },
+  {
+   "word": "modal",
+   "parts": [
+    {
+     "id": "mod",
+     "text": "mod"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "情態的",
+   "literal": "方式 + 的",
+   "example": "\"Can\" and \"must\" are modal verbs.",
+   "level": 3
+  },
+  {
+   "word": "denominator",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "nomin",
+     "text": "nomin"
+    },
+    {
+     "id": "or",
+     "text": "ator"
+    }
+   ],
+   "meaning": "分母",
+   "literal": "徹底 + 名字 + 者",
+   "example": "Find the common denominator.",
+   "level": 3
+  },
+  {
+   "word": "inseparable",
+   "parts": [
+    {
+     "id": "inneg",
+     "text": "in"
+    },
+    {
+     "id": "se",
+     "text": "se"
+    },
+    {
+     "id": "par",
+     "text": "par"
+    },
+    {
+     "id": "able",
+     "text": "able"
+    }
+   ],
+   "meaning": "分不開的",
+   "literal": "不 + 分開 + 準備 + 可…的",
+   "example": "The two friends are inseparable.",
+   "level": 3
+  },
+  {
+   "word": "penance",
+   "parts": [
+    {
+     "id": "pen",
+     "text": "pen"
+    },
+    {
+     "id": "ence",
+     "text": "ance"
+    }
+   ],
+   "meaning": "懺悔",
+   "literal": "懲罰 + 名詞",
+   "example": "He did penance for his sins.",
+   "level": 3
+  },
+  {
+   "word": "resultant",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "sult",
+     "text": "sult"
+    },
+    {
+     "id": "ent",
+     "text": "ant"
+    }
+   ],
+   "meaning": "因而產生的",
+   "literal": "回 + 跳 + 的",
+   "example": "The storm and the resultant flooding closed roads.",
+   "level": 3
+  },
+  {
+   "word": "resonant",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "son",
+     "text": "son"
+    },
+    {
+     "id": "ent",
+     "text": "ant"
+    }
+   ],
+   "meaning": "洪亮的",
+   "literal": "再 + 聲音 + 的",
+   "example": "He has a deep, resonant voice.",
+   "level": 3
+  },
+  {
+   "word": "confluence",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "flu",
+     "text": "flu"
+    },
+    {
+     "id": "ence",
+     "text": "ence"
+    }
+   ],
+   "meaning": "匯流處",
+   "literal": "一起 + 流 + 名詞",
+   "example": "The city lies at the confluence of two rivers.",
+   "level": 3
+  },
+  {
+   "word": "sentient",
+   "parts": [
+    {
+     "id": "sens",
+     "text": "sent"
+    },
+    {
+     "id": "ent",
+     "text": "ient"
+    }
+   ],
+   "meaning": "有知覺的",
+   "literal": "感覺 + 的",
+   "example": "Animals are sentient beings.",
+   "level": 3
+  },
+  {
+   "word": "resolute",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "solv",
+     "text": "solute"
+    }
+   ],
+   "meaning": "堅決的",
+   "literal": "再 + 鬆開：心意已定",
+   "example": "She remained resolute in her decision.",
+   "level": 3
+  },
+  {
+   "word": "retainer",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "tain",
+     "text": "tain"
+    },
+    {
+     "id": "er",
+     "text": "er"
+    }
+   ],
+   "meaning": "定金；牙套",
+   "literal": "回 + 握住 + 物",
+   "example": "He wears a retainer at night.",
+   "level": 3
+  },
+  {
+   "word": "notary",
+   "parts": [
+    {
+     "id": "gno",
+     "text": "not"
+    },
+    {
+     "id": "ary",
+     "text": "ary"
+    }
+   ],
+   "meaning": "公證人",
+   "literal": "知道 + 人：記錄見證的人",
+   "example": "Sign the document in front of a notary.",
+   "level": 3
+  },
+  {
+   "word": "defend",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "fend",
+     "text": "fend"
+    }
+   ],
+   "meaning": "防衛；辯護",
+   "literal": "離開 + 打擊：把攻擊擋開",
+   "example": "The players defended well.",
+   "level": 1
+  },
+  {
+   "word": "defense",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "fend",
+     "text": "fense"
+    }
+   ],
+   "meaning": "防禦",
+   "literal": "離開 + 打擊",
+   "example": "Exercise strengthens the body's defenses.",
+   "level": 1
+  },
+  {
+   "word": "offend",
+   "parts": [
+    {
+     "id": "ob",
+     "text": "of"
+    },
+    {
+     "id": "fend",
+     "text": "fend"
+    }
+   ],
+   "meaning": "冒犯",
+   "literal": "對著 + 打擊",
+   "example": "I didn't mean to offend you.",
+   "level": 2
+  },
+  {
+   "word": "offense",
+   "parts": [
+    {
+     "id": "ob",
+     "text": "of"
+    },
+    {
+     "id": "fend",
+     "text": "fense"
+    }
+   ],
+   "meaning": "冒犯；罪行",
+   "literal": "對著 + 打擊",
+   "example": "Driving without a license is an offense.",
+   "level": 1
+  },
+  {
+   "word": "defensive",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "fend",
+     "text": "fens"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "防禦的",
+   "literal": "離開 + 打擊 + 性質",
+   "example": "He became defensive when I asked about it.",
+   "level": 1
+  },
+  {
+   "word": "offensive",
+   "parts": [
+    {
+     "id": "ob",
+     "text": "of"
+    },
+    {
+     "id": "fend",
+     "text": "fens"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "冒犯的；進攻的",
+   "literal": "對著 + 打擊 + 性質",
+   "example": "The joke was offensive.",
+   "level": 1
+  },
+  {
+   "word": "increase",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "cresc",
+     "text": "crease"
+    }
+   ],
+   "meaning": "增加",
+   "literal": "向內 + 生長",
+   "example": "Prices increased by 5 percent.",
+   "level": 1
+  },
+  {
+   "word": "decrease",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "cresc",
+     "text": "crease"
+    }
+   ],
+   "meaning": "減少",
+   "literal": "向下 + 生長",
+   "example": "The number of visitors decreased.",
+   "level": 1
+  },
+  {
+   "word": "concrete",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "cresc",
+     "text": "crete"
+    }
+   ],
+   "meaning": "混凝土；具體的",
+   "literal": "一起 + 生長：凝結在一起",
+   "example": "Give me a concrete example.",
+   "level": 1
+  },
+  {
+   "word": "recruit",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "cresc",
+     "text": "cruit"
+    }
+   ],
+   "meaning": "招募",
+   "literal": "再 + 生長：補充新人",
+   "example": "The company plans to recruit 50 engineers.",
+   "level": 2
+  },
+  {
+   "word": "distort",
+   "parts": [
+    {
+     "id": "dis",
+     "text": "dis"
+    },
+    {
+     "id": "tort",
+     "text": "tort"
+    }
+   ],
+   "meaning": "扭曲",
+   "literal": "分開 + 扭",
+   "example": "The mirror distorts your reflection.",
+   "level": 3
+  },
+  {
+   "word": "torture",
+   "parts": [
+    {
+     "id": "tort",
+     "text": "tort"
+    },
+    {
+     "id": "ure",
+     "text": "ure"
+    }
+   ],
+   "meaning": "折磨",
+   "literal": "扭曲 + 行為",
+   "example": "Waiting for the results was torture.",
+   "level": 1
+  },
+  {
+   "word": "retort",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "tort",
+     "text": "tort"
+    }
+   ],
+   "meaning": "反駁",
+   "literal": "回 + 扭",
+   "example": "\"That's not true,\" she retorted.",
+   "level": 3
+  },
+  {
+   "word": "extort",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "ex"
+    },
+    {
+     "id": "tort",
+     "text": "tort"
+    }
+   ],
+   "meaning": "勒索",
+   "literal": "向外 + 扭：扭出錢來",
+   "example": "The gang extorted money from shop owners.",
+   "level": 3
+  },
+  {
+   "word": "invade",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "vad",
+     "text": "vade"
+    }
+   ],
+   "meaning": "入侵",
+   "literal": "向內 + 走",
+   "example": "The army invaded the country.",
+   "level": 2
+  },
+  {
+   "word": "invasion",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "vad",
+     "text": "vas"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "入侵",
+   "literal": "向內 + 走 + 名詞",
+   "example": "The invasion began at dawn.",
+   "level": 1
+  },
+  {
+   "word": "evade",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "e"
+    },
+    {
+     "id": "vad",
+     "text": "vade"
+    }
+   ],
+   "meaning": "逃避",
+   "literal": "向外 + 走",
+   "example": "He tried to evade the question.",
+   "level": 2
+  },
+  {
+   "word": "evasion",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "e"
+    },
+    {
+     "id": "vad",
+     "text": "vas"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "逃避",
+   "literal": "向外 + 走 + 名詞",
+   "example": "He was charged with tax evasion.",
+   "level": 2
+  },
+  {
+   "word": "pervasive",
+   "parts": [
+    {
+     "id": "per",
+     "text": "per"
+    },
+    {
+     "id": "vad",
+     "text": "vas"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "普遍的；瀰漫的",
+   "literal": "穿過 + 走 + 性質",
+   "example": "Smartphones have a pervasive influence on our lives.",
+   "level": 2
+  },
+  {
+   "word": "intrude",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "trud",
+     "text": "trude"
+    }
+   ],
+   "meaning": "闖入；打擾",
+   "literal": "向內 + 推",
+   "example": "Sorry to intrude, but there's a call for you.",
+   "level": 3
+  },
+  {
+   "word": "intrusion",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "trud",
+     "text": "trus"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "侵擾",
+   "literal": "向內 + 推 + 名詞",
+   "example": "The reporters' questions were an intrusion.",
+   "level": 2
+  },
+  {
+   "word": "intrusive",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "trud",
+     "text": "trus"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "侵入的；打擾的",
+   "literal": "向內 + 推 + 性質",
+   "example": "The ads are too intrusive.",
+   "level": 2
+  },
+  {
+   "word": "protrude",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "trud",
+     "text": "trude"
+    }
+   ],
+   "meaning": "突出",
+   "literal": "向前 + 推",
+   "example": "A nail was protruding from the wall.",
+   "level": 3
+  },
+  {
+   "word": "applaud",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ap"
+    },
+    {
+     "id": "plaud",
+     "text": "plaud"
+    }
+   ],
+   "meaning": "鼓掌；讚許",
+   "literal": "朝向 + 拍手",
+   "example": "The audience applauded loudly.",
+   "level": 2
+  },
+  {
+   "word": "applause",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ap"
+    },
+    {
+     "id": "plaud",
+     "text": "plause"
+    }
+   ],
+   "meaning": "掌聲",
+   "literal": "朝向 + 拍手",
+   "example": "The applause lasted five minutes.",
+   "level": 2
+  },
+  {
+   "word": "plausible",
+   "parts": [
+    {
+     "id": "plaud",
+     "text": "plaus"
+    },
+    {
+     "id": "able",
+     "text": "ible"
+    }
+   ],
+   "meaning": "似乎合理的",
+   "literal": "拍手 + 可…的：值得鼓掌贊同",
+   "example": "That's a plausible explanation.",
+   "level": 2
+  },
+  {
+   "word": "implausible",
+   "parts": [
+    {
+     "id": "inneg",
+     "text": "im"
+    },
+    {
+     "id": "plaud",
+     "text": "plaus"
+    },
+    {
+     "id": "able",
+     "text": "ible"
+    }
+   ],
+   "meaning": "難以置信的",
+   "literal": "不 + 拍手 + 可…的",
+   "example": "His excuse sounded implausible.",
+   "level": 3
+  },
+  {
+   "word": "interrogate",
+   "parts": [
+    {
+     "id": "inter",
+     "text": "inter"
+    },
+    {
+     "id": "rog",
+     "text": "rog"
+    },
+    {
+     "id": "ate",
+     "text": "ate"
+    }
+   ],
+   "meaning": "審問",
+   "literal": "之間 + 詢問 + 使",
+   "example": "Police interrogated the suspect for hours.",
+   "level": 3
+  },
+  {
+   "word": "arrogant",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ar"
+    },
+    {
+     "id": "rog",
+     "text": "rog"
+    },
+    {
+     "id": "ent",
+     "text": "ant"
+    }
+   ],
+   "meaning": "傲慢的",
+   "literal": "朝向 + 要求 + 的：要求別人尊重自己",
+   "example": "He is rude and arrogant.",
+   "level": 2
+  },
+  {
+   "word": "derogatory",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "rog",
+     "text": "rog"
+    },
+    {
+     "id": "ate",
+     "text": "at"
+    },
+    {
+     "id": "ory",
+     "text": "ory"
+    }
+   ],
+   "meaning": "貶損的",
+   "literal": "離開 + 要求 + 使 + 的",
+   "example": "He made derogatory remarks about women.",
+   "level": 3
+  },
+  {
+   "word": "sacrifice",
+   "parts": [
+    {
+     "id": "sacr",
+     "text": "sacr"
+    },
+    {
+     "id": "ific",
+     "text": "ifice"
+    }
+   ],
+   "meaning": "犧牲",
+   "literal": "神聖 + 使：獻給神",
+   "example": "Parents make many sacrifices for their children.",
+   "level": 1
+  },
+  {
+   "word": "sanction",
+   "parts": [
+    {
+     "id": "sacr",
+     "text": "sanct"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "制裁；批准",
+   "literal": "神聖 + 名詞",
+   "example": "The UN imposed sanctions on the country.",
+   "level": 2
+  },
+  {
+   "word": "sanctuary",
+   "parts": [
+    {
+     "id": "sacr",
+     "text": "sanct"
+    },
+    {
+     "id": "ary",
+     "text": "uary"
+    }
+   ],
+   "meaning": "避難所；保護區",
+   "literal": "神聖 + 場所",
+   "example": "The island is a bird sanctuary.",
+   "level": 2
+  },
+  {
+   "word": "consecrate",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "sacr",
+     "text": "secr"
+    },
+    {
+     "id": "ate",
+     "text": "ate"
+    }
+   ],
+   "meaning": "奉為神聖",
+   "literal": "徹底 + 神聖 + 使",
+   "example": "The church was consecrated in 1890.",
+   "level": 3
+  },
+  {
+   "word": "illuminate",
+   "parts": [
+    {
+     "id": "in",
+     "text": "il"
+    },
+    {
+     "id": "lumin",
+     "text": "lumin"
+    },
+    {
+     "id": "ate",
+     "text": "ate"
+    }
+   ],
+   "meaning": "照亮；闡明",
+   "literal": "向內 + 光 + 使",
+   "example": "The streets were illuminated with lanterns.",
+   "level": 2
+  },
+  {
+   "word": "luminous",
+   "parts": [
+    {
+     "id": "lumin",
+     "text": "lumin"
+    },
+    {
+     "id": "ous",
+     "text": "ous"
+    }
+   ],
+   "meaning": "發光的",
+   "literal": "光 + 充滿",
+   "example": "The watch has luminous hands.",
+   "level": 3
+  },
+  {
+   "word": "lucid",
+   "parts": [
+    {
+     "id": "lumin",
+     "text": "luc"
+    },
+    {
+     "id": "id",
+     "text": "id"
+    }
+   ],
+   "meaning": "清晰的",
+   "literal": "光 + 的：明亮清楚",
+   "example": "She gave a lucid explanation.",
+   "level": 3
+  },
+  {
+   "word": "elucidate",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "e"
+    },
+    {
+     "id": "lumin",
+     "text": "luc"
+    },
+    {
+     "id": "id",
+     "text": "id"
+    },
+    {
+     "id": "ate",
+     "text": "ate"
+    }
+   ],
+   "meaning": "闡明",
+   "literal": "向外 + 光 + 的 + 使",
+   "example": "Could you elucidate your point?",
+   "level": 3
+  },
+  {
+   "word": "eloquent",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "e"
+    },
+    {
+     "id": "loqu",
+     "text": "loqu"
+    },
+    {
+     "id": "ent",
+     "text": "ent"
+    }
+   ],
+   "meaning": "口才好的",
+   "literal": "向外 + 說話 + 的",
+   "example": "She gave an eloquent speech.",
+   "level": 3
+  },
+  {
+   "word": "eloquence",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "e"
+    },
+    {
+     "id": "loqu",
+     "text": "loqu"
+    },
+    {
+     "id": "ence",
+     "text": "ence"
+    }
+   ],
+   "meaning": "口才",
+   "literal": "向外 + 說話 + 名詞",
+   "example": "He spoke with great eloquence.",
+   "level": 3
+  },
+  {
+   "word": "colloquial",
+   "parts": [
+    {
+     "id": "con",
+     "text": "col"
+    },
+    {
+     "id": "loqu",
+     "text": "loqu"
+    },
+    {
+     "id": "ial",
+     "text": "ial"
+    }
+   ],
+   "meaning": "口語的",
+   "literal": "一起 + 說話 + 的",
+   "example": "\"Gonna\" is a colloquial form of \"going to\".",
+   "level": 3
+  },
+  {
+   "word": "hospital",
+   "parts": [
+    {
+     "id": "hosp",
+     "text": "hospit"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "醫院",
+   "literal": "款待 + 的：收留人的地方",
+   "example": "She was taken to the hospital.",
+   "level": 1
+  },
+  {
+   "word": "hospitality",
+   "parts": [
+    {
+     "id": "hosp",
+     "text": "hospit"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    },
+    {
+     "id": "ity",
+     "text": "ity"
+    }
+   ],
+   "meaning": "好客；款待",
+   "literal": "款待 + 的 + 名詞",
+   "example": "Thank you for your hospitality.",
+   "level": 2
+  },
+  {
+   "word": "hospitable",
+   "parts": [
+    {
+     "id": "hosp",
+     "text": "hospit"
+    },
+    {
+     "id": "able",
+     "text": "able"
+    }
+   ],
+   "meaning": "好客的",
+   "literal": "款待 + 可…的",
+   "example": "The local people are very hospitable.",
+   "level": 3
+  },
+  {
+   "word": "vulnerable",
+   "parts": [
+    {
+     "id": "vulner",
+     "text": "vulner"
+    },
+    {
+     "id": "able",
+     "text": "able"
+    }
+   ],
+   "meaning": "易受傷害的",
+   "literal": "傷口 + 可…的",
+   "example": "Children are vulnerable to infection.",
+   "level": 1
+  },
+  {
+   "word": "vulnerability",
+   "parts": [
+    {
+     "id": "vulner",
+     "text": "vulner"
+    },
+    {
+     "id": "able",
+     "text": "abil"
+    },
+    {
+     "id": "ity",
+     "text": "ity"
+    }
+   ],
+   "meaning": "脆弱性",
+   "literal": "傷口 + 可…的 + 名詞",
+   "example": "The software has a security vulnerability.",
+   "level": 2
+  },
+  {
+   "word": "invulnerable",
+   "parts": [
+    {
+     "id": "inneg",
+     "text": "in"
+    },
+    {
+     "id": "vulner",
+     "text": "vulner"
+    },
+    {
+     "id": "able",
+     "text": "able"
+    }
+   ],
+   "meaning": "無懈可擊的",
+   "literal": "不 + 傷口 + 可…的",
+   "example": "The team seemed invulnerable.",
+   "level": 3
+  },
+  {
+   "word": "solar",
+   "parts": [
+    {
+     "id": "sol",
+     "text": "sol"
+    },
+    {
+     "id": "ar",
+     "text": "ar"
+    }
+   ],
+   "meaning": "太陽的",
+   "literal": "太陽 + 的",
+   "example": "We installed solar panels on the roof.",
    "level": 1
   }
  ]

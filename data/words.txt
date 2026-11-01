@@ -1316,3 +1316,173 @@ depict|de pict|描繪|向下 + 畫|The painting depicts a busy market.
 picture|pict ure|圖片|畫 + 結果|Can I take a picture of you?
 politics|polit ics|政治|城邦 + 學科|She is not interested in politics.
 political|polit ic al|政治的|城邦 + 的 + 的|There are three main political parties.
+particular|part icle=icul ar|特定的；挑剔的|部分 + 小 + 的：小小的一部分|Is there a particular reason you called?
+privacy|priv acy|隱私|個人 + 性質|Please respect my privacy.
+faculty|fact=fac ule=ul ity=ty|能力；全體教師|做 + 小 + 名詞|The faculty met to discuss the new course.
+speculation|spect=spec ule=ul ion=ation|推測；投機|看 + 小 + 名詞：瞭望台上的觀察|There is a lot of speculation about his plans.
+compatible|con=com pass=pat able=ible|相容的|一起 + 承受 + 可…的|This charger is compatible with most phones.
+advocacy|ad voc acy|倡議|朝向 + 呼喚 + 性質|She is known for her advocacy of women's rights.
+confession|con fa=fess ion|坦白；告解|徹底 + 說 + 名詞|He made a full confession.
+citation|cit ion=ation|引用；傳票|引用 + 名詞|Include a citation for every quote.
+assurance|ad=as cura=sur ence=ance|保證|朝向 + 安心 + 名詞|He gave me his assurance that it would be fixed.
+reassure|re ad=as cura=sure|使安心|再 + 朝向 + 安心|The doctor reassured me that it was nothing serious.
+reassurance|re ad=as cura=sur ence=ance|安慰；保證|再 + 朝向 + 安心 + 名詞|She needed some reassurance.
+insure|in cura=sure|投保|向內 + 安心|Is your car insured?
+variant|vari ent=ant|變體|變化 + 的|A new variant of the virus has appeared.
+variance|vari ence=ance|差異|變化 + 名詞|There is some variance in the test results.
+ecology|eco ology=logy|生態學；生態|家 + 學問|The new road could harm the local ecology.
+efficacy|ex=ef fact=fic acy|功效|向外 + 做 + 性質|The efficacy of the vaccine is high.
+turbine|turb ine|渦輪機|攪動 + 名詞|Wind turbines produce clean energy.
+comprise|con=com prehend=prise|包含；組成|一起 + 抓住|The team comprises five engineers.
+disturbance|dis turb ence=ance|干擾；騷亂|徹底 + 攪動 + 名詞|Police were called to a disturbance downtown.
+connectivity|con nect ive=iv ity|連線能力|一起 + 綁 + 性質 + 名詞|The hotel offers free Wi-Fi connectivity.
+modular|mod ule=ul ar|模組化的|尺度 + 小 + 的|The office uses modular furniture.
+primer|prim er|入門書；底漆|第一 + 物|Apply a primer before you paint the wall.
+nautical|naut ic al|航海的|航行 + 的 + 的|The ship traveled 200 nautical miles.
+gradient|gress=grad ent=ient|坡度；漸層|步伐 + 的|The road has a steep gradient.
+turbulent|turb ule=ul ent|動盪的|攪動 + 小 + 的|The country went through a turbulent period.
+nobility|gno=no able=bil ity|貴族；高尚|知道 + 可…的 + 名詞|He was born into the nobility.
+regent|rect=reg ent|攝政者|統治 + 的人|The queen's uncle ruled as regent.
+depiction|de pict ion|描繪|向下 + 畫 + 名詞|The film is a realistic depiction of war.
+linguistics|lingu ist ics|語言學|語言 + 人 + 學科|She is studying linguistics.
+ascent|ad=a scend=scent|上升；攀登|朝向 + 爬|The climbers began their ascent at dawn.
+astrology|astro ology=logy|占星術|星星 + 學問|Astrology is not a science.
+astronomer|astro nom er|天文學家|星星 + 法則 + 的人|The astronomer discovered a new comet.
+doctorate|doc=doct or ate|博士學位|教導 + 者 + 名詞|She earned her doctorate in 2019.
+manageable|manu=man age able|可管理的|手 + 名詞 + 可…的|The workload is manageable.
+rebate|re bat=bate|退款；折扣|回 + 打：打回來的錢|You can get a tax rebate on solar panels.
+analytic|ana ly ic=tic|分析的|向後 + 鬆開 + 的|She has an analytic mind.
+explanatory|ex plan ate=at ory|說明的|向外 + 平的 + 使 + 的|Read the explanatory notes first.
+modulation|mod ule=ul ion=ation|調節；轉調|尺度 + 小 + 名詞|The song has a key modulation near the end.
+postgraduate|post gress=grad ate=uate|研究生|之後 + 步伐 + 使|She is a postgraduate student in Tokyo.
+dialysis|dia ly sis|洗腎|穿過 + 鬆開 + 過程|He needs dialysis three times a week.
+immersive|in=im merg=mers ive|沉浸式的|向內 + 浸 + 性質|The museum offers an immersive experience.
+insidious|in sid ous=ious|暗中為害的|向內 + 坐 + 充滿：埋伏著的|High blood pressure is an insidious disease.
+seductive|se duc ive=tive|誘人的|分開 + 引導 + 性質|The offer was very seductive.
+fragmentation|fract=frag ment ion=ation|分裂；碎片化|破 + 名詞 + 名詞|The fragmentation of the market makes it hard to compete.
+puncture|punct ure|刺穿；（輪胎）破洞|刺 + 結果|I got a puncture on the way home.
+valor|val or|英勇|強壯 + 名詞|He was awarded a medal for valor.
+reactionary|re act ion ary|反動的|回 + 做 + 名詞 + 的|He holds reactionary political views.
+signify|sign ify|表示；象徵|記號 + 使|A red light signifies danger.
+pictorial|pict or ial|圖畫的|畫 + 者 + 的|The book is a pictorial history of Taipei.
+specificity|spect=spec ific ity|明確性|看 + 產生…的 + 名詞|The report lacks specificity.
+presumption|pre sum=sumpt ion|推定；冒昧|預先 + 拿 + 名詞|There is a presumption of innocence.
+migratory|migr ate=at ory|遷徙的|遷移 + 使 + 的|Many migratory birds stop here in winter.
+detain|de tain|拘留；耽擱|離開 + 握住：扣住不放|He was detained at the airport.
+symmetric|syn=sym meter=metr ic|對稱的|相同 + 測量 + 的|The design is perfectly symmetric.
+defer|de fer|延期；順從|離開 + 攜帶：帶到以後|We decided to defer the decision.
+permissible|per mit=miss able=ible|允許的|穿過 + 送 + 可…的|Is it permissible to take photos here?
+correlate|con=cor re lat=late|相關|一起 + 回 + 攜帶|Income correlates with education.
+vocation|voc ion=ation|職業；天職|呼喚 + 名詞：被召喚去做的事|Teaching is her true vocation.
+equate|equ ate|等同|相等 + 使|Don't equate money with happiness.
+confer|con fer|商討；授予|一起 + 攜帶|The university conferred an honorary degree on her.
+nonexistent|non ex sta=ist ent|不存在的|非 + 向外 + 站立 + 的|Public transport is almost nonexistent here.
+renounce|re nounce|放棄；宣布斷絕|回 + 宣告|He renounced his citizenship.
+imposition|in=im pos ion=ition|強加；負擔|向內 + 放置 + 名詞|I hope it's not an imposition.
+intersect|inter sect|交叉|之間 + 切|The two roads intersect near the station.
+tangent|tact=tang ent|切線；離題|接觸 + 的|He went off on a tangent during the talk.
+remission|re mit=miss ion|緩解；減免|回 + 送 + 名詞|Her cancer is in remission.
+provocation|pro voc ion=ation|挑釁|向前 + 呼喚 + 名詞|He lost his temper at the slightest provocation.
+abstinence|ab=abs tain=tin ence|節制；戒除|離開 + 握住 + 名詞|Total abstinence from alcohol is recommended.
+circumference|circum fer ence|圓周|環繞 + 攜帶 + 名詞|The circumference of the earth is about 40,000 km.
+concur|con cur|同意；同時發生|一起 + 跑|I concur with your view.
+repulsive|re pel=puls ive|令人厭惡的|回 + 推 + 性質|The smell was repulsive.
+impunity|inneg=im pen=pun ity|不受懲罰|不 + 懲罰 + 名詞|They broke the rules with impunity.
+deport|de port|驅逐出境|離開 + 搬運|He was deported for overstaying his visa.
+intermediary|inter medi ary|中間人|之間 + 中間 + 人|The bank acts as an intermediary.
+transnational|trans nat ion al|跨國的|跨越 + 出生 + 名詞 + 的|Climate change is a transnational problem.
+envision|en vid=vis ion|設想|使 + 看 + 名詞|I envision a city with more parks.
+rectify|rect ify|糾正|直 + 使|We will rectify the error immediately.
+equivalence|equ=equi val ence|等值|相等 + 價值 + 名詞|The study tests the equivalence of the two drugs.
+prefecture|pre fact=fect ure|縣（日本）|在前 + 做 + 結果：被派來主事的人管的地方|Kyoto Prefecture is famous for its temples.
+selector|se lect or|選擇器|分開 + 選 + 物|Turn the selector to "auto".
+commandment|con=com mand ment|戒律|徹底 + 命令 + 名詞|The Ten Commandments are rules in the Bible.
+reconnect|re con nect|重新連接|再 + 一起 + 綁|Try to reconnect to the network.
+incision|in cis ion|切口|向內 + 切 + 名詞|The surgeon made a small incision.
+procure|pro cura=cure|取得；採購|向前 + 照料|The company procures parts from Japan.
+cyclical|cycl ic al|週期性的|循環 + 的 + 的|The tourism industry is cyclical.
+fable|fa able=ble|寓言|說 + 可…的：可講述的故事|Aesop's fables teach simple lessons.
+propensity|pro pend=pens ity|傾向|向前 + 懸掛 + 名詞|He has a propensity to exaggerate.
+collaborator|con=col labor or=ator|合作者|一起 + 工作 + 者|She is my main collaborator.
+prenatal|pre nat al|產前的|預先 + 出生 + 的|Prenatal care is important for mothers.
+duplication|du plic ion=ation|重複|二 + 摺疊 + 名詞|Avoid duplication of work.
+fortitude|fort itude|堅毅|強壯 + 狀態|She showed great fortitude during her illness.
+tributary|trib=tribut ary|支流|給予 + 的：把水送進主流的|The river has many tributaries.
+monograph|mono graph|專論|單一 + 寫|He wrote a monograph on Tang poetry.
+pathologist|path ology=olog ist|病理學家|痛苦 + 學問 + 人|The pathologist examined the samples.
+proponent|pro pos=pon ent|支持者|向前 + 放置 + 的人|She is a proponent of free trade.
+intercontinental|inter con tain=tin ent al|洲際的|之間 + 一起 + 握住 + 的 + 的|We took an intercontinental flight.
+circumvent|circum vent|規避|環繞 + 來：繞過去|They tried to circumvent the rules.
+claimant|claim ent=ant|申請人；索賠人|喊叫 + 的人|The claimant received compensation.
+ratification|rat ific ion=ation|批准|計算 + 產生…的 + 名詞|The treaty awaits ratification.
+habitual|hab=habit al=ual|習慣性的|持有 + 的|He is a habitual liar.
+adhesion|ad her=hes ion|黏著|朝向 + 黏 + 名詞|The tires have good adhesion on wet roads.
+depletion|de ple=plet ion|耗盡|去除 + 填滿 + 名詞|Ozone depletion is a serious problem.
+superstitious|super sta=stit ous=ious|迷信的|在上 + 站立 + 充滿|My grandmother is very superstitious.
+vacate|vac ate|空出；撤離|空 + 使|Please vacate the room by noon.
+reclamation|re claim=clam ion=ation|開墾；回收|回 + 喊叫 + 名詞|The land was created by reclamation.
+collectible|con=col lect able=ible|收藏品|一起 + 選 + 可…的|Old toys are now valuable collectibles.
+speciality|spect=spec ial ity|專長；特產|看 + 的 + 名詞|Seafood is the speciality of this town.
+antisocial|anti soci al|反社會的；不愛交際的|對抗 + 同伴 + 的|Teenagers can seem antisocial at times.
+epilogue|epi log=logue|尾聲|在…之上 + 話語：附加在後的話|The novel ends with a short epilogue.
+commotion|con=com mot ion|騷動|一起 + 移動 + 名詞|What's all the commotion outside?
+habitable|hab=habit able|可居住的|持有 + 可…的|Scientists are searching for habitable planets.
+modal|mod al|情態的|方式 + 的|"Can" and "must" are modal verbs.
+denominator|de nomin or=ator|分母|徹底 + 名字 + 者|Find the common denominator.
+inseparable|inneg=in se par able|分不開的|不 + 分開 + 準備 + 可…的|The two friends are inseparable.
+penance|pen ence=ance|懺悔|懲罰 + 名詞|He did penance for his sins.
+resultant|re sult ent=ant|因而產生的|回 + 跳 + 的|The storm and the resultant flooding closed roads.
+resonant|re son ent=ant|洪亮的|再 + 聲音 + 的|He has a deep, resonant voice.
+confluence|con flu ence|匯流處|一起 + 流 + 名詞|The city lies at the confluence of two rivers.
+sentient|sens=sent ent=ient|有知覺的|感覺 + 的|Animals are sentient beings.
+resolute|re solv=solute|堅決的|再 + 鬆開：心意已定|She remained resolute in her decision.
+retainer|re tain er|定金；牙套|回 + 握住 + 物|He wears a retainer at night.
+notary|gno=not ary|公證人|知道 + 人：記錄見證的人|Sign the document in front of a notary.
+defend|de fend|防衛；辯護|離開 + 打擊：把攻擊擋開|The players defended well.
+defense|de fend=fense|防禦|離開 + 打擊|Exercise strengthens the body's defenses.
+offend|ob=of fend|冒犯|對著 + 打擊|I didn't mean to offend you.
+offense|ob=of fend=fense|冒犯；罪行|對著 + 打擊|Driving without a license is an offense.
+defensive|de fend=fens ive|防禦的|離開 + 打擊 + 性質|He became defensive when I asked about it.
+offensive|ob=of fend=fens ive|冒犯的；進攻的|對著 + 打擊 + 性質|The joke was offensive.
+increase|in cresc=crease|增加|向內 + 生長|Prices increased by 5 percent.
+decrease|de cresc=crease|減少|向下 + 生長|The number of visitors decreased.
+concrete|con cresc=crete|混凝土；具體的|一起 + 生長：凝結在一起|Give me a concrete example.
+recruit|re cresc=cruit|招募|再 + 生長：補充新人|The company plans to recruit 50 engineers.
+distort|dis tort|扭曲|分開 + 扭|The mirror distorts your reflection.
+torture|tort ure|折磨|扭曲 + 行為|Waiting for the results was torture.
+retort|re tort|反駁|回 + 扭|"That's not true," she retorted.
+extort|ex tort|勒索|向外 + 扭：扭出錢來|The gang extorted money from shop owners.
+invade|in vad=vade|入侵|向內 + 走|The army invaded the country.
+invasion|in vad=vas ion|入侵|向內 + 走 + 名詞|The invasion began at dawn.
+evade|ex=e vad=vade|逃避|向外 + 走|He tried to evade the question.
+evasion|ex=e vad=vas ion|逃避|向外 + 走 + 名詞|He was charged with tax evasion.
+pervasive|per vad=vas ive|普遍的；瀰漫的|穿過 + 走 + 性質|Smartphones have a pervasive influence on our lives.
+intrude|in trud=trude|闖入；打擾|向內 + 推|Sorry to intrude, but there's a call for you.
+intrusion|in trud=trus ion|侵擾|向內 + 推 + 名詞|The reporters' questions were an intrusion.
+intrusive|in trud=trus ive|侵入的；打擾的|向內 + 推 + 性質|The ads are too intrusive.
+protrude|pro trud=trude|突出|向前 + 推|A nail was protruding from the wall.
+applaud|ad=ap plaud|鼓掌；讚許|朝向 + 拍手|The audience applauded loudly.
+applause|ad=ap plaud=plause|掌聲|朝向 + 拍手|The applause lasted five minutes.
+plausible|plaud=plaus able=ible|似乎合理的|拍手 + 可…的：值得鼓掌贊同|That's a plausible explanation.
+implausible|inneg=im plaud=plaus able=ible|難以置信的|不 + 拍手 + 可…的|His excuse sounded implausible.
+interrogate|inter rog ate|審問|之間 + 詢問 + 使|Police interrogated the suspect for hours.
+arrogant|ad=ar rog ent=ant|傲慢的|朝向 + 要求 + 的：要求別人尊重自己|He is rude and arrogant.
+derogatory|de rog ate=at ory|貶損的|離開 + 要求 + 使 + 的|He made derogatory remarks about women.
+sacrifice|sacr ific=ifice|犧牲|神聖 + 使：獻給神|Parents make many sacrifices for their children.
+sanction|sacr=sanct ion|制裁；批准|神聖 + 名詞|The UN imposed sanctions on the country.
+sanctuary|sacr=sanct ary=uary|避難所；保護區|神聖 + 場所|The island is a bird sanctuary.
+consecrate|con sacr=secr ate|奉為神聖|徹底 + 神聖 + 使|The church was consecrated in 1890.
+illuminate|in=il lumin ate|照亮；闡明|向內 + 光 + 使|The streets were illuminated with lanterns.
+luminous|lumin ous|發光的|光 + 充滿|The watch has luminous hands.
+lucid|lumin=luc id|清晰的|光 + 的：明亮清楚|She gave a lucid explanation.
+elucidate|ex=e lumin=luc id ate|闡明|向外 + 光 + 的 + 使|Could you elucidate your point?
+eloquent|ex=e loqu ent|口才好的|向外 + 說話 + 的|She gave an eloquent speech.
+eloquence|ex=e loqu ence|口才|向外 + 說話 + 名詞|He spoke with great eloquence.
+colloquial|con=col loqu ial|口語的|一起 + 說話 + 的|"Gonna" is a colloquial form of "going to".
+hospital|hosp=hospit al|醫院|款待 + 的：收留人的地方|She was taken to the hospital.
+hospitality|hosp=hospit al ity|好客；款待|款待 + 的 + 名詞|Thank you for your hospitality.
+hospitable|hosp=hospit able|好客的|款待 + 可…的|The local people are very hospitable.
+vulnerable|vulner able|易受傷害的|傷口 + 可…的|Children are vulnerable to infection.
+vulnerability|vulner able=abil ity|脆弱性|傷口 + 可…的 + 名詞|The software has a security vulnerability.
+invulnerable|inneg=in vulner able|無懈可擊的|不 + 傷口 + 可…的|The team seemed invulnerable.
+solar|sol ar|太陽的|太陽 + 的|We installed solar panels on the roof.

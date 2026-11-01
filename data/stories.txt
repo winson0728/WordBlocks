@@ -54,3 +54,5 @@ ple|易混淆：supply 和 apply 長得很像，但 supply 來自 plere「填滿
 pass|易混淆：passion、patient 來自 pati「承受、受苦」，passport、passenger 則來自 passus「腳步」。耶穌受難在英文就叫 the Passion。|一個人咬著牙扛起重擔。
 fa|infant（嬰兒）來自拉丁語 in + fari，字面是「還不會說話的人」。|搖籃裡的嬰兒張嘴卻說不出話。
 cant|incentive（誘因）來自 incinere「起音、帶頭唱」：誘因就是讓人跟著唱起來的那個音。|指揮家舉起指揮棒，合唱團準備開口。
+sacr|sacrifice（犧牲）字面是「使神聖」（sacr + fic）：古人把祭品獻給神，祭品就變成神聖的東西。|祭壇上燃著一盞燈。
+hosp|hospital 和 hotel、host 是同一家族，都來自 hospes「客人、款待客人的人」。中世紀的 hospital 是收留旅人和病人的地方。|一扇敞開的門，門口掛著燈籠迎客。

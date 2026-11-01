@@ -87,7 +87,7 @@ press|root|press|壓|拉丁語 premere|move
 pend|root|pend / pens|懸掛；秤重付錢|拉丁語 pendere|move
 vert|root|vert / vers / verse|轉|拉丁語 vertere|move
 cap|root|cap / capt / cept / ceive|拿、抓|拉丁語 capere|move
-fact|root|fact / fac / fect / fic / fit|做|拉丁語 facere|move
+fact|root|fact / fac / fect / fic / fit / feat|做|拉丁語 facere|move
 vent|root|vent / ven / vene|來|拉丁語 venire|move
 tend|root|tend / tens / tense / tent|伸展|拉丁語 tendere|move
 clud|root|clud / clude / clus|關閉|拉丁語 claudere|move
@@ -205,7 +205,7 @@ junct|root|junct|連接|拉丁語 jungere|rel
 strict|root|strict / strain / straint|拉緊|拉丁語 stringere|move
 ple|root|ple / plete / plet / plen / ply|填滿|拉丁語 plere|num
 sert|root|sert / ert|連接、放入|拉丁語 serere|rel
-scend|root|scend / cend|爬|拉丁語 scandere|move
+scend|root|scend / cend / scent|爬|拉丁語 scandere|move
 sect|root|sect / seg|切|拉丁語 secare|move
 vinc|root|vinc / vince / vict|征服|拉丁語 vincere|move
 fid|root|fid|信任|拉丁語 fides|mind
@@ -254,12 +254,25 @@ cit|root|cit / cite|喚起、引用|拉丁語 citare|sense
 nounce|root|nounce / nunci|宣告|拉丁語 nuntiare|sense
 pict|root|pict|畫|拉丁語 pingere|sense
 polit|root|polit|城邦、公民|希臘語 polis|life
+fend|root|fend / fens / fense|打擊、防衛|拉丁語 fendere|move
+cresc|root|cresc / crease / crete / cruit|生長|拉丁語 crescere|life
+tort|root|tort|扭曲|拉丁語 torquere|move
+vad|root|vad / vade / vas|走、去|拉丁語 vadere|move
+trud|root|trud / trude / trus|推、擠|拉丁語 trudere|move
+plaud|root|plaud / plaus|拍手|拉丁語 plaudere|sense
+rog|root|rog|詢問、要求|拉丁語 rogare|sense
+sacr|root|sacr / sanct / secr|神聖|拉丁語 sacer、sanctus|life
+lumin|root|lumin / luc|光|拉丁語 lumen、lux|nature
+loqu|root|loqu|說話|拉丁語 loqui|sense
+hosp|root|hosp / hospit|客人、款待|拉丁語 hospes|life
+vulner|root|vulner|傷口|拉丁語 vulnus|life
+sol|root|sol|太陽|拉丁語 sol|nature
 ure|suf|-ure / -ature / -ur|行為、結果（名詞）|拉丁語 -ura|suf
 ion|suf|-ion / -tion / -ition / -ation / -uation|行為、狀態（名詞）|拉丁語 -io|suf
 ive|suf|-ive / -itive / -iv / -tive|具…性質的（形容詞）|拉丁語 -ivus|suf
 able|suf|-able / -ible / -ble / -bil / -ibil|可…的（形容詞）|拉丁語 -abilis|suf
 or|suf|-or / -ator / -itor|做…的人或物|拉丁語 -or|suf
-ary|suf|-ary|相關事物、集合（名詞）|拉丁語 -arium|suf
+ary|suf|-ary / -uary|相關事物、集合（名詞）|拉丁語 -arium|suf
 ic|suf|-ic / -tic|…的（形容詞）|希臘語 -ikos|suf
 ology|suf|-ology / -logy / -olog|…學|希臘語 -logia|suf
 ize|suf|-ize / -yze|使…化（動詞）|希臘語 -izein|suf
@@ -267,7 +280,7 @@ ous|suf|-ous / -ious / -orious / -os|充滿…的（形容詞）|拉丁語 -osus
 ent|suf|-ent / -ient / -ant|…的（形容詞）|拉丁語 -ens|suf
 ate|suf|-ate / -at / -uate|使…、做（動詞）|拉丁語 -atus|suf
 ism|suf|-ism|狀態、主義（名詞）|希臘語 -ismos|suf
-icle|suf|-icle / -cle|紀錄、小物（名詞）|拉丁語 -iculum|suf
+icle|suf|-icle / -cle / -icul|紀錄、小物（名詞）|拉丁語 -iculum|suf
 y|suf|-y|狀態、作品（名詞）|希臘語 -ia|suf
 ial|suf|-ial|…的（形容詞）|拉丁語 -ialis|suf
 ish|suf|-ish|做…（動詞）|古法語 -iss-|suf
@@ -289,7 +302,7 @@ ee|suf|-ee|受…者（名詞）|古法語 -é|suf
 er|suf|-er|做…的人或物（名詞）|古英語 -ere|suf
 ule|suf|-ule|小東西（名詞）|拉丁語 -ulus|suf
 ify|suf|-ify / -fy|使…（動詞）|拉丁語 -ificare|suf
-ific|suf|-ific|產生…的（形容詞）|拉丁語 -ificus|suf
+ific|suf|-ific / -ifice|產生…的（形容詞）|拉丁語 -ificus|suf
 ist|suf|-ist|做…的人（名詞）|希臘語 -istes|suf
 ful|suf|-ful|充滿…的（形容詞）|古英語 -full|suf
 itude|suf|-itude|狀態（名詞）|拉丁語 -itudo|suf
