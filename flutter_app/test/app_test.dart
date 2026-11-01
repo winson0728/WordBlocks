@@ -78,4 +78,24 @@ void main() {
     expect(find.textContaining('拼對了'), findsOneWidget);
     expect(find.textContaining('premonition'), findsOneWidget);
   });
+
+  testWidgets('badges: areas and achievements, puzzle count is reflected', (tester) async {
+    await pumpApp(tester);
+    await tester.tap(find.text('成就').last);
+    await tester.pumpAndSettle();
+    expect(find.text('解鎖地圖'), findsOneWidget);
+    expect(find.text('時間與順序'), findsOneWidget);
+    await tester.scrollUntilVisible(find.text('積木學徒'), 300, scrollable: find.byType(Scrollable).last);
+    expect(find.text('0/1'), findsWidgets);
+  });
+
+  testWidgets('settings: sync is off until configured; reminder controls are shown', (tester) async {
+    await pumpApp(tester);
+    await tester.tap(find.byTooltip('設定'));
+    await tester.pumpAndSettle();
+    expect(find.textContaining('同步還沒設定'), findsOneWidget);
+    expect(find.text('每天提醒我複習'), findsOneWidget);
+    expect(find.text('提醒時間'), findsOneWidget);
+    expect(find.textContaining('長按'), findsOneWidget);
+  });
 }

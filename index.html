@@ -72,6 +72,16 @@ p{margin:0}
 .legend i{width:12px;height:12px;border-radius:3px;background:var(--c)}
 .pill{display:inline-flex;align-items:center;gap:8px;font-size:12.5px;padding:5px 6px 5px 12px;border-radius:999px;background:color-mix(in srgb,var(--gold) 15%,var(--surface));border:1px solid color-mix(in srgb,var(--gold) 40%,transparent);color:var(--ink)}
 .pill button{border:0;background:var(--surface);border-radius:999px;padding:2px 10px;font-size:12px;color:var(--ink)}
+.acct{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:5px 12px;font-size:13px;color:var(--ink)}
+.acct i{width:8px;height:8px;border-radius:50%;background:var(--muted)}
+.acct[data-s="synced"] i{background:var(--good)} .acct[data-s="syncing"] i{background:var(--gold)} .acct[data-s="error"] i{background:var(--bad)}
+.acct-wrap{position:relative}
+.acct-panel{position:absolute;right:0;top:calc(100% + 8px);z-index:30;width:min(320px,calc(100vw - 32px));background:var(--surface);border:1px solid var(--line);border-radius:12px;box-shadow:0 12px 32px rgba(0,0,0,.18);padding:16px;display:grid;gap:10px}
+.acct-panel h3{font-family:var(--display);font-size:18px}
+.acct-panel .row{display:flex;gap:8px}
+.acct-panel .row .btn{flex:1}
+.acct-msg{font-size:13px;color:var(--bad)}
+.acct-msg.ok{color:var(--good)}
 .view[hidden]{display:none}
 
 /* ---------- generic ---------- */
@@ -347,6 +357,7 @@ button.blk:hover{transform:translateY(-3px);box-shadow:0 6px 0 -2px color-mix(in
       <div><h1 id="vTitle">字根地圖</h1><p id="vSub"></p></div>
       <div class="top-r">
         <span id="demoPill"></span>
+        <span class="acct-wrap" id="acctWrap" hidden><button class="acct" id="acctBtn" data-act="acct" aria-expanded="false"><i></i><span>登入同步</span></button><div class="acct-panel" id="acctPanel" hidden></div></span>
         <div class="legend" aria-label="顏色說明"><span><i style="--c:var(--pre)"></i>字首</span><span><i style="--c:var(--root)"></i>字根</span><span><i style="--c:var(--suf)"></i>字尾</span></div>
       </div>
     </header>
@@ -451,9 +462,104 @@ function demoState(){
   return s;
 }
 function load(){ try{ const r=localStorage.getItem(KEY); return r?JSON.parse(r):null; }catch(e){ return null; } }
-function save(){ try{ localStorage.setItem(KEY,JSON.stringify(st)); }catch(e){} }
+function save(){ try{ localStorage.setItem(KEY,JSON.stringify(st)); }catch(e){} if(typeof syncSoon==='function') syncSoon(); }
 let st = load() || demoState();
 if(st.newDay.d!==todayStr()) st.newDay={d:todayStr(),n:0};
+
+/* ======================= account sync (Supabase) ======================= */
+// Filled in by tools/build-data.mjs from config/sync.json. Empty values keep sync off.
+/* WORDBLOCKS_SYNC_BEGIN */const SYNC={"supabaseUrl":"","supabaseKey":""};/* WORDBLOCKS_SYNC_END */
+const SUPABASE_JS='https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.3/dist/umd/supabase.js';
+const sync={client:null,user:null,status:'off',msg:'',last:null,timer:null,quiet:false,open:false,note:'',busy:false};
+const syncEnabled=()=>!!(SYNC.supabaseUrl&&SYNC.supabaseKey);
+// JSON with sorted keys, so two copies of the same progress compare equal.
+const canon=o=>JSON.stringify(o,(k,v)=>v&&typeof v==='object'&&!Array.isArray(v)?Object.fromEntries(Object.keys(v).sort().map(x=>[x,v[x]])):v);
+// Same rules as mergeProgress() in the Android app: newer card wins, days are combined, counters keep the larger value.
+function mergeProgress(a,b){
+  const cards={...(a.cards||{})};
+  Object.entries(b.cards||{}).forEach(([id,c])=>{ const m=cards[id]; if(!m){cards[id]=c;return;} const tm=m.t||0, tc=c.t||0; if(tc>tm||(tc===tm&&c.reps>m.reps)) cards[id]=c; });
+  const days=[...new Set([...(a.days||[]),...(b.days||[])])].sort();
+  const counters={}; [a.counters||{},b.counters||{}].forEach(src=>Object.entries(src).forEach(([k,v])=>{counters[k]=Math.max(counters[k]||0,v||0);}));
+  return {v:1,cards,days,counters};
+}
+const exportProgress=()=>({v:1,cards:st.cards,days:[...st.days].sort(),counters:st.counters});
+function loadScript(src){ return new Promise((ok,fail)=>{ const el=document.createElement('script'); el.src=src; el.onload=ok; el.onerror=()=>fail(new Error('無法載入同步元件，請檢查網路連線')); document.head.appendChild(el); }); }
+function setSync(status,msg=''){ sync.status=status; sync.msg=msg; renderAccount(); }
+async function syncStart(){
+  if(!syncEnabled()) return;
+  $('#acctWrap').hidden=false;
+  try{ await loadScript(SUPABASE_JS); sync.client=supabase.createClient(SYNC.supabaseUrl,SYNC.supabaseKey); }
+  catch(e){ setSync('error',e.message); return; }
+  sync.client.auth.onAuthStateChange((event,session)=>{
+    sync.user=session?.user||null;
+    if(event==='SIGNED_IN') setTimeout(syncNow,0);
+    if(event==='SIGNED_OUT') setSync('signedOut');
+    renderAccount();
+  });
+  const {data}=await sync.client.auth.getSession();
+  sync.user=data.session?.user||null;
+  if(sync.user) syncNow(); else setSync('signedOut');
+}
+function syncSoon(){ if(!sync.user||sync.quiet) return; clearTimeout(sync.timer); sync.timer=setTimeout(syncNow,3000); }
+async function syncNow(){
+  if(!sync.client||!sync.user||sync.busy) return;
+  sync.busy=true; setSync('syncing');
+  try{
+    const {data,error}=await sync.client.from('progress').select('data').eq('user_id',sync.user.id).maybeSingle();
+    if(error) throw error;
+    const remote=data?.data||{};
+    const before=canon(exportProgress());
+    if(st.demo){ const nd=st.newDay; st=freshState(); st.newDay=nd; }  // sample progress never goes to an account
+    const merged=mergeProgress(exportProgress(),remote);
+    st.cards=merged.cards; st.days=merged.days; st.counters={...freshState().counters,...merged.counters}; st.demo=false;
+    sync.quiet=true; save(); sync.quiet=false;
+    if(canon(merged)!==canon(mergeProgress(remote,{}))){
+      const {error:e2}=await sync.client.from('progress').upsert({user_id:sync.user.id,data:merged,updated_at:new Date().toISOString()});
+      if(e2) throw e2;
+    }
+    sync.last=Date.now(); setSync('synced');
+    if(canon(exportProgress())!==before){ rv=null; show(ui.view); }
+  }catch(e){ setSync('error','同步失敗，稍後會再試：'+(e.message||e)); }
+  finally{ sync.busy=false; }
+}
+function authMessage(e){
+  return ({invalid_credentials:'Email 或密碼不正確。',email_not_confirmed:'請先點確認信中的連結，再登入。',user_already_exists:'這個 Email 已經註冊過了，請直接登入。',weak_password:'密碼太短，至少需要 6 個字元。'})[e.code]||e.message||String(e);
+}
+async function authAction(kind){
+  const email=$('#acctEmail').value.trim(), password=$('#acctPass').value;
+  if(!email||!password){ sync.note='請輸入 Email 和密碼。'; renderAccount(); return; }
+  sync.note=''; sync.noteOk=false; renderAccount(true);
+  try{
+    if(kind==='signin'){ const {error}=await sync.client.auth.signInWithPassword({email,password}); if(error) throw error; sync.open=false; }
+    else{
+      const {data,error}=await sync.client.auth.signUp({email,password,options:{emailRedirectTo:location.origin+location.pathname}});
+      if(error) throw error;
+      if(!data.session){ sync.note=`已寄出確認信到 ${email}。點信中的連結後就會自動登入。`; sync.noteOk=true; } else sync.open=false;
+    }
+  }catch(e){ sync.note=authMessage(e); sync.noteOk=false; }
+  renderAccount();
+}
+function renderAccount(busy=false){
+  if(!syncEnabled()) return;
+  const btn=$('#acctBtn'), panel=$('#acctPanel');
+  btn.dataset.s=sync.user?sync.status:'off';
+  btn.querySelector('span').textContent=sync.user?(sync.status==='syncing'?'同步中…':sync.status==='error'?'同步失敗':'已同步'):'登入同步';
+  btn.setAttribute('aria-expanded',sync.open);
+  panel.hidden=!sync.open;
+  if(!sync.open) return;
+  if(sync.user){
+    const when=sync.last?new Date(sync.last).toLocaleTimeString('zh-TW',{hour:'2-digit',minute:'2-digit'}):'';
+    panel.innerHTML=`<h3>帳號同步</h3><p class="sub">${esc(sync.user.email||'')}</p>
+      <p class="sub">${sync.status==='error'?esc(sync.msg):sync.status==='syncing'?'同步中…':when?`上次同步 ${when}`:'已登入'}</p>
+      <div class="row"><button class="btn" data-act="syncnow">立即同步</button><button class="btn" data-act="signout">登出</button></div>`;
+  }else{
+    panel.innerHTML=`<h3>登入同步</h3><p class="sub">登入後，網頁版和手機 App 會共用學習進度。</p>
+      <form id="acctForm" style="display:grid;gap:8px"><input type="text" id="acctEmail" inputmode="email" autocomplete="email" placeholder="Email" aria-label="Email" value="${esc(sync.email||'')}">
+      <input type="password" id="acctPass" autocomplete="current-password" placeholder="密碼（至少 6 個字元）" aria-label="密碼">
+      ${sync.note?`<p class="acct-msg${sync.noteOk?' ok':''}">${esc(sync.note)}</p>`:''}
+      <div class="row"><button class="btn pri" type="submit" data-kind="signin" ${busy?'disabled':''}>登入</button><button class="btn" type="button" data-act="signup" ${busy?'disabled':''}>建立帳號</button></div></form>`;
+  }
+}
 
 const esc = s => String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const $ = (s,el=document)=>el.querySelector(s);
@@ -480,7 +586,9 @@ function sceneIcon(type){
 }
 
 /* ======================= widget ======================= */
-function dailyRoot(){ const roots=DECK.filter(id=>M[id].type==='root'&&wordsWith(id).length>=3); const n=Math.floor((Date.now()-new Date().getTimezoneOffset()*6e4)/DAY); return roots[n%roots.length]; }
+// Same rule as the Android app and widget: days since 2024-01-01 by local calendar date.
+function dayNumber(d=new Date()){ return Math.round((Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())-Date.UTC(2024,0,1))/DAY); }
+function dailyRoot(){ const roots=DECK.filter(id=>M[id].type==='root'&&wordsWith(id).length>=3); return roots[dayNumber()%roots.length]; }
 function renderWidget(){
   const m=M[dailyRoot()]; const ws=wordsWith(m.id).slice(0,3).map(w=>w.w).join(' · ');
   const h=`<div class="wg" style="--c:var(--root)"><div><div class="wg-k">今日字根 · 手機桌面小工具預覽</div><div class="wg-f">${esc(m.forms)}</div><div class="wg-m">${esc(m.mean)}</div><div class="wg-w">${esc(ws)}</div></div><button class="btn sm" data-center="${m.id}">展開字根</button></div>`;
@@ -644,7 +752,7 @@ function nextState(c,g){
   else if(g===1){ if(c.reps===0){c.ivl=0;c.due=now+6e5;} else {c.ivl=Math.max(1,Math.round(c.ivl*1.2));c.due=now+c.ivl*DAY;} c.ease=Math.max(1.3,c.ease-.15); c.reps++; }
   else if(g===2){ c.ivl=c.reps===0?1:c.reps===1?3:Math.round(Math.max(c.ivl,1)*c.ease); c.due=now+c.ivl*DAY; c.reps++; }
   else { c.ivl=c.reps===0?4:Math.round(Math.max(c.ivl,1)*c.ease*1.3); c.ease+=.15; c.due=now+c.ivl*DAY; c.reps++; }
-  c.last=g; return c;
+  c.last=g; c.t=now; return c;
 }
 function fmtDur(ms){ const m=Math.round(ms/6e4); if(m<60) return `${Math.max(1,m)} 分`; const h=Math.round(m/60); if(h<24) return `${h} 小時`; const d=Math.round(ms/DAY); if(d<31) return `${d} 天`; return `${(d/30).toFixed(d<300?1:0)} 個月`; }
 function grade(g){
@@ -799,7 +907,7 @@ function go(view){ if(location.hash!=='#'+view) location.hash=view; else show(vi
 
 document.addEventListener('click',e=>{
   const t=e.target.closest('[data-center],[data-word],[data-tab],[data-act],[data-speak],[data-tk],[data-split]');
-  if(!t){ const pop=$('#extPop'); if(pop&&!pop.hidden&&!e.target.closest('#extPop')) pop.hidden=true; return; }
+  if(!t){ const pop=$('#extPop'); if(pop&&!pop.hidden&&!e.target.closest('#extPop')) pop.hidden=true; if(sync.open&&!e.target.closest('#acctWrap')){ sync.open=false; renderAccount(); } return; }
   if(t.dataset.speak){ speak(t.dataset.speak); return; }
   if(t.dataset.tk){ showPop(t); return; }
   if(t.dataset.split){ $('#spInput').value=t.dataset.split; renderSplit(t.dataset.split); return; }
@@ -832,6 +940,10 @@ document.addEventListener('click',e=>{
   if(act==='pzcheck') pzCheck();
   if(act==='pznext') newPuzzle();
   if(act==='popclose') $('#extPop').hidden=true;
+  if(act==='acct'){ sync.open=!sync.open; renderAccount(); if(sync.open&&!sync.user) setTimeout(()=>$('#acctEmail')?.focus(),0); return; }
+  if(act==='syncnow'){ syncNow(); return; }
+  if(act==='signout'){ sync.client.auth.signOut(); sync.open=false; renderAccount(); return; }
+  if(act==='signup'){ sync.email=$('#acctEmail').value; authAction('signup'); return; }
   if(act==='reset'){
     if(!ui.confirmReset){ ui.confirmReset=true; renderDemoPill(); setTimeout(()=>{ui.confirmReset=false;renderDemoPill();},4000); return; }
     ui.confirmReset=false; st=freshState(); save(); rv=null; show(ui.view);
@@ -847,6 +959,7 @@ document.addEventListener('keydown',e=>{
 document.addEventListener('submit',e=>{
   e.preventDefault();
   if(e.target.id==='spForm'){ renderSplit($('#spInput').value); return; }
+  if(e.target.id==='acctForm'){ sync.email=$('#acctEmail').value; authAction('signin'); return; }
   if(e.target.dataset.form==='spell'&&rv.q&&!rv.q.revealed){ const v=$('#spellIn').value.trim().toLowerCase(); if(!v) return; rv.q.typed=v; rv.q.ok=v===rv.q.target.w; rv.q.revealed=true; renderReview(); }
 });
 $('#exSearch').addEventListener('input',e=>{ ui.q=e.target.value; renderList(); });
@@ -857,7 +970,7 @@ document.addEventListener('dragleave',e=>{ const s=e.target.closest&&e.target.cl
 document.addEventListener('drop',e=>{ const s=e.target.closest&&e.target.closest('#slot'); if(!s) return; e.preventDefault(); const i=+e.dataTransfer.getData('text/plain'); if(!Number.isNaN(i)&&!pz.placed.includes(i)&&pz.state!=='win'){ pz.placed.push(i); pz.state=null; } renderPuzzle(); });
 
 $('#spEx').innerHTML=['progressive','incredible','unpredictable','bankrupt','panic','construction','inspector','transportation'].map(w=>`<button class="chip" data-split="${w}">${w}</button>`).join('');
-renderExt(); renderWidget();
+renderExt(); renderWidget(); syncStart();
 window.addEventListener('hashchange',route);
 route();
 </script>

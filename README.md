@@ -5,7 +5,7 @@
 
 **線上版：https://winson0728.github.io/WordBlocks/**
 
-目前收錄：48 個字首、91 個字根、32 個字尾，410 個單字，分成 10 個主題區。每個單字都有人工校對的拆解、字面義、中文釋義與例句。
+目前收錄：48 個字首、91 個字根、32 個字尾，540 個單字，分成 10 個主題區。每個單字都有人工校對的拆解、字面義、中文釋義與例句。
 
 ## 專案結構
 
@@ -20,6 +20,8 @@ data/
   wordblocks.json        由上面四個檔案產生，網頁與 App 共用（勿手動修改）
   candidates.tsv         待審的高頻候選單字（由匯入腳本產生）
   candidate-roots.tsv    尚未收錄、但能解鎖最多常用字的字根
+config/sync.json         帳號同步設定（Supabase 專案網址與 publishable key）
+supabase/schema.sql      同步用的資料表與權限規則
 tools/
   build-data.mjs         驗證資料並產生 wordblocks.json、更新 index.html 與 App 資料
   import_candidates.py   從開源字根資料集找出高頻候選單字
@@ -39,7 +41,7 @@ tools/
 | 字根積木 | 給中文字義，拖拉或點選積木拼出單字 |
 | 解鎖地圖 | 各主題區銅／銀／金牌與成就勳章 |
 
-學習進度存在瀏覽器 `localStorage`；第一次開啟會載入示範進度，可按右上角「從零開始」清除。
+學習進度存在瀏覽器 `localStorage`；第一次開啟會載入示範進度，可按右上角「從零開始」清除。登入同步後，示範進度會被捨棄，不會上傳到帳號。
 
 ### 用 GitHub Pages 發布
 
@@ -48,7 +50,12 @@ tools/
 
 ## Android App
 
-在 `flutter_app/`，詳見該資料夾的 README。目前有四個分頁：字根地圖、拆解、複習、積木。複習進度存在手機上。
+在 `flutter_app/`，詳見該資料夾的 README。
+
+- 五個分頁：字根地圖、拆解、複習、積木、成就（解鎖地圖與勳章）
+- 右上角「設定」：帳號同步、每日複習提醒（可選時間）、桌面小工具說明
+- 桌面小工具「今日字根」：長按桌面 → 小工具 → 字根工坊。每天午夜後自動換字根，不必開 App
+- 複習進度存在手機上；登入後與網頁版同步
 
 每次推送到 `main`，GitHub Actions（`.github/workflows/android.yml`）會檢查資料、跑分析與測試，並建置 APK。
 到 repo 的 **Actions** 分頁點最新一次執行，在 Artifacts 下載 `wordblocks-apk`，解壓縮後即可安裝到手機（需允許安裝未知來源 App）。
@@ -60,6 +67,22 @@ cd flutter_app
 flutter test
 flutter run
 ```
+
+## 帳號同步（網頁 ↔ 手機）
+
+同步用 [Supabase](https://supabase.com)（免費方案即可）。設定一次：
+
+1. 在 Supabase 建立專案。
+2. 打開 **SQL Editor**，貼上 `supabase/schema.sql` 全部內容並執行。這會建立 `progress` 資料表，並設定「每個人只能讀寫自己的資料」。
+3. 到 **Authentication → URL Configuration**，把 **Site URL** 設成 `https://winson0728.github.io/WordBlocks/`（確認信裡的連結會回到這裡）。
+4. 到 **Project Settings → API Keys**，把 Project URL 和 **Publishable key**（舊專案叫 anon public key）填進 `config/sync.json`：
+   ```json
+   { "supabaseUrl": "https://xxxx.supabase.co", "supabaseKey": "sb_publishable_..." }
+   ```
+   這兩個值本來就是公開的，安全由第 2 步的資料庫規則保護。**絕對不要**放 `service_role` 或 `sb_secret_` 開頭的金鑰，建置腳本也會拒絕。
+5. 執行 `node tools/build-data.mjs` 後推送。網頁版右上角會出現「登入同步」，App 的設定頁也會出現登入表單。
+
+同步規則：每張卡片保留最近一次複習的版本，學習日期合併，成就計數取較大值。每次複習後約 3 秒自動同步，開啟 App 或網頁時也會同步。
 
 ## 新增單字與字根
 
@@ -87,7 +110,6 @@ python3 tools/import_candidates.py --min-zipf 3.5
 
 ## 建議的正式版架構
 
-- **同步**：Supabase（Postgres + Auth + Realtime）或 Firebase，讓網頁與手機的收藏、複習紀錄即時同步。
 - **資料表**：`morphemes`、`words`、`word_parts(word_id, position, morpheme_id, surface_text)`、
   `morpheme_links(a_id, b_id, relation)`（變體、易混淆、同義）、`review_cards`、`review_logs`。
 - **平台功能**：網頁版做成瀏覽器擴充功能（反白查詢）；Android 加上桌面小工具與每日複習推播。

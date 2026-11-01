@@ -35,7 +35,9 @@ class _SplitScreenState extends State<SplitScreen> {
 
   void _run(String w) {
     _controller.text = w;
-    setState(() => _result = AppScope.of(context).splitter.analyze(w));
+    final scope = AppScope.of(context);
+    setState(() => _result = scope.splitter.analyze(w));
+    if (_result != null) scope.store.bump('split');
   }
 
   @override

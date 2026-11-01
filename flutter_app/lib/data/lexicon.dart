@@ -156,13 +156,19 @@ class Lexicon {
       if (m.type != MorphemeType.suf && wordsWith(m.id).isNotEmpty) m.id,
   ];
 
-  /// A root that changes once a day, for the "today's root" card.
-  Morpheme rootOfTheDay(DateTime now) {
-    final roots = [
-      for (final m in morphemes.values)
-        if (m.type == MorphemeType.root && wordsWith(m.id).length >= 3) m,
-    ];
-    final day = DateTime(now.year, now.month, now.day).difference(DateTime(2024)).inDays;
-    return roots[day % roots.length];
-  }
+  /// Roots with at least three words, in a fixed order. "Root of the day" cycles through this
+  /// list; the Android home-screen widget receives the same list and must pick the same item.
+  late final List<Morpheme> dailyRoots = [
+    for (final m in morphemes.values)
+      if (m.type == MorphemeType.root && wordsWith(m.id).length >= 3) m,
+  ];
+
+  /// Days since 2024-01-01 for the local calendar date. Uses UTC dates so daylight-saving
+  /// changes never shift the count; TodayRootWidget.kt computes the same number.
+  static int dayNumber(DateTime now) =>
+      DateTime.utc(now.year, now.month, now.day).difference(DateTime.utc(2024)).inDays;
+
+  /// A root that changes once a day, for the "today's root" card and the home-screen widget.
+  Morpheme rootOfTheDay(DateTime now) => dailyRoots[dayNumber(now) % dailyRoots.length];
+
 }

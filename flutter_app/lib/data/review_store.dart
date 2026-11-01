@@ -9,6 +9,7 @@ enum Grade { again, hard, good, easy }
 const gradeNames = {Grade.again: '重來', Grade.hard: '困難', Grade.good: '良好', Grade.easy: '簡單'};
 
 /// Memory state of one review card (a prefix or root).
+/// The JSON shape is shared with the web app and the sync service.
 class CardState {
   const CardState({
     this.ease = 2.5,
@@ -17,15 +18,17 @@ class CardState {
     this.lapses = 0,
     this.last,
     required this.due,
+    this.updatedAt = 0,
   });
 
   factory CardState.fromJson(Map<String, dynamic> j) => CardState(
         ease: (j['ease'] as num).toDouble(),
-        intervalDays: j['ivl'] as int,
-        reps: j['reps'] as int,
-        lapses: j['lapses'] as int,
-        last: j['last'] == null ? null : Grade.values[j['last'] as int],
-        due: DateTime.fromMillisecondsSinceEpoch(j['due'] as int),
+        intervalDays: (j['ivl'] as num).toInt(),
+        reps: (j['reps'] as num).toInt(),
+        lapses: (j['lapses'] as num? ?? 0).toInt(),
+        last: j['last'] == null ? null : Grade.values[(j['last'] as num).toInt()],
+        due: DateTime.fromMillisecondsSinceEpoch((j['due'] as num).toInt()),
+        updatedAt: (j['t'] as num? ?? 0).toInt(),
       );
 
   final double ease;
@@ -34,6 +37,9 @@ class CardState {
   final int lapses;
   final Grade? last;
   final DateTime due;
+
+  /// When this card was last graded (ms since epoch). Sync keeps the newer copy.
+  final int updatedAt;
 
   bool get learned => reps >= 1 && last != null && last != Grade.again;
 
@@ -44,6 +50,7 @@ class CardState {
         'lapses': lapses,
         'last': last?.index,
         'due': due.millisecondsSinceEpoch,
+        't': updatedAt,
       };
 }
 
@@ -79,7 +86,15 @@ CardState schedule(CardState? card, Grade g, DateTime now) {
       due = now.add(Duration(days: ivl));
       reps++;
   }
-  return CardState(ease: ease, intervalDays: ivl, reps: reps, lapses: lapses, last: g, due: due);
+  return CardState(
+    ease: ease,
+    intervalDays: ivl,
+    reps: reps,
+    lapses: lapses,
+    last: g,
+    due: due,
+    updatedAt: now.millisecondsSinceEpoch,
+  );
 }
 
 String formatDelay(Duration d) {
@@ -89,21 +104,49 @@ String formatDelay(Duration d) {
   return '${(d.inDays / 30).toStringAsFixed(d.inDays < 300 ? 1 : 0)} 個月';
 }
 
-/// Review progress, kept on the device with shared_preferences.
+/// Merges two progress documents (the shape returned by [ReviewStore.exportProgress]).
+/// Cards: the more recently graded copy wins. Study days: union. Counters: the larger value.
+Map<String, dynamic> mergeProgress(Map<String, dynamic> a, Map<String, dynamic> b) {
+  final cards = <String, dynamic>{...(a['cards'] as Map? ?? const {})};
+  (b['cards'] as Map? ?? const {}).forEach((id, card) {
+    final mine = cards[id] as Map?;
+    if (mine == null) {
+      cards[id as String] = card;
+      return;
+    }
+    final tMine = (mine['t'] as num? ?? 0), tTheirs = ((card as Map)['t'] as num? ?? 0);
+    if (tTheirs > tMine || (tTheirs == tMine && (card['reps'] as num) > (mine['reps'] as num))) {
+      cards[id as String] = card;
+    }
+  });
+  final days = <String>{
+    ...((a['days'] as List?) ?? const []).cast<String>(),
+    ...((b['days'] as List?) ?? const []).cast<String>(),
+  }.toList()
+    ..sort();
+  final counters = <String, int>{};
+  for (final src in [a['counters'], b['counters']]) {
+    (src as Map? ?? const {}).forEach((k, v) => counters[k as String] = max(counters[k] ?? 0, (v as num).toInt()));
+  }
+  return {'v': 1, 'cards': cards, 'days': days, 'counters': counters};
+}
+
+/// Review progress and device settings, kept on the device with shared_preferences.
 class ReviewStore extends ChangeNotifier {
   ReviewStore(this._prefs) {
     final raw = _prefs.getString(_key);
     if (raw != null) {
       final j = jsonDecode(raw) as Map<String, dynamic>;
-      (j['cards'] as Map<String, dynamic>).forEach((k, v) => _cards[k] = CardState.fromJson(v as Map<String, dynamic>));
+      _apply(j);
       _newDay = j['newDay'] as String? ?? '';
       _newToday = j['newToday'] as int? ?? 0;
-      _days.addAll((j['days'] as List? ?? const []).cast<String>());
-      puzzlesSolved = j['puzzles'] as int? ?? 0;
+      // Older saves kept the puzzle count at the top level.
+      if (j['puzzles'] is int) counters['puzzles'] = max(counters['puzzles'] ?? 0, j['puzzles'] as int);
     }
   }
 
   static const _key = 'wordblocks.review.v1';
+  static const _reminderKey = 'wordblocks.reminder';
   static const newPerDay = 8;
 
   final SharedPreferences _prefs;
@@ -111,7 +154,11 @@ class ReviewStore extends ChangeNotifier {
   final Set<String> _days = {};
   String _newDay = '';
   int _newToday = 0;
-  int puzzlesSolved = 0;
+
+  /// Activity counters used by badges: split, ext, puzzles, myth.
+  final Map<String, int> counters = {};
+
+  int get puzzlesSolved => counters['puzzles'] ?? 0;
 
   static String dayKey(DateTime t) =>
       '${t.year}-${t.month.toString().padLeft(2, '0')}-${t.day.toString().padLeft(2, '0')}';
@@ -147,10 +194,15 @@ class ReviewStore extends ChangeNotifier {
     _save();
   }
 
-  void recordPuzzle() {
-    puzzlesSolved++;
+  /// Adds one to a counter, or sets it to at least 1 when [once] is true.
+  void bump(String counter, {bool once = false}) {
+    final v = counters[counter] ?? 0;
+    if (once && v >= 1) return;
+    counters[counter] = v + 1;
     _save();
   }
+
+  void recordPuzzle() => bump('puzzles');
 
   int streak(DateTime now) {
     var t = DateTime(now.year, now.month, now.day);
@@ -163,16 +215,54 @@ class ReviewStore extends ChangeNotifier {
     return n;
   }
 
+  // ---- sync ----
+
+  /// Progress that follows the user across devices (no device-only settings).
+  Map<String, dynamic> exportProgress() => {
+        'v': 1,
+        'cards': _cards.map((k, v) => MapEntry(k, v.toJson())),
+        'days': (_days.toList()..sort()),
+        'counters': Map<String, int>.from(counters),
+      };
+
+  /// Merges progress from another device. Returns true when anything here changed.
+  bool importProgress(Map<String, dynamic> remote) {
+    final before = jsonEncode(exportProgress());
+    final merged = mergeProgress(exportProgress(), remote);
+    if (jsonEncode(merged) == before) return false;
+    _apply(merged);
+    _save();
+    return true;
+  }
+
+  void _apply(Map<String, dynamic> j) {
+    _cards.clear();
+    (j['cards'] as Map<String, dynamic>? ?? const {})
+        .forEach((k, v) => _cards[k] = CardState.fromJson(v as Map<String, dynamic>));
+    _days
+      ..clear()
+      ..addAll((j['days'] as List? ?? const []).cast<String>());
+    counters.clear();
+    (j['counters'] as Map? ?? const {}).forEach((k, v) => counters[k as String] = (v as num).toInt());
+  }
+
+  // ---- daily reminder (device only, not synced) ----
+
+  bool get reminderOn => _prefs.getBool('$_reminderKey.on') ?? false;
+
+  /// Minutes after midnight; default 20:30.
+  int get reminderMinute => _prefs.getInt('$_reminderKey.minute') ?? 20 * 60 + 30;
+
+  Future<void> setReminder({required bool on, int? minute}) async {
+    await _prefs.setBool('$_reminderKey.on', on);
+    if (minute != null) await _prefs.setInt('$_reminderKey.minute', minute);
+    notifyListeners();
+  }
+
   void _save() {
     _prefs.setString(
       _key,
-      jsonEncode({
-        'cards': _cards.map((k, v) => MapEntry(k, v.toJson())),
-        'newDay': _newDay,
-        'newToday': _newToday,
-        'days': _days.toList(),
-        'puzzles': puzzlesSolved,
-      }),
+      jsonEncode({...exportProgress(), 'newDay': _newDay, 'newToday': _newToday}),
     );
     notifyListeners();
   }

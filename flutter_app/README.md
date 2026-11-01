@@ -4,8 +4,10 @@ Flutter app for Android that reads the same data as the web version
 (`assets/wordblocks.json`, generated from `../data/*.txt` by `node ../tools/build-data.mjs`).
 
 Screens: 字根地圖 (browse roots, prefixes and suffixes by category; root and word pages with
-block splits and etymology stories), 拆解 (split any word), 複習 (spaced repetition, progress saved
-on the device), 積木 (build words from blocks).
+block splits and etymology stories), 拆解 (split any word), 複習 (spaced repetition), 積木 (build
+words from blocks), 成就 (unlock map and badges). Settings: account sync (Supabase, see the main
+README), a daily review reminder, and a home-screen widget that shows one root per day
+(`android/app/src/main/kotlin/.../TodayRootWidget.kt`).
 
 ```bash
 flutter pub get

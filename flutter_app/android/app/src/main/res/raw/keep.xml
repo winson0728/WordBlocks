@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Keep the notification icon and widget resources from being removed by resource shrinking. -->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@mipmap/ic_launcher,@layout/today_root_widget,@drawable/widget_background" />

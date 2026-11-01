@@ -141,12 +141,31 @@ class TodayRootCard extends StatelessWidget {
   }
 }
 
-class MorphemePage extends StatelessWidget {
+class MorphemePage extends StatefulWidget {
   const MorphemePage({super.key, required this.id});
   final String id;
 
   @override
+  State<MorphemePage> createState() => _MorphemePageState();
+}
+
+class _MorphemePageState extends State<MorphemePage> {
+  /// Roots whose stories count toward the 神話獵人 badge.
+  static const _mythStories = {'panGod', 'bank'};
+
+  @override
+  void initState() {
+    super.initState();
+    if (_mythStories.contains(widget.id)) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        if (mounted) AppScope.of(context).store.bump('myth', once: true);
+      });
+    }
+  }
+
+  @override
   Widget build(BuildContext context) {
+    final id = widget.id;
     final scope = AppScope.of(context);
     final m = scope.lexicon.morphemes[id]!;
     final c = morphemeColor(context, m.type);

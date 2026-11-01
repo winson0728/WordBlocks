@@ -12,6 +12,7 @@
 //                        parts: space-separated morpheme ids; write id=text when the
 //                        spelling inside the word differs from the id (e.g. "de struct=stroy")
 //   data/stories.txt     morphemeId|story|scene   (either may be empty)
+//   config/sync.json     {"supabaseUrl", "supabaseKey"} for account sync; empty values turn sync off
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -94,8 +95,29 @@ const a = html.indexOf(BEGIN), b = html.indexOf(END);
 if (a < 0 || b < a) { console.error('error: data markers not found in index.html'); process.exit(1); }
 targets.push([htmlPath, html.slice(0, a + BEGIN.length) + 'const DATA=' + JSON.stringify(data) + ';' + html.slice(b)]);
 
-const flutterAsset = join(ROOT, 'flutter_app', 'assets', 'wordblocks.json');
-if (existsSync(dirname(flutterAsset))) targets.push([flutterAsset, json]);
+// Account sync settings: the Supabase project URL and its publishable (or legacy anon) key.
+// Both are public by design; the database rules in supabase/schema.sql protect the data.
+const syncPath = join(ROOT, 'config', 'sync.json');
+const sync = existsSync(syncPath) ? JSON.parse(readFileSync(syncPath, 'utf8')) : {};
+const syncConfig = { supabaseUrl: String(sync.supabaseUrl || '').trim(), supabaseKey: String(sync.supabaseKey || '').trim() };
+if (syncConfig.supabaseUrl && !/^https:\/\/[a-z0-9-]+\.supabase\.co$/.test(syncConfig.supabaseUrl.replace(/\/$/, ''))) {
+  console.warn('warning: config/sync.json: supabaseUrl should look like https://<project>.supabase.co');
+}
+if (/service_role|sb_secret_/.test(syncConfig.supabaseKey)) {
+  console.error('error: config/sync.json holds a secret key. Use the publishable (or anon) key, never service_role.');
+  process.exit(1);
+}
+const S_BEGIN = '/* WORDBLOCKS_SYNC_BEGIN */', S_END = '/* WORDBLOCKS_SYNC_END */';
+let page = targets[1][1];
+const sa = page.indexOf(S_BEGIN), sb = page.indexOf(S_END);
+if (sa < 0 || sb < sa) { console.error('error: sync markers not found in index.html'); process.exit(1); }
+targets[1][1] = page.slice(0, sa + S_BEGIN.length) + 'const SYNC=' + JSON.stringify(syncConfig) + ';' + page.slice(sb);
+
+const flutterAssets = join(ROOT, 'flutter_app', 'assets');
+if (existsSync(flutterAssets)) {
+  targets.push([join(flutterAssets, 'wordblocks.json'), json]);
+  targets.push([join(flutterAssets, 'sync.json'), JSON.stringify(syncConfig, null, 2) + '\n']);
+}
 
 let stale = 0;
 for (const [path, content] of targets) {
@@ -107,4 +129,4 @@ for (const [path, content] of targets) {
 if (CHECK && stale) { console.error('Run: node tools/build-data.mjs'); process.exit(1); }
 
 const count = t => morphemes.filter(m => m.type === t).length;
-console.log(`${CHECK ? 'Up to date' : 'Built'}: ${count('pre')} prefixes, ${count('root')} roots, ${count('suf')} suffixes, ${words.length} words, ${categories.length} categories.`);
+console.log(`${CHECK ? 'Up to date' : 'Built'}: ${count('pre')} prefixes, ${count('root')} roots, ${count('suf')} suffixes, ${words.length} words, ${categories.length} categories. Sync ${syncConfig.supabaseUrl && syncConfig.supabaseKey ? 'on' : 'off'}.`);

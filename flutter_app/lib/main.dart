@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -5,10 +7,14 @@ import 'app_scope.dart';
 import 'data/lexicon.dart';
 import 'data/review_store.dart';
 import 'data/splitter.dart';
+import 'platform/home_screen_widget.dart';
+import 'screens/badges_screen.dart';
 import 'screens/explore_screen.dart';
 import 'screens/puzzle_screen.dart';
 import 'screens/review_screen.dart';
+import 'screens/settings_screen.dart';
 import 'screens/split_screen.dart';
+import 'sync/sync_service.dart';
 import 'theme.dart';
 
 void main() {
@@ -24,11 +30,16 @@ class WordBlocksApp extends StatefulWidget {
 }
 
 class _WordBlocksAppState extends State<WordBlocksApp> {
-  late final Future<(Lexicon, Splitter, ReviewStore)> _load = _init();
+  late final Future<(Lexicon, Splitter, ReviewStore, SyncService)> _load = _init();
 
-  static Future<(Lexicon, Splitter, ReviewStore)> _init() async {
-    final (lexicon, prefs) = await (Lexicon.load(), SharedPreferences.getInstance()).wait;
-    return (lexicon, Splitter(lexicon), ReviewStore(prefs));
+  static Future<(Lexicon, Splitter, ReviewStore, SyncService)> _init() async {
+    final (lexicon, prefs, config) = await (Lexicon.load(), SharedPreferences.getInstance(), SyncConfig.load()).wait;
+    final store = ReviewStore(prefs);
+    final sync = SyncService(config, store);
+    // Neither needs to finish before the first screen appears.
+    unawaited(sync.start());
+    unawaited(HomeScreenWidget.publish(lexicon));
+    return (lexicon, Splitter(lexicon), store, sync);
   }
 
   @override
@@ -48,8 +59,8 @@ class _WordBlocksAppState extends State<WordBlocksApp> {
           if (!snap.hasData) {
             return const Scaffold(body: Center(child: CircularProgressIndicator()));
           }
-          final (lexicon, splitter, store) = snap.data!;
-          return AppScope(lexicon: lexicon, splitter: splitter, store: store, child: navigator!);
+          final (lexicon, splitter, store, sync) = snap.data!;
+          return AppScope(lexicon: lexicon, splitter: splitter, store: store, sync: sync, child: navigator!);
         },
       ),
       home: const HomeShell(),
@@ -67,15 +78,21 @@ class HomeShell extends StatefulWidget {
 class _HomeShellState extends State<HomeShell> {
   int _tab = 0;
 
-  static const _titles = ['字根地圖', '拆解', '今日複習', '字根積木'];
+  static const _titles = ['字根地圖', '拆解', '今日複習', '字根積木', '成就'];
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text(_titles[_tab])),
+      appBar: AppBar(title: Text(_titles[_tab]), actions: [
+        IconButton(
+          tooltip: '設定',
+          icon: const Icon(Icons.settings_outlined),
+          onPressed: () => Navigator.of(context).push(MaterialPageRoute(builder: (_) => const SettingsScreen())),
+        ),
+      ]),
       body: IndexedStack(
         index: _tab,
-        children: const [ExploreScreen(), SplitScreen(), ReviewScreen(), PuzzleScreen()],
+        children: const [ExploreScreen(), SplitScreen(), ReviewScreen(), PuzzleScreen(), BadgesScreen()],
       ),
       bottomNavigationBar: NavigationBar(
         selectedIndex: _tab,
@@ -85,6 +102,7 @@ class _HomeShellState extends State<HomeShell> {
           NavigationDestination(icon: Icon(Icons.view_week_outlined), selectedIcon: Icon(Icons.view_week), label: '拆解'),
           NavigationDestination(icon: Icon(Icons.style_outlined), selectedIcon: Icon(Icons.style), label: '複習'),
           NavigationDestination(icon: Icon(Icons.extension_outlined), selectedIcon: Icon(Icons.extension), label: '積木'),
+          NavigationDestination(icon: Icon(Icons.emoji_events_outlined), selectedIcon: Icon(Icons.emoji_events), label: '成就'),
         ],
       ),
     );

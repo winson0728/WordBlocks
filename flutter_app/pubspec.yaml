@@ -9,7 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_local_notifications: ^22.3.3
+  flutter_timezone: ^5.1.1
+  home_widget: ^0.10.0
   shared_preferences: ^2.5.6
+  supabase_flutter: ^2.18.3
+  timezone: ^0.11.2
 
 dev_dependencies:
   flutter_test:
@@ -20,3 +25,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/wordblocks.json
+    - assets/sync.json
