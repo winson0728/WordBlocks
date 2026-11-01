@@ -81,9 +81,9 @@ press|root|press|壓|拉丁語 premere|move
 pend|root|pend / pens|懸掛；秤重付錢|拉丁語 pendere|move
 vert|root|vert / vers / verse|轉|拉丁語 vertere|move
 cap|root|cap / capt / cept / ceive|拿、抓|拉丁語 capere|move
-fact|root|fact / fect / fic / fit|做|拉丁語 facere|move
+fact|root|fact / fac / fect / fic / fit|做|拉丁語 facere|move
 vent|root|vent / ven / vene|來|拉丁語 venire|move
-tend|root|tend / tens / tense|伸展|拉丁語 tendere|move
+tend|root|tend / tens / tense / tent|伸展|拉丁語 tendere|move
 clud|root|clud / clude / clus|關閉|拉丁語 claudere|move
 mot|root|mot / mote / mob|移動|拉丁語 movere|move
 cur|root|cur / curr / curs|跑、流|拉丁語 currere|move
@@ -99,7 +99,7 @@ lingu|root|lingu|舌頭、語言|拉丁語 lingua|sense
 ton|root|ton / tone|聲調|希臘語 tonos|sense
 log|root|log / logue|話語|希臘語 logos|sense
 onym|root|onym|名字|希臘語 onyma|sense
-fac|root|face / fac|臉、面|拉丁語 facies|sense
+fac|root|face / fac / fic|臉、面|拉丁語 facies|sense
 sens|root|sens / sense / sent|感覺|拉丁語 sentire|mind
 cord|root|cord / cour|心|拉丁語 cor, cordis|mind
 path|root|path|感受、痛苦|希臘語 pathos|mind

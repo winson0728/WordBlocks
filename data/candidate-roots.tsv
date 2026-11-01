@@ -1,19 +1,16 @@
 # Roots in the open datasets that WordBlocks does not have yet, by number of common words they unlock.
 root	common words	English meaning	examples
-feck	28	do; make; shape; fashion; face; form; figure; effect; noun of action or associat	office, official, specific, feature, fashion, scientific, facility, defeat
-fec	28	do; make; shape; fashion; face; form; figure; effect; noun of action or associat	office, official, specific, feature, fashion, scientific, facility, defeat
+feck	25	do; make; shape; fashion; face; form; figure; effect; noun of action or associat	office, official, specific, feature, fashion, scientific, facility, defeat
+fec	25	do; make; shape; fashion; face; form; figure; effect; noun of action or associat	office, official, specific, feature, fashion, scientific, facility, defeat
 min	13	project	minister, administration, ministry, minor, administrative, minority, prominent, administrator
-prim	12	press	press, depression, print, primarily, impressive, impression, compression, primitive
 act	11	act; do; drive; go; move; urge	action, agent, actor, exact, agenda, interaction, transaction, activist
 ago	11	do; go; move	action, agent, actor, exact, agenda, interaction, transaction, activist
 ig	11	do; go; move	action, agent, actor, exact, agenda, interaction, transaction, activist
 gnos	11	know	notice, recognize, recognition, noble, diagnosis, notion, cognitive, ignorant
-cura	11	attention; care	insurance, ensure, accuracy, assure, curiosity, assurance, proxy, insecure
 domin	11	lord; master	danger, domain, dominant, dominate, dominance, madame, madonna, domination
 mod	11	manner; measure; way	model, modern, moderate, accommodation, modest, accommodate, module, commodity
 moder	11	measure; change; manner; way	model, modern, moderate, accommodation, modest, accommodate, module, commodity
 sta	11	stand	standard, station, status, constant, establish, institution, stability, statue
-teg	11	touch; arrange; order; feel	integrity, protective, detection, integral, integrate, detector, contingent, protector
 gene	10	birth; beget; race; kind; produce; production; origin; formation	gender, genuine, genetic, genius, gentle, indigenous, genocide, genesis
 genit	10	birth; beget; race; kind; produce; production; origin; formation	gender, genuine, genetic, genius, gentle, indigenous, genocide, genesis
 gn	10	birth; beget; race; kind; produce; production; origin; formation	gender, genuine, genetic, genius, gentle, indigenous, genocide, genesis
@@ -21,36 +18,29 @@ gnit	10	know	notice, recognize, recognition, noble, notion, cognitive, ignorant,
 gnostic	10	know	notice, recognize, recognition, noble, notion, cognitive, ignorant, notorious
 man	10	hand	management, manner, manage, mandate, manipulation, manipulate, manifest, manifesto
 grat	10	pleasing; thankful	agree, agreement, grace, grateful, disagree, gratitude, disgrace, disagreement
-grad	10	degree; go; step; walk	degree, grade, graduate, gradually, congressional, graduation, aggression, congressman
 spond	10	answer; pledge; promise	response, responsible, responsibility, respond, sponsor, correspondent, correspondence, responsive
 spons	10	assurance; surety; guarantee; pledge; promise	response, responsible, responsibility, respond, sponsor, correspondent, correspondence, responsive
 erg	9	work	energy, organic, organ, surgeon, organize, allergic, energetic, allergy
 urg	9	work; effect	energy, organic, organ, surgeon, organize, allergic, energetic, allergy
 org	9	work; effect	energy, organic, organ, surgeon, organize, allergic, energetic, allergy
-cad	9	fall	chance, casual, occasional, cheat, decay, accidental, incidence, casualty
 mani	9	hand	management, manner, manage, mandate, manipulation, manifest, manifesto, managerial
 stit	9	stand	station, status, institution, destination, substitute, statue, statute, stationary
+grad	9	degree; go; step; walk	degree, grade, graduate, gradually, congressional, graduation, congressman, ingredient
 the	9	arrangement; in order; put; place	thesis, enthusiasm, synthetic, theology, hypothesis, synthesis, timothy, theodore
 lev	9	light	relevant, relief, irrelevant, elevator, elevation, leverage, relieve, lever
 pon	9	place; put	position, positive, component, deposit, opponent, expose, impose, proposition
 auth	9	author	author, authority, authorized, authentic, authorization, authorised, authenticity, authoritarian
-am	8	friend; love	assault, amateur, adapt, aggregate, ammunition, aggression, arrogant, approximate
-cip	8	hold; take; contain	captain, discipline, recipe, recipient, conception, anticipate, caption, captive
 capit	8	head	chief, capital, captain, chapter, achieve, achievement, capitalism, precipitation
-cis	8	cut; kill	decision, decide, precise, precision, cement, decisive, homicide, scissors
+cis	8	cut; kill	decision, decide, precise, precision, cement, homicide, decisive, scissors
 not	8	know	notice, recognize, recognition, notion, cognitive, notable, notorious, notify
 pass	8	feel; suffer	passenger, passage, passionate, password, passport, passive, compassion, compass
 mend	8	order; command; commit	demand, command, recommend, amendment, mandatory, recommendation, mandate, amend
 ordin	8	order; rank; arrange; regulate	order, ordinary, extraordinary, disorder, coordinator, coordination, coordinate, ordinance
 petit	8	ask; attack; fall; rush at; seek; strive	competition, repeat, compete, petition, competent, appetite, competitor, perpetual
 sid	8	settle; calm; sit	president, session, resident, presidency, obsession, reside, subsidy, residue
-tang	8	touch	protective, detection, detector, contingent, protector, tangible, attain, contagious
-ting	8	touch; arrange; order; feel	protective, detection, detector, contingent, protector, tangible, attain, contagious
-tat	8	touch; arrange; order; feel	protective, detection, detector, contingent, protector, tangible, attain, contagious
-tig	8	touch; arrange; order; feel	protective, detection, detector, contingent, protector, tangible, attain, contagious
 trib	8	OR waste away; family; race	contribute, tribute, tribe, tribal, tribunal, distribute, attribute, tribune
 vinc	8	conquer	victory, province, convince, victor, conviction, provincial, victorious, convict
-verg	7	turn; range; totality; world	anniversary, versus, controversy, verse, vertical, adverse, versatile
+am	7	friend; love	assault, amateur, adapt, aggregate, ammunition, arrogant, approximate
 dat	7	give	addition, credit, edition, tradition, editorial, audit, mandate
 dit	7	give	addition, credit, edition, tradition, editorial, audit, mandate
 cipit	7	head	chief, capital, captain, chapter, achieve, achievement, precipitation
@@ -60,24 +50,24 @@ corpor	7	body; flesh	corporate, corporation, corps, incorporate, corpse, corpora
 leg	7	send; pick; read	league, lesson, legend, legacy, delegation, delegate, allegation
 val	7	be strong; be worth	value, equivalent, valid, evaluate, invalid, avail, prevail
 mir	7	behold; look; wonder at	mirror, marvel, miracle, admire, miranda, admiration, marvelous
-gnant	7	born; be from; spring forth; source; birth; tribe	nature, pregnant, pregnancy, supernatural, renaissance, nationality, multinational
-nai	7	born; be from; spring forth; source; birth; tribe	nature, pregnant, pregnancy, supernatural, renaissance, nationality, multinational
 ple	7	fill	complete, supply, completion, implement, supplement, complement, complementary
+cura	7	care	insurance, ensure, accuracy, assure, curiosity, assurance, proxy
 reg	7	straight; direct; straighten; rule	region, regional, regime, regiment, surge, erect, erection
 simil	7	likeness; imitating	similar, simulation, resemble, ensemble, simulator, similarity, simultaneous
 serv	7	keep; protect; serve	service, reserve, deserve, conservation, preserve, servant, observe
 stat	7	stand	state, station, status, institution, statue, statute, stationary
+teg	7	touch; arrange; order; feel	integrity, integral, integrate, contingent, tangible, attain, contagious
 tribut	7	assign; allow; allot; bestow; pay	contribute, tribute, tribe, tribunal, distribute, attribute, tribune
 equ	6	equal; same	equal, equivalent, equity, adequate, equation, equilibrium
 cult	6	till	culture, cultural, agriculture, colonial, colony, cultivation
+verg	6	turn; range; totality; world	anniversary, versus, controversy, verse, vertical, versatile
 bat	6	beat	battle, debate, combat, battery, battalion, batter
+cad	6	fall	chance, casual, cheat, decay, casualty, parachute
 cide	6	cut; kill; slay	decide, suicide, precise, genocide, homicide, scissors
 crit	6	a judge; choose; separate	critical, crisis, criticism, critic, critique, hypocrisy
 divid	6	divide	individual, division, device, divided, divide, dividend
 labor	6	work	labor, laboratory, collaboration, elaborate, collaborative, collaborate
-gred	6	walk; step; go	grade, graduate, graduation, aggression, ingredient, gradual
-jac	6	lie; throw	objective, adjacent, injection, subjective, objection, trajectory
-judic	6	judge	judge, judgment, judicial, judgement, judiciary, prejudice
+judic	6	judge	judge, judgment, judicial, judiciary, judgement, prejudice
 mar	6	pool; the sea	marine, maritime, marsh, marina, submarine, rosemary
 phan	6	appear; bring to light; show	fantastic, fantasy, fancy, emphasis, phenomenon, phantom
 pos	6	place; put	position, composition, deposit, expose, impose, proposition
@@ -94,7 +84,7 @@ soci	6	companion; partner	social, society, association, associate, socialism, so
 speci	6	kind; sort	specific, species, spice, specify, specification, specimen
 stet	6	stand; condition; still	station, status, institution, statue, statute, stationary
 stitu	6	stand; condition; still	station, status, institution, statue, statute, stationary
-prob	6	worthy; good; test; find good	prove, proof, approve, probe, probation, probable
+prob	6	worthy; good; test; find good	prove, proof, approve, probe, probable, probation
 solut	5	loosen	solution, resolution, absolute, solve, resolve
 her	5	hold fast; stick	heritage, inherent, inheritance, adhere, inherit
 hes	5	cling; stick; to stick hold back	inherent, hesitate, coherent, adhere, hesitation
@@ -102,12 +92,10 @@ nom	5	arrangement; law; order; specified area of knowledge	economy, economics, a
 cant	5	sing; song	accent, charm, incentive, carmen, chant
 cin	5	sing; song	accent, charm, incentive, carmen, chant
 chant	5	sing; song	accent, charm, incentive, carmen, chant
-cep	5	hold; take; contain	captain, recipient, conception, caption, captive
-cup	5	hold; take; contain	captain, recipient, conception, caption, captive
+cip	5	hold; take; contain	captain, recipe, discipline, recipient, anticipate
 caus	5	case; motive; reason; sake	because, cause, excuse, accuse, accusation
 cuse	5	cause; motive; reason; sake; case	because, cause, excuse, accuse, accusation
 cus	5	cause; motive; reason; sake; case	because, cause, excuse, accuse, accusation
-ced	5	go; yield	procedure, succession, precedent, procession, ancestry
 cert	5	settled; sure	certain, concert, certificate, uncertain, certainty
 pat	5	endure; feel; suffer	patient, patent, passive, compatible, compassion
 corr	5	run; course	course, currency, corridor, discourse, courier
@@ -122,13 +110,14 @@ fract	5	break	fraction, fragile, fracture, refrain, fragment
 fring	5	break	fraction, fragile, fracture, refrain, fragment
 frag	5	break	fraction, fragile, fracture, refrain, fragment
 frang	5	break	fraction, fragile, fracture, refrain, fragment
+gred	5	walk; step; go	grade, graduate, graduation, ingredient, gradual
 gramm	5	a letter; written character	program, programme, grammar, diagram, telegram
 liber	5	free	liberal, deliver, liberty, liberation, libertarian
 memor	5	mindful; remembering	memory, memorial, memorable, memoir, remembrance
 nect	5	bind	connection, connect, nexus, connectivity, annex
-pli	5	bend; fold; tangle	applicable, explicit, replica, applicant, replicate
 posit	5	place; put; settle	position, composition, deposit, expose, impose
 sumpt	5	take	assume, consumption, assumption, consume, presume
+prim	5	first	press, print, primarily, primitive, primer
 sess	5	be still; sit	president, session, resident, obsession, reside
 sed	5	settle; calm; sit	president, session, resident, obsession, reside
 stant	5	stand	constant, instant, substance, distant, circumstance
@@ -139,7 +128,6 @@ turb	5	disturb; drive; throw in disorder	trouble, turbine, disturbance, disturb,
 us	5	use	abuse, usual, utility, abusive, utilize
 vac	5	at leisure; empty	vacation, vacuum, vacant, vacancy, evacuate
 vari	5	diverse; of many kinds	various, variety, variable, variation, variant
-veni	5	come	revenue, avenue, intervention, venue, advent
 volu	5	will	volume, evolution, volunteer, revolutionary, voluntary
 volv	5	roll; turn	volume, involve, valve, vault, evolve
 plana	5	flat	explain, plane, explanation, plain, piano
@@ -150,3 +138,15 @@ solv	4	loosen; set free	solution, absolute, solve, resolve
 und	4	be excessive; flow; overflow; wave	abundance, surround, abundant, redundant
 proto	4	first	protein, protocol, prototype, protagonist
 prot	4	first; earliest	protein, protocol, prototype, protagonist
+anim	4	mind; soul; spirit	animal, anime, animation, unanimous
+anni	4	year; yearly	annual, anniversary, millennium, perennial
+enni	4	year; yearly	annual, anniversary, millennium, perennial
+pol	4	make sooth	polish, apology, polar, polite
+techn	4	art; skill; technique	technology, technical, technique, architect
+aster	4	star	disaster, astronomy, astronaut, asteroid
+naut	4	ship; boat; seafaring; spaceflight; voyager	naval, navigate, astronaut, nausea
+nav	4	ship; boat; seafaring; spaceflight; voyager	naval, navigate, astronaut, nausea
+tauto	4	self; directed from within; same	automatic, authentic, autism, autonomy
+calc	4	stone; lime	calculate, calcium, chalk, calculus
+camp	4	field	campaign, champion, championship, campus
+cise	4	cut; kill	precise, precision, decisive, scissors

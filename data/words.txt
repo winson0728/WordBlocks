@@ -408,3 +408,133 @@ promise|pro mit=mise|承諾|向前 + 送：把話先送出去|I promise I'll be 
 message|mit=mess age|訊息|送 + 名詞：被送出的東西|Leave a message after the beep.
 special|spect=spec ial|特別的|看 + 的：外觀與眾不同|Today is a special day.
 aspect|ad=a spect|方面|朝向 + 看：從某個角度看|Consider every aspect of the plan.
+university|uni vert=vers ity|大學|單一 + 轉 + 名詞：合為一體的學者團體|She studies economics at a university in Taipei.
+attention|ad=at tend=tent ion|注意力|朝向 + 伸展 + 名詞：把心思伸過去|May I have your attention, please?
+nature|nat ure|自然；本性|出生 + 結果：與生俱來的樣子|We should protect nature.
+finish|fin ish|完成|結束 + 做|I'll finish the report by noon.
+selection|se lect ion|選擇；精選|分開 + 選 + 名詞|The shop has a wide selection of wines.
+entertainment|inter=enter tain ment|娛樂|之間 + 握住 + 名詞|The hotel offers live entertainment.
+depression|de press ion|憂鬱；經濟蕭條|向下 + 壓 + 名詞|Many people suffered during the Great Depression.
+maintenance|manu=main tain=ten ence=ance|維修；保養|手 + 握住 + 名詞|The elevator is closed for maintenance.
+motor|mot or|馬達|移動 + 物|The boat has a small electric motor.
+extensive|ex tend=tens ive|廣泛的|向外 + 伸展 + 性質|She has extensive experience in sales.
+universal|uni vert=vers al|普遍的；全體的|單一 + 轉 + 的|Music is a universal language.
+impressive|in=im press ive|令人印象深刻的|向內 + 壓 + 性質|Your English is impressive.
+extent|ex tend=tent|程度；範圍|向外 + 伸展|To some extent, I agree with you.
+commitment|con=com mit ment|承諾；投入|一起 + 送 + 名詞|Running a business takes a lot of commitment.
+logic|log ic|邏輯|話語 + 的：說話的道理|I don't follow your logic.
+objective|ob ject ive|目標；客觀的|對著 + 丟 + 性質：擺在眼前的東西|Our main objective is to increase sales.
+impression|in=im press ion|印象|向內 + 壓 + 名詞：壓出的印記|First impressions are important.
+corruption|con=cor rupt ion|貪污；腐敗|徹底 + 破 + 名詞|The minister was accused of corruption.
+infection|in fact=fect ion|感染|向內 + 做 + 名詞|Wash the cut to prevent infection.
+transmission|trans mit=miss ion|傳輸；變速箱|跨越 + 送 + 名詞|Data transmission is faster with 5G.
+collective|con=col lect ive|集體的|一起 + 選 + 性質|It was a collective decision.
+intent|in tend=tent|意圖|向內 + 伸展：心思伸向目標|He had no intent to hurt anyone.
+prevention|pre vent=ven ion=tion|預防|預先 + 來 + 名詞|Prevention is better than cure.
+quest|quir=quest|追尋|尋找|The story follows a hero's quest for the truth.
+acquisition|ad=ac quir=quisit ion|收購；取得|朝向 + 尋找 + 名詞|The acquisition cost the company two billion dollars.
+requirement|re quir=quire ment|要求；必要條件|再 + 尋找 + 名詞|A college degree is a requirement for this job.
+intervention|inter vent=ven ion=tion|介入；干預|之間 + 來 + 名詞|Government intervention helped the economy recover.
+suspension|sub=sus pend=pens ion|暫停；懸吊系統|在下 + 懸掛 + 名詞|The player received a three-game suspension.
+diverse|dis=di vert=verse|多元的|分開 + 轉：轉向不同方向|Taipei has a diverse food scene.
+graphic|graph ic|圖像的；平面設計|畫 + 的|She works as a graphic designer.
+respective|re spect ive|各自的|回 + 看 + 性質：分別看待|They returned to their respective homes.
+assignment|ad=as sign ment|任務；作業|朝向 + 記號 + 名詞|The homework assignment is due tomorrow.
+advisory|ad vid=vis ory|顧問的；警告|朝向 + 看 + 的|The government issued a travel advisory.
+compromise|con=com pro mit=mise|妥協|一起 + 向前 + 送：雙方都讓一步|We reached a compromise after long talks.
+missile|mit=miss ile|飛彈|送 + 可…的：可以發射出去的|The missile was launched from a ship.
+intensity|in tend=tens ity|強度|向內 + 伸展 + 名詞|The storm grew in intensity.
+applicable|ad=ap plic able|適用的|朝向 + 摺疊 + 可…的|The discount is not applicable to sale items.
+protective|pro tect ive|保護的|向前 + 遮蓋 + 性質|Wear protective gloves.
+occasional|ob=oc cid=cas ion al|偶爾的|對著 + 落下 + 名詞 + 的|I enjoy an occasional glass of wine.
+continent|con tain=tin ent|大陸；洲|一起 + 握住 + 的：連在一起的土地|Asia is the largest continent.
+detection|de tect ion|偵測|去除 + 遮蓋 + 名詞|Early detection of cancer saves lives.
+intensive|in tend=tens ive|密集的|向內 + 伸展 + 性質|She took an intensive Japanese course.
+median|medi ian=an|中位數|中間 + 的|The median income rose last year.
+continental|con tain=tin ent al|大陸的|一起 + 握住 + 的 + 的|We had a continental breakfast.
+advisor|ad vid=vis or|顧問|朝向 + 看 + 者|He is a financial advisor.
+perfection|per fact=fect ion|完美|徹底 + 做 + 名詞|The steak was cooked to perfection.
+injection|in ject ion|注射|向內 + 丟 + 名詞|The doctor gave him an injection.
+succession|sub=suc cede=cess ion|連續；繼承|在下 + 走 + 名詞：一個接一個|She won three games in succession.
+inclusive|in clud=clus ive|包容的；包含的|向內 + 關閉 + 性質|The price is inclusive of tax.
+suspicion|sub=su spect=spic ion|懷疑|從下 + 看 + 名詞|He was arrested on suspicion of theft.
+superintendent|super in tend ent|主管；督導|在上 + 向內 + 伸展 + 的人|The building superintendent fixed the heater.
+detention|de tain=ten ion=tion|拘留；課後留校|去除 + 握住 + 名詞：扣住不放|He got detention for being late.
+tense|tend=tense|緊張的；時態|伸展：拉緊|The meeting was tense.
+supervision|super vid=vis ion|監督|在上 + 看 + 名詞|Children need adult supervision.
+tenure|tain=ten ure|任期|握住 + 結果|During her tenure as CEO, profits doubled.
+affection|ad=af fact=fect ion|情感；喜愛|朝向 + 做 + 名詞：對人產生作用|She has great affection for her grandmother.
+collector|con=col lect or|收藏家|一起 + 選 + 者|He is a stamp collector.
+aggression|ad=ag gress ion|侵略；攻擊性|朝向 + 走 + 名詞|The country's aggression shocked the world.
+particle|part icle|微粒|部分 + 小物|Dust particles filled the air.
+sensation|sens ion=ation|感覺；轟動|感覺 + 名詞|The new phone caused a sensation.
+mortality|mort al ity|死亡率|死 + 的 + 名詞|Infant mortality has fallen sharply.
+destructive|de struct ive|破壞性的|反轉 + 建造 + 性質|Typhoons can be very destructive.
+supernatural|super nat ure=ur al|超自然的|超越 + 出生 + 結果 + 的|Do you believe in supernatural powers?
+adverse|ad vert=verse|不利的|朝向 + 轉：轉過來對著你|The drug has no adverse effects.
+metric|meter=metr ic|公制的；指標|測量 + 的|Revenue is a key business metric.
+promotional|pro mot ion al|促銷的|向前 + 移動 + 名詞 + 的|We received some promotional emails.
+referee|re fer ee|裁判|回 + 攜帶 + 受…者：被交付爭議的人|The referee blew the whistle.
+advertisement|ad vert ise ment|廣告|朝向 + 轉 + 使 + 名詞|I saw an advertisement for a new phone.
+missionary|mit=miss ion ary|傳教士|送 + 名詞 + 人|His grandparents were missionaries in Africa.
+premise|pre mit=mise|前提|預先 + 送：先放在前面的|The argument is based on a false premise.
+accidental|ad=ac cid ent al|意外的|朝向 + 落下 + 的 + 的|The fire was accidental.
+compression|con=com press ion|壓縮|一起 + 壓 + 名詞|Video compression saves storage space.
+accord|ad=ac cord|協議；一致|朝向 + 心：心意相通|The two countries signed a peace accord.
+retention|re tain=ten ion=tion|保留；留任|回 + 握住 + 名詞|Staff retention is a big challenge.
+definitive|de fin ive=itive|決定性的；權威的|徹底 + 界限 + 性質|This is the definitive guide to the city.
+providence|pro vid ence|天意|向前 + 看 + 名詞：預先看顧|They believed it was divine providence.
+faction|fact=fac ion=tion|派系|做 + 名詞：一起做事的一群人|The party split into two factions.
+encouragement|en cord=cour age ment|鼓勵|使 + 心 + 名詞 + 名詞|Thanks for your encouragement.
+subjective|sub ject ive|主觀的|在下 + 丟 + 性質|Taste in music is subjective.
+oppression|ob=op press ion|壓迫|對著 + 壓 + 名詞|They fought against oppression.
+questionable|quir=quest ion able|可疑的；有問題的|尋找 + 名詞 + 可…的|His methods are questionable.
+traction|tract ion|附著力；進展|拉 + 名詞|The idea is gaining traction.
+conquest|con quir=quest|征服|徹底 + 尋找：完全取得|The Norman conquest of England began in 1066.
+objection|ob ject ion|反對|對著 + 丟 + 名詞|Do you have any objection to the plan?
+scripture|scrib=script ure|經文|寫 + 結果|He reads scripture every morning.
+photographic|photo graph ic|攝影的|光 + 畫 + 的|She has a photographic memory.
+conception|con cap=cept ion|觀念；構想|一起 + 拿 + 名詞|He has no conception of how hard it is.
+finite|fin ite|有限的|界限 + 的|The earth's resources are finite.
+covenant|con=co vent=ven ent=ant|契約；盟約|一起 + 來 + 名詞：走到一起訂約|They signed a covenant to protect the forest.
+contention|con tend=tent ion|爭論；論點|一起 + 伸展 + 名詞|The issue is a point of contention.
+dismissal|dis mit=miss al|解僱；駁回|分開 + 送 + 名詞|He sued the company for unfair dismissal.
+nationality|nat ion al ity|國籍|出生 + 名詞 + 的 + 名詞|What is your nationality?
+caption|cap ion=tion|圖片說明|拿 + 名詞：抓住重點的一句話|Write a caption for this photo.
+insecure|inneg=in se cura=cure|沒有安全感的|不 + 分開 + 擔心|He feels insecure about his English.
+disruption|dis rupt ion|中斷；擾亂|分開 + 破 + 名詞|The strike caused major disruption.
+respectable|re spect able|體面的；可敬的|回 + 看 + 可…的：值得多看一眼|He has a respectable job.
+detector|de tect or|偵測器|去除 + 遮蓋 + 物|Check the smoke detector every month.
+captive|cap=capt ive|被俘的；俘虜|拿 + 性質|The soldiers were held captive.
+indictment|in dict ment|起訴|向內 + 說 + 名詞|The grand jury issued an indictment.
+monarch|mono=mon arch|君主|單一 + 統治|The monarch addressed the nation.
+sensory|sens ory|感官的|感覺 + 的|Babies learn through sensory experiences.
+procurement|pro cura=cure ment|採購|向前 + 照料 + 名詞：事先張羅|She works in the procurement department.
+suppression|sub=sup press ion|壓制|在下 + 壓 + 名詞|The suppression of free speech is dangerous.
+protector|pro tect or|保護者|向前 + 遮蓋 + 物|Buy a screen protector for your phone.
+susceptible|sub=sus cap=cept able=ible|易受影響的|從下 + 拿 + 可…的：容易被接住|Children are more susceptible to colds.
+locality|loc al ity|地區|地方 + 的 + 名詞|Prices vary by locality.
+depart|de part|出發；離開|分開 + 部分：分離出去|The train departs at 8:15.
+partition|part ion=ition|隔板；分割|部分 + 名詞|A glass partition divides the office.
+advent|ad vent|出現；到來|朝向 + 來|The advent of the internet changed everything.
+provisional|pro vid=vis ion al|暫時的|向前 + 看 + 名詞 + 的|This is only a provisional schedule.
+deception|de cap=cept ion|欺騙|去除 + 拿 + 名詞|The ad was a clever deception.
+vocational|voc ion=ation al|職業的|呼喚 + 名詞 + 的：被召喚去做的事|He attended a vocational school.
+incidence|in cid ence|發生率|向內 + 落下 + 名詞|The incidence of flu is high this winter.
+compartment|con=com part ment|隔間|一起 + 部分 + 名詞|Put your bag in the overhead compartment.
+applicant|ad=ap plic ent=ant|申請人|朝向 + 摺疊 + 的人|We had over 200 applicants for the job.
+affinity|ad=af fin ity|親近感；喜好|朝向 + 界限 + 名詞：住在交界的鄰居|She has a natural affinity for languages.
+courageous|cord=cour age ous|勇敢的|心 + 名詞 + 充滿|It was a courageous decision.
+concession|con cede=cess ion|讓步；優惠|徹底 + 讓步 + 名詞|Students get a concession on bus fares.
+procession|pro cede=cess ion|遊行隊伍|向前 + 走 + 名詞|A long procession moved through the streets.
+parameter|para meter|參數；限制範圍|旁邊 + 測量|We need to set the parameters of the project.
+pathology|path ology|病理學|痛苦 + 學問|She works in the hospital's pathology lab.
+superficial|super fac=fic ial|表面的；膚淺的|在上 + 面 + 的|The cut was only superficial.
+dissent|dis sens=sent|異議|分開 + 感覺：感受不同|There was no dissent at the meeting.
+insecurity|inneg=in se cura=cur ity|不安全感|不 + 分開 + 擔心 + 名詞|Job insecurity is a growing problem.
+multinational|multi nat ion al|跨國的|許多 + 出生 + 名詞 + 的|She works for a multinational company.
+curator|cura=cur or=ator|策展人|照料 + 者|The museum curator explained the painting.
+replicate|re plic ate|複製|再 + 摺疊 + 使|Other scientists could not replicate the results.
+inscription|in scrib=script ion|銘文|向內 + 寫 + 名詞：刻進去的字|The ring has an inscription inside.
+mediation|medi ion=ation|調解|中間 + 名詞|The dispute was settled through mediation.
+repression|re press ion|壓抑；鎮壓|回 + 壓 + 名詞|Political repression increased after the election.
