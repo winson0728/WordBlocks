@@ -71,3 +71,5 @@ tom|atom 來自希臘語 a-tomos「不能再切的」。古希臘人以為原子
 calc|拉丁語 calculus 是「小石子」。羅馬人在算盤上移動小石子來計算，所以 calculate 就是「用石子算」。醫學上的「結石」也叫 calculus。|算盤上排著一顆顆小石子。
 aug|author（作者）來自拉丁語 auctor「使事物增長的人」，字根是 augere「增加」。authority（權威）也來自同一個字。|一株小苗在一雙手中慢慢長高。
 stinct|instinct 原意是「從內部刺激」（in + stinguere）：不用思考，身體就被推著去做。|一根細針輕輕刺向手心。
+paed|encyclopedia 來自希臘語 enkyklios paideia「一圈完整的教育」：把所有學問繞成一個圓。|一本厚書翻開，書頁排成一個圓圈。
+later|易混淆：bilateral、collateral 的 lat 來自 latus「側邊」；relate、translate 的 lat 則來自 latus「被帶著的」（ferre 的過去分詞）。兩個 latus 拼法相同，卻是不同的字。|一個方塊的左右兩側被塗上顏色。

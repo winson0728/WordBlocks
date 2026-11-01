@@ -23,6 +23,9 @@ kilo|pre|kilo-|千|希臘語 khilioi|num
 milli|pre|milli-|千分之一|拉丁語 mille|num
 meta|pre|meta- / met-|之後、超越|希臘語 meta|dir
 ambi|pre|ambi- / amb-|兩邊、周圍|拉丁語 ambi-|dir
+pseudo|pre|pseudo- / pseud-|假|希臘語 pseudes|rel
+macro|pre|macro-|巨大|希臘語 makros|num
+omni|pre|omni-|全部|拉丁語 omnis|num
 chron|root|chron|時間|希臘語 chronos|time
 pro|pre|pro- / pur-|向前、預先；代替|拉丁語 pro|dir
 de|pre|de-|向下；去除、反轉|拉丁語 de|dir
@@ -146,7 +149,7 @@ hydr|root|hydr / hydro|水|希臘語 hydor|nature
 oxy|root|oxy|尖銳、酸|希臘語 oxys|nature
 form|root|form|形狀|拉丁語 forma|nature
 cycl|root|cycl / cycle|圓、循環|希臘語 kyklos|nature
-angl|root|angl / angle|角|拉丁語 angulus|nature
+angl|root|angl / angle / angul|角|拉丁語 angulus|nature
 rect|root|rect / reg / regul|直、正|拉丁語 rectus|nature
 corn|root|corn|角（獸角）|拉丁語 cornu|nature
 tain|root|tain / ten / tin / tent|握住、保持|拉丁語 tenere|move
@@ -167,7 +170,7 @@ volv|root|volv / volve / volut|捲、滾動|拉丁語 volvere|move
 pel|root|pel / puls|推、驅使|拉丁語 pellere|move
 fus|root|fus / fuse / fund|傾倒、熔化|拉丁語 fundere|move
 flect|root|flect / flex|彎曲|拉丁語 flectere|move
-sid|root|sid / side / sess|坐|拉丁語 sedere|move
+sid|root|sid / side / sess / sed|坐|拉丁語 sedere|move
 cis|root|cis / cise / cide|切|拉丁語 caedere|move
 solv|root|solv / solve / solut / solu|鬆開、解開|拉丁語 solvere|move
 tempor|root|tempor|時間|拉丁語 tempus|time
@@ -401,6 +404,17 @@ empt|root|empt|拿取、買|拉丁語 emere|move
 lun|root|lun|月亮|拉丁語 luna|nature
 stell|root|stell|星星|拉丁語 stella|nature
 dors|root|dors / dorse|背|拉丁語 dorsum|life
+iatr|root|iatr / iatric|醫療|希臘語 iatros|life
+paed|root|ped / pedi / pedia|兒童、教育|希臘語 pais, paidos|life
+calli|root|calli|美|希臘語 kallos|sense
+chrom|root|chrom / chrome|顏色|希臘語 chroma|sense
+cardi|root|cardi|心臟|希臘語 kardia|life
+derm|root|derm / dermat|皮膚|希臘語 derma|life
+later|root|later|側邊|拉丁語 latus, lateris|dir
+jac|root|jac|躺|拉丁語 jacere|move
+vor|root|vor / vore|吃|拉丁語 vorare|life
+carn|root|carn / carni|肉|拉丁語 caro, carnis|life
+herb|root|herb / herbi|草|拉丁語 herba|nature
 ure|suf|-ure / -ature / -ur / -ury|行為、結果（名詞）|拉丁語 -ura|suf
 ion|suf|-ion / -tion / -ition / -ation / -uation|行為、狀態（名詞）|拉丁語 -io|suf
 ive|suf|-ive / -itive / -iv / -tive / -ative|具…性質的（形容詞）|拉丁語 -ivus|suf
@@ -410,7 +424,7 @@ ary|suf|-ary / -uary / -arium / -iary|相關事物、集合（名詞）|拉丁�
 ic|suf|-ic / -tic / -atic / -etic|…的（形容詞）|希臘語 -ikos|suf
 ology|suf|-ology / -logy / -olog|…學|希臘語 -logia|suf
 ize|suf|-ize / -yze / -iz|使…化（動詞）|希臘語 -izein|suf
-ous|suf|-ous / -ious / -orious / -os / -uous|充滿…的（形容詞）|拉丁語 -osus|suf
+ous|suf|-ous / -ious / -orious / -os / -uous / -acious|充滿…的（形容詞）|拉丁語 -osus|suf
 ent|suf|-ent / -ient / -ant|…的（形容詞）|拉丁語 -ens|suf
 ate|suf|-ate / -at / -uate|使…、做（動詞）|拉丁語 -atus|suf
 ism|suf|-ism|狀態、主義（名詞）|希臘語 -ismos|suf
@@ -421,7 +435,7 @@ ish|suf|-ish|做…（動詞）|古法語 -iss-|suf
 sis|suf|-sis|過程、狀態（名詞）|希臘語 -sis|suf
 ing|suf|-ing|動作、結果（名詞）|古英語 -ung|suf
 al|suf|-al / -ual|…的（形容詞）|拉丁語 -alis|suf
-ence|suf|-ence / -ance / -ience / -ency / -iency|行為、狀態（名詞）|拉丁語 -entia|suf
+ence|suf|-ence / -ance / -ience / -ency / -iency / -ent|行為、狀態（名詞）|拉丁語 -entia|suf
 ory|suf|-ory / -itory|場所（名詞）；…的|拉丁語 -orium|suf
 ian|suf|-an / -ian / -anean|…的、…的人|拉丁語 -anus|suf
 id|suf|-id|…的（形容詞）|拉丁語 -idus|suf
@@ -445,7 +459,7 @@ ar|suf|-ar|…的（形容詞）|拉丁語 -aris|suf
 imum|suf|-imum|最…（名詞）|拉丁語 -imus|suf
 ine|suf|-ine|名詞字尾（物質、技藝）|拉丁語 -ina|suf
 ship|suf|-ship|狀態、關係（名詞）|古英語 -scipe|suf
-acy|suf|-acy|性質、狀態（名詞）|拉丁語 -acia|suf
+acy|suf|-acy / -cy|性質、狀態（名詞）|拉丁語 -acia|suf
 ics|suf|-ics|學科（名詞）|希臘語 -ika|suf
 ery|suf|-ery|行為、場所（名詞）|古法語 -erie|suf
 ior|suf|-ior|較…的（形容詞）|拉丁語 -ior|suf
@@ -456,3 +470,6 @@ nus|suf|-us|名詞字尾|拉丁語 -us|suf
 ain|suf|-ain|…的；名詞字尾|拉丁語 -anus|suf
 ute|suf|-ute|…的（形容詞）|拉丁語 -utus|suf
 ique|suf|-ique / -que|…的；名詞字尾|法語 -ique|suf
+ia|suf|-ia|病症、狀態（名詞）|希臘語 -ia|suf
+ed|suf|-ed|已…的（形容詞）|古英語 -ed|suf
+ium|suf|-ium|名詞字尾（場所、物質）|拉丁語 -ium|suf

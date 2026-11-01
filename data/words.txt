@@ -2434,3 +2434,212 @@ stellar|stell ar|星星的；傑出的|星星 + 的|She gave a stellar performan
 constellation|con stell ion=ation|星座|一起 + 星星 + 名詞|Orion is a famous constellation.
 endorse|in=en dors=dorse|背書；支持|使 + 背：在背面簽名|The plan was endorsed by the board.
 endorsement|in=en dors=dorse ment|支持；代言|使 + 背 + 名詞|The athlete has many product endorsements.
+dynamics|dyn=dynam ics|動態；力學|力量 + 學科|The team dynamics changed after the new manager arrived.
+absent|ab ess=sent|缺席的|離開 + 存在|He was absent from work yesterday.
+biblical|bibl ic al|聖經的|書 + 的 + 的|The film tells a biblical story.
+liable|lig=li able|有義務的；易於…的|綁 + 可…的|You are liable for any damage.
+optic|opt ic|視覺的；光學的|眼睛 + 的|The optic nerve connects the eye to the brain.
+militant|milit ent=ant|好戰的；激進分子|士兵 + 的|Militant groups attacked the town.
+calculus|calc=calcul nus=us|微積分|小石子 + 名詞|She is taking calculus this year.
+humility|hum=humili ity=ty|謙遜|低下 + 名詞|He accepted the award with humility.
+humiliation|hum=humili ion=ation|羞辱|低下 + 名詞|The defeat was a humiliation for the team.
+clarification|clar ific ion=ation|澄清|清楚 + 產生…的 + 名詞|I need some clarification on this point.
+radiant|radi ent=ant|容光煥發的|光線 + 的|She looked radiant on her wedding day.
+radiance|radi ence=ance|光輝|光線 + 名詞|The radiance of the sunset was beautiful.
+frontal|front al|正面的|前額 + 的|The car was damaged in a frontal crash.
+dorsal|dors al|背部的|背 + 的|The shark's dorsal fin broke the surface.
+durability|dur able=abil ity|耐用性|持久 + 可…的 + 名詞|The phone is known for its durability.
+collusion|con=col lud=lus ion|勾結|一起 + 玩 + 名詞|The two firms were accused of collusion.
+rebellious|re bell ous=ious|叛逆的|再 + 戰爭 + 充滿|He was a rebellious teenager.
+causal|caus al|因果的|原因 + 的|There is a causal link between smoking and cancer.
+causality|caus al ity|因果關係|原因 + 的 + 名詞|Correlation does not prove causality.
+causative|caus ive=ative|致使的|原因 + 性質|"Make" can be a causative verb.
+fixation|fix ion=ation|固著；執迷|固定 + 名詞|He has a fixation on cleanliness.
+affix|ad=af fix|附加；詞綴|朝向 + 固定|Prefixes and suffixes are both affixes.
+aggregation|ad=ag greg ion=ation|聚集|朝向 + 群 + 名詞|The site is an aggregation of news stories.
+aggregator|ad=ag greg ate=at or|聚合平台|朝向 + 群 + 使 + 物|A news aggregator collects stories from many sites.
+congregate|con greg ate|聚集|一起 + 群 + 使|Crowds congregated in the square.
+neurology|neur ology|神經學|神經 + 學問|She works in the neurology department.
+neurologist|neur=neuro log ist|神經科醫師|神經 + 話語 + 人|The neurologist ordered a brain scan.
+neurotic|neur=neuro ic=tic|神經質的|神經 + 的|He is a bit neurotic about germs.
+neurosis|neur=neuro sis|神經官能症|神經 + 狀態|Anxiety can lead to neurosis.
+metaphysical|meta phys ic al|形而上的|超越 + 自然 + 的 + 的|The book asks metaphysical questions.
+polytechnic|poly techn ic|理工學院；多種技藝的|許多 + 技術 + 的|He studied at a polytechnic.
+aqueous|aqu=aque ous|水的；水溶性的|水 + 充滿|The medicine comes as an aqueous solution.
+auctioneer|aug=auct ion eer|拍賣師|增加 + 名詞 + 人|The auctioneer started the bidding at $1,000.
+idealistic|ide al ist ic|理想主義的|觀念 + 的 + 人 + 的|Young people are often idealistic.
+sedentary|sid=sed ent ary|久坐的|坐 + 的 + 的|A sedentary lifestyle is bad for your health.
+proverbial|pro verb ial|眾所周知的|向前 + 話 + 的|He is the proverbial early bird.
+interlude|inter lud=lude|插曲|之間 + 玩|The music played during the interlude.
+consummate|con summ ate|完美的；完成|徹底 + 最高 + 使|She is a consummate professional.
+consummation|con summ ion=ation|完成|徹底 + 最高 + 名詞|The deal was the consummation of years of work.
+cosmology|cosm ology|宇宙論|宇宙 + 學問|Stephen Hawking wrote about cosmology.
+cosmos|cosm ous=os|宇宙|宇宙 + 名詞|We are a small part of the cosmos.
+cosmonaut|cosm=cosmo naut|（蘇聯）太空人|宇宙 + 航行者|Yuri Gagarin was the first cosmonaut.
+microcosm|micro cosm|縮影|微小 + 宇宙|The city is a microcosm of the country.
+inexcusable|inneg=in ex caus=cus able|不可原諒的|不 + 向外 + 訴訟 + 可…的|His rudeness was inexcusable.
+allusion|ad=al lud=lus ion|暗指|朝向 + 玩 + 名詞|The song contains an allusion to a famous poem.
+thermodynamic|therm=thermo dyn=dynam ic|熱力學的|熱 + 力量 + 的|The engine follows thermodynamic laws.
+concentric|con centr ic|同心的|一起 + 中心 + 的|The pond had concentric ripples.
+matrimony|matr imony|婚姻|母親 + 狀態|They were joined in holy matrimony.
+patrimony|patr imony|祖產|父親 + 狀態|The house was part of his patrimony.
+summation|summ ion=ation|總結|總和 + 名詞|The lawyer gave a short summation.
+radioactivity|radi=radio act ive=iv ity|放射性|光線 + 做 + 性質 + 名詞|Workers wear badges to measure radioactivity.
+affront|ad=af front|冒犯|朝向 + 前額：當面頂撞|His remarks were an affront to her.
+biosphere|bio spher=sphere|生物圈|生命 + 球|Human activity affects the whole biosphere.
+abnormality|ab norm al ity|異常|離開 + 規範 + 的 + 名詞|The scan found no abnormality.
+divest|dis=di vest|剝奪；出售|分開 + 衣服：脫掉|The company divested its hotel business.
+gravitate|grav ity=it ate|被吸引|重 + 名詞 + 使|Young people gravitate to the big cities.
+gravitation|grav ity=it ion=ation|萬有引力|重 + 名詞 + 名詞|Newton described the law of gravitation.
+distinguishable|dis=di stinct=stingu ish able|可區別的|分開 + 標記 + 做 + 可…的|The twins are barely distinguishable.
+genotype|gen=geno typ=type|基因型|種族 + 類型|Each person has a unique genotype.
+typology|typ ology|類型學|類型 + 學問|The study offers a typology of learners.
+indignant|inneg=in dign ent=ant|憤慨的|不 + 值得 + 的|She was indignant at the unfair treatment.
+illiteracy|inneg=il liter acy|文盲|不 + 文字 + 性質|The program fights adult illiteracy.
+ambulatory|ambul ate=at ory|可走動的；門診的|行走 + 使 + 的|The hospital offers ambulatory care.
+immorality|inneg=im mor al ity|不道德|不 + 習俗 + 的 + 名詞|The film was criticized for its immorality.
+antebellum|ante bell um|戰前的|之前 + 戰爭 + 名詞|They visited an antebellum house in Georgia.
+negation|neg ion=ation|否定|否定 + 名詞|"Not" is a word of negation.
+dynamism|dyn=dynam ism|活力|力量 + 狀態|The city is full of dynamism.
+dynastic|dyn=dynast ic|王朝的|力量 + 的|The palace shows dynastic power.
+candor|cand or|坦率|白 + 名詞|I appreciate your candor.
+obliterate|ob liter ate|抹去|對著 + 文字 + 使：把字擦掉|The bomb obliterated the town.
+propriety|propr=propri ity=ety|得體|自己的 + 名詞|She always behaves with propriety.
+appreciable|ad=ap prec=preci able|可觀的|朝向 + 價值 + 可…的|There has been an appreciable rise in prices.
+procreation|pro cre ion=ation|生育|向前 + 創造 + 名詞|The book discusses marriage and procreation.
+geophysics|geo phys ics|地球物理學|地球 + 自然 + 學科|He has a degree in geophysics.
+biophysics|bio phys ics|生物物理學|生命 + 自然 + 學科|She does research in biophysics.
+adjourn|ad journ|休會；延期|朝向 + 日：延到另一天|The meeting was adjourned until Monday.
+crucify|cruc ify|釘十字架；嚴厲批評|十字 + 使|The critics crucified his new film.
+aberrant|ab err ent=ant|異常的|離開 + 偏離 + 的|His aberrant behavior worried his family.
+rejuvenate|re jun=juven ate|使年輕；使恢復活力|再 + 年輕 + 使|The vacation rejuvenated me.
+laxative|lax ive=ative|瀉藥|鬆 + 性質|The doctor gave him a mild laxative.
+imperious|imper ous=ious|專橫的|統治 + 充滿|She spoke in an imperious tone.
+magnanimous|magn anim ous|寬宏大量的|大 + 心靈 + 的|He was magnanimous in victory.
+infirm|inneg=in firm|虛弱的|不 + 穩固|The home cares for elderly and infirm people.
+exalt|ex alt|讚揚；提升|向外 + 高|The poem exalts the beauty of nature.
+percussive|per cuss ive|打擊的|徹底 + 敲打 + 性質|The song has a strong percussive beat.
+artifice|art ific=ifice|詭計；技巧|技藝 + 使|The film uses no special artifice.
+firmament|firm ment=ament|蒼穹|穩固 + 名詞|Stars filled the firmament.
+redemptive|re=red empt ive|救贖的|回 + 買 + 性質|The story has a redemptive ending.
+recuse|re caus=cuse|迴避（審理）|回 + 訴訟|The judge recused himself from the case.
+denture|dent ure|假牙|牙齒 + 結果|My grandfather wears dentures.
+alliteration|ad=al liter ion=ation|頭韻|朝向 + 文字 + 名詞|"Peter Piper picked" uses alliteration.
+levitate|lev ity=it ate|懸浮|輕 + 名詞 + 使|The magician seemed to levitate.
+digitization|digit ize=iz ion=ation|數位化|手指 + 使 + 名詞|The library is working on the digitization of old books.
+pediatric|paed=ped iatr ic|小兒科的|兒童 + 醫療 + 的|She is a pediatric nurse.
+pediatrician|paed=ped iatr ic ian|小兒科醫師|兒童 + 醫療 + 的 + 人|Take the baby to a pediatrician.
+psychiatry|psych iatr y|精神醫學|心靈 + 醫療 + 名詞|He specializes in child psychiatry.
+psychiatrist|psych iatr ist|精神科醫師|心靈 + 醫療 + 人|She sees a psychiatrist once a month.
+psychiatric|psych iatr ic|精神病學的|心靈 + 醫療 + 的|He was treated at a psychiatric hospital.
+encyclopedia|en cycl=cyclo paed=pedia|百科全書|進入 + 圓 + 教育：完整一圈的知識|Wikipedia is an online encyclopedia.
+calligraphy|calli graph y|書法|美 + 寫 + 名詞|She practices Chinese calligraphy every morning.
+monochrome|mono chrom=chrome|單色的|單一 + 顏色|The photo is in monochrome.
+chromatic|chrom ic=atic|色彩的|顏色 + 的|The painting uses a rich chromatic range.
+cardiology|cardi ology|心臟科|心臟 + 學問|He is a professor of cardiology.
+cardiologist|cardi ology=olog ist|心臟科醫師|心臟 + 學問 + 人|The cardiologist checked her heart.
+dermatology|derm=dermat ology|皮膚科|皮膚 + 學問|She works in dermatology.
+dermatologist|derm=dermat ology=olog ist|皮膚科醫師|皮膚 + 學問 + 人|See a dermatologist about that rash.
+podium|pod ium|講台；頒獎台|腳 + 名詞：站腳的地方|The winner stood on the podium.
+hypothermia|hypo therm ia|失溫|在下 + 熱 + 病症|The hikers were treated for hypothermia.
+dehydration|de hydr ion=ation|脫水|去除 + 水 + 名詞|Drink water to avoid dehydration.
+biotechnology|bio techn ology|生物科技|生命 + 技術 + 學問|Taiwan is investing in biotechnology.
+ecological|eco ology=log ic al|生態的|家 + 學問 + 的 + 的|The oil spill was an ecological disaster.
+socialize|soci al ize|交際|同伴 + 的 + 使|She likes to socialize after work.
+politician|polit ic ian|政治人物|城邦 + 的 + 人|The politician promised lower taxes.
+pseudonym|pseudo=pseud onym|筆名|假 + 名字|She writes under a pseudonym.
+pseudoscience|pseudo sci ence|偽科學|假 + 知道 + 名詞|Astrology is a pseudoscience.
+monotonous|mono ton ous|單調的|單一 + 聲調 + 的|The work is monotonous.
+monolingual|mono lingu al|單語的|單一 + 語言 + 的|The dictionary is monolingual.
+macroeconomics|macro eco nom ics|總體經濟學|巨大 + 家 + 管理 + 學科|He teaches macroeconomics.
+microeconomics|micro eco nom ics|個體經濟學|微小 + 家 + 管理 + 學科|Microeconomics studies how people make choices.
+omnivore|omni vor=vore|雜食動物|全部 + 吃|Bears are omnivores.
+carnivore|carn=carni vor=vore|肉食動物|肉 + 吃|Lions are carnivores.
+herbivore|herb=herbi vor=vore|草食動物|草 + 吃|Cows are herbivores.
+herbal|herb al|草藥的|草 + 的|She drinks herbal tea before bed.
+omniscient|omni sci ent|無所不知的|全部 + 知道 + 的|The story has an omniscient narrator.
+omnipotent|omni pot ent|全能的|全部 + 能力 + 的|In the myth, the god is omnipotent.
+voracious|vor ous=acious|貪吃的；求知若渴的|吃 + 充滿|She is a voracious reader.
+lateral|later al|側面的|側邊 + 的|We need some lateral thinking.
+bilateral|bi later al|雙邊的|二 + 側邊 + 的|The two countries signed a bilateral agreement.
+unilateral|uni later al|單方面的|單一 + 側邊 + 的|The government made a unilateral decision.
+multilateral|multi later al|多邊的|許多 + 側邊 + 的|The talks are multilateral.
+collateral|con=col later al|擔保品；附帶的|一起 + 側邊 + 的|He used his house as collateral for the loan.
+adjacent|ad jac ent|鄰近的|朝向 + 躺 + 的：躺在旁邊|The hotel is adjacent to the station.
+predecessor|pre de cede=cess or|前任|預先 + 離開 + 走 + 者|She is more popular than her predecessor.
+incapable|inneg=in cap able|不能的|不 + 拿 + 可…的|He is incapable of lying.
+progression|pro gress ion|進展|向前 + 走 + 名詞|The disease has a slow progression.
+regression|re gress ion|退步；迴歸|回 + 走 + 名詞|Statistics students learn about linear regression.
+sequential|sequ ence=ent ial|按順序的|跟隨 + 的 + 的|Follow the steps in sequential order.
+subsidiary|sub sid ary=iary|子公司|在下 + 坐 + 的|The firm has a subsidiary in Vietnam.
+residential|re sid ent ial|住宅的|回 + 坐 + 的 + 的|This is a quiet residential area.
+instability|inneg=in sta able=bil ity|不穩定|不 + 站立 + 可…的 + 名詞|Political instability hurt the economy.
+unstable|un sta able=ble|不穩定的|不 + 站立 + 可…的|The ladder is unstable.
+intensify|in tend=tens ify|加劇|向內 + 伸展 + 使|The storm is expected to intensify.
+visualize|vid=vis al=ual ize|想像；視覺化|看 + 的 + 使|Visualize yourself crossing the finish line.
+vocalist|voc al ist|歌手|聲音 + 的 + 人|She is the band's lead vocalist.
+evocative|ex=e voc ive=ative|喚起回憶的|向外 + 呼喚 + 性質|The photos are very evocative.
+emigration|ex=e migr ion=ation|移民出境|向外 + 遷移 + 名詞|Emigration increased after the war.
+minimal|min imum=im al|最小的|小 + 最 + 的|The damage was minimal.
+minimize|min imum=im ize|減到最少|小 + 最 + 使|We want to minimize the risk.
+commuter|con=com mut=mut er|通勤者|徹底 + 改變 + 的人|The train was full of commuters.
+circumnavigate|circum nav=navig ate|環航|環繞 + 船 + 使|Magellan's crew circumnavigated the globe.
+novelist|nov el ist|小說家|新 + 小 + 人|He is a well-known novelist.
+operational|oper ion=ation al|運作的|工作 + 名詞 + 的|The new airport will be operational next year.
+cooperative|con=co oper ate=at ive|合作的|一起 + 工作 + 使 + 性質|The staff were very cooperative.
+pedestrian|ped=pedestr ian|行人|腳 + 人|The street is for pedestrians only.
+supplementary|sub=sup ple ment ary|補充的|在下 + 填滿 + 名詞 + 的|Read the supplementary materials.
+complicated|con=com plic ate=at ed|複雜的|一起 + 摺疊 + 使 + 已…的|The instructions are complicated.
+sophisticated|soph ist ic ate=at ed|精密的；老練的|智慧 + 人 + 的 + 使 + 已…的|The phone has a sophisticated camera.
+educated|ex=e duc ate=at ed|受過教育的|向外 + 引導 + 使 + 已…的|She is a well-educated woman.
+publicity|popul=publ ic ity|宣傳；名聲|人民 + 的 + 名詞|The film got a lot of publicity.
+privatize|priv ate=at ize|民營化|個人 + 的 + 使|The government plans to privatize the railway.
+probability|prob able=abil ity|機率|證明 + 可…的 + 名詞|The probability of rain is 70 percent.
+direction|dis=di rect ion|方向；指導|分開 + 直 + 名詞|Which direction is the station?
+director|dis=di rect or|導演；主任|分開 + 直 + 者|The film director won an award.
+directory|dis=di rect ory|目錄；名錄|分開 + 直 + 的|Look up the number in the phone directory.
+correction|con=cor rect ion|更正|徹底 + 直 + 名詞|Please make the corrections in red.
+incorrect|inneg=in con=cor rect|不正確的|不 + 徹底 + 直|The answer is incorrect.
+rectangular|rect angl=angul ar|長方形的|直 + 角 + 的|The table is rectangular.
+bankruptcy|bank rupt acy=cy|破產|長凳 + 破 + 狀態|The company filed for bankruptcy.
+bisect|bi sect|一分為二|二 + 切|The river bisects the city.
+observatory|ob serva=serv ate=at ory|天文台|對著 + 看守 + 使 + 場所|We visited the observatory at night.
+respiratory|re spir ate=at ory|呼吸的|再 + 呼吸 + 使 + 的|He has a respiratory infection.
+attribution|ad=at trib=tribut ion|歸因；出處|朝向 + 給予 + 名詞|Include an attribution for every photo you use.
+urbanization|urb ian=an ize=iz ion=ation|都市化|城市 + 的 + 使 + 名詞|Rapid urbanization brought new problems.
+evacuation|ex=e vac=vacu ion=ation|撤離|向外 + 空 + 名詞|The evacuation began at dawn.
+conventional|con vent ion al|傳統的；慣例的|一起 + 來 + 名詞 + 的|She prefers conventional medicine.
+verification|ver ific ion=ation|驗證|真實 + 產生…的 + 名詞|Account verification takes two days.
+survival|sur viv=viv al|生存|超過 + 活 + 名詞|The survival rate is improving.
+survivor|sur viv=viv or|倖存者|超過 + 活 + 者|There was only one survivor.
+revival|re viv al|復興；重新流行|再 + 活 + 名詞|The 90s fashion revival is everywhere.
+recurrence|re cur=curr ence|再發生|再 + 跑 + 名詞|Doctors want to prevent a recurrence of the disease.
+predictable|pre dict able|可預測的|預先 + 說 + 可…的|The ending of the movie was predictable.
+indicative|in dict=dic ive=ative|表示…的|向內 + 說 + 性質|His silence is indicative of his anger.
+reproduce|re pro duc=duce|複製；繁殖|再 + 向前 + 引導|Rabbits reproduce quickly.
+reproduction|re pro duc=duct ion|複製品；繁殖|再 + 向前 + 引導 + 名詞|The painting is a reproduction.
+educator|ex=e duc ate=at or|教育工作者|向外 + 引導 + 使 + 者|She is an experienced educator.
+preference|pre fer ence|偏好|預先 + 攜帶 + 名詞|Do you have a preference for window or aisle?
+inference|in fer ence|推論|向內 + 攜帶 + 名詞|What inference can we draw from this?
+difference|dis=dif fer ence|差異|分開 + 攜帶 + 名詞|What's the difference between the two phones?
+indifference|inneg=in dis=dif fer ence|冷漠|不 + 分開 + 攜帶 + 名詞|His indifference to the problem upset us.
+confide|con fid=fide|吐露；信任|徹底 + 信任|She confided in her best friend.
+confinement|con fin=fine ment|監禁；限制|一起 + 界限 + 名詞|He spent a year in confinement.
+refinery|re fin ery|煉油廠|再 + 界限 + 場所|The oil refinery employs 2,000 people.
+reflective|re flect ive|反光的；沉思的|回 + 彎 + 性質|Wear a reflective jacket at night.
+conformity|con form ity|順從；一致|一起 + 形狀 + 名詞|There is pressure for conformity at school.
+refraction|re fract ion|折射|回 + 破 + 名詞|A rainbow is caused by the refraction of light.
+refusal|re fus=fus al|拒絕|回 + 倒 + 名詞|His refusal to help surprised me.
+generosity|gen=gener ous=os ity|慷慨|產生 + 充滿 + 名詞|Thank you for your generosity.
+unjust|un jus=just|不公正的|不 + 正義|The law is unjust.
+lecturer|lect ure=ur er|講師|讀 + 行為 + 的人|She is a lecturer in history.
+legalize|leg al ize|使合法化|法律 + 的 + 使|Some countries have legalized same-sex marriage.
+legislator|leg=legis lat or|立法者|法律 + 攜帶 + 者|Legislators passed the new law.
+legislature|leg=legis lat ure|立法機關|法律 + 攜帶 + 結果|The legislature meets in the capital.
+logical|log ic al|合乎邏輯的|話語 + 的 + 的|That is a logical decision.
+dimensional|dis=di mens ion al|維度的|分開 + 測量 + 名詞 + 的|We watched a three-dimensional movie.
+mobilize|mot=mob ile=il ize|動員|移動 + 可…的 + 使|The army mobilized thousands of troops.
+nationalism|nat ion al ism|民族主義|出生 + 名詞 + 的 + 主義|Nationalism grew after the war.
+competence|con=com pet ence|能力|一起 + 尋求 + 名詞|She showed great competence in her job.
+incompetent|inneg=in con=com pet ent|無能的|不 + 一起 + 尋求 + 的|The manager was incompetent.
+comprehensible|con=com prehend=prehens able=ible|可理解的|徹底 + 抓住 + 可…的|Make your instructions comprehensible.
