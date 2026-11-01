@@ -135,7 +135,7 @@ rect|root|rect|直、正|拉丁語 rectus|nature
 corn|root|corn|角（獸角）|拉丁語 cornu|nature
 tain|root|tain / ten / tin / tent|握住、保持|拉丁語 tenere|move
 tect|root|tect|遮蓋|拉丁語 tegere|move
-cid|root|cid / cas|落下、發生|拉丁語 cadere|move
+cid|root|cid / cas / cide|落下、發生|拉丁語 cadere|move
 plic|root|plic / ply|摺疊|拉丁語 plicare|move
 tact|root|tact|接觸|拉丁語 tangere|sense
 quir|root|quir / quire / quest / quisit|尋找、要求|拉丁語 quaerere|mind
@@ -229,7 +229,7 @@ ary|suf|-ary|相關事物、集合（名詞）|拉丁語 -arium|suf
 ic|suf|-ic / -tic|…的（形容詞）|希臘語 -ikos|suf
 ology|suf|-ology / -logy|…學|希臘語 -logia|suf
 ize|suf|-ize|使…化（動詞）|希臘語 -izein|suf
-ous|suf|-ous / -ious|充滿…的（形容詞）|拉丁語 -osus|suf
+ous|suf|-ous / -ious / -orious|充滿…的（形容詞）|拉丁語 -osus|suf
 ent|suf|-ent / -ient / -ant|…的（形容詞）|拉丁語 -ens|suf
 ate|suf|-ate / -at / -uate|使…、做（動詞）|拉丁語 -atus|suf
 ism|suf|-ism|狀態、主義（名詞）|希臘語 -ismos|suf
