@@ -51,7 +51,10 @@ class _PuzzleScreenState extends State<PuzzleScreen> {
 
   _Puzzle _next() {
     final lex = AppScope.of(context).lexicon;
-    final pool = lex.words.where((w) => w.parts.length >= 2 && !(_p?.answers.contains(w.word) ?? false)).toList();
+    final lv = AppScope.of(context).store.maxLevel;
+    final pool = lex.words
+        .where((w) => w.level <= lv && w.parts.length >= 2 && !(_p?.answers.contains(w.word) ?? false))
+        .toList();
     final w = pool[_rng.nextInt(pool.length)];
     final texts = {for (final p in w.parts) p.text};
     final extra = <WordPart>[];

@@ -23,6 +23,28 @@ class SettingsScreen extends StatelessWidget {
             const SizedBox(height: 8),
             const _AccountCard(),
             const SizedBox(height: 24),
+            Text('單字程度', style: text.titleMedium),
+            const SizedBox(height: 8),
+            Card(
+              child: Padding(
+                padding: const EdgeInsets.all(16),
+                child: Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+                  SegmentedButton<int>(
+                    segments: const [
+                      ButtonSegment(value: 1, label: Text('基礎')),
+                      ButtonSegment(value: 2, label: Text('＋進階')),
+                      ButtonSegment(value: 3, label: Text('全部')),
+                    ],
+                    selected: {scope.store.maxLevel},
+                    showSelectedIcon: false,
+                    onSelectionChanged: (s) => scope.store.setMaxLevel(s.first),
+                  ),
+                  const SizedBox(height: 8),
+                  Text('字根地圖、複習和積木只會出現這個程度以內的單字。拆解查詢不受影響。', style: text.bodySmall),
+                ]),
+              ),
+            ),
+            const SizedBox(height: 24),
             Text('每日提醒', style: text.titleMedium),
             const SizedBox(height: 8),
             const _ReminderCard(),

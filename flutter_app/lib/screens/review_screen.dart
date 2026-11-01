@@ -48,7 +48,7 @@ class _ReviewScreenState extends State<ReviewScreen> {
   void _start({int extraNew = 0}) {
     final scope = AppScope.of(context);
     final lex = scope.lexicon;
-    _queue = scope.store.buildQueue(lex.deck, DateTime.now(),
+    _queue = scope.store.buildQueue(lex.deckFor(scope.store.maxLevel), DateTime.now(),
         isRoot: (id) => lex.morphemes[id]!.type == MorphemeType.root, extraNew: extraNew);
     _q = _queue!.isEmpty ? null : _make(_queue!.first);
   }
@@ -56,7 +56,9 @@ class _ReviewScreenState extends State<ReviewScreen> {
   _Question _make(String id) {
     final scope = AppScope.of(context);
     final lex = scope.lexicon;
-    final ws = [...lex.wordsWith(id)]..shuffle(_rng);
+    final lv = scope.store.maxLevel;
+    final visible = lex.wordsWith(id, maxLevel: lv);
+    final ws = [...(visible.isEmpty ? lex.wordsWith(id) : visible)]..shuffle(_rng);
     final card = scope.store.card(id);
     if (card != null && card.reps > 0 && _rng.nextBool()) {
       // Leave out words built on any morpheme that shares a meaning (spect and vid both mean "see").
@@ -66,7 +68,8 @@ class _ReviewScreenState extends State<ReviewScreen> {
         for (final m in lex.morphemes.values)
           if (senses(m).any(mine.contains)) m.id,
       };
-      final others = lex.words.where((w) => !w.parts.any((p) => similar.contains(p.id))).toList()..shuffle(_rng);
+      final others = lex.words.where((w) => w.level <= lv && !w.parts.any((p) => similar.contains(p.id))).toList()
+        ..shuffle(_rng);
       if (others.length >= 3) {
         final target = ws.first;
         return _Question(id, _Mode.choose, target: target, options: ([target, ...others.take(3)])..shuffle(_rng));
@@ -94,11 +97,12 @@ class _ReviewScreenState extends State<ReviewScreen> {
     final now = DateTime.now();
     final text = Theme.of(context).textTheme;
     final q = _q;
+    final deck = lex.deckFor(store.maxLevel);
 
     final stats = Row(children: [
       _Stat('${_queue?.length ?? 0}', '本輪剩餘'),
-      _Stat('${min(store.newLeftToday(now), lex.deck.where((id) => store.card(id) == null).length)}', '今日新卡'),
-      _Stat('${store.learnedCount(lex.deck)}', '已學會'),
+      _Stat('${min(store.newLeftToday(now), deck.where((id) => store.card(id) == null).length)}', '今日新卡'),
+      _Stat('${store.learnedCount(deck)}', '已學會'),
       _Stat('${store.streak(now)} 天', '連續學習'),
     ]);
 

@@ -1508,7 +1508,8 @@
    ],
    "meaning": "建造；構成",
    "literal": "一起 + 建造",
-   "example": "They plan to construct a new bridge over the river."
+   "example": "They plan to construct a new bridge over the river.",
+   "level": 2
   },
   {
    "word": "structure",
@@ -1524,7 +1525,8 @@
    ],
    "meaning": "結構",
    "literal": "建造 + 結果",
-   "example": "The structure of this sentence is simple."
+   "example": "The structure of this sentence is simple.",
+   "level": 1
   },
   {
    "word": "instruct",
@@ -1540,7 +1542,8 @@
    ],
    "meaning": "指導；指示",
    "literal": "向內 + 建造：把知識建進腦中",
-   "example": "The coach instructed us to warm up first."
+   "example": "The coach instructed us to warm up first.",
+   "level": 2
   },
   {
    "word": "obstruct",
@@ -1556,7 +1559,8 @@
    ],
    "meaning": "阻礙",
    "literal": "對著 + 建造：在面前築起障礙",
-   "example": "A fallen tree obstructed the road."
+   "example": "A fallen tree obstructed the road.",
+   "level": 3
   },
   {
    "word": "destroy",
@@ -1572,7 +1576,8 @@
    ],
    "meaning": "摧毀",
    "literal": "反轉 + 建造：把蓋好的拆掉",
-   "example": "The storm destroyed several houses."
+   "example": "The storm destroyed several houses.",
+   "level": 1
   },
   {
    "word": "infrastructure",
@@ -1592,7 +1597,8 @@
    ],
    "meaning": "基礎建設",
    "literal": "下方 + 建造 + 結果",
-   "example": "The city is investing in new infrastructure."
+   "example": "The city is investing in new infrastructure.",
+   "level": 1
   },
   {
    "word": "inspect",
@@ -1608,7 +1614,8 @@
    ],
    "meaning": "檢查",
    "literal": "向內 + 看",
-   "example": "Workers inspect every car before delivery."
+   "example": "Workers inspect every car before delivery.",
+   "level": 2
   },
   {
    "word": "prospect",
@@ -1624,7 +1631,8 @@
    ],
    "meaning": "前景；可能性",
    "literal": "向前 + 看",
-   "example": "The job offers good prospects for promotion."
+   "example": "The job offers good prospects for promotion.",
+   "level": 1
   },
   {
    "word": "retrospect",
@@ -1640,7 +1648,8 @@
    ],
    "meaning": "回顧",
    "literal": "向後 + 看",
-   "example": "In retrospect, it was the right decision."
+   "example": "In retrospect, it was the right decision.",
+   "level": 3
   },
   {
    "word": "spectator",
@@ -1656,7 +1665,8 @@
    ],
    "meaning": "觀眾",
    "literal": "看 + 的人",
-   "example": "Thousands of spectators filled the stadium."
+   "example": "Thousands of spectators filled the stadium.",
+   "level": 2
   },
   {
    "word": "perspective",
@@ -1676,7 +1686,8 @@
    ],
    "meaning": "觀點；透視",
    "literal": "穿過 + 看 + 性質",
-   "example": "Try to see it from her perspective."
+   "example": "Try to see it from her perspective.",
+   "level": 1
   },
   {
    "word": "suspicious",
@@ -1696,7 +1707,8 @@
    ],
    "meaning": "可疑的",
    "literal": "從下 + 看 + 充滿：從下方偷瞄",
-   "example": "The guard noticed a suspicious bag."
+   "example": "The guard noticed a suspicious bag.",
+   "level": 1
   },
   {
    "word": "transport",
@@ -1712,7 +1724,8 @@
    ],
    "meaning": "運輸",
    "literal": "跨越 + 搬運",
-   "example": "Public transport is cheap in this city."
+   "example": "Public transport is cheap in this city.",
+   "level": 1
   },
   {
    "word": "import",
@@ -1728,7 +1741,8 @@
    ],
    "meaning": "進口",
    "literal": "向內 + 搬運",
-   "example": "The country imports most of its oil."
+   "example": "The country imports most of its oil.",
+   "level": 1
   },
   {
    "word": "export",
@@ -1744,7 +1758,8 @@
    ],
    "meaning": "出口",
    "literal": "向外 + 搬運",
-   "example": "Taiwan exports a lot of computer chips."
+   "example": "Taiwan exports a lot of computer chips.",
+   "level": 1
   },
   {
    "word": "portable",
@@ -1760,7 +1775,8 @@
    ],
    "meaning": "可攜帶的",
    "literal": "搬運 + 可…的",
-   "example": "I bought a portable charger for the trip."
+   "example": "I bought a portable charger for the trip.",
+   "level": 2
   },
   {
    "word": "support",
@@ -1776,7 +1792,8 @@
    ],
    "meaning": "支持",
    "literal": "從下 + 搬運：從底下撐住",
-   "example": "My family supported my decision."
+   "example": "My family supported my decision.",
+   "level": 1
   },
   {
    "word": "report",
@@ -1792,7 +1809,8 @@
    ],
    "meaning": "報告",
    "literal": "回 + 搬運：把消息帶回來",
-   "example": "She reported the problem to her manager."
+   "example": "She reported the problem to her manager.",
+   "level": 1
   },
   {
    "word": "predict",
@@ -1808,7 +1826,8 @@
    ],
    "meaning": "預測",
    "literal": "預先 + 說",
-   "example": "No one can predict the future."
+   "example": "No one can predict the future.",
+   "level": 1
   },
   {
    "word": "unpredictable",
@@ -1832,7 +1851,8 @@
    ],
    "meaning": "無法預測的",
    "literal": "不 + 預先 + 說 + 可…的",
-   "example": "The weather here is unpredictable."
+   "example": "The weather here is unpredictable.",
+   "level": 2
   },
   {
    "word": "contradict",
@@ -1848,7 +1868,8 @@
    ],
    "meaning": "反駁；與…矛盾",
    "literal": "相反 + 說",
-   "example": "His actions contradict his words."
+   "example": "His actions contradict his words.",
+   "level": 2
   },
   {
    "word": "dictionary",
@@ -1868,7 +1889,8 @@
    ],
    "meaning": "字典",
    "literal": "說 + 名詞 + 集合",
-   "example": "Look the word up in a dictionary."
+   "example": "Look the word up in a dictionary.",
+   "level": 1
   },
   {
    "word": "verdict",
@@ -1884,7 +1906,8 @@
    ],
    "meaning": "判決",
    "literal": "真實 + 說",
-   "example": "The jury reached a verdict after two days."
+   "example": "The jury reached a verdict after two days.",
+   "level": 1
   },
   {
    "word": "dictate",
@@ -1900,7 +1923,8 @@
    ],
    "meaning": "口述；命令",
    "literal": "說 + 使",
-   "example": "The manager dictated a letter to his assistant."
+   "example": "The manager dictated a letter to his assistant.",
+   "level": 2
   },
   {
    "word": "project",
@@ -1916,7 +1940,8 @@
    ],
    "meaning": "投射；計畫",
    "literal": "向前 + 丟",
-   "example": "The project will take three months."
+   "example": "The project will take three months.",
+   "level": 1
   },
   {
    "word": "reject",
@@ -1932,7 +1957,8 @@
    ],
    "meaning": "拒絕",
    "literal": "回 + 丟",
-   "example": "The company rejected my application."
+   "example": "The company rejected my application.",
+   "level": 1
   },
   {
    "word": "inject",
@@ -1948,7 +1974,8 @@
    ],
    "meaning": "注射",
    "literal": "向內 + 丟",
-   "example": "The nurse injected the vaccine into my arm."
+   "example": "The nurse injected the vaccine into my arm.",
+   "level": 2
   },
   {
    "word": "eject",
@@ -1964,7 +1991,8 @@
    ],
    "meaning": "彈出",
    "literal": "向外 + 丟",
-   "example": "Press this button to eject the disc."
+   "example": "Press this button to eject the disc.",
+   "level": 3
   },
   {
    "word": "object",
@@ -1980,7 +2008,8 @@
    ],
    "meaning": "物體；反對",
    "literal": "對著 + 丟：丟到你面前的東西",
-   "example": "What is that strange object in the sky?"
+   "example": "What is that strange object in the sky?",
+   "level": 1
   },
   {
    "word": "subject",
@@ -1996,7 +2025,8 @@
    ],
    "meaning": "主題；科目",
    "literal": "在下 + 丟：被置於下方者",
-   "example": "Math is my favorite subject."
+   "example": "Math is my favorite subject.",
+   "level": 1
   },
   {
    "word": "interrupt",
@@ -2012,7 +2042,8 @@
    ],
    "meaning": "打斷",
    "literal": "之間 + 破",
-   "example": "Please don't interrupt me while I'm talking."
+   "example": "Please don't interrupt me while I'm talking.",
+   "level": 2
   },
   {
    "word": "erupt",
@@ -2028,7 +2059,8 @@
    ],
    "meaning": "爆發",
    "literal": "向外 + 破",
-   "example": "The volcano erupted last night."
+   "example": "The volcano erupted last night.",
+   "level": 3
   },
   {
    "word": "corrupt",
@@ -2044,7 +2076,8 @@
    ],
    "meaning": "腐敗的",
    "literal": "徹底 + 破",
-   "example": "The corrupt official was arrested."
+   "example": "The corrupt official was arrested.",
+   "level": 1
   },
   {
    "word": "disrupt",
@@ -2060,7 +2093,8 @@
    ],
    "meaning": "擾亂；中斷",
    "literal": "分開 + 破",
-   "example": "The strike disrupted train services."
+   "example": "The strike disrupted train services.",
+   "level": 2
   },
   {
    "word": "abrupt",
@@ -2076,7 +2110,8 @@
    ],
    "meaning": "突然的",
    "literal": "離開 + 破：斷開的",
-   "example": "The bus came to an abrupt stop."
+   "example": "The bus came to an abrupt stop.",
+   "level": 2
   },
   {
    "word": "bankrupt",
@@ -2092,7 +2127,8 @@
    ],
    "meaning": "破產的",
    "literal": "長凳 + 破",
-   "example": "The company went bankrupt in 2020."
+   "example": "The company went bankrupt in 2020.",
+   "level": 2
   },
   {
    "word": "describe",
@@ -2108,7 +2144,8 @@
    ],
    "meaning": "描述",
    "literal": "向下 + 寫",
-   "example": "Can you describe the man you saw?"
+   "example": "Can you describe the man you saw?",
+   "level": 1
   },
   {
    "word": "prescribe",
@@ -2124,7 +2161,8 @@
    ],
    "meaning": "開處方；規定",
    "literal": "預先 + 寫",
-   "example": "The doctor prescribed some medicine."
+   "example": "The doctor prescribed some medicine.",
+   "level": 2
   },
   {
    "word": "subscribe",
@@ -2140,7 +2178,8 @@
    ],
    "meaning": "訂閱",
    "literal": "在下 + 寫：在文件下方簽名",
-   "example": "I subscribe to three newsletters."
+   "example": "I subscribe to three newsletters.",
+   "level": 1
   },
   {
    "word": "manuscript",
@@ -2156,7 +2195,8 @@
    ],
    "meaning": "手稿",
    "literal": "手 + 寫",
-   "example": "The museum holds the original manuscript."
+   "example": "The museum holds the original manuscript.",
+   "level": 2
   },
   {
    "word": "chronic",
@@ -2172,7 +2212,8 @@
    ],
    "meaning": "慢性的；長期的",
    "literal": "時間 + 的",
-   "example": "He suffers from chronic back pain."
+   "example": "He suffers from chronic back pain.",
+   "level": 1
   },
   {
    "word": "synchronize",
@@ -2192,7 +2233,8 @@
    ],
    "meaning": "同步",
    "literal": "同時 + 時間 + 使…化",
-   "example": "Let's synchronize our watches."
+   "example": "Let's synchronize our watches.",
+   "level": 3
   },
   {
    "word": "chronology",
@@ -2208,7 +2250,8 @@
    ],
    "meaning": "年表；時間順序",
    "literal": "時間 + 學問",
-   "example": "The book follows the chronology of the war."
+   "example": "The book follows the chronology of the war.",
+   "level": 3
   },
   {
    "word": "anachronism",
@@ -2228,7 +2271,8 @@
    ],
    "meaning": "時代錯誤",
    "literal": "逆 + 時間 + 狀態",
-   "example": "A smartphone in a Tang dynasty drama is an anachronism."
+   "example": "A smartphone in a Tang dynasty drama is an anachronism.",
+   "level": 3
   },
   {
    "word": "chronicle",
@@ -2244,7 +2288,8 @@
    ],
    "meaning": "編年史；記錄",
    "literal": "時間 + 紀錄",
-   "example": "The film chronicles the life of a famous singer."
+   "example": "The film chronicles the life of a famous singer.",
+   "level": 2
   },
   {
    "word": "evident",
@@ -2264,7 +2309,8 @@
    ],
    "meaning": "明顯的",
    "literal": "向外 + 看 + 的：露在外面看得見",
-   "example": "It was evident that she was tired."
+   "example": "It was evident that she was tired.",
+   "level": 2
   },
   {
    "word": "visible",
@@ -2280,7 +2326,8 @@
    ],
    "meaning": "可見的",
    "literal": "看 + 可…的",
-   "example": "The stars are visible tonight."
+   "example": "The stars are visible tonight.",
+   "level": 1
   },
   {
    "word": "revise",
@@ -2296,7 +2343,8 @@
    ],
    "meaning": "修訂",
    "literal": "再 + 看",
-   "example": "Please revise your essay before Friday."
+   "example": "Please revise your essay before Friday.",
+   "level": 2
   },
   {
    "word": "supervise",
@@ -2312,7 +2360,8 @@
    ],
    "meaning": "監督",
    "literal": "在上 + 看",
-   "example": "A teacher supervises the students during lunch."
+   "example": "A teacher supervises the students during lunch.",
+   "level": 2
   },
   {
    "word": "vision",
@@ -2328,7 +2377,8 @@
    ],
    "meaning": "視力；願景",
    "literal": "看 + 名詞",
-   "example": "The company has a clear vision for the future."
+   "example": "The company has a clear vision for the future.",
+   "level": 1
   },
   {
    "word": "provide",
@@ -2344,7 +2394,8 @@
    ],
    "meaning": "提供",
    "literal": "向前 + 看：預見並事先準備",
-   "example": "The hotel provides free breakfast."
+   "example": "The hotel provides free breakfast.",
+   "level": 1
   },
   {
    "word": "transmit",
@@ -2360,7 +2411,8 @@
    ],
    "meaning": "傳送；傳染",
    "literal": "跨越 + 送",
-   "example": "The virus is transmitted through the air."
+   "example": "The virus is transmitted through the air.",
+   "level": 2
   },
   {
    "word": "submit",
@@ -2376,7 +2428,8 @@
    ],
    "meaning": "提交；屈服",
    "literal": "在下 + 送",
-   "example": "Submit your report by Monday."
+   "example": "Submit your report by Monday.",
+   "level": 1
   },
   {
    "word": "mission",
@@ -2392,7 +2445,8 @@
    ],
    "meaning": "任務",
    "literal": "送 + 名詞：被派出去做的事",
-   "example": "The mission was a success."
+   "example": "The mission was a success.",
+   "level": 1
   },
   {
    "word": "dismiss",
@@ -2408,7 +2462,8 @@
    ],
    "meaning": "解散；駁回",
    "literal": "分開 + 送：送走",
-   "example": "The teacher dismissed the class early."
+   "example": "The teacher dismissed the class early.",
+   "level": 2
   },
   {
    "word": "permit",
@@ -2424,7 +2479,8 @@
    ],
    "meaning": "允許",
    "literal": "穿過 + 送：放行",
-   "example": "Smoking is not permitted here."
+   "example": "Smoking is not permitted here.",
+   "level": 1
   },
   {
    "word": "emit",
@@ -2440,7 +2496,8 @@
    ],
    "meaning": "發出；排放",
    "literal": "向外 + 送",
-   "example": "Cars emit harmful gases."
+   "example": "Cars emit harmful gases.",
+   "level": 3
   },
   {
    "word": "panorama",
@@ -2456,7 +2513,8 @@
    ],
    "meaning": "全景",
    "literal": "全部 + 景象",
-   "example": "The tower offers a panorama of the city."
+   "example": "The tower offers a panorama of the city.",
+   "level": 2
   },
   {
    "word": "pandemic",
@@ -2476,7 +2534,8 @@
    ],
    "meaning": "全球大流行病",
    "literal": "全部 + 人民 + 的",
-   "example": "The pandemic changed how we work."
+   "example": "The pandemic changed how we work.",
+   "level": 2
   },
   {
    "word": "panacea",
@@ -2492,7 +2551,8 @@
    ],
    "meaning": "萬靈丹",
    "literal": "全部 + 治療",
-   "example": "Technology is not a panacea for every problem."
+   "example": "Technology is not a panacea for every problem.",
+   "level": 3
   },
   {
    "word": "panic",
@@ -2508,7 +2568,8 @@
    ],
    "meaning": "恐慌",
    "literal": "牧神潘 + 的",
-   "example": "Don't panic; stay calm."
+   "example": "Don't panic; stay calm.",
+   "level": 1
   },
   {
    "word": "autograph",
@@ -2524,7 +2585,8 @@
    ],
    "meaning": "親筆簽名",
    "literal": "自己 + 寫",
-   "example": "The fans asked for her autograph."
+   "example": "The fans asked for her autograph.",
+   "level": 2
   },
   {
    "word": "biography",
@@ -2544,7 +2606,8 @@
    ],
    "meaning": "傳記",
    "literal": "生命 + 寫 + 作品",
-   "example": "I'm reading a biography of Marie Curie."
+   "example": "I'm reading a biography of Marie Curie.",
+   "level": 2
   },
   {
    "word": "photograph",
@@ -2560,7 +2623,8 @@
    ],
    "meaning": "照片",
    "literal": "光 + 畫",
-   "example": "This photograph was taken in 1950."
+   "example": "This photograph was taken in 1950.",
+   "level": 1
   },
   {
    "word": "paragraph",
@@ -2576,7 +2640,8 @@
    ],
    "meaning": "段落",
    "literal": "旁邊 + 寫：在旁邊畫記號",
-   "example": "Read the first paragraph carefully."
+   "example": "Read the first paragraph carefully.",
+   "level": 1
   },
   {
    "word": "telegraph",
@@ -2592,7 +2657,8 @@
    ],
    "meaning": "電報",
    "literal": "遠 + 寫",
-   "example": "News once traveled by telegraph."
+   "example": "News once traveled by telegraph.",
+   "level": 1
   },
   {
    "word": "biology",
@@ -2608,7 +2674,8 @@
    ],
    "meaning": "生物學",
    "literal": "生命 + 學問",
-   "example": "She studies marine biology."
+   "example": "She studies marine biology.",
+   "level": 1
   },
   {
    "word": "antibiotic",
@@ -2628,7 +2695,8 @@
    ],
    "meaning": "抗生素",
    "literal": "對抗 + 生命 + 的",
-   "example": "Antibiotics do not work against viruses."
+   "example": "Antibiotics do not work against viruses.",
+   "level": 2
   },
   {
    "word": "symbiosis",
@@ -2648,7 +2716,8 @@
    ],
    "meaning": "共生",
    "literal": "一起 + 生命 + 狀態",
-   "example": "Clownfish and sea anemones live in symbiosis."
+   "example": "Clownfish and sea anemones live in symbiosis.",
+   "level": 3
   },
   {
    "word": "credible",
@@ -2664,7 +2733,8 @@
    ],
    "meaning": "可信的",
    "literal": "相信 + 可…的",
-   "example": "We need a credible witness."
+   "example": "We need a credible witness.",
+   "level": 2
   },
   {
    "word": "incredible",
@@ -2684,7 +2754,8 @@
    ],
    "meaning": "難以置信的",
    "literal": "不 + 相信 + 可…的",
-   "example": "The view from the top is incredible."
+   "example": "The view from the top is incredible.",
+   "level": 1
   },
   {
    "word": "credential",
@@ -2704,7 +2775,8 @@
    ],
    "meaning": "資格證明",
    "literal": "相信 + 的 + 的：讓人相信你的東西",
-   "example": "Please show your credentials at the door."
+   "example": "Please show your credentials at the door.",
+   "level": 3
   },
   {
    "word": "conduct",
@@ -2720,7 +2792,8 @@
    ],
    "meaning": "指揮；進行",
    "literal": "一起 + 引導",
-   "example": "She conducts the city orchestra."
+   "example": "She conducts the city orchestra.",
+   "level": 1
   },
   {
    "word": "produce",
@@ -2736,7 +2809,8 @@
    ],
    "meaning": "生產",
    "literal": "向前 + 引導：引出來",
-   "example": "This factory produces cars."
+   "example": "This factory produces cars.",
+   "level": 1
   },
   {
    "word": "educate",
@@ -2756,7 +2830,8 @@
    ],
    "meaning": "教育",
    "literal": "向外 + 引導 + 使：把潛能引導出來",
-   "example": "Schools educate children for the future."
+   "example": "Schools educate children for the future.",
+   "level": 2
   },
   {
    "word": "introduce",
@@ -2772,7 +2847,8 @@
    ],
    "meaning": "介紹；引進",
    "literal": "向內 + 引導",
-   "example": "Let me introduce my friend Amy."
+   "example": "Let me introduce my friend Amy.",
+   "level": 1
   },
   {
    "word": "deduct",
@@ -2788,7 +2864,8 @@
    ],
    "meaning": "扣除",
    "literal": "向下 + 引導",
-   "example": "Tax is deducted from your salary."
+   "example": "Tax is deducted from your salary.",
+   "level": 3
   },
   {
    "word": "progress",
@@ -2804,7 +2881,8 @@
    ],
    "meaning": "進步；進展",
    "literal": "向前 + 走",
-   "example": "You have made great progress in English."
+   "example": "You have made great progress in English.",
+   "level": 1
   },
   {
    "word": "progressive",
@@ -2824,7 +2902,8 @@
    ],
    "meaning": "進步的；漸進的",
    "literal": "向前 + 走 + 性質",
-   "example": "The city has progressive policies."
+   "example": "The city has progressive policies.",
+   "level": 1
   },
   {
    "word": "aggressive",
@@ -2844,7 +2923,8 @@
    ],
    "meaning": "侵略性的；積極的",
    "literal": "朝向 + 走 + 性質：朝人逼近",
-   "example": "The dog became aggressive."
+   "example": "The dog became aggressive.",
+   "level": 1
   },
   {
    "word": "regress",
@@ -2860,7 +2940,8 @@
    ],
    "meaning": "退步",
    "literal": "回 + 走",
-   "example": "His health began to regress."
+   "example": "His health began to regress.",
+   "level": 3
   },
   {
    "word": "congress",
@@ -2876,7 +2957,8 @@
    ],
    "meaning": "國會；大會",
    "literal": "一起 + 走：走到一起開會",
-   "example": "Congress passed the new law."
+   "example": "Congress passed the new law.",
+   "level": 1
   },
   {
    "word": "premonition",
@@ -2896,7 +2978,8 @@
    ],
    "meaning": "預感",
    "literal": "預先 + 提醒 + 名詞",
-   "example": "She had a premonition of danger."
+   "example": "She had a premonition of danger.",
+   "level": 3
   },
   {
    "word": "monitor",
@@ -2912,7 +2995,8 @@
    ],
    "meaning": "監控；螢幕",
    "literal": "提醒 + 者",
-   "example": "Nurses monitor the patients all night."
+   "example": "Nurses monitor the patients all night.",
+   "level": 1
   },
   {
    "word": "admonish",
@@ -2932,7 +3016,8 @@
    ],
    "meaning": "告誡",
    "literal": "朝向 + 提醒 + 做",
-   "example": "The teacher admonished him for being late."
+   "example": "The teacher admonished him for being late.",
+   "level": 3
   },
   {
    "word": "forewarn",
@@ -2948,7 +3033,8 @@
    ],
    "meaning": "預先警告",
    "literal": "預先 + 警告",
-   "example": "We were forewarned about the storm."
+   "example": "We were forewarned about the storm.",
+   "level": 3
   },
   {
    "word": "warning",
@@ -2964,7 +3050,8 @@
    ],
    "meaning": "警告",
    "literal": "警告 + 動作",
-   "example": "The sign gave a clear warning."
+   "example": "The sign gave a clear warning.",
+   "level": 1
   },
   {
    "word": "telephone",
@@ -2980,7 +3067,8 @@
    ],
    "meaning": "電話",
    "literal": "遠 + 聲音",
-   "example": "She answered the telephone."
+   "example": "She answered the telephone.",
+   "level": 1
   },
   {
    "word": "symphony",
@@ -3000,7 +3088,8 @@
    ],
    "meaning": "交響曲",
    "literal": "一起 + 聲音 + 作品",
-   "example": "Beethoven wrote nine symphonies."
+   "example": "Beethoven wrote nine symphonies.",
+   "level": 2
   },
   {
    "word": "microphone",
@@ -3016,7 +3105,8 @@
    ],
    "meaning": "麥克風",
    "literal": "微小 + 聲音：收下細小的聲音",
-   "example": "Please speak into the microphone."
+   "example": "Please speak into the microphone.",
+   "level": 2
   },
   {
    "word": "democracy",
@@ -3032,7 +3122,8 @@
    ],
    "meaning": "民主",
    "literal": "人民 + 統治",
-   "example": "Taiwan is a democracy."
+   "example": "Taiwan is a democracy.",
+   "level": 1
   },
   {
    "word": "epidemic",
@@ -3052,7 +3143,8 @@
    ],
    "meaning": "流行病",
    "literal": "散布 + 人民 + 的",
-   "example": "The flu epidemic closed many schools."
+   "example": "The flu epidemic closed many schools.",
+   "level": 2
   },
   {
    "word": "precede",
@@ -3068,7 +3160,8 @@
    ],
    "meaning": "在…之前發生",
    "literal": "預先 + 走",
-   "example": "A short speech preceded the dinner."
+   "example": "A short speech preceded the dinner.",
+   "level": 3
   },
   {
    "word": "proceed",
@@ -3084,7 +3177,8 @@
    ],
    "meaning": "繼續進行",
    "literal": "向前 + 走",
-   "example": "Please proceed to gate 12."
+   "example": "Please proceed to gate 12.",
+   "level": 1
   },
   {
    "word": "exceed",
@@ -3100,7 +3194,8 @@
    ],
    "meaning": "超過",
    "literal": "向外 + 走：走出界線",
-   "example": "The cost exceeded our budget."
+   "example": "The cost exceeded our budget.",
+   "level": 2
   },
   {
    "word": "succeed",
@@ -3116,7 +3211,8 @@
    ],
    "meaning": "成功；接替",
    "literal": "在下 + 走：緊跟著接上",
-   "example": "She succeeded in passing the exam."
+   "example": "She succeeded in passing the exam.",
+   "level": 1
   },
   {
    "word": "access",
@@ -3132,7 +3228,8 @@
    ],
    "meaning": "進入；使用權",
    "literal": "朝向 + 走",
-   "example": "Students have free access to the library."
+   "example": "Students have free access to the library.",
+   "level": 1
   },
   {
    "word": "process",
@@ -3148,7 +3245,8 @@
    ],
    "meaning": "過程；處理",
    "literal": "向前 + 走",
-   "example": "Learning a language is a slow process."
+   "example": "Learning a language is a slow process.",
+   "level": 1
   },
   {
    "word": "concede",
@@ -3164,7 +3262,8 @@
    ],
    "meaning": "承認；讓步",
    "literal": "徹底 + 讓步",
-   "example": "He conceded that he was wrong."
+   "example": "He conceded that he was wrong.",
+   "level": 2
   },
   {
    "word": "recession",
@@ -3184,7 +3283,8 @@
    ],
    "meaning": "經濟衰退",
    "literal": "回 + 走 + 名詞：往後退",
-   "example": "The country fell into a recession."
+   "example": "The country fell into a recession.",
+   "level": 2
   },
   {
    "word": "transfer",
@@ -3200,7 +3300,8 @@
    ],
    "meaning": "轉移；轉乘",
    "literal": "跨越 + 攜帶",
-   "example": "You need to transfer at Taipei Main Station."
+   "example": "You need to transfer at Taipei Main Station.",
+   "level": 1
   },
   {
    "word": "refer",
@@ -3216,7 +3317,8 @@
    ],
    "meaning": "提到；參考",
    "literal": "回 + 攜帶：把話題帶回",
-   "example": "Please refer to page 20."
+   "example": "Please refer to page 20.",
+   "level": 1
   },
   {
    "word": "prefer",
@@ -3232,7 +3334,8 @@
    ],
    "meaning": "偏好",
    "literal": "預先 + 攜帶：先拿某樣",
-   "example": "I prefer tea to coffee."
+   "example": "I prefer tea to coffee.",
+   "level": 1
   },
   {
    "word": "offer",
@@ -3248,7 +3351,8 @@
    ],
    "meaning": "提供",
    "literal": "對著 + 攜帶：拿到你面前",
-   "example": "They offered me a job."
+   "example": "They offered me a job.",
+   "level": 1
   },
   {
    "word": "differ",
@@ -3264,7 +3368,8 @@
    ],
    "meaning": "不同",
    "literal": "分開 + 攜帶：各自帶開",
-   "example": "Our opinions differ on this point."
+   "example": "Our opinions differ on this point.",
+   "level": 1
   },
   {
    "word": "infer",
@@ -3280,7 +3385,8 @@
    ],
    "meaning": "推論",
    "literal": "向內 + 攜帶：把結論帶進來",
-   "example": "What can you infer from the data?"
+   "example": "What can you infer from the data?",
+   "level": 3
   },
   {
    "word": "conference",
@@ -3300,7 +3406,8 @@
    ],
    "meaning": "會議",
    "literal": "一起 + 攜帶 + 名詞：把意見帶到一起",
-   "example": "She is speaking at a conference in Tokyo."
+   "example": "She is speaking at a conference in Tokyo.",
+   "level": 1
   },
   {
    "word": "attract",
@@ -3316,7 +3423,8 @@
    ],
    "meaning": "吸引",
    "literal": "朝向 + 拉",
-   "example": "The festival attracts many tourists."
+   "example": "The festival attracts many tourists.",
+   "level": 1
   },
   {
    "word": "distract",
@@ -3332,7 +3440,8 @@
    ],
    "meaning": "使分心",
    "literal": "分開 + 拉",
-   "example": "Don't distract the driver."
+   "example": "Don't distract the driver.",
+   "level": 2
   },
   {
    "word": "extract",
@@ -3348,7 +3457,8 @@
    ],
    "meaning": "提取；拔出",
    "literal": "向外 + 拉",
-   "example": "The dentist extracted my tooth."
+   "example": "The dentist extracted my tooth.",
+   "level": 1
   },
   {
    "word": "contract",
@@ -3364,7 +3474,8 @@
    ],
    "meaning": "合約；收縮",
    "literal": "一起 + 拉：把雙方拉在一起",
-   "example": "Read the contract before you sign it."
+   "example": "Read the contract before you sign it.",
+   "level": 1
   },
   {
    "word": "subtract",
@@ -3380,7 +3491,8 @@
    ],
    "meaning": "減去",
    "literal": "從下 + 拉：拉掉",
-   "example": "Subtract 5 from 12."
+   "example": "Subtract 5 from 12.",
+   "level": 3
   },
   {
    "word": "tractor",
@@ -3396,7 +3508,8 @@
    ],
    "meaning": "拖拉機",
    "literal": "拉 + 物",
-   "example": "The farmer drove a tractor across the field."
+   "example": "The farmer drove a tractor across the field.",
+   "level": 2
   },
   {
    "word": "abstract",
@@ -3412,7 +3525,8 @@
    ],
    "meaning": "抽象的；摘要",
    "literal": "離開 + 拉：從具體中抽離",
-   "example": "Love is an abstract idea."
+   "example": "Love is an abstract idea.",
+   "level": 1
   },
   {
    "word": "express",
@@ -3428,7 +3542,8 @@
    ],
    "meaning": "表達",
    "literal": "向外 + 壓：把想法擠出來",
-   "example": "It's hard to express my feelings in English."
+   "example": "It's hard to express my feelings in English.",
+   "level": 1
   },
   {
    "word": "impress",
@@ -3444,7 +3559,8 @@
    ],
    "meaning": "使印象深刻",
    "literal": "向內 + 壓：壓出印記",
-   "example": "Her speech impressed everyone."
+   "example": "Her speech impressed everyone.",
+   "level": 2
   },
   {
    "word": "depress",
@@ -3460,7 +3576,8 @@
    ],
    "meaning": "使沮喪",
    "literal": "向下 + 壓",
-   "example": "Rainy days depress me."
+   "example": "Rainy days depress me.",
+   "level": 3
   },
   {
    "word": "compress",
@@ -3476,7 +3593,8 @@
    ],
    "meaning": "壓縮",
    "literal": "一起 + 壓",
-   "example": "Compress the files before sending them."
+   "example": "Compress the files before sending them.",
+   "level": 3
   },
   {
    "word": "suppress",
@@ -3492,7 +3610,8 @@
    ],
    "meaning": "壓制；抑制",
    "literal": "在下 + 壓",
-   "example": "He tried to suppress a laugh."
+   "example": "He tried to suppress a laugh.",
+   "level": 2
   },
   {
    "word": "oppress",
@@ -3508,7 +3627,8 @@
    ],
    "meaning": "壓迫",
    "literal": "對著 + 壓",
-   "example": "The people were oppressed by the king."
+   "example": "The people were oppressed by the king.",
+   "level": 3
   },
   {
    "word": "pressure",
@@ -3524,7 +3644,8 @@
    ],
    "meaning": "壓力",
    "literal": "壓 + 結果",
-   "example": "She works well under pressure."
+   "example": "She works well under pressure.",
+   "level": 1
   },
   {
    "word": "depend",
@@ -3540,7 +3661,8 @@
    ],
    "meaning": "依賴",
    "literal": "向下 + 懸掛：吊在別人身上",
-   "example": "Children depend on their parents."
+   "example": "Children depend on their parents.",
+   "level": 1
   },
   {
    "word": "independent",
@@ -3564,7 +3686,8 @@
    ],
    "meaning": "獨立的",
    "literal": "不 + 向下 + 懸掛 + 的",
-   "example": "She is an independent woman."
+   "example": "She is an independent woman.",
+   "level": 1
   },
   {
    "word": "suspend",
@@ -3580,7 +3703,8 @@
    ],
    "meaning": "暫停；懸掛",
    "literal": "在下 + 懸掛",
-   "example": "The game was suspended because of rain."
+   "example": "The game was suspended because of rain.",
+   "level": 2
   },
   {
    "word": "expensive",
@@ -3600,7 +3724,8 @@
    ],
    "meaning": "昂貴的",
    "literal": "向外 + 付錢 + 性質：花出很多錢",
-   "example": "This bag is too expensive."
+   "example": "This bag is too expensive.",
+   "level": 1
   },
   {
    "word": "compensate",
@@ -3620,7 +3745,8 @@
    ],
    "meaning": "補償",
    "literal": "一起 + 秤重 + 使：秤平",
-   "example": "The airline will compensate you for the delay."
+   "example": "The airline will compensate you for the delay.",
+   "level": 2
   },
   {
    "word": "append",
@@ -3636,7 +3762,8 @@
    ],
    "meaning": "附加",
    "literal": "朝向 + 懸掛：掛在後面",
-   "example": "Append your name to the list."
+   "example": "Append your name to the list.",
+   "level": 3
   },
   {
    "word": "convert",
@@ -3652,7 +3779,8 @@
    ],
    "meaning": "轉換",
    "literal": "徹底 + 轉",
-   "example": "Convert the file to PDF."
+   "example": "Convert the file to PDF.",
+   "level": 1
   },
   {
    "word": "reverse",
@@ -3668,7 +3796,8 @@
    ],
    "meaning": "相反的；倒轉",
    "literal": "回 + 轉",
-   "example": "Put the car in reverse."
+   "example": "Put the car in reverse.",
+   "level": 1
   },
   {
    "word": "divert",
@@ -3684,7 +3813,8 @@
    ],
    "meaning": "轉移；使轉向",
    "literal": "分開 + 轉",
-   "example": "Police diverted traffic away from the accident."
+   "example": "Police diverted traffic away from the accident.",
+   "level": 2
   },
   {
    "word": "invert",
@@ -3700,7 +3830,8 @@
    ],
    "meaning": "倒置",
    "literal": "向內 + 轉：翻過來",
-   "example": "Invert the cup to dry it."
+   "example": "Invert the cup to dry it.",
+   "level": 3
   },
   {
    "word": "introvert",
@@ -3716,7 +3847,8 @@
    ],
    "meaning": "內向的人",
    "literal": "向內 + 轉",
-   "example": "As an introvert, he enjoys quiet evenings."
+   "example": "As an introvert, he enjoys quiet evenings.",
+   "level": 3
   },
   {
    "word": "extrovert",
@@ -3732,7 +3864,8 @@
    ],
    "meaning": "外向的人",
    "literal": "向外 + 轉",
-   "example": "She is an extrovert who loves parties."
+   "example": "She is an extrovert who loves parties.",
+   "level": 3
   },
   {
    "word": "advertise",
@@ -3752,7 +3885,8 @@
    ],
    "meaning": "做廣告",
    "literal": "朝向 + 轉 + 使：讓人轉頭注意",
-   "example": "They advertise on social media."
+   "example": "They advertise on social media.",
+   "level": 2
   },
   {
    "word": "capture",
@@ -3768,7 +3902,8 @@
    ],
    "meaning": "捕捉",
    "literal": "拿 + 結果",
-   "example": "The police captured the thief."
+   "example": "The police captured the thief.",
+   "level": 1
   },
   {
    "word": "accept",
@@ -3784,7 +3919,8 @@
    ],
    "meaning": "接受",
    "literal": "朝向 + 拿",
-   "example": "Please accept my apology."
+   "example": "Please accept my apology.",
+   "level": 1
   },
   {
    "word": "except",
@@ -3800,7 +3936,8 @@
    ],
    "meaning": "除了…之外",
    "literal": "向外 + 拿：拿出去",
-   "example": "Everyone came except Tom."
+   "example": "Everyone came except Tom.",
+   "level": 1
   },
   {
    "word": "concept",
@@ -3816,7 +3953,8 @@
    ],
    "meaning": "概念",
    "literal": "一起 + 拿：抓在一起的想法",
-   "example": "The concept is easy to understand."
+   "example": "The concept is easy to understand.",
+   "level": 1
   },
   {
    "word": "receive",
@@ -3832,7 +3970,8 @@
    ],
    "meaning": "收到",
    "literal": "回 + 拿",
-   "example": "I received your email."
+   "example": "I received your email.",
+   "level": 1
   },
   {
    "word": "deceive",
@@ -3848,7 +3987,8 @@
    ],
    "meaning": "欺騙",
    "literal": "去除 + 拿：把東西騙走",
-   "example": "Don't let the ads deceive you."
+   "example": "Don't let the ads deceive you.",
+   "level": 2
   },
   {
    "word": "perceive",
@@ -3864,7 +4004,8 @@
    ],
    "meaning": "察覺",
    "literal": "徹底 + 拿：完全抓住",
-   "example": "Dogs perceive sounds we cannot hear."
+   "example": "Dogs perceive sounds we cannot hear.",
+   "level": 2
   },
   {
    "word": "intercept",
@@ -3880,7 +4021,8 @@
    ],
    "meaning": "攔截",
    "literal": "之間 + 拿：半路抓住",
-   "example": "The goalkeeper intercepted the pass."
+   "example": "The goalkeeper intercepted the pass.",
+   "level": 2
   },
   {
    "word": "factory",
@@ -3896,7 +4038,8 @@
    ],
    "meaning": "工廠",
    "literal": "做 + 場所",
-   "example": "My uncle works in a car factory."
+   "example": "My uncle works in a car factory.",
+   "level": 1
   },
   {
    "word": "manufacture",
@@ -3916,7 +4059,8 @@
    ],
    "meaning": "製造",
    "literal": "手 + 做 + 行為",
-   "example": "The company manufactures phones."
+   "example": "The company manufactures phones.",
+   "level": 2
   },
   {
    "word": "effect",
@@ -3932,7 +4076,8 @@
    ],
    "meaning": "效果；影響",
    "literal": "向外 + 做：做出來的結果",
-   "example": "The medicine had no effect."
+   "example": "The medicine had no effect.",
+   "level": 1
   },
   {
    "word": "affect",
@@ -3948,7 +4093,8 @@
    ],
    "meaning": "影響",
    "literal": "朝向 + 做：對某人起作用",
-   "example": "Stress can affect your sleep."
+   "example": "Stress can affect your sleep.",
+   "level": 1
   },
   {
    "word": "infect",
@@ -3964,7 +4110,8 @@
    ],
    "meaning": "感染",
    "literal": "向內 + 做：在體內作怪",
-   "example": "The virus infected thousands of people."
+   "example": "The virus infected thousands of people.",
+   "level": 2
   },
   {
    "word": "perfect",
@@ -3980,7 +4127,8 @@
    ],
    "meaning": "完美的",
    "literal": "徹底 + 做：做到完",
-   "example": "Nobody is perfect."
+   "example": "Nobody is perfect.",
+   "level": 1
   },
   {
    "word": "efficient",
@@ -4000,7 +4148,8 @@
    ],
    "meaning": "有效率的",
    "literal": "向外 + 做 + 的",
-   "example": "This new machine is more efficient."
+   "example": "This new machine is more efficient.",
+   "level": 1
   },
   {
    "word": "benefactor",
@@ -4020,7 +4169,8 @@
    ],
    "meaning": "捐助者",
    "literal": "好 + 做 + 者",
-   "example": "An unknown benefactor paid for the new library."
+   "example": "An unknown benefactor paid for the new library.",
+   "level": 3
   },
   {
    "word": "benefit",
@@ -4036,7 +4186,8 @@
    ],
    "meaning": "好處；有益於",
    "literal": "好 + 做",
-   "example": "Exercise has many benefits."
+   "example": "Exercise has many benefits.",
+   "level": 1
   },
   {
    "word": "prevent",
@@ -4052,7 +4203,8 @@
    ],
    "meaning": "預防",
    "literal": "預先 + 來：搶先來擋住",
-   "example": "Exercise helps prevent disease."
+   "example": "Exercise helps prevent disease.",
+   "level": 1
   },
   {
    "word": "invent",
@@ -4068,7 +4220,8 @@
    ],
    "meaning": "發明",
    "literal": "向內 + 來：想法來到腦中",
-   "example": "Who invented the telephone?"
+   "example": "Who invented the telephone?",
+   "level": 2
   },
   {
    "word": "event",
@@ -4084,7 +4237,8 @@
    ],
    "meaning": "事件；活動",
    "literal": "向外 + 來：發生出來的事",
-   "example": "The event starts at 7 p.m."
+   "example": "The event starts at 7 p.m.",
+   "level": 1
   },
   {
    "word": "adventure",
@@ -4104,7 +4258,8 @@
    ],
    "meaning": "冒險",
    "literal": "朝向 + 來 + 結果：即將來臨的事",
-   "example": "Traveling alone was a real adventure."
+   "example": "Traveling alone was a real adventure.",
+   "level": 1
   },
   {
    "word": "convention",
@@ -4124,7 +4279,8 @@
    ],
    "meaning": "大會；慣例",
    "literal": "一起 + 來 + 名詞",
-   "example": "Thousands attended the comic convention."
+   "example": "Thousands attended the comic convention.",
+   "level": 1
   },
   {
    "word": "intervene",
@@ -4140,7 +4296,8 @@
    ],
    "meaning": "介入；干預",
    "literal": "之間 + 來",
-   "example": "The teacher intervened to stop the fight."
+   "example": "The teacher intervened to stop the fight.",
+   "level": 2
   },
   {
    "word": "extend",
@@ -4156,7 +4313,8 @@
    ],
    "meaning": "延長；延伸",
    "literal": "向外 + 伸展",
-   "example": "They extended the deadline by a week."
+   "example": "They extended the deadline by a week.",
+   "level": 1
   },
   {
    "word": "intend",
@@ -4172,7 +4330,8 @@
    ],
    "meaning": "打算",
    "literal": "向內 + 伸展：把心思伸向目標",
-   "example": "I intend to study abroad."
+   "example": "I intend to study abroad.",
+   "level": 1
   },
   {
    "word": "pretend",
@@ -4188,7 +4347,8 @@
    ],
    "meaning": "假裝",
    "literal": "預先 + 伸展：先擺在前面當藉口",
-   "example": "He pretended to be sick."
+   "example": "He pretended to be sick.",
+   "level": 1
   },
   {
    "word": "attend",
@@ -4204,7 +4364,8 @@
    ],
    "meaning": "出席；注意",
    "literal": "朝向 + 伸展：把注意力伸過去",
-   "example": "Over 200 people attended the meeting."
+   "example": "Over 200 people attended the meeting.",
+   "level": 1
   },
   {
    "word": "tension",
@@ -4220,7 +4381,8 @@
    ],
    "meaning": "緊張；張力",
    "literal": "伸展 + 名詞：拉緊的狀態",
-   "example": "There was tension in the room."
+   "example": "There was tension in the room.",
+   "level": 1
   },
   {
    "word": "intense",
@@ -4236,7 +4398,8 @@
    ],
    "meaning": "強烈的",
    "literal": "向內 + 伸展：繃得很緊",
-   "example": "The heat was intense."
+   "example": "The heat was intense.",
+   "level": 1
   },
   {
    "word": "include",
@@ -4252,7 +4415,8 @@
    ],
    "meaning": "包含",
    "literal": "向內 + 關閉：關在裡面",
-   "example": "The price includes breakfast."
+   "example": "The price includes breakfast.",
+   "level": 1
   },
   {
    "word": "exclude",
@@ -4268,7 +4432,8 @@
    ],
    "meaning": "排除",
    "literal": "向外 + 關閉：關在門外",
-   "example": "Don't exclude anyone from the game."
+   "example": "Don't exclude anyone from the game.",
+   "level": 2
   },
   {
    "word": "conclude",
@@ -4284,7 +4449,8 @@
    ],
    "meaning": "下結論；結束",
    "literal": "徹底 + 關閉",
-   "example": "The meeting concluded at noon."
+   "example": "The meeting concluded at noon.",
+   "level": 2
   },
   {
    "word": "seclude",
@@ -4300,7 +4466,8 @@
    ],
    "meaning": "使隔離",
    "literal": "分開 + 關閉",
-   "example": "The cabin is secluded in the mountains."
+   "example": "The cabin is secluded in the mountains.",
+   "level": 3
   },
   {
    "word": "exclusive",
@@ -4320,7 +4487,8 @@
    ],
    "meaning": "獨家的；排外的",
    "literal": "向外 + 關閉 + 性質",
-   "example": "The magazine has an exclusive interview."
+   "example": "The magazine has an exclusive interview.",
+   "level": 1
   },
   {
    "word": "motion",
@@ -4336,7 +4504,8 @@
    ],
    "meaning": "運動；動作",
    "literal": "移動 + 名詞",
-   "example": "The film is shown in slow motion."
+   "example": "The film is shown in slow motion.",
+   "level": 1
   },
   {
    "word": "promote",
@@ -4352,7 +4521,8 @@
    ],
    "meaning": "升遷；推廣",
    "literal": "向前 + 移動",
-   "example": "She was promoted to manager."
+   "example": "She was promoted to manager.",
+   "level": 1
   },
   {
    "word": "remote",
@@ -4368,7 +4538,8 @@
    ],
    "meaning": "遙遠的；遙控器",
    "literal": "回 + 移動：移得遠遠的",
-   "example": "They live in a remote village."
+   "example": "They live in a remote village.",
+   "level": 1
   },
   {
    "word": "emotion",
@@ -4388,7 +4559,8 @@
    ],
    "meaning": "情緒",
    "literal": "向外 + 移動 + 名詞：從心裡湧出",
-   "example": "He couldn't hide his emotions."
+   "example": "He couldn't hide his emotions.",
+   "level": 1
   },
   {
    "word": "mobile",
@@ -4404,7 +4576,8 @@
    ],
    "meaning": "可移動的；手機",
    "literal": "移動 + 可…的",
-   "example": "Mobile phones are everywhere."
+   "example": "Mobile phones are everywhere.",
+   "level": 1
   },
   {
    "word": "current",
@@ -4420,7 +4593,8 @@
    ],
    "meaning": "現在的；水流",
    "literal": "跑 + 的：正在流動的",
-   "example": "What is your current address?"
+   "example": "What is your current address?",
+   "level": 1
   },
   {
    "word": "occur",
@@ -4436,7 +4610,8 @@
    ],
    "meaning": "發生",
    "literal": "對著 + 跑：跑到眼前",
-   "example": "The accident occurred at midnight."
+   "example": "The accident occurred at midnight.",
+   "level": 1
   },
   {
    "word": "excursion",
@@ -4456,7 +4631,8 @@
    ],
    "meaning": "短途旅行",
    "literal": "向外 + 跑 + 名詞",
-   "example": "We went on an excursion to the beach."
+   "example": "We went on an excursion to the beach.",
+   "level": 2
   },
   {
    "word": "recur",
@@ -4472,7 +4648,8 @@
    ],
    "meaning": "再發生",
    "literal": "再 + 跑",
-   "example": "The problem recurred last week."
+   "example": "The problem recurred last week.",
+   "level": 3
   },
   {
    "word": "fluent",
@@ -4488,7 +4665,8 @@
    ],
    "meaning": "流利的",
    "literal": "流 + 的",
-   "example": "She is fluent in three languages."
+   "example": "She is fluent in three languages.",
+   "level": 2
   },
   {
    "word": "fluid",
@@ -4504,7 +4682,8 @@
    ],
    "meaning": "液體；流動的",
    "literal": "流 + 的",
-   "example": "Drink plenty of fluids."
+   "example": "Drink plenty of fluids.",
+   "level": 1
   },
   {
    "word": "influence",
@@ -4524,7 +4703,8 @@
    ],
    "meaning": "影響",
    "literal": "向內 + 流 + 名詞：流進來的力量",
-   "example": "My teacher had a big influence on me."
+   "example": "My teacher had a big influence on me.",
+   "level": 1
   },
   {
    "word": "affluent",
@@ -4544,7 +4724,8 @@
    ],
    "meaning": "富裕的",
    "literal": "朝向 + 流 + 的：財富湧來",
-   "example": "They live in an affluent neighborhood."
+   "example": "They live in an affluent neighborhood.",
+   "level": 2
   },
   {
    "word": "pedal",
@@ -4560,7 +4741,8 @@
    ],
    "meaning": "踏板",
    "literal": "腳 + 的",
-   "example": "Push the pedal to start the bike."
+   "example": "Push the pedal to start the bike.",
+   "level": 2
   },
   {
    "word": "centipede",
@@ -4576,7 +4758,8 @@
    ],
    "meaning": "蜈蚣",
    "literal": "百 + 腳",
-   "example": "A centipede never has exactly 100 legs."
+   "example": "A centipede never has exactly 100 legs.",
+   "level": 3
   },
   {
    "word": "expedition",
@@ -4596,7 +4779,8 @@
    ],
    "meaning": "遠征；探險",
    "literal": "向外 + 腳 + 名詞：把腳放出去",
-   "example": "They joined an expedition to the South Pole."
+   "example": "They joined an expedition to the South Pole.",
+   "level": 2
   },
   {
    "word": "impede",
@@ -4612,7 +4796,8 @@
    ],
    "meaning": "妨礙",
    "literal": "向內 + 腳：絆住腳",
-   "example": "Heavy snow impeded the rescue."
+   "example": "Heavy snow impeded the rescue.",
+   "level": 3
   },
   {
    "word": "tripod",
@@ -4628,7 +4813,8 @@
    ],
    "meaning": "三腳架",
    "literal": "三 + 腳",
-   "example": "Put the camera on a tripod."
+   "example": "Put the camera on a tripod.",
+   "level": 3
   },
   {
    "word": "select",
@@ -4644,7 +4830,8 @@
    ],
    "meaning": "挑選",
    "literal": "分開 + 選",
-   "example": "Select a file to upload."
+   "example": "Select a file to upload.",
+   "level": 1
   },
   {
    "word": "collect",
@@ -4660,7 +4847,8 @@
    ],
    "meaning": "收集",
    "literal": "一起 + 選",
-   "example": "He collects old coins."
+   "example": "He collects old coins.",
+   "level": 1
   },
   {
    "word": "elect",
@@ -4676,7 +4864,8 @@
    ],
    "meaning": "選舉",
    "literal": "向外 + 選",
-   "example": "The country will elect a new president."
+   "example": "The country will elect a new president.",
+   "level": 1
   },
   {
    "word": "lecture",
@@ -4692,7 +4881,8 @@
    ],
    "meaning": "演講；講課",
    "literal": "讀 + 行為：讀給大家聽",
-   "example": "The professor gave a lecture on climate change."
+   "example": "The professor gave a lecture on climate change.",
+   "level": 1
   },
   {
    "word": "audience",
@@ -4708,7 +4898,8 @@
    ],
    "meaning": "觀眾；聽眾",
    "literal": "聽 + 名詞",
-   "example": "The audience clapped loudly."
+   "example": "The audience clapped loudly.",
+   "level": 1
   },
   {
    "word": "audible",
@@ -4724,7 +4915,8 @@
    ],
    "meaning": "聽得見的",
    "literal": "聽 + 可…的",
-   "example": "Her voice was barely audible."
+   "example": "Her voice was barely audible.",
+   "level": 2
   },
   {
    "word": "audition",
@@ -4740,7 +4932,8 @@
    ],
    "meaning": "試鏡",
    "literal": "聽 + 名詞",
-   "example": "She has an audition for the musical."
+   "example": "She has an audition for the musical.",
+   "level": 2
   },
   {
    "word": "vocal",
@@ -4756,7 +4949,8 @@
    ],
    "meaning": "聲音的；歌唱的",
    "literal": "聲音 + 的",
-   "example": "Vocal training takes years."
+   "example": "Vocal training takes years.",
+   "level": 1
   },
   {
    "word": "advocate",
@@ -4776,7 +4970,8 @@
    ],
    "meaning": "提倡；擁護者",
    "literal": "朝向 + 呼喚 + 使：替人發聲",
-   "example": "She advocates for animal rights."
+   "example": "She advocates for animal rights.",
+   "level": 1
   },
   {
    "word": "provoke",
@@ -4792,7 +4987,8 @@
    ],
    "meaning": "激怒；引起",
    "literal": "向前 + 呼喚：叫出來",
-   "example": "His words provoked anger."
+   "example": "His words provoked anger.",
+   "level": 2
   },
   {
    "word": "evoke",
@@ -4808,7 +5004,8 @@
    ],
    "meaning": "喚起",
    "literal": "向外 + 呼喚",
-   "example": "The song evokes memories of my childhood."
+   "example": "The song evokes memories of my childhood.",
+   "level": 3
   },
   {
    "word": "revoke",
@@ -4824,7 +5021,8 @@
    ],
    "meaning": "撤銷",
    "literal": "回 + 呼喚：叫回來",
-   "example": "The government revoked his license."
+   "example": "The government revoked his license.",
+   "level": 3
   },
   {
    "word": "signal",
@@ -4840,7 +5038,8 @@
    ],
    "meaning": "信號",
    "literal": "記號 + 的",
-   "example": "The phone has no signal here."
+   "example": "The phone has no signal here.",
+   "level": 1
   },
   {
    "word": "design",
@@ -4856,7 +5055,8 @@
    ],
    "meaning": "設計",
    "literal": "向下 + 記號：畫出記號",
-   "example": "She designs websites."
+   "example": "She designs websites.",
+   "level": 1
   },
   {
    "word": "assign",
@@ -4872,7 +5072,8 @@
    ],
    "meaning": "指派",
    "literal": "朝向 + 記號：標給某人",
-   "example": "The teacher assigned us homework."
+   "example": "The teacher assigned us homework.",
+   "level": 2
   },
   {
    "word": "signature",
@@ -4888,7 +5089,8 @@
    ],
    "meaning": "簽名",
    "literal": "記號 + 結果",
-   "example": "Put your signature here."
+   "example": "Put your signature here.",
+   "level": 1
   },
   {
    "word": "telescope",
@@ -4904,7 +5106,8 @@
    ],
    "meaning": "望遠鏡",
    "literal": "遠 + 看",
-   "example": "We watched the moon through a telescope."
+   "example": "We watched the moon through a telescope.",
+   "level": 2
   },
   {
    "word": "microscope",
@@ -4920,7 +5123,8 @@
    ],
    "meaning": "顯微鏡",
    "literal": "微小 + 看",
-   "example": "Bacteria can be seen under a microscope."
+   "example": "Bacteria can be seen under a microscope.",
+   "level": 2
   },
   {
    "word": "periscope",
@@ -4936,7 +5140,8 @@
    ],
    "meaning": "潛望鏡",
    "literal": "周圍 + 看",
-   "example": "The submarine raised its periscope."
+   "example": "The submarine raised its periscope.",
+   "level": 3
   },
   {
    "word": "bilingual",
@@ -4956,7 +5161,8 @@
    ],
    "meaning": "雙語的",
    "literal": "雙 + 語言 + 的",
-   "example": "He grew up bilingual in Chinese and English."
+   "example": "He grew up bilingual in Chinese and English.",
+   "level": 2
   },
   {
    "word": "multilingual",
@@ -4976,7 +5182,8 @@
    ],
    "meaning": "多語的",
    "literal": "許多 + 語言 + 的",
-   "example": "Singapore is a multilingual country."
+   "example": "Singapore is a multilingual country.",
+   "level": 3
   },
   {
    "word": "monotone",
@@ -4992,7 +5199,8 @@
    ],
    "meaning": "單調的聲音",
    "literal": "單一 + 聲調",
-   "example": "He spoke in a boring monotone."
+   "example": "He spoke in a boring monotone.",
+   "level": 3
   },
   {
    "word": "intonation",
@@ -5012,7 +5220,8 @@
    ],
    "meaning": "語調",
    "literal": "向內 + 聲調 + 名詞",
-   "example": "English intonation often rises in yes-no questions."
+   "example": "English intonation often rises in yes-no questions.",
+   "level": 3
   },
   {
    "word": "dialogue",
@@ -5028,7 +5237,8 @@
    ],
    "meaning": "對話",
    "literal": "穿過 + 話語：兩人之間來回",
-   "example": "The movie has very little dialogue."
+   "example": "The movie has very little dialogue.",
+   "level": 1
   },
   {
    "word": "prologue",
@@ -5044,7 +5254,8 @@
    ],
    "meaning": "序幕；序言",
    "literal": "向前 + 話語",
-   "example": "The prologue introduces the main character."
+   "example": "The prologue introduces the main character.",
+   "level": 3
   },
   {
    "word": "monologue",
@@ -5060,7 +5271,8 @@
    ],
    "meaning": "獨白",
    "literal": "單一 + 話語",
-   "example": "The actor delivered a long monologue."
+   "example": "The actor delivered a long monologue.",
+   "level": 3
   },
   {
    "word": "anonymous",
@@ -5080,7 +5292,8 @@
    ],
    "meaning": "匿名的",
    "literal": "沒有 + 名字 + 的",
-   "example": "The letter was anonymous."
+   "example": "The letter was anonymous.",
+   "level": 1
   },
   {
    "word": "synonym",
@@ -5096,7 +5309,8 @@
    ],
    "meaning": "同義字",
    "literal": "相同 + 名字",
-   "example": "\"Big\" is a synonym of \"large\"."
+   "example": "\"Big\" is a synonym of \"large\".",
+   "level": 3
   },
   {
    "word": "antonym",
@@ -5112,7 +5326,8 @@
    ],
    "meaning": "反義字",
    "literal": "相反 + 名字",
-   "example": "\"Hot\" is the antonym of \"cold\"."
+   "example": "\"Hot\" is the antonym of \"cold\".",
+   "level": 3
   },
   {
    "word": "surface",
@@ -5128,7 +5343,8 @@
    ],
    "meaning": "表面",
    "literal": "在上 + 面",
-   "example": "The surface of the table is smooth."
+   "example": "The surface of the table is smooth.",
+   "level": 1
   },
   {
    "word": "sensible",
@@ -5144,7 +5360,8 @@
    ],
    "meaning": "明智的",
    "literal": "感覺 + 可…的",
-   "example": "That's a sensible decision."
+   "example": "That's a sensible decision.",
+   "level": 2
   },
   {
    "word": "sensitive",
@@ -5160,7 +5377,8 @@
    ],
    "meaning": "敏感的",
    "literal": "感覺 + 性質",
-   "example": "My skin is sensitive to the sun."
+   "example": "My skin is sensitive to the sun.",
+   "level": 1
   },
   {
    "word": "consent",
@@ -5176,7 +5394,8 @@
    ],
    "meaning": "同意",
    "literal": "一起 + 感覺：感受一致",
-   "example": "You need your parents' consent."
+   "example": "You need your parents' consent.",
+   "level": 1
   },
   {
    "word": "resent",
@@ -5192,7 +5411,8 @@
    ],
    "meaning": "憎恨；不滿",
    "literal": "再 + 感覺：一再感到不舒服",
-   "example": "He resents being told what to do."
+   "example": "He resents being told what to do.",
+   "level": 2
   },
   {
    "word": "nonsense",
@@ -5208,7 +5428,8 @@
    ],
    "meaning": "胡說",
    "literal": "非 + 感覺：沒道理",
-   "example": "Stop talking nonsense."
+   "example": "Stop talking nonsense.",
+   "level": 1
   },
   {
    "word": "record",
@@ -5224,7 +5445,8 @@
    ],
    "meaning": "紀錄；錄製",
    "literal": "再 + 心：重新記在心上",
-   "example": "She broke the world record."
+   "example": "She broke the world record.",
+   "level": 1
   },
   {
    "word": "discord",
@@ -5240,7 +5462,8 @@
    ],
    "meaning": "不和",
    "literal": "分開 + 心",
-   "example": "There was discord within the team."
+   "example": "There was discord within the team.",
+   "level": 2
   },
   {
    "word": "cordial",
@@ -5256,7 +5479,8 @@
    ],
    "meaning": "親切的",
    "literal": "心 + 的",
-   "example": "They gave us a cordial welcome."
+   "example": "They gave us a cordial welcome.",
+   "level": 3
   },
   {
    "word": "courage",
@@ -5272,7 +5496,8 @@
    ],
    "meaning": "勇氣",
    "literal": "心 + 名詞",
-   "example": "It takes courage to speak up."
+   "example": "It takes courage to speak up.",
+   "level": 1
   },
   {
    "word": "encourage",
@@ -5292,7 +5517,8 @@
    ],
    "meaning": "鼓勵",
    "literal": "使 + 心 + 名詞：給人勇氣",
-   "example": "My parents encouraged me to try."
+   "example": "My parents encouraged me to try.",
+   "level": 1
   },
   {
    "word": "sympathy",
@@ -5312,7 +5538,8 @@
    ],
    "meaning": "同情",
    "literal": "一起 + 感受 + 名詞",
-   "example": "I have a lot of sympathy for her."
+   "example": "I have a lot of sympathy for her.",
+   "level": 1
   },
   {
    "word": "empathy",
@@ -5332,7 +5559,8 @@
    ],
    "meaning": "同理心",
    "literal": "進入 + 感受 + 名詞",
-   "example": "Good doctors show empathy."
+   "example": "Good doctors show empathy.",
+   "level": 2
   },
   {
    "word": "apathy",
@@ -5352,7 +5580,8 @@
    ],
    "meaning": "冷漠",
    "literal": "沒有 + 感受 + 名詞",
-   "example": "Voter apathy is a big problem."
+   "example": "Voter apathy is a big problem.",
+   "level": 3
   },
   {
    "word": "telepathy",
@@ -5372,7 +5601,8 @@
    ],
    "meaning": "心電感應",
    "literal": "遠 + 感受 + 名詞",
-   "example": "Twins sometimes joke about telepathy."
+   "example": "Twins sometimes joke about telepathy.",
+   "level": 3
   },
   {
    "word": "philosophy",
@@ -5392,7 +5622,8 @@
    ],
    "meaning": "哲學",
    "literal": "愛 + 智慧 + 名詞",
-   "example": "Socrates is a key figure in philosophy."
+   "example": "Socrates is a key figure in philosophy.",
+   "level": 1
   },
   {
    "word": "philanthropy",
@@ -5412,7 +5643,8 @@
    ],
    "meaning": "慈善",
    "literal": "愛 + 人類 + 名詞",
-   "example": "He gave millions to philanthropy."
+   "example": "He gave millions to philanthropy.",
+   "level": 2
   },
   {
    "word": "anthropology",
@@ -5428,7 +5660,8 @@
    ],
    "meaning": "人類學",
    "literal": "人類 + 學問",
-   "example": "She studies anthropology."
+   "example": "She studies anthropology.",
+   "level": 2
   },
   {
    "word": "benevolent",
@@ -5448,7 +5681,8 @@
    ],
    "meaning": "仁慈的",
    "literal": "好 + 意願 + 的",
-   "example": "She is a benevolent leader."
+   "example": "She is a benevolent leader.",
+   "level": 2
   },
   {
    "word": "malevolent",
@@ -5468,7 +5702,8 @@
    ],
    "meaning": "惡意的",
    "literal": "壞 + 意願 + 的",
-   "example": "The story has a malevolent witch."
+   "example": "The story has a malevolent witch.",
+   "level": 3
   },
   {
    "word": "inspire",
@@ -5484,7 +5719,8 @@
    ],
    "meaning": "激勵；啟發",
    "literal": "向內 + 呼吸：吹進一口氣",
-   "example": "Her story inspired me."
+   "example": "Her story inspired me.",
+   "level": 1
   },
   {
    "word": "expire",
@@ -5500,7 +5736,8 @@
    ],
    "meaning": "到期",
    "literal": "向外 + 呼吸：吐出最後一口氣",
-   "example": "My passport expires next month."
+   "example": "My passport expires next month.",
+   "level": 2
   },
   {
    "word": "conspire",
@@ -5516,7 +5753,8 @@
    ],
    "meaning": "密謀",
    "literal": "一起 + 呼吸",
-   "example": "They conspired against the king."
+   "example": "They conspired against the king.",
+   "level": 3
   },
   {
    "word": "perspire",
@@ -5532,7 +5770,8 @@
    ],
    "meaning": "流汗",
    "literal": "穿過 + 呼吸：從皮膚透出",
-   "example": "Everyone perspires in this heat."
+   "example": "Everyone perspires in this heat.",
+   "level": 3
   },
   {
    "word": "mortal",
@@ -5548,7 +5787,8 @@
    ],
    "meaning": "會死的；凡人",
    "literal": "死 + 的",
-   "example": "All humans are mortal."
+   "example": "All humans are mortal.",
+   "level": 2
   },
   {
    "word": "immortal",
@@ -5568,7 +5808,8 @@
    ],
    "meaning": "不朽的",
    "literal": "不 + 死 + 的",
-   "example": "The gods in Greek myths are immortal."
+   "example": "The gods in Greek myths are immortal.",
+   "level": 2
   },
   {
    "word": "mortgage",
@@ -5584,7 +5825,8 @@
    ],
    "meaning": "房貸",
    "literal": "死 + 誓約",
-   "example": "They took out a mortgage to buy the house."
+   "example": "They took out a mortgage to buy the house.",
+   "level": 1
   },
   {
    "word": "survive",
@@ -5600,7 +5842,8 @@
    ],
    "meaning": "存活",
    "literal": "超過 + 活：活過災難",
-   "example": "Only two people survived the crash."
+   "example": "Only two people survived the crash.",
+   "level": 1
   },
   {
    "word": "revive",
@@ -5616,7 +5859,8 @@
    ],
    "meaning": "復甦",
    "literal": "再 + 活",
-   "example": "The rain revived the plants."
+   "example": "The rain revived the plants.",
+   "level": 2
   },
   {
    "word": "vivid",
@@ -5632,7 +5876,8 @@
    ],
    "meaning": "生動的",
    "literal": "活 + 的",
-   "example": "She has vivid memories of her childhood."
+   "example": "She has vivid memories of her childhood.",
+   "level": 2
   },
   {
    "word": "vital",
@@ -5648,7 +5893,8 @@
    ],
    "meaning": "極重要的",
    "literal": "活 + 的：攸關生命",
-   "example": "Water is vital to all living things."
+   "example": "Water is vital to all living things.",
+   "level": 1
   },
   {
    "word": "generate",
@@ -5664,7 +5910,8 @@
    ],
    "meaning": "產生",
    "literal": "產生 + 使",
-   "example": "Solar panels generate electricity."
+   "example": "Solar panels generate electricity.",
+   "level": 1
   },
   {
    "word": "hydrogen",
@@ -5680,7 +5927,8 @@
    ],
    "meaning": "氫",
    "literal": "水 + 產生",
-   "example": "Water is made of hydrogen and oxygen."
+   "example": "Water is made of hydrogen and oxygen.",
+   "level": 2
   },
   {
    "word": "oxygen",
@@ -5696,7 +5944,8 @@
    ],
    "meaning": "氧",
    "literal": "酸 + 產生",
-   "example": "Plants release oxygen."
+   "example": "Plants release oxygen.",
+   "level": 1
   },
   {
    "word": "monarchy",
@@ -5716,7 +5965,8 @@
    ],
    "meaning": "君主制",
    "literal": "單一 + 統治 + 名詞",
-   "example": "The UK is a constitutional monarchy."
+   "example": "The UK is a constitutional monarchy.",
+   "level": 2
   },
   {
    "word": "anarchy",
@@ -5736,7 +5986,8 @@
    ],
    "meaning": "無政府狀態",
    "literal": "沒有 + 統治 + 名詞",
-   "example": "The country fell into anarchy."
+   "example": "The country fell into anarchy.",
+   "level": 2
   },
   {
    "word": "novel",
@@ -5752,7 +6003,8 @@
    ],
    "meaning": "小說；新穎的",
    "literal": "新 + 小：新奇的小故事",
-   "example": "I'm reading a novel by Murakami."
+   "example": "I'm reading a novel by Murakami.",
+   "level": 1
   },
   {
    "word": "innovate",
@@ -5772,7 +6024,8 @@
    ],
    "meaning": "創新",
    "literal": "向內 + 新 + 使",
-   "example": "Companies must innovate to survive."
+   "example": "Companies must innovate to survive.",
+   "level": 3
   },
   {
    "word": "renovate",
@@ -5792,7 +6045,8 @@
    ],
    "meaning": "翻修",
    "literal": "再 + 新 + 使",
-   "example": "They renovated the old house."
+   "example": "They renovated the old house.",
+   "level": 3
   },
   {
    "word": "final",
@@ -5808,7 +6062,8 @@
    ],
    "meaning": "最後的",
    "literal": "結束 + 的",
-   "example": "This is the final exam."
+   "example": "This is the final exam.",
+   "level": 1
   },
   {
    "word": "infinite",
@@ -5828,7 +6083,8 @@
    ],
    "meaning": "無限的",
    "literal": "不 + 界限 + 的",
-   "example": "The universe seems infinite."
+   "example": "The universe seems infinite.",
+   "level": 1
   },
   {
    "word": "define",
@@ -5844,7 +6100,8 @@
    ],
    "meaning": "定義",
    "literal": "徹底 + 界限：畫清界線",
-   "example": "How do you define success?"
+   "example": "How do you define success?",
+   "level": 1
   },
   {
    "word": "confine",
@@ -5860,7 +6117,8 @@
    ],
    "meaning": "限制",
    "literal": "一起 + 界限",
-   "example": "The patient is confined to bed."
+   "example": "The patient is confined to bed.",
+   "level": 3
   },
   {
    "word": "semifinal",
@@ -5880,7 +6138,8 @@
    ],
    "meaning": "準決賽",
    "literal": "一半 + 結束 + 的",
-   "example": "Our team lost in the semifinal."
+   "example": "Our team lost in the semifinal.",
+   "level": 3
   },
   {
    "word": "geography",
@@ -5900,7 +6159,8 @@
    ],
    "meaning": "地理",
    "literal": "地球 + 寫 + 名詞",
-   "example": "Geography is my favorite class."
+   "example": "Geography is my favorite class.",
+   "level": 2
   },
   {
    "word": "geology",
@@ -5916,7 +6176,8 @@
    ],
    "meaning": "地質學",
    "literal": "土地 + 學問",
-   "example": "He studied geology in college."
+   "example": "He studied geology in college.",
+   "level": 2
   },
   {
    "word": "geometry",
@@ -5936,7 +6197,8 @@
    ],
    "meaning": "幾何",
    "literal": "土地 + 測量 + 名詞：丈量土地",
-   "example": "We learned about triangles in geometry."
+   "example": "We learned about triangles in geometry.",
+   "level": 2
   },
   {
    "word": "territory",
@@ -5952,7 +6214,8 @@
    ],
    "meaning": "領土",
    "literal": "土地 + 場所",
-   "example": "The island is disputed territory."
+   "example": "The island is disputed territory.",
+   "level": 1
   },
   {
    "word": "subterranean",
@@ -5972,7 +6235,8 @@
    ],
    "meaning": "地下的",
    "literal": "在下 + 土地 + 的",
-   "example": "They explored subterranean caves."
+   "example": "They explored subterranean caves.",
+   "level": 3
   },
   {
    "word": "mediate",
@@ -5988,7 +6252,8 @@
    ],
    "meaning": "調解",
    "literal": "中間 + 使",
-   "example": "A teacher mediated between the two students."
+   "example": "A teacher mediated between the two students.",
+   "level": 3
   },
   {
    "word": "intermediate",
@@ -6008,7 +6273,8 @@
    ],
    "meaning": "中級的",
    "literal": "之間 + 中間 + 的",
-   "example": "I'm taking an intermediate English course."
+   "example": "I'm taking an intermediate English course.",
+   "level": 1
   },
   {
    "word": "local",
@@ -6024,7 +6290,8 @@
    ],
    "meaning": "當地的",
    "literal": "地方 + 的",
-   "example": "Try the local food."
+   "example": "Try the local food.",
+   "level": 1
   },
   {
    "word": "locate",
@@ -6040,7 +6307,8 @@
    ],
    "meaning": "找出位置；位於",
    "literal": "地方 + 使",
-   "example": "The hotel is located near the station."
+   "example": "The hotel is located near the station.",
+   "level": 2
   },
   {
    "word": "allocate",
@@ -6060,7 +6328,8 @@
    ],
    "meaning": "分配",
    "literal": "朝向 + 地方 + 使",
-   "example": "The school allocated money for new books."
+   "example": "The school allocated money for new books.",
+   "level": 2
   },
   {
    "word": "relocate",
@@ -6080,7 +6349,8 @@
    ],
    "meaning": "搬遷",
    "literal": "再 + 地方 + 使",
-   "example": "The company relocated to Taichung."
+   "example": "The company relocated to Taichung.",
+   "level": 2
   },
   {
    "word": "thermometer",
@@ -6096,7 +6366,8 @@
    ],
    "meaning": "溫度計",
    "literal": "熱 + 測量",
-   "example": "The thermometer shows 35 degrees."
+   "example": "The thermometer shows 35 degrees.",
+   "level": 3
   },
   {
    "word": "thermal",
@@ -6112,7 +6383,8 @@
    ],
    "meaning": "熱的；保暖的",
    "literal": "熱 + 的",
-   "example": "Wear thermal underwear in winter."
+   "example": "Wear thermal underwear in winter.",
+   "level": 1
   },
   {
    "word": "diameter",
@@ -6128,7 +6400,8 @@
    ],
    "meaning": "直徑",
    "literal": "穿過 + 測量",
-   "example": "The circle has a diameter of 10 cm."
+   "example": "The circle has a diameter of 10 cm.",
+   "level": 1
   },
   {
    "word": "perimeter",
@@ -6144,7 +6417,8 @@
    ],
    "meaning": "周長",
    "literal": "周圍 + 測量",
-   "example": "Find the perimeter of the square."
+   "example": "Find the perimeter of the square.",
+   "level": 2
   },
   {
    "word": "symmetry",
@@ -6164,7 +6438,8 @@
    ],
    "meaning": "對稱",
    "literal": "相同 + 測量 + 名詞",
-   "example": "The building has perfect symmetry."
+   "example": "The building has perfect symmetry.",
+   "level": 2
   },
   {
    "word": "dehydrate",
@@ -6184,7 +6459,8 @@
    ],
    "meaning": "使脫水",
    "literal": "去除 + 水 + 使",
-   "example": "Running in the heat can dehydrate you."
+   "example": "Running in the heat can dehydrate you.",
+   "level": 3
   },
   {
    "word": "reform",
@@ -6200,7 +6476,8 @@
    ],
    "meaning": "改革",
    "literal": "再 + 形狀",
-   "example": "The government promised to reform education."
+   "example": "The government promised to reform education.",
+   "level": 1
   },
   {
    "word": "transform",
@@ -6216,7 +6493,8 @@
    ],
    "meaning": "轉變",
    "literal": "跨越 + 形狀",
-   "example": "The caterpillar transforms into a butterfly."
+   "example": "The caterpillar transforms into a butterfly.",
+   "level": 1
   },
   {
    "word": "inform",
@@ -6232,7 +6510,8 @@
    ],
    "meaning": "通知",
    "literal": "向內 + 形狀：在腦中塑形",
-   "example": "Please inform us of any changes."
+   "example": "Please inform us of any changes.",
+   "level": 1
   },
   {
    "word": "uniform",
@@ -6248,7 +6527,8 @@
    ],
    "meaning": "制服；一致的",
    "literal": "單一 + 形狀",
-   "example": "Students wear uniforms at my school."
+   "example": "Students wear uniforms at my school.",
+   "level": 1
   },
   {
    "word": "conform",
@@ -6264,7 +6544,8 @@
    ],
    "meaning": "遵從",
    "literal": "一起 + 形狀：變成一樣的形狀",
-   "example": "Not everyone wants to conform."
+   "example": "Not everyone wants to conform.",
+   "level": 2
   },
   {
    "word": "bicycle",
@@ -6280,7 +6561,8 @@
    ],
    "meaning": "腳踏車",
    "literal": "雙 + 圓輪",
-   "example": "I ride my bicycle to school."
+   "example": "I ride my bicycle to school.",
+   "level": 2
   },
   {
    "word": "recycle",
@@ -6296,7 +6578,8 @@
    ],
    "meaning": "回收",
    "literal": "再 + 循環",
-   "example": "We recycle paper and plastic."
+   "example": "We recycle paper and plastic.",
+   "level": 2
   },
   {
    "word": "triangle",
@@ -6312,7 +6595,8 @@
    ],
    "meaning": "三角形",
    "literal": "三 + 角",
-   "example": "Draw a triangle on the board."
+   "example": "Draw a triangle on the board.",
+   "level": 2
   },
   {
    "word": "rectangle",
@@ -6328,7 +6612,8 @@
    ],
    "meaning": "長方形",
    "literal": "直 + 角",
-   "example": "The table is a rectangle."
+   "example": "The table is a rectangle.",
+   "level": 3
   },
   {
    "word": "correct",
@@ -6344,7 +6629,8 @@
    ],
    "meaning": "正確的；改正",
    "literal": "徹底 + 直",
-   "example": "Correct the mistakes in red."
+   "example": "Correct the mistakes in red.",
+   "level": 1
   },
   {
    "word": "direct",
@@ -6360,7 +6646,8 @@
    ],
    "meaning": "直接的；指引",
    "literal": "分開 + 直：拉直方向",
-   "example": "Is there a direct flight to Osaka?"
+   "example": "Is there a direct flight to Osaka?",
+   "level": 1
   },
   {
    "word": "unicorn",
@@ -6376,7 +6663,8 @@
    ],
    "meaning": "獨角獸",
    "literal": "單一 + 角",
-   "example": "The unicorn is the national animal of Scotland."
+   "example": "The unicorn is the national animal of Scotland.",
+   "level": 2
   },
   {
    "word": "percent",
@@ -6392,7 +6680,8 @@
    ],
    "meaning": "百分比",
    "literal": "每 + 百",
-   "example": "Ninety percent of students passed."
+   "example": "Ninety percent of students passed.",
+   "level": 1
   },
   {
    "word": "different",
@@ -6412,7 +6701,8 @@
    ],
    "meaning": "不同的",
    "literal": "分開 + 攜帶 + 的",
-   "example": "My brother and I have different hobbies."
+   "example": "My brother and I have different hobbies.",
+   "level": 1
   },
   {
    "word": "success",
@@ -6428,7 +6718,8 @@
    ],
    "meaning": "成功",
    "literal": "在下 + 走：緊接著達成",
-   "example": "The event was a big success."
+   "example": "The event was a big success.",
+   "level": 1
   },
   {
    "word": "respect",
@@ -6444,7 +6735,8 @@
    ],
    "meaning": "尊重",
    "literal": "回 + 看：回頭再看一眼",
-   "example": "We should respect other people's opinions."
+   "example": "We should respect other people's opinions.",
+   "level": 1
   },
   {
    "word": "version",
@@ -6460,7 +6752,8 @@
    ],
    "meaning": "版本",
    "literal": "轉 + 名詞：轉換後的樣子",
-   "example": "Please download the latest version of the app."
+   "example": "Please download the latest version of the app.",
+   "level": 1
   },
   {
    "word": "construction",
@@ -6480,7 +6773,8 @@
    ],
    "meaning": "建設；工程",
    "literal": "一起 + 建造 + 名詞",
-   "example": "The road is under construction."
+   "example": "The road is under construction.",
+   "level": 1
   },
   {
    "word": "collection",
@@ -6500,7 +6794,8 @@
    ],
    "meaning": "收藏；收集",
    "literal": "一起 + 選 + 名詞",
-   "example": "The museum has a large art collection."
+   "example": "The museum has a large art collection.",
+   "level": 1
   },
   {
    "word": "commission",
@@ -6520,7 +6815,8 @@
    ],
    "meaning": "佣金；委員會",
    "literal": "一起 + 送 + 名詞：委託出去",
-   "example": "Salespeople earn a commission on each sale."
+   "example": "Salespeople earn a commission on each sale.",
+   "level": 1
   },
   {
    "word": "effective",
@@ -6540,7 +6836,8 @@
    ],
    "meaning": "有效的",
    "literal": "向外 + 做 + 性質",
-   "example": "This is an effective way to save money."
+   "example": "This is an effective way to save money.",
+   "level": 1
   },
   {
    "word": "location",
@@ -6556,7 +6853,8 @@
    ],
    "meaning": "地點",
    "literal": "地方 + 名詞",
-   "example": "The new store is in a great location."
+   "example": "The new store is in a great location.",
+   "level": 1
   },
   {
    "word": "generation",
@@ -6572,7 +6870,8 @@
    ],
    "meaning": "世代",
    "literal": "產生 + 名詞",
-   "example": "My parents' generation didn't have smartphones."
+   "example": "My parents' generation didn't have smartphones.",
+   "level": 1
   },
   {
    "word": "conversation",
@@ -6592,7 +6891,8 @@
    ],
    "meaning": "對話",
    "literal": "一起 + 轉 + 名詞：話題來回轉",
-   "example": "We had a long conversation over coffee."
+   "example": "We had a long conversation over coffee.",
+   "level": 1
   },
   {
    "word": "reference",
@@ -6612,7 +6912,8 @@
    ],
    "meaning": "參考；推薦信",
    "literal": "回 + 攜帶 + 名詞",
-   "example": "My former boss wrote me a reference."
+   "example": "My former boss wrote me a reference.",
+   "level": 1
   },
   {
    "word": "reduce",
@@ -6628,7 +6929,8 @@
    ],
    "meaning": "減少",
    "literal": "回 + 引導：往回拉",
-   "example": "We need to reduce costs this year."
+   "example": "We need to reduce costs this year.",
+   "level": 1
   },
   {
    "word": "profit",
@@ -6644,7 +6946,8 @@
    ],
    "meaning": "利潤",
    "literal": "向前 + 做：做出成果",
-   "example": "The company made a profit of two million dollars."
+   "example": "The company made a profit of two million dollars.",
+   "level": 1
   },
   {
    "word": "factor",
@@ -6660,7 +6963,8 @@
    ],
    "meaning": "因素",
    "literal": "做 + 者：促成結果的東西",
-   "example": "Price is an important factor."
+   "example": "Price is an important factor.",
+   "level": 1
   },
   {
    "word": "finance",
@@ -6676,7 +6980,8 @@
    ],
    "meaning": "財務；資助",
    "literal": "結束 + 名詞：把帳結清",
-   "example": "She works in finance."
+   "example": "She works in finance.",
+   "level": 1
   },
   {
    "word": "capable",
@@ -6692,7 +6997,8 @@
    ],
    "meaning": "有能力的",
    "literal": "拿 + 可…的：拿得起",
-   "example": "He is capable of running the team."
+   "example": "He is capable of running the team.",
+   "level": 1
   },
   {
    "word": "universe",
@@ -6708,7 +7014,8 @@
    ],
    "meaning": "宇宙",
    "literal": "單一 + 轉：萬物合為一體",
-   "example": "The universe is about 13.8 billion years old."
+   "example": "The universe is about 13.8 billion years old.",
+   "level": 1
   },
   {
    "word": "admit",
@@ -6724,7 +7031,8 @@
    ],
    "meaning": "承認；准許進入",
    "literal": "朝向 + 送：放進來",
-   "example": "He admitted that he made a mistake."
+   "example": "He admitted that he made a mistake.",
+   "level": 1
   },
   {
    "word": "sentence",
@@ -6740,7 +7048,8 @@
    ],
    "meaning": "句子；判刑",
    "literal": "感覺 + 名詞：表達想法的單位",
-   "example": "Write a sentence using this word."
+   "example": "Write a sentence using this word.",
+   "level": 1
   },
   {
    "word": "expression",
@@ -6760,7 +7069,8 @@
    ],
    "meaning": "表情；表達",
    "literal": "向外 + 壓 + 名詞",
-   "example": "Her expression changed when she heard the news."
+   "example": "Her expression changed when she heard the news.",
+   "level": 1
   },
   {
    "word": "attractive",
@@ -6780,7 +7090,8 @@
    ],
    "meaning": "有吸引力的",
    "literal": "朝向 + 拉 + 性質",
-   "example": "The job offers an attractive salary."
+   "example": "The job offers an attractive salary.",
+   "level": 1
   },
   {
    "word": "immediate",
@@ -6800,7 +7111,8 @@
    ],
    "meaning": "立即的",
    "literal": "不 + 中間 + 的：中間沒有隔閡",
-   "example": "We need an immediate answer."
+   "example": "We need an immediate answer.",
+   "level": 1
   },
   {
    "word": "suspect",
@@ -6816,7 +7128,8 @@
    ],
    "meaning": "懷疑；嫌疑犯",
    "literal": "從下 + 看",
-   "example": "Police arrested a suspect last night."
+   "example": "Police arrested a suspect last night.",
+   "level": 1
   },
   {
    "word": "permission",
@@ -6836,7 +7149,8 @@
    ],
    "meaning": "許可",
    "literal": "穿過 + 送 + 名詞：放行",
-   "example": "You need permission to park here."
+   "example": "You need permission to park here.",
+   "level": 1
   },
   {
    "word": "extension",
@@ -6856,7 +7170,8 @@
    ],
    "meaning": "延長；分機",
    "literal": "向外 + 伸展 + 名詞",
-   "example": "My phone extension is 205."
+   "example": "My phone extension is 205.",
+   "level": 1
   },
   {
    "word": "promotion",
@@ -6876,7 +7191,8 @@
    ],
    "meaning": "升遷；促銷",
    "literal": "向前 + 移動 + 名詞",
-   "example": "The store is running a holiday promotion."
+   "example": "The store is running a holiday promotion.",
+   "level": 1
   },
   {
    "word": "exception",
@@ -6896,7 +7212,8 @@
    ],
    "meaning": "例外",
    "literal": "向外 + 拿 + 名詞",
-   "example": "Every rule has an exception."
+   "example": "Every rule has an exception.",
+   "level": 1
   },
   {
    "word": "compensation",
@@ -6916,7 +7233,8 @@
    ],
    "meaning": "補償；薪酬",
    "literal": "一起 + 秤重 + 名詞",
-   "example": "The job offers good compensation."
+   "example": "The job offers good compensation.",
+   "level": 1
   },
   {
    "word": "commit",
@@ -6932,7 +7250,8 @@
    ],
    "meaning": "承諾；犯（罪）",
    "literal": "一起 + 送：把自己交出去",
-   "example": "We are committed to quality."
+   "example": "We are committed to quality.",
+   "level": 1
   },
   {
    "word": "manual",
@@ -6948,7 +7267,8 @@
    ],
    "meaning": "手動的；使用手冊",
    "literal": "手 + 的",
-   "example": "Read the manual before using the machine."
+   "example": "Read the manual before using the machine.",
+   "level": 1
   },
   {
    "word": "innovation",
@@ -6968,7 +7288,8 @@
    ],
    "meaning": "創新",
    "literal": "向內 + 新 + 名詞",
-   "example": "The company is known for innovation."
+   "example": "The company is known for innovation.",
+   "level": 1
   },
   {
    "word": "acceptable",
@@ -6988,7 +7309,8 @@
    ],
    "meaning": "可接受的",
    "literal": "朝向 + 拿 + 可…的",
-   "example": "Is this price acceptable to you?"
+   "example": "Is this price acceptable to you?",
+   "level": 1
   },
   {
    "word": "venture",
@@ -7004,7 +7326,8 @@
    ],
    "meaning": "冒險；新事業",
    "literal": "來 + 結果：迎向未知",
-   "example": "They started a joint venture in Vietnam."
+   "example": "They started a joint venture in Vietnam.",
+   "level": 1
   },
   {
    "word": "reception",
@@ -7024,7 +7347,8 @@
    ],
    "meaning": "接待處；歡迎會",
    "literal": "回 + 拿 + 名詞：接收",
-   "example": "Please leave your bag at reception."
+   "example": "Please leave your bag at reception.",
+   "level": 1
   },
   {
    "word": "pension",
@@ -7040,7 +7364,8 @@
    ],
    "meaning": "退休金",
    "literal": "付錢 + 名詞",
-   "example": "He lives on a small pension."
+   "example": "He lives on a small pension.",
+   "level": 1
   },
   {
    "word": "excess",
@@ -7056,7 +7381,8 @@
    ],
    "meaning": "過量",
    "literal": "向外 + 走：超出界線",
-   "example": "You must pay for excess baggage."
+   "example": "You must pay for excess baggage.",
+   "level": 1
   },
   {
    "word": "admission",
@@ -7076,7 +7402,8 @@
    ],
    "meaning": "入場；入學許可",
    "literal": "朝向 + 送 + 名詞",
-   "example": "Admission to the museum is free."
+   "example": "Admission to the museum is free.",
+   "level": 1
   },
   {
    "word": "convenient",
@@ -7096,7 +7423,8 @@
    ],
    "meaning": "方便的",
    "literal": "一起 + 來 + 的：剛好湊在一起",
-   "example": "Is Friday convenient for you?"
+   "example": "Is Friday convenient for you?",
+   "level": 1
   },
   {
    "word": "provision",
@@ -7116,7 +7444,8 @@
    ],
    "meaning": "供應；條款",
    "literal": "向前 + 看 + 名詞：預先準備",
-   "example": "The contract has a provision for late payment."
+   "example": "The contract has a provision for late payment.",
+   "level": 1
   },
   {
    "word": "inspection",
@@ -7136,7 +7465,8 @@
    ],
    "meaning": "檢查",
    "literal": "向內 + 看 + 名詞",
-   "example": "The car passed its safety inspection."
+   "example": "The car passed its safety inspection.",
+   "level": 1
   },
   {
    "word": "inspector",
@@ -7156,7 +7486,8 @@
    ],
    "meaning": "檢查員",
    "literal": "向內 + 看 + 者",
-   "example": "The inspector checked every room."
+   "example": "The inspector checked every room.",
+   "level": 1
   },
   {
    "word": "advise",
@@ -7172,7 +7503,8 @@
    ],
    "meaning": "建議",
    "literal": "朝向 + 看：幫人看清楚",
-   "example": "I advise you to book early."
+   "example": "I advise you to book early.",
+   "level": 1
   },
   {
    "word": "invisible",
@@ -7192,7 +7524,8 @@
    ],
    "meaning": "看不見的",
    "literal": "不 + 看 + 可…的",
-   "example": "Air is invisible."
+   "example": "Air is invisible.",
+   "level": 1
   },
   {
    "word": "submission",
@@ -7212,7 +7545,8 @@
    ],
    "meaning": "提交；屈服",
    "literal": "在下 + 送 + 名詞",
-   "example": "The deadline for submissions is Friday."
+   "example": "The deadline for submissions is Friday.",
+   "level": 1
   },
   {
    "word": "subscription",
@@ -7232,7 +7566,8 @@
    ],
    "meaning": "訂閱",
    "literal": "在下 + 寫 + 名詞",
-   "example": "I cancelled my magazine subscription."
+   "example": "I cancelled my magazine subscription.",
+   "level": 1
   },
   {
    "word": "profitable",
@@ -7252,7 +7587,8 @@
    ],
    "meaning": "有利潤的",
    "literal": "向前 + 做 + 可…的",
-   "example": "The business became profitable in its second year."
+   "example": "The business became profitable in its second year.",
+   "level": 1
   },
   {
    "word": "resignation",
@@ -7272,7 +7608,8 @@
    ],
    "meaning": "辭職",
    "literal": "回 + 記號 + 名詞：撤回簽名",
-   "example": "She handed in her resignation."
+   "example": "She handed in her resignation.",
+   "level": 1
   },
   {
    "word": "pending",
@@ -7288,7 +7625,8 @@
    ],
    "meaning": "待決的",
    "literal": "懸掛 + 中",
-   "example": "The order is still pending."
+   "example": "The order is still pending.",
+   "level": 1
   },
   {
    "word": "prediction",
@@ -7308,7 +7646,8 @@
    ],
    "meaning": "預測",
    "literal": "預先 + 說 + 名詞",
-   "example": "His prediction came true."
+   "example": "His prediction came true.",
+   "level": 2
   },
   {
    "word": "supervisor",
@@ -7328,7 +7667,8 @@
    ],
    "meaning": "主管",
    "literal": "在上 + 看 + 者",
-   "example": "Ask your supervisor for a day off."
+   "example": "Ask your supervisor for a day off.",
+   "level": 2
   },
   {
    "word": "motive",
@@ -7344,7 +7684,8 @@
    ],
    "meaning": "動機",
    "literal": "移動 + 性質：推動你的力量",
-   "example": "What was the motive for the crime?"
+   "example": "What was the motive for the crime?",
+   "level": 2
   },
   {
    "word": "automotive",
@@ -7364,7 +7705,8 @@
    ],
    "meaning": "汽車的",
    "literal": "自己 + 移動 + 性質",
-   "example": "He works in the automotive industry."
+   "example": "He works in the automotive industry.",
+   "level": 2
   },
   {
    "word": "demographic",
@@ -7384,7 +7726,8 @@
    ],
    "meaning": "人口統計的",
    "literal": "人民 + 寫 + 的",
-   "example": "Young adults are our target demographic."
+   "example": "Young adults are our target demographic.",
+   "level": 2
   },
   {
    "word": "rejection",
@@ -7404,7 +7747,8 @@
    ],
    "meaning": "拒絕",
    "literal": "回 + 丟 + 名詞",
-   "example": "Don't take the rejection personally."
+   "example": "Don't take the rejection personally.",
+   "level": 2
   },
   {
    "word": "selective",
@@ -7424,7 +7768,8 @@
    ],
    "meaning": "有選擇性的",
    "literal": "分開 + 選 + 性質",
-   "example": "The university is very selective."
+   "example": "The university is very selective.",
+   "level": 2
   },
   {
    "word": "prospective",
@@ -7444,7 +7789,8 @@
    ],
    "meaning": "未來的；潛在的",
    "literal": "向前 + 看 + 性質",
-   "example": "We met with prospective clients."
+   "example": "We met with prospective clients.",
+   "level": 2
   },
   {
    "word": "revision",
@@ -7464,7 +7810,8 @@
    ],
    "meaning": "修訂",
    "literal": "再 + 看 + 名詞",
-   "example": "The report needs some revision."
+   "example": "The report needs some revision.",
+   "level": 2
   },
   {
    "word": "projection",
@@ -7484,7 +7831,8 @@
    ],
    "meaning": "預測；投影",
    "literal": "向前 + 丟 + 名詞",
-   "example": "Sales projections for next year look good."
+   "example": "Sales projections for next year look good.",
+   "level": 2
   },
   {
    "word": "distraction",
@@ -7504,7 +7852,8 @@
    ],
    "meaning": "分心的事物",
    "literal": "分開 + 拉 + 名詞",
-   "example": "Phones are a big distraction at work."
+   "example": "Phones are a big distraction at work.",
+   "level": 2
   },
   {
    "word": "occurrence",
@@ -7524,7 +7873,8 @@
    ],
    "meaning": "發生；事件",
    "literal": "對著 + 跑 + 名詞",
-   "example": "Power cuts are a rare occurrence here."
+   "example": "Power cuts are a rare occurrence here.",
+   "level": 2
   },
   {
    "word": "renovation",
@@ -7544,7 +7894,8 @@
    ],
    "meaning": "翻修",
    "literal": "再 + 新 + 名詞",
-   "example": "The hotel is closed for renovation."
+   "example": "The hotel is closed for renovation.",
+   "level": 2
   },
   {
    "word": "allocation",
@@ -7564,7 +7915,8 @@
    ],
    "meaning": "分配",
    "literal": "朝向 + 地方 + 名詞",
-   "example": "The budget allocation for marketing was cut."
+   "example": "The budget allocation for marketing was cut.",
+   "level": 2
   },
   {
    "word": "defect",
@@ -7580,7 +7932,8 @@
    ],
    "meaning": "缺陷",
    "literal": "去除 + 做：少做了一部分",
-   "example": "The phone was returned because of a defect."
+   "example": "The phone was returned because of a defect.",
+   "level": 2
   },
   {
    "word": "relocation",
@@ -7600,7 +7953,8 @@
    ],
    "meaning": "搬遷",
    "literal": "再 + 地方 + 名詞",
-   "example": "The company paid for my relocation."
+   "example": "The company paid for my relocation.",
+   "level": 2
   },
   {
    "word": "inexpensive",
@@ -7624,7 +7978,8 @@
    ],
    "meaning": "便宜的",
    "literal": "不 + 向外 + 付錢 + 性質",
-   "example": "This is an inexpensive restaurant."
+   "example": "This is an inexpensive restaurant.",
+   "level": 2
   },
   {
    "word": "discourage",
@@ -7644,7 +7999,8 @@
    ],
    "meaning": "使氣餒；勸阻",
    "literal": "分開 + 心 + 名詞：把勇氣拿走",
-   "example": "High prices discourage customers."
+   "example": "High prices discourage customers.",
+   "level": 2
   },
   {
    "word": "induce",
@@ -7660,7 +8016,8 @@
    ],
    "meaning": "引起；誘使",
    "literal": "向內 + 引導",
-   "example": "Too much coffee can induce anxiety."
+   "example": "Too much coffee can induce anxiety.",
+   "level": 2
   },
   {
    "word": "semiconductor",
@@ -7684,7 +8041,8 @@
    ],
    "meaning": "半導體",
    "literal": "一半 + 一起 + 引導 + 物",
-   "example": "Taiwan is a world leader in semiconductors."
+   "example": "Taiwan is a world leader in semiconductors.",
+   "level": 2
   },
   {
    "word": "contend",
@@ -7700,7 +8058,8 @@
    ],
    "meaning": "競爭；主張",
    "literal": "一起 + 伸展：互相較勁",
-   "example": "Three teams are contending for the title."
+   "example": "Three teams are contending for the title.",
+   "level": 2
   },
   {
    "word": "synonymous",
@@ -7720,7 +8079,8 @@
    ],
    "meaning": "同義的",
    "literal": "相同 + 名字 + 的",
-   "example": "Paris is synonymous with fashion."
+   "example": "Paris is synonymous with fashion.",
+   "level": 2
   },
   {
    "word": "descriptive",
@@ -7740,7 +8100,8 @@
    ],
    "meaning": "描述性的",
    "literal": "向下 + 寫 + 性質",
-   "example": "Use descriptive words in your essay."
+   "example": "Use descriptive words in your essay.",
+   "level": 2
   },
   {
    "word": "impending",
@@ -7760,7 +8121,8 @@
    ],
    "meaning": "即將發生的",
    "literal": "向內 + 懸掛 + 中：懸在頭上",
-   "example": "They warned of an impending storm."
+   "example": "They warned of an impending storm.",
+   "level": 2
   },
   {
    "word": "dictator",
@@ -7776,7 +8138,8 @@
    ],
    "meaning": "獨裁者",
    "literal": "說 + 者：說了算的人",
-   "example": "The dictator ruled for 30 years."
+   "example": "The dictator ruled for 30 years.",
+   "level": 2
   },
   {
    "word": "maintain",
@@ -7792,7 +8155,8 @@
    ],
    "meaning": "維持；保養",
    "literal": "手 + 握住",
-   "example": "It costs a lot to maintain an old car."
+   "example": "It costs a lot to maintain an old car.",
+   "level": 1
   },
   {
    "word": "obtain",
@@ -7808,7 +8172,8 @@
    ],
    "meaning": "取得",
    "literal": "對著 + 握住",
-   "example": "You must obtain a visa first."
+   "example": "You must obtain a visa first.",
+   "level": 1
   },
   {
    "word": "retain",
@@ -7824,7 +8189,8 @@
    ],
    "meaning": "保留",
    "literal": "回 + 握住",
-   "example": "The company wants to retain good staff."
+   "example": "The company wants to retain good staff.",
+   "level": 1
   },
   {
    "word": "contain",
@@ -7840,7 +8206,8 @@
    ],
    "meaning": "包含",
    "literal": "一起 + 握住",
-   "example": "This drink contains a lot of sugar."
+   "example": "This drink contains a lot of sugar.",
+   "level": 1
   },
   {
    "word": "entertain",
@@ -7856,7 +8223,8 @@
    ],
    "meaning": "娛樂；招待",
    "literal": "之間 + 握住：把客人留在中間",
-   "example": "He entertained the guests with stories."
+   "example": "He entertained the guests with stories.",
+   "level": 2
   },
   {
    "word": "sustain",
@@ -7872,7 +8240,8 @@
    ],
    "meaning": "維持；承受",
    "literal": "從下 + 握住：從下面撐著",
-   "example": "The economy cannot sustain this growth."
+   "example": "The economy cannot sustain this growth.",
+   "level": 2
   },
   {
    "word": "tenant",
@@ -7888,7 +8257,8 @@
    ],
    "meaning": "房客",
    "literal": "握住 + 的人：持有房子的人",
-   "example": "The tenant pays rent every month."
+   "example": "The tenant pays rent every month.",
+   "level": 2
   },
   {
    "word": "content",
@@ -7904,7 +8274,8 @@
    ],
    "meaning": "內容；滿足的",
    "literal": "一起 + 握住：被裝在裡面的",
-   "example": "The content of the course is useful."
+   "example": "The content of the course is useful.",
+   "level": 1
   },
   {
    "word": "nation",
@@ -7920,7 +8291,8 @@
    ],
    "meaning": "國家",
    "literal": "出生 + 名詞：同一出身的人",
-   "example": "The whole nation watched the game."
+   "example": "The whole nation watched the game.",
+   "level": 1
   },
   {
    "word": "national",
@@ -7940,7 +8312,8 @@
    ],
    "meaning": "國家的",
    "literal": "出生 + 名詞 + 的",
-   "example": "Today is a national holiday."
+   "example": "Today is a national holiday.",
+   "level": 1
   },
   {
    "word": "international",
@@ -7964,7 +8337,8 @@
    ],
    "meaning": "國際的",
    "literal": "之間 + 出生 + 名詞 + 的",
-   "example": "She works for an international company."
+   "example": "She works for an international company.",
+   "level": 1
   },
   {
    "word": "native",
@@ -7980,7 +8354,8 @@
    ],
    "meaning": "本土的；母語的",
    "literal": "出生 + 性質",
-   "example": "English is not my native language."
+   "example": "English is not my native language.",
+   "level": 1
   },
   {
    "word": "natural",
@@ -8000,7 +8375,8 @@
    ],
    "meaning": "自然的",
    "literal": "出生 + 結果 + 的：與生俱來",
-   "example": "This juice is 100% natural."
+   "example": "This juice is 100% natural.",
+   "level": 1
   },
   {
    "word": "require",
@@ -8016,7 +8392,8 @@
    ],
    "meaning": "需要；要求",
    "literal": "再 + 尋找",
-   "example": "The job requires two years of experience."
+   "example": "The job requires two years of experience.",
+   "level": 1
   },
   {
    "word": "request",
@@ -8032,7 +8409,8 @@
    ],
    "meaning": "請求",
    "literal": "再 + 尋找",
-   "example": "We received your request."
+   "example": "We received your request.",
+   "level": 1
   },
   {
    "word": "acquire",
@@ -8048,7 +8426,8 @@
    ],
    "meaning": "取得；習得",
    "literal": "朝向 + 尋找",
-   "example": "The company acquired a small startup."
+   "example": "The company acquired a small startup.",
+   "level": 1
   },
   {
    "word": "inquiry",
@@ -8068,7 +8447,8 @@
    ],
    "meaning": "詢問",
    "literal": "向內 + 尋找 + 名詞",
-   "example": "Thank you for your inquiry."
+   "example": "Thank you for your inquiry.",
+   "level": 1
   },
   {
    "word": "question",
@@ -8084,7 +8464,8 @@
    ],
    "meaning": "問題",
    "literal": "尋找 + 名詞",
-   "example": "May I ask you a question?"
+   "example": "May I ask you a question?",
+   "level": 1
   },
   {
    "word": "apply",
@@ -8100,7 +8481,8 @@
    ],
    "meaning": "申請；應用",
    "literal": "朝向 + 摺疊：貼合上去",
-   "example": "I applied for the job last week."
+   "example": "I applied for the job last week.",
+   "level": 1
   },
   {
    "word": "application",
@@ -8120,7 +8502,8 @@
    ],
    "meaning": "申請；應用程式",
    "literal": "朝向 + 摺疊 + 名詞",
-   "example": "Fill out the application form."
+   "example": "Fill out the application form.",
+   "level": 1
   },
   {
    "word": "reply",
@@ -8136,7 +8519,8 @@
    ],
    "meaning": "回覆",
    "literal": "回 + 摺疊：把話摺回去",
-   "example": "Please reply by Friday."
+   "example": "Please reply by Friday.",
+   "level": 1
   },
   {
    "word": "imply",
@@ -8152,7 +8536,8 @@
    ],
    "meaning": "暗示",
    "literal": "向內 + 摺疊：把意思摺在裡面",
-   "example": "What are you implying?"
+   "example": "What are you implying?",
+   "level": 2
   },
   {
    "word": "complicate",
@@ -8172,7 +8557,8 @@
    ],
    "meaning": "使複雜",
    "literal": "一起 + 摺疊 + 使",
-   "example": "Don't complicate things."
+   "example": "Don't complicate things.",
+   "level": 3
   },
   {
    "word": "multiply",
@@ -8188,7 +8574,8 @@
    ],
    "meaning": "乘；增加",
    "literal": "許多 + 摺疊：摺成很多層",
-   "example": "Multiply 6 by 7."
+   "example": "Multiply 6 by 7.",
+   "level": 2
   },
   {
    "word": "department",
@@ -8208,7 +8595,8 @@
    ],
    "meaning": "部門",
    "literal": "分開 + 部分 + 名詞",
-   "example": "She works in the sales department."
+   "example": "She works in the sales department.",
+   "level": 1
   },
   {
    "word": "apartment",
@@ -8228,7 +8616,8 @@
    ],
    "meaning": "公寓",
    "literal": "朝向 + 部分 + 名詞：分隔出的一部分",
-   "example": "We rent a small apartment downtown."
+   "example": "We rent a small apartment downtown.",
+   "level": 1
   },
   {
    "word": "partial",
@@ -8244,7 +8633,8 @@
    ],
    "meaning": "部分的",
    "literal": "部分 + 的",
-   "example": "We got a partial refund."
+   "example": "We got a partial refund.",
+   "level": 1
   },
   {
    "word": "accident",
@@ -8264,7 +8654,8 @@
    ],
    "meaning": "意外",
    "literal": "朝向 + 落下 + 的：突然掉到身上",
-   "example": "He was injured in a car accident."
+   "example": "He was injured in a car accident.",
+   "level": 1
   },
   {
    "word": "incident",
@@ -8284,7 +8675,8 @@
    ],
    "meaning": "事件",
    "literal": "向內 + 落下 + 的",
-   "example": "The incident happened at 3 a.m."
+   "example": "The incident happened at 3 a.m.",
+   "level": 1
   },
   {
    "word": "coincidence",
@@ -8308,7 +8700,8 @@
    ],
    "meaning": "巧合",
    "literal": "一起 + 向內 + 落下 + 名詞：同時落下",
-   "example": "What a coincidence!"
+   "example": "What a coincidence!",
+   "level": 2
   },
   {
    "word": "occasion",
@@ -8328,7 +8721,8 @@
    ],
    "meaning": "場合；時機",
    "literal": "對著 + 落下 + 名詞",
-   "example": "This dress is for special occasions."
+   "example": "This dress is for special occasions.",
+   "level": 1
   },
   {
    "word": "secure",
@@ -8344,7 +8738,8 @@
    ],
    "meaning": "安全的；確保",
    "literal": "分開 + 擔心：免於擔憂",
-   "example": "Keep your password secure."
+   "example": "Keep your password secure.",
+   "level": 1
   },
   {
    "word": "security",
@@ -8364,7 +8759,8 @@
    ],
    "meaning": "安全；保全",
    "literal": "分開 + 擔心 + 名詞",
-   "example": "Airport security is very strict."
+   "example": "Airport security is very strict.",
+   "level": 1
   },
   {
    "word": "accurate",
@@ -8384,7 +8780,8 @@
    ],
    "meaning": "準確的",
    "literal": "朝向 + 照料 + 的：細心做到",
-   "example": "Is this information accurate?"
+   "example": "Is this information accurate?",
+   "level": 1
   },
   {
    "word": "inaccurate",
@@ -8408,7 +8805,8 @@
    ],
    "meaning": "不準確的",
    "literal": "不 + 朝向 + 照料 + 的",
-   "example": "The report contained inaccurate data."
+   "example": "The report contained inaccurate data.",
+   "level": 2
   },
   {
    "word": "curious",
@@ -8424,7 +8822,8 @@
    ],
    "meaning": "好奇的",
    "literal": "照料 + 充滿：凡事都想關心",
-   "example": "Children are naturally curious."
+   "example": "Children are naturally curious.",
+   "level": 1
   },
   {
    "word": "protect",
@@ -8440,7 +8839,8 @@
    ],
    "meaning": "保護",
    "literal": "向前 + 遮蓋",
-   "example": "Sunscreen protects your skin."
+   "example": "Sunscreen protects your skin.",
+   "level": 1
   },
   {
    "word": "protection",
@@ -8460,7 +8860,8 @@
    ],
    "meaning": "保護",
    "literal": "向前 + 遮蓋 + 名詞",
-   "example": "Wear eye protection."
+   "example": "Wear eye protection.",
+   "level": 1
   },
   {
    "word": "detect",
@@ -8476,7 +8877,8 @@
    ],
    "meaning": "偵測",
    "literal": "去除 + 遮蓋：把蓋子掀開",
-   "example": "The alarm detects smoke."
+   "example": "The alarm detects smoke.",
+   "level": 1
   },
   {
    "word": "detective",
@@ -8496,7 +8898,8 @@
    ],
    "meaning": "偵探",
    "literal": "去除 + 遮蓋 + 性質",
-   "example": "The detective solved the case."
+   "example": "The detective solved the case.",
+   "level": 1
   },
   {
    "word": "contact",
@@ -8512,7 +8915,8 @@
    ],
    "meaning": "聯絡；接觸",
    "literal": "一起 + 接觸",
-   "example": "Please contact us by email."
+   "example": "Please contact us by email.",
+   "level": 1
   },
   {
    "word": "intact",
@@ -8528,7 +8932,8 @@
    ],
    "meaning": "完整無損的",
    "literal": "不 + 接觸：沒被碰過",
-   "example": "The package arrived intact."
+   "example": "The package arrived intact.",
+   "level": 2
   },
   {
    "word": "committee",
@@ -8548,7 +8953,8 @@
    ],
    "meaning": "委員會",
    "literal": "一起 + 送 + 受…者：被委託的人",
-   "example": "The committee meets every Monday."
+   "example": "The committee meets every Monday.",
+   "level": 1
   },
   {
    "word": "promise",
@@ -8564,7 +8970,8 @@
    ],
    "meaning": "承諾",
    "literal": "向前 + 送：把話先送出去",
-   "example": "I promise I'll be on time."
+   "example": "I promise I'll be on time.",
+   "level": 1
   },
   {
    "word": "message",
@@ -8580,7 +8987,8 @@
    ],
    "meaning": "訊息",
    "literal": "送 + 名詞：被送出的東西",
-   "example": "Leave a message after the beep."
+   "example": "Leave a message after the beep.",
+   "level": 1
   },
   {
    "word": "special",
@@ -8596,7 +9004,8 @@
    ],
    "meaning": "特別的",
    "literal": "看 + 的：外觀與眾不同",
-   "example": "Today is a special day."
+   "example": "Today is a special day.",
+   "level": 1
   },
   {
    "word": "aspect",
@@ -8612,7 +9021,8 @@
    ],
    "meaning": "方面",
    "literal": "朝向 + 看：從某個角度看",
-   "example": "Consider every aspect of the plan."
+   "example": "Consider every aspect of the plan.",
+   "level": 1
   },
   {
    "word": "university",
@@ -8632,7 +9042,8 @@
    ],
    "meaning": "大學",
    "literal": "單一 + 轉 + 名詞：合為一體的學者團體",
-   "example": "She studies economics at a university in Taipei."
+   "example": "She studies economics at a university in Taipei.",
+   "level": 1
   },
   {
    "word": "attention",
@@ -8652,7 +9063,8 @@
    ],
    "meaning": "注意力",
    "literal": "朝向 + 伸展 + 名詞：把心思伸過去",
-   "example": "May I have your attention, please?"
+   "example": "May I have your attention, please?",
+   "level": 1
   },
   {
    "word": "nature",
@@ -8668,7 +9080,8 @@
    ],
    "meaning": "自然；本性",
    "literal": "出生 + 結果：與生俱來的樣子",
-   "example": "We should protect nature."
+   "example": "We should protect nature.",
+   "level": 1
   },
   {
    "word": "finish",
@@ -8684,7 +9097,8 @@
    ],
    "meaning": "完成",
    "literal": "結束 + 做",
-   "example": "I'll finish the report by noon."
+   "example": "I'll finish the report by noon.",
+   "level": 1
   },
   {
    "word": "selection",
@@ -8704,7 +9118,8 @@
    ],
    "meaning": "選擇；精選",
    "literal": "分開 + 選 + 名詞",
-   "example": "The shop has a wide selection of wines."
+   "example": "The shop has a wide selection of wines.",
+   "level": 1
   },
   {
    "word": "entertainment",
@@ -8724,7 +9139,8 @@
    ],
    "meaning": "娛樂",
    "literal": "之間 + 握住 + 名詞",
-   "example": "The hotel offers live entertainment."
+   "example": "The hotel offers live entertainment.",
+   "level": 1
   },
   {
    "word": "depression",
@@ -8744,7 +9160,8 @@
    ],
    "meaning": "憂鬱；經濟蕭條",
    "literal": "向下 + 壓 + 名詞",
-   "example": "Many people suffered during the Great Depression."
+   "example": "Many people suffered during the Great Depression.",
+   "level": 1
   },
   {
    "word": "maintenance",
@@ -8764,7 +9181,8 @@
    ],
    "meaning": "維修；保養",
    "literal": "手 + 握住 + 名詞",
-   "example": "The elevator is closed for maintenance."
+   "example": "The elevator is closed for maintenance.",
+   "level": 1
   },
   {
    "word": "motor",
@@ -8780,7 +9198,8 @@
    ],
    "meaning": "馬達",
    "literal": "移動 + 物",
-   "example": "The boat has a small electric motor."
+   "example": "The boat has a small electric motor.",
+   "level": 1
   },
   {
    "word": "extensive",
@@ -8800,7 +9219,8 @@
    ],
    "meaning": "廣泛的",
    "literal": "向外 + 伸展 + 性質",
-   "example": "She has extensive experience in sales."
+   "example": "She has extensive experience in sales.",
+   "level": 1
   },
   {
    "word": "universal",
@@ -8820,7 +9240,8 @@
    ],
    "meaning": "普遍的；全體的",
    "literal": "單一 + 轉 + 的",
-   "example": "Music is a universal language."
+   "example": "Music is a universal language.",
+   "level": 1
   },
   {
    "word": "impressive",
@@ -8840,7 +9261,8 @@
    ],
    "meaning": "令人印象深刻的",
    "literal": "向內 + 壓 + 性質",
-   "example": "Your English is impressive."
+   "example": "Your English is impressive.",
+   "level": 1
   },
   {
    "word": "extent",
@@ -8856,7 +9278,8 @@
    ],
    "meaning": "程度；範圍",
    "literal": "向外 + 伸展",
-   "example": "To some extent, I agree with you."
+   "example": "To some extent, I agree with you.",
+   "level": 1
   },
   {
    "word": "commitment",
@@ -8876,7 +9299,8 @@
    ],
    "meaning": "承諾；投入",
    "literal": "一起 + 送 + 名詞",
-   "example": "Running a business takes a lot of commitment."
+   "example": "Running a business takes a lot of commitment.",
+   "level": 1
   },
   {
    "word": "logic",
@@ -8892,7 +9316,8 @@
    ],
    "meaning": "邏輯",
    "literal": "話語 + 的：說話的道理",
-   "example": "I don't follow your logic."
+   "example": "I don't follow your logic.",
+   "level": 1
   },
   {
    "word": "objective",
@@ -8912,7 +9337,8 @@
    ],
    "meaning": "目標；客觀的",
    "literal": "對著 + 丟 + 性質：擺在眼前的東西",
-   "example": "Our main objective is to increase sales."
+   "example": "Our main objective is to increase sales.",
+   "level": 1
   },
   {
    "word": "impression",
@@ -8932,7 +9358,8 @@
    ],
    "meaning": "印象",
    "literal": "向內 + 壓 + 名詞：壓出的印記",
-   "example": "First impressions are important."
+   "example": "First impressions are important.",
+   "level": 1
   },
   {
    "word": "corruption",
@@ -8952,7 +9379,8 @@
    ],
    "meaning": "貪污；腐敗",
    "literal": "徹底 + 破 + 名詞",
-   "example": "The minister was accused of corruption."
+   "example": "The minister was accused of corruption.",
+   "level": 1
   },
   {
    "word": "infection",
@@ -8972,7 +9400,8 @@
    ],
    "meaning": "感染",
    "literal": "向內 + 做 + 名詞",
-   "example": "Wash the cut to prevent infection."
+   "example": "Wash the cut to prevent infection.",
+   "level": 1
   },
   {
    "word": "transmission",
@@ -8992,7 +9421,8 @@
    ],
    "meaning": "傳輸；變速箱",
    "literal": "跨越 + 送 + 名詞",
-   "example": "Data transmission is faster with 5G."
+   "example": "Data transmission is faster with 5G.",
+   "level": 1
   },
   {
    "word": "collective",
@@ -9012,7 +9442,8 @@
    ],
    "meaning": "集體的",
    "literal": "一起 + 選 + 性質",
-   "example": "It was a collective decision."
+   "example": "It was a collective decision.",
+   "level": 1
   },
   {
    "word": "intent",
@@ -9028,7 +9459,8 @@
    ],
    "meaning": "意圖",
    "literal": "向內 + 伸展：心思伸向目標",
-   "example": "He had no intent to hurt anyone."
+   "example": "He had no intent to hurt anyone.",
+   "level": 1
   },
   {
    "word": "prevention",
@@ -9048,7 +9480,8 @@
    ],
    "meaning": "預防",
    "literal": "預先 + 來 + 名詞",
-   "example": "Prevention is better than cure."
+   "example": "Prevention is better than cure.",
+   "level": 1
   },
   {
    "word": "quest",
@@ -9060,7 +9493,8 @@
    ],
    "meaning": "追尋",
    "literal": "尋找",
-   "example": "The story follows a hero's quest for the truth."
+   "example": "The story follows a hero's quest for the truth.",
+   "level": 1
   },
   {
    "word": "acquisition",
@@ -9080,7 +9514,8 @@
    ],
    "meaning": "收購；取得",
    "literal": "朝向 + 尋找 + 名詞",
-   "example": "The acquisition cost the company two billion dollars."
+   "example": "The acquisition cost the company two billion dollars.",
+   "level": 1
   },
   {
    "word": "requirement",
@@ -9100,7 +9535,8 @@
    ],
    "meaning": "要求；必要條件",
    "literal": "再 + 尋找 + 名詞",
-   "example": "A college degree is a requirement for this job."
+   "example": "A college degree is a requirement for this job.",
+   "level": 1
   },
   {
    "word": "intervention",
@@ -9120,7 +9556,8 @@
    ],
    "meaning": "介入；干預",
    "literal": "之間 + 來 + 名詞",
-   "example": "Government intervention helped the economy recover."
+   "example": "Government intervention helped the economy recover.",
+   "level": 1
   },
   {
    "word": "suspension",
@@ -9140,7 +9577,8 @@
    ],
    "meaning": "暫停；懸吊系統",
    "literal": "在下 + 懸掛 + 名詞",
-   "example": "The player received a three-game suspension."
+   "example": "The player received a three-game suspension.",
+   "level": 1
   },
   {
    "word": "diverse",
@@ -9156,7 +9594,8 @@
    ],
    "meaning": "多元的",
    "literal": "分開 + 轉：轉向不同方向",
-   "example": "Taipei has a diverse food scene."
+   "example": "Taipei has a diverse food scene.",
+   "level": 1
   },
   {
    "word": "graphic",
@@ -9172,7 +9611,8 @@
    ],
    "meaning": "圖像的；平面設計",
    "literal": "畫 + 的",
-   "example": "She works as a graphic designer."
+   "example": "She works as a graphic designer.",
+   "level": 1
   },
   {
    "word": "respective",
@@ -9192,7 +9632,8 @@
    ],
    "meaning": "各自的",
    "literal": "回 + 看 + 性質：分別看待",
-   "example": "They returned to their respective homes."
+   "example": "They returned to their respective homes.",
+   "level": 1
   },
   {
    "word": "assignment",
@@ -9212,7 +9653,8 @@
    ],
    "meaning": "任務；作業",
    "literal": "朝向 + 記號 + 名詞",
-   "example": "The homework assignment is due tomorrow."
+   "example": "The homework assignment is due tomorrow.",
+   "level": 1
   },
   {
    "word": "advisory",
@@ -9232,7 +9674,8 @@
    ],
    "meaning": "顧問的；警告",
    "literal": "朝向 + 看 + 的",
-   "example": "The government issued a travel advisory."
+   "example": "The government issued a travel advisory.",
+   "level": 1
   },
   {
    "word": "compromise",
@@ -9252,7 +9695,8 @@
    ],
    "meaning": "妥協",
    "literal": "一起 + 向前 + 送：雙方都讓一步",
-   "example": "We reached a compromise after long talks."
+   "example": "We reached a compromise after long talks.",
+   "level": 1
   },
   {
    "word": "missile",
@@ -9268,7 +9712,8 @@
    ],
    "meaning": "飛彈",
    "literal": "送 + 可…的：可以發射出去的",
-   "example": "The missile was launched from a ship."
+   "example": "The missile was launched from a ship.",
+   "level": 1
   },
   {
    "word": "intensity",
@@ -9288,7 +9733,8 @@
    ],
    "meaning": "強度",
    "literal": "向內 + 伸展 + 名詞",
-   "example": "The storm grew in intensity."
+   "example": "The storm grew in intensity.",
+   "level": 1
   },
   {
    "word": "applicable",
@@ -9308,7 +9754,8 @@
    ],
    "meaning": "適用的",
    "literal": "朝向 + 摺疊 + 可…的",
-   "example": "The discount is not applicable to sale items."
+   "example": "The discount is not applicable to sale items.",
+   "level": 1
   },
   {
    "word": "protective",
@@ -9328,7 +9775,8 @@
    ],
    "meaning": "保護的",
    "literal": "向前 + 遮蓋 + 性質",
-   "example": "Wear protective gloves."
+   "example": "Wear protective gloves.",
+   "level": 1
   },
   {
    "word": "occasional",
@@ -9352,7 +9800,8 @@
    ],
    "meaning": "偶爾的",
    "literal": "對著 + 落下 + 名詞 + 的",
-   "example": "I enjoy an occasional glass of wine."
+   "example": "I enjoy an occasional glass of wine.",
+   "level": 1
   },
   {
    "word": "continent",
@@ -9372,7 +9821,8 @@
    ],
    "meaning": "大陸；洲",
    "literal": "一起 + 握住 + 的：連在一起的土地",
-   "example": "Asia is the largest continent."
+   "example": "Asia is the largest continent.",
+   "level": 1
   },
   {
    "word": "detection",
@@ -9392,7 +9842,8 @@
    ],
    "meaning": "偵測",
    "literal": "去除 + 遮蓋 + 名詞",
-   "example": "Early detection of cancer saves lives."
+   "example": "Early detection of cancer saves lives.",
+   "level": 1
   },
   {
    "word": "intensive",
@@ -9412,7 +9863,8 @@
    ],
    "meaning": "密集的",
    "literal": "向內 + 伸展 + 性質",
-   "example": "She took an intensive Japanese course."
+   "example": "She took an intensive Japanese course.",
+   "level": 1
   },
   {
    "word": "median",
@@ -9428,7 +9880,8 @@
    ],
    "meaning": "中位數",
    "literal": "中間 + 的",
-   "example": "The median income rose last year."
+   "example": "The median income rose last year.",
+   "level": 1
   },
   {
    "word": "continental",
@@ -9452,7 +9905,8 @@
    ],
    "meaning": "大陸的",
    "literal": "一起 + 握住 + 的 + 的",
-   "example": "We had a continental breakfast."
+   "example": "We had a continental breakfast.",
+   "level": 1
   },
   {
    "word": "advisor",
@@ -9472,7 +9926,8 @@
    ],
    "meaning": "顧問",
    "literal": "朝向 + 看 + 者",
-   "example": "He is a financial advisor."
+   "example": "He is a financial advisor.",
+   "level": 1
   },
   {
    "word": "perfection",
@@ -9492,7 +9947,8 @@
    ],
    "meaning": "完美",
    "literal": "徹底 + 做 + 名詞",
-   "example": "The steak was cooked to perfection."
+   "example": "The steak was cooked to perfection.",
+   "level": 2
   },
   {
    "word": "injection",
@@ -9512,7 +9968,8 @@
    ],
    "meaning": "注射",
    "literal": "向內 + 丟 + 名詞",
-   "example": "The doctor gave him an injection."
+   "example": "The doctor gave him an injection.",
+   "level": 2
   },
   {
    "word": "succession",
@@ -9532,7 +9989,8 @@
    ],
    "meaning": "連續；繼承",
    "literal": "在下 + 走 + 名詞：一個接一個",
-   "example": "She won three games in succession."
+   "example": "She won three games in succession.",
+   "level": 2
   },
   {
    "word": "inclusive",
@@ -9552,7 +10010,8 @@
    ],
    "meaning": "包容的；包含的",
    "literal": "向內 + 關閉 + 性質",
-   "example": "The price is inclusive of tax."
+   "example": "The price is inclusive of tax.",
+   "level": 2
   },
   {
    "word": "suspicion",
@@ -9572,7 +10031,8 @@
    ],
    "meaning": "懷疑",
    "literal": "從下 + 看 + 名詞",
-   "example": "He was arrested on suspicion of theft."
+   "example": "He was arrested on suspicion of theft.",
+   "level": 2
   },
   {
    "word": "superintendent",
@@ -9596,7 +10056,8 @@
    ],
    "meaning": "主管；督導",
    "literal": "在上 + 向內 + 伸展 + 的人",
-   "example": "The building superintendent fixed the heater."
+   "example": "The building superintendent fixed the heater.",
+   "level": 2
   },
   {
    "word": "detention",
@@ -9616,7 +10077,8 @@
    ],
    "meaning": "拘留；課後留校",
    "literal": "去除 + 握住 + 名詞：扣住不放",
-   "example": "He got detention for being late."
+   "example": "He got detention for being late.",
+   "level": 2
   },
   {
    "word": "tense",
@@ -9628,7 +10090,8 @@
    ],
    "meaning": "緊張的；時態",
    "literal": "伸展：拉緊",
-   "example": "The meeting was tense."
+   "example": "The meeting was tense.",
+   "level": 2
   },
   {
    "word": "supervision",
@@ -9648,7 +10111,8 @@
    ],
    "meaning": "監督",
    "literal": "在上 + 看 + 名詞",
-   "example": "Children need adult supervision."
+   "example": "Children need adult supervision.",
+   "level": 2
   },
   {
    "word": "tenure",
@@ -9664,7 +10128,8 @@
    ],
    "meaning": "任期",
    "literal": "握住 + 結果",
-   "example": "During her tenure as CEO, profits doubled."
+   "example": "During her tenure as CEO, profits doubled.",
+   "level": 2
   },
   {
    "word": "affection",
@@ -9684,7 +10149,8 @@
    ],
    "meaning": "情感；喜愛",
    "literal": "朝向 + 做 + 名詞：對人產生作用",
-   "example": "She has great affection for her grandmother."
+   "example": "She has great affection for her grandmother.",
+   "level": 2
   },
   {
    "word": "collector",
@@ -9704,7 +10170,8 @@
    ],
    "meaning": "收藏家",
    "literal": "一起 + 選 + 者",
-   "example": "He is a stamp collector."
+   "example": "He is a stamp collector.",
+   "level": 2
   },
   {
    "word": "aggression",
@@ -9724,7 +10191,8 @@
    ],
    "meaning": "侵略；攻擊性",
    "literal": "朝向 + 走 + 名詞",
-   "example": "The country's aggression shocked the world."
+   "example": "The country's aggression shocked the world.",
+   "level": 2
   },
   {
    "word": "particle",
@@ -9740,7 +10208,8 @@
    ],
    "meaning": "微粒",
    "literal": "部分 + 小物",
-   "example": "Dust particles filled the air."
+   "example": "Dust particles filled the air.",
+   "level": 2
   },
   {
    "word": "sensation",
@@ -9756,7 +10225,8 @@
    ],
    "meaning": "感覺；轟動",
    "literal": "感覺 + 名詞",
-   "example": "The new phone caused a sensation."
+   "example": "The new phone caused a sensation.",
+   "level": 2
   },
   {
    "word": "mortality",
@@ -9776,7 +10246,8 @@
    ],
    "meaning": "死亡率",
    "literal": "死 + 的 + 名詞",
-   "example": "Infant mortality has fallen sharply."
+   "example": "Infant mortality has fallen sharply.",
+   "level": 2
   },
   {
    "word": "destructive",
@@ -9796,7 +10267,8 @@
    ],
    "meaning": "破壞性的",
    "literal": "反轉 + 建造 + 性質",
-   "example": "Typhoons can be very destructive."
+   "example": "Typhoons can be very destructive.",
+   "level": 2
   },
   {
    "word": "supernatural",
@@ -9820,7 +10292,8 @@
    ],
    "meaning": "超自然的",
    "literal": "超越 + 出生 + 結果 + 的",
-   "example": "Do you believe in supernatural powers?"
+   "example": "Do you believe in supernatural powers?",
+   "level": 2
   },
   {
    "word": "adverse",
@@ -9836,7 +10309,8 @@
    ],
    "meaning": "不利的",
    "literal": "朝向 + 轉：轉過來對著你",
-   "example": "The drug has no adverse effects."
+   "example": "The drug has no adverse effects.",
+   "level": 2
   },
   {
    "word": "metric",
@@ -9852,7 +10326,8 @@
    ],
    "meaning": "公制的；指標",
    "literal": "測量 + 的",
-   "example": "Revenue is a key business metric."
+   "example": "Revenue is a key business metric.",
+   "level": 2
   },
   {
    "word": "promotional",
@@ -9876,7 +10351,8 @@
    ],
    "meaning": "促銷的",
    "literal": "向前 + 移動 + 名詞 + 的",
-   "example": "We received some promotional emails."
+   "example": "We received some promotional emails.",
+   "level": 2
   },
   {
    "word": "referee",
@@ -9896,7 +10372,8 @@
    ],
    "meaning": "裁判",
    "literal": "回 + 攜帶 + 受…者：被交付爭議的人",
-   "example": "The referee blew the whistle."
+   "example": "The referee blew the whistle.",
+   "level": 2
   },
   {
    "word": "advertisement",
@@ -9920,7 +10397,8 @@
    ],
    "meaning": "廣告",
    "literal": "朝向 + 轉 + 使 + 名詞",
-   "example": "I saw an advertisement for a new phone."
+   "example": "I saw an advertisement for a new phone.",
+   "level": 2
   },
   {
    "word": "missionary",
@@ -9940,7 +10418,8 @@
    ],
    "meaning": "傳教士",
    "literal": "送 + 名詞 + 人",
-   "example": "His grandparents were missionaries in Africa."
+   "example": "His grandparents were missionaries in Africa.",
+   "level": 2
   },
   {
    "word": "premise",
@@ -9956,7 +10435,8 @@
    ],
    "meaning": "前提",
    "literal": "預先 + 送：先放在前面的",
-   "example": "The argument is based on a false premise."
+   "example": "The argument is based on a false premise.",
+   "level": 2
   },
   {
    "word": "accidental",
@@ -9980,7 +10460,8 @@
    ],
    "meaning": "意外的",
    "literal": "朝向 + 落下 + 的 + 的",
-   "example": "The fire was accidental."
+   "example": "The fire was accidental.",
+   "level": 2
   },
   {
    "word": "compression",
@@ -10000,7 +10481,8 @@
    ],
    "meaning": "壓縮",
    "literal": "一起 + 壓 + 名詞",
-   "example": "Video compression saves storage space."
+   "example": "Video compression saves storage space.",
+   "level": 2
   },
   {
    "word": "accord",
@@ -10016,7 +10498,8 @@
    ],
    "meaning": "協議；一致",
    "literal": "朝向 + 心：心意相通",
-   "example": "The two countries signed a peace accord."
+   "example": "The two countries signed a peace accord.",
+   "level": 2
   },
   {
    "word": "retention",
@@ -10036,7 +10519,8 @@
    ],
    "meaning": "保留；留任",
    "literal": "回 + 握住 + 名詞",
-   "example": "Staff retention is a big challenge."
+   "example": "Staff retention is a big challenge.",
+   "level": 2
   },
   {
    "word": "definitive",
@@ -10056,7 +10540,8 @@
    ],
    "meaning": "決定性的；權威的",
    "literal": "徹底 + 界限 + 性質",
-   "example": "This is the definitive guide to the city."
+   "example": "This is the definitive guide to the city.",
+   "level": 2
   },
   {
    "word": "providence",
@@ -10076,7 +10561,8 @@
    ],
    "meaning": "天意",
    "literal": "向前 + 看 + 名詞：預先看顧",
-   "example": "They believed it was divine providence."
+   "example": "They believed it was divine providence.",
+   "level": 2
   },
   {
    "word": "faction",
@@ -10092,7 +10578,8 @@
    ],
    "meaning": "派系",
    "literal": "做 + 名詞：一起做事的一群人",
-   "example": "The party split into two factions."
+   "example": "The party split into two factions.",
+   "level": 2
   },
   {
    "word": "encouragement",
@@ -10116,7 +10603,8 @@
    ],
    "meaning": "鼓勵",
    "literal": "使 + 心 + 名詞 + 名詞",
-   "example": "Thanks for your encouragement."
+   "example": "Thanks for your encouragement.",
+   "level": 2
   },
   {
    "word": "subjective",
@@ -10136,7 +10624,8 @@
    ],
    "meaning": "主觀的",
    "literal": "在下 + 丟 + 性質",
-   "example": "Taste in music is subjective."
+   "example": "Taste in music is subjective.",
+   "level": 2
   },
   {
    "word": "oppression",
@@ -10156,7 +10645,8 @@
    ],
    "meaning": "壓迫",
    "literal": "對著 + 壓 + 名詞",
-   "example": "They fought against oppression."
+   "example": "They fought against oppression.",
+   "level": 2
   },
   {
    "word": "questionable",
@@ -10176,7 +10666,8 @@
    ],
    "meaning": "可疑的；有問題的",
    "literal": "尋找 + 名詞 + 可…的",
-   "example": "His methods are questionable."
+   "example": "His methods are questionable.",
+   "level": 2
   },
   {
    "word": "traction",
@@ -10192,7 +10683,8 @@
    ],
    "meaning": "附著力；進展",
    "literal": "拉 + 名詞",
-   "example": "The idea is gaining traction."
+   "example": "The idea is gaining traction.",
+   "level": 2
   },
   {
    "word": "conquest",
@@ -10208,7 +10700,8 @@
    ],
    "meaning": "征服",
    "literal": "徹底 + 尋找：完全取得",
-   "example": "The Norman conquest of England began in 1066."
+   "example": "The Norman conquest of England began in 1066.",
+   "level": 2
   },
   {
    "word": "objection",
@@ -10228,7 +10721,8 @@
    ],
    "meaning": "反對",
    "literal": "對著 + 丟 + 名詞",
-   "example": "Do you have any objection to the plan?"
+   "example": "Do you have any objection to the plan?",
+   "level": 2
   },
   {
    "word": "scripture",
@@ -10244,7 +10738,8 @@
    ],
    "meaning": "經文",
    "literal": "寫 + 結果",
-   "example": "He reads scripture every morning."
+   "example": "He reads scripture every morning.",
+   "level": 2
   },
   {
    "word": "photographic",
@@ -10264,7 +10759,8 @@
    ],
    "meaning": "攝影的",
    "literal": "光 + 畫 + 的",
-   "example": "She has a photographic memory."
+   "example": "She has a photographic memory.",
+   "level": 2
   },
   {
    "word": "conception",
@@ -10284,7 +10780,8 @@
    ],
    "meaning": "觀念；構想",
    "literal": "一起 + 拿 + 名詞",
-   "example": "He has no conception of how hard it is."
+   "example": "He has no conception of how hard it is.",
+   "level": 2
   },
   {
    "word": "finite",
@@ -10300,7 +10797,8 @@
    ],
    "meaning": "有限的",
    "literal": "界限 + 的",
-   "example": "The earth's resources are finite."
+   "example": "The earth's resources are finite.",
+   "level": 2
   },
   {
    "word": "covenant",
@@ -10320,7 +10818,8 @@
    ],
    "meaning": "契約；盟約",
    "literal": "一起 + 來 + 名詞：走到一起訂約",
-   "example": "They signed a covenant to protect the forest."
+   "example": "They signed a covenant to protect the forest.",
+   "level": 2
   },
   {
    "word": "contention",
@@ -10340,7 +10839,8 @@
    ],
    "meaning": "爭論；論點",
    "literal": "一起 + 伸展 + 名詞",
-   "example": "The issue is a point of contention."
+   "example": "The issue is a point of contention.",
+   "level": 2
   },
   {
    "word": "dismissal",
@@ -10360,7 +10860,8 @@
    ],
    "meaning": "解僱；駁回",
    "literal": "分開 + 送 + 名詞",
-   "example": "He sued the company for unfair dismissal."
+   "example": "He sued the company for unfair dismissal.",
+   "level": 2
   },
   {
    "word": "nationality",
@@ -10384,7 +10885,8 @@
    ],
    "meaning": "國籍",
    "literal": "出生 + 名詞 + 的 + 名詞",
-   "example": "What is your nationality?"
+   "example": "What is your nationality?",
+   "level": 2
   },
   {
    "word": "caption",
@@ -10400,7 +10902,8 @@
    ],
    "meaning": "圖片說明",
    "literal": "拿 + 名詞：抓住重點的一句話",
-   "example": "Write a caption for this photo."
+   "example": "Write a caption for this photo.",
+   "level": 2
   },
   {
    "word": "insecure",
@@ -10420,7 +10923,8 @@
    ],
    "meaning": "沒有安全感的",
    "literal": "不 + 分開 + 擔心",
-   "example": "He feels insecure about his English."
+   "example": "He feels insecure about his English.",
+   "level": 2
   },
   {
    "word": "disruption",
@@ -10440,7 +10944,8 @@
    ],
    "meaning": "中斷；擾亂",
    "literal": "分開 + 破 + 名詞",
-   "example": "The strike caused major disruption."
+   "example": "The strike caused major disruption.",
+   "level": 2
   },
   {
    "word": "respectable",
@@ -10460,7 +10965,8 @@
    ],
    "meaning": "體面的；可敬的",
    "literal": "回 + 看 + 可…的：值得多看一眼",
-   "example": "He has a respectable job."
+   "example": "He has a respectable job.",
+   "level": 2
   },
   {
    "word": "detector",
@@ -10480,7 +10986,8 @@
    ],
    "meaning": "偵測器",
    "literal": "去除 + 遮蓋 + 物",
-   "example": "Check the smoke detector every month."
+   "example": "Check the smoke detector every month.",
+   "level": 2
   },
   {
    "word": "captive",
@@ -10496,7 +11003,8 @@
    ],
    "meaning": "被俘的；俘虜",
    "literal": "拿 + 性質",
-   "example": "The soldiers were held captive."
+   "example": "The soldiers were held captive.",
+   "level": 2
   },
   {
    "word": "indictment",
@@ -10516,7 +11024,8 @@
    ],
    "meaning": "起訴",
    "literal": "向內 + 說 + 名詞",
-   "example": "The grand jury issued an indictment."
+   "example": "The grand jury issued an indictment.",
+   "level": 2
   },
   {
    "word": "monarch",
@@ -10532,7 +11041,8 @@
    ],
    "meaning": "君主",
    "literal": "單一 + 統治",
-   "example": "The monarch addressed the nation."
+   "example": "The monarch addressed the nation.",
+   "level": 2
   },
   {
    "word": "sensory",
@@ -10548,7 +11058,8 @@
    ],
    "meaning": "感官的",
    "literal": "感覺 + 的",
-   "example": "Babies learn through sensory experiences."
+   "example": "Babies learn through sensory experiences.",
+   "level": 2
   },
   {
    "word": "procurement",
@@ -10568,7 +11079,8 @@
    ],
    "meaning": "採購",
    "literal": "向前 + 照料 + 名詞：事先張羅",
-   "example": "She works in the procurement department."
+   "example": "She works in the procurement department.",
+   "level": 2
   },
   {
    "word": "suppression",
@@ -10588,7 +11100,8 @@
    ],
    "meaning": "壓制",
    "literal": "在下 + 壓 + 名詞",
-   "example": "The suppression of free speech is dangerous."
+   "example": "The suppression of free speech is dangerous.",
+   "level": 2
   },
   {
    "word": "protector",
@@ -10608,7 +11121,8 @@
    ],
    "meaning": "保護者",
    "literal": "向前 + 遮蓋 + 物",
-   "example": "Buy a screen protector for your phone."
+   "example": "Buy a screen protector for your phone.",
+   "level": 2
   },
   {
    "word": "susceptible",
@@ -10628,7 +11142,8 @@
    ],
    "meaning": "易受影響的",
    "literal": "從下 + 拿 + 可…的：容易被接住",
-   "example": "Children are more susceptible to colds."
+   "example": "Children are more susceptible to colds.",
+   "level": 2
   },
   {
    "word": "locality",
@@ -10648,7 +11163,8 @@
    ],
    "meaning": "地區",
    "literal": "地方 + 的 + 名詞",
-   "example": "Prices vary by locality."
+   "example": "Prices vary by locality.",
+   "level": 2
   },
   {
    "word": "depart",
@@ -10664,7 +11180,8 @@
    ],
    "meaning": "出發；離開",
    "literal": "分開 + 部分：分離出去",
-   "example": "The train departs at 8:15."
+   "example": "The train departs at 8:15.",
+   "level": 2
   },
   {
    "word": "partition",
@@ -10680,7 +11197,8 @@
    ],
    "meaning": "隔板；分割",
    "literal": "部分 + 名詞",
-   "example": "A glass partition divides the office."
+   "example": "A glass partition divides the office.",
+   "level": 2
   },
   {
    "word": "advent",
@@ -10696,7 +11214,8 @@
    ],
    "meaning": "出現；到來",
    "literal": "朝向 + 來",
-   "example": "The advent of the internet changed everything."
+   "example": "The advent of the internet changed everything.",
+   "level": 2
   },
   {
    "word": "provisional",
@@ -10720,7 +11239,8 @@
    ],
    "meaning": "暫時的",
    "literal": "向前 + 看 + 名詞 + 的",
-   "example": "This is only a provisional schedule."
+   "example": "This is only a provisional schedule.",
+   "level": 2
   },
   {
    "word": "deception",
@@ -10740,7 +11260,8 @@
    ],
    "meaning": "欺騙",
    "literal": "去除 + 拿 + 名詞",
-   "example": "The ad was a clever deception."
+   "example": "The ad was a clever deception.",
+   "level": 2
   },
   {
    "word": "vocational",
@@ -10760,7 +11281,8 @@
    ],
    "meaning": "職業的",
    "literal": "呼喚 + 名詞 + 的：被召喚去做的事",
-   "example": "He attended a vocational school."
+   "example": "He attended a vocational school.",
+   "level": 2
   },
   {
    "word": "incidence",
@@ -10780,7 +11302,8 @@
    ],
    "meaning": "發生率",
    "literal": "向內 + 落下 + 名詞",
-   "example": "The incidence of flu is high this winter."
+   "example": "The incidence of flu is high this winter.",
+   "level": 2
   },
   {
    "word": "compartment",
@@ -10800,7 +11323,8 @@
    ],
    "meaning": "隔間",
    "literal": "一起 + 部分 + 名詞",
-   "example": "Put your bag in the overhead compartment."
+   "example": "Put your bag in the overhead compartment.",
+   "level": 2
   },
   {
    "word": "applicant",
@@ -10820,7 +11344,8 @@
    ],
    "meaning": "申請人",
    "literal": "朝向 + 摺疊 + 的人",
-   "example": "We had over 200 applicants for the job."
+   "example": "We had over 200 applicants for the job.",
+   "level": 2
   },
   {
    "word": "affinity",
@@ -10840,7 +11365,8 @@
    ],
    "meaning": "親近感；喜好",
    "literal": "朝向 + 界限 + 名詞：住在交界的鄰居",
-   "example": "She has a natural affinity for languages."
+   "example": "She has a natural affinity for languages.",
+   "level": 2
   },
   {
    "word": "courageous",
@@ -10860,7 +11386,8 @@
    ],
    "meaning": "勇敢的",
    "literal": "心 + 名詞 + 充滿",
-   "example": "It was a courageous decision."
+   "example": "It was a courageous decision.",
+   "level": 2
   },
   {
    "word": "concession",
@@ -10880,7 +11407,8 @@
    ],
    "meaning": "讓步；優惠",
    "literal": "徹底 + 讓步 + 名詞",
-   "example": "Students get a concession on bus fares."
+   "example": "Students get a concession on bus fares.",
+   "level": 2
   },
   {
    "word": "procession",
@@ -10900,7 +11428,8 @@
    ],
    "meaning": "遊行隊伍",
    "literal": "向前 + 走 + 名詞",
-   "example": "A long procession moved through the streets."
+   "example": "A long procession moved through the streets.",
+   "level": 2
   },
   {
    "word": "parameter",
@@ -10916,7 +11445,8 @@
    ],
    "meaning": "參數；限制範圍",
    "literal": "旁邊 + 測量",
-   "example": "We need to set the parameters of the project."
+   "example": "We need to set the parameters of the project.",
+   "level": 2
   },
   {
    "word": "pathology",
@@ -10932,7 +11462,8 @@
    ],
    "meaning": "病理學",
    "literal": "痛苦 + 學問",
-   "example": "She works in the hospital's pathology lab."
+   "example": "She works in the hospital's pathology lab.",
+   "level": 2
   },
   {
    "word": "superficial",
@@ -10952,7 +11483,8 @@
    ],
    "meaning": "表面的；膚淺的",
    "literal": "在上 + 面 + 的",
-   "example": "The cut was only superficial."
+   "example": "The cut was only superficial.",
+   "level": 2
   },
   {
    "word": "dissent",
@@ -10968,7 +11500,8 @@
    ],
    "meaning": "異議",
    "literal": "分開 + 感覺：感受不同",
-   "example": "There was no dissent at the meeting."
+   "example": "There was no dissent at the meeting.",
+   "level": 2
   },
   {
    "word": "insecurity",
@@ -10992,7 +11525,8 @@
    ],
    "meaning": "不安全感",
    "literal": "不 + 分開 + 擔心 + 名詞",
-   "example": "Job insecurity is a growing problem."
+   "example": "Job insecurity is a growing problem.",
+   "level": 2
   },
   {
    "word": "multinational",
@@ -11016,7 +11550,8 @@
    ],
    "meaning": "跨國的",
    "literal": "許多 + 出生 + 名詞 + 的",
-   "example": "She works for a multinational company."
+   "example": "She works for a multinational company.",
+   "level": 2
   },
   {
    "word": "curator",
@@ -11032,7 +11567,8 @@
    ],
    "meaning": "策展人",
    "literal": "照料 + 者",
-   "example": "The museum curator explained the painting."
+   "example": "The museum curator explained the painting.",
+   "level": 2
   },
   {
    "word": "replicate",
@@ -11052,7 +11588,8 @@
    ],
    "meaning": "複製",
    "literal": "再 + 摺疊 + 使",
-   "example": "Other scientists could not replicate the results."
+   "example": "Other scientists could not replicate the results.",
+   "level": 2
   },
   {
    "word": "inscription",
@@ -11072,7 +11609,8 @@
    ],
    "meaning": "銘文",
    "literal": "向內 + 寫 + 名詞：刻進去的字",
-   "example": "The ring has an inscription inside."
+   "example": "The ring has an inscription inside.",
+   "level": 2
   },
   {
    "word": "mediation",
@@ -11088,7 +11626,8 @@
    ],
    "meaning": "調解",
    "literal": "中間 + 名詞",
-   "example": "The dispute was settled through mediation."
+   "example": "The dispute was settled through mediation.",
+   "level": 2
   },
   {
    "word": "repression",
@@ -11108,7 +11647,8 @@
    ],
    "meaning": "壓抑；鎮壓",
    "literal": "回 + 壓 + 名詞",
-   "example": "Political repression increased after the election."
+   "example": "Political repression increased after the election.",
+   "level": 2
   }
  ]
 }

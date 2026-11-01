@@ -28,12 +28,13 @@ class _ExploreScreenState extends State<ExploreScreen> {
     final scope = AppScope.of(context);
     final lex = scope.lexicon;
     final q = _query.trim().toLowerCase();
+    final lv = scope.store.maxLevel;
     final items = lex.morphemes.values.where((m) {
-      if (m.type != _tab || lex.wordsWith(m.id).isEmpty) return false;
+      if (m.type != _tab || lex.wordsWith(m.id, maxLevel: lv).isEmpty) return false;
       if (q.isEmpty) return true;
       return m.forms.toLowerCase().contains(q) ||
           m.meaning.contains(q) ||
-          lex.wordsWith(m.id).any((w) => w.word.contains(q) || w.meaning.contains(q));
+          lex.wordsWith(m.id, maxLevel: lv).any((w) => w.word.contains(q) || w.meaning.contains(q));
     }).toList();
 
     return ListenableBuilder(
@@ -95,7 +96,7 @@ class _ExploreScreenState extends State<ExploreScreen> {
                     const SizedBox(width: 10),
                     Expanded(child: Text(m.meaning, overflow: TextOverflow.ellipsis)),
                   ]),
-                  trailing: Text('${lex.wordsWith(m.id).length}', style: Theme.of(context).textTheme.bodySmall),
+                  trailing: Text('${lex.wordsWith(m.id, maxLevel: lv).length}', style: Theme.of(context).textTheme.bodySmall),
                   onTap: () => openMorpheme(context, m.id),
                 ),
             ],
@@ -169,7 +170,7 @@ class _MorphemePageState extends State<MorphemePage> {
     final scope = AppScope.of(context);
     final m = scope.lexicon.morphemes[id]!;
     final c = morphemeColor(context, m.type);
-    final words = scope.lexicon.wordsWith(id);
+    final words = scope.lexicon.wordsWith(id, maxLevel: scope.store.maxLevel);
     final text = Theme.of(context).textTheme;
     return Scaffold(
       appBar: AppBar(title: Text(m.label, style: const TextStyle(fontFamily: latin))),
@@ -257,7 +258,18 @@ class WordPage extends StatelessWidget {
             child: Padding(
               padding: const EdgeInsets.all(18),
               child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-                ColoredWord(word: word, size: 32),
+                Row(children: [
+                  Flexible(child: ColoredWord(word: word, size: 32)),
+                  const SizedBox(width: 10),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                    decoration: BoxDecoration(
+                      color: Theme.of(context).colorScheme.surfaceContainerHighest,
+                      borderRadius: BorderRadius.circular(5),
+                    ),
+                    child: Text(levelNames[word.level]!, style: text.labelSmall),
+                  ),
+                ]),
                 const SizedBox(height: 14),
                 LegoRow(parts: word.parts, onTapPart: (p) => openMorpheme(context, p.id!)),
                 const SizedBox(height: 16),

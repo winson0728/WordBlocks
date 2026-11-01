@@ -246,6 +246,16 @@ class ReviewStore extends ChangeNotifier {
     (j['counters'] as Map? ?? const {}).forEach((k, v) => counters[k as String] = (v as num).toInt());
   }
 
+  // ---- word level filter (device only, not synced) ----
+
+  /// Show words up to this level: 1 基礎, 2 進階 (default), 3 all.
+  int get maxLevel => _prefs.getInt('wordblocks.level') ?? 2;
+
+  Future<void> setMaxLevel(int level) async {
+    await _prefs.setInt('wordblocks.level', level.clamp(1, 3));
+    notifyListeners();
+  }
+
   // ---- daily reminder (device only, not synced) ----
 
   bool get reminderOn => _prefs.getBool('$_reminderKey.on') ?? false;

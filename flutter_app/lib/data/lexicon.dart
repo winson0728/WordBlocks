@@ -84,6 +84,8 @@ class WordPart {
   final String text;
 }
 
+const levelNames = {1: '基礎', 2: '進階', 3: '高階'};
+
 class Word {
   const Word({
     required this.word,
@@ -91,6 +93,7 @@ class Word {
     required this.meaning,
     required this.literal,
     required this.example,
+    this.level = 2,
   });
 
   factory Word.fromJson(Map<String, dynamic> j) => Word(
@@ -102,6 +105,7 @@ class Word {
         meaning: j['meaning'] as String,
         literal: j['literal'] as String,
         example: j['example'] as String,
+        level: (j['level'] as num?)?.toInt() ?? 2,
       );
 
   final String word;
@@ -109,6 +113,9 @@ class Word {
   final String meaning;
   final String literal;
   final String example;
+
+  /// 1 基礎, 2 進階, 3 高階, from how common the word is (tools/assign_levels.py).
+  final int level;
 
   String get shortMeaning => meaning.split('；').first;
 }
@@ -145,16 +152,22 @@ class Lexicon {
   final Map<String, Word> byWord;
   final Map<String, List<Word>> _byMorpheme = {};
 
-  List<Word> wordsWith(String morphemeId) => _byMorpheme[morphemeId] ?? const [];
+  /// Words built on [morphemeId], optionally only those at or below [maxLevel].
+  List<Word> wordsWith(String morphemeId, {int maxLevel = 3}) {
+    final all = _byMorpheme[morphemeId] ?? const <Word>[];
+    return maxLevel >= 3 ? all : [for (final w in all) if (w.level <= maxLevel) w];
+  }
 
   String categoryName(String id) =>
       categories.firstWhere((c) => c.id == id, orElse: () => Category(id, id)).name;
 
-  /// Prefixes and roots that appear in at least one word: the review deck.
-  late final List<String> deck = [
-    for (final m in morphemes.values)
-      if (m.type != MorphemeType.suf && wordsWith(m.id).isNotEmpty) m.id,
-  ];
+  final Map<int, List<String>> _decks = {};
+
+  /// Prefixes and roots with at least one word at or below [maxLevel]: the review deck.
+  List<String> deckFor(int maxLevel) => _decks.putIfAbsent(maxLevel, () => [
+        for (final m in morphemes.values)
+          if (m.type != MorphemeType.suf && wordsWith(m.id, maxLevel: maxLevel).isNotEmpty) m.id,
+      ]);
 
   /// Roots with at least three words, in a fixed order. "Root of the day" cycles through this
   /// list; the Android home-screen widget receives the same list and must pick the same item.

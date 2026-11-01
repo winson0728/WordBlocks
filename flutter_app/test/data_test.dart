@@ -102,6 +102,17 @@ void main() {
     });
   });
 
+  group('levels', () {
+    test('every word has a level and lower levels are subsets', () {
+      expect(lex.words.every((w) => w.level >= 1 && w.level <= 3), isTrue);
+      expect(lex.words.where((w) => w.level == 1).length, greaterThan(200));
+      final basic = lex.deckFor(1).toSet(), all = lex.deckFor(3).toSet();
+      expect(all.containsAll(basic), isTrue);
+      expect(lex.wordsWith('struct', maxLevel: 1).every((w) => w.level == 1), isTrue);
+      expect(lex.wordsWith('struct').length, greaterThanOrEqualTo(lex.wordsWith('struct', maxLevel: 1).length));
+    });
+  });
+
   group('day number (shared with the web app and the Android widget)', () {
     test('counts calendar days since 2024-01-01', () {
       expect(Lexicon.dayNumber(DateTime(2024, 1, 1, 23, 59)), 0);

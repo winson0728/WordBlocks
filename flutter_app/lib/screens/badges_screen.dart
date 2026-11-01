@@ -34,8 +34,9 @@ class BadgesScreen extends StatelessWidget {
       listenable: store,
       builder: (context, _) {
         final now = DateTime.now();
+        final deck = lex.deckFor(store.maxLevel);
         ({int learned, int total, List<String> next}) area(String cat) {
-          final ids = lex.deck.where((id) => lex.morphemes[id]!.category == cat).toList();
+          final ids = deck.where((id) => lex.morphemes[id]!.category == cat).toList();
           return (
             learned: store.learnedCount(ids),
             total: ids.length,
@@ -51,7 +52,7 @@ class BadgesScreen extends StatelessWidget {
           _Badge('積木大師', '完成 10 題字根積木', Icons.extension, morphemeColor(context, MorphemeType.root), min(store.puzzlesSolved, 10), 10),
           _Badge('神話獵人', '讀過一則神話或歷史字源故事（試試 Pan 或 bank）', Icons.auto_stories, morphemeColor(context, MorphemeType.suf), min(c['myth'] ?? 0, 1), 1),
           _Badge('七日不斷', '連續 7 天完成複習', Icons.local_fire_department, Colors.green.shade700, min(store.streak(now), 7), 7),
-          _Badge('字根收藏家', '學會 30 個字首或字根', Icons.collections_bookmark, _gold, min(store.learnedCount(lex.deck), 30), 30),
+          _Badge('字根收藏家', '學會 30 個字首或字根', Icons.collections_bookmark, _gold, min(store.learnedCount(deck), 30), 30),
           _Badge('時間旅人', '學會「時間與順序」區的全部字根', Icons.hourglass_bottom, accent, time.learned, time.total),
         ];
 
