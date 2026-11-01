@@ -8,12 +8,15 @@ extra|pre|extra-|超出、額外|拉丁語 extra|dir
 ultra|pre|ultra-|超越|拉丁語 ultra|dir
 hypo|pre|hypo-|在下|希臘語 hypo|dir
 du|pre|du-|二|拉丁語 duo|num
+ante|pre|ante- / anti-|之前|拉丁語 ante|time
+mega|pre|mega-|巨大|希臘語 megas|num
+ortho|pre|ortho-|正、直|希臘語 orthos|rel
 chron|root|chron|時間|希臘語 chronos|time
 pro|pre|pro- / pur-|向前、預先；代替|拉丁語 pro|dir
 de|pre|de-|向下；去除、反轉|拉丁語 de|dir
 in|pre|in- / im-|向內、進入|拉丁語 in|dir
 re|pre|re-|回、再|拉丁語 re-|dir
-trans|pre|trans-|跨越、轉移|拉丁語 trans|dir
+trans|pre|trans- / tran-|跨越、轉移|拉丁語 trans|dir
 ex|pre|ex- / e-|向外|拉丁語 ex|dir
 sub|pre|sub- / sup- / su-|在下、從下|拉丁語 sub|dir
 super|pre|super-|在上、超越|拉丁語 super|dir
@@ -26,9 +29,9 @@ para|pre|para-|旁邊|希臘語 para|dir
 infra|pre|infra-|在下方|拉丁語 infra|dir
 intro|pre|intro-|向內|拉丁語 intro|dir
 epi|pre|epi-|在…之上、散布|希臘語 epi|dir
-spect|root|spect / spec / spic|看|拉丁語 specere|sense
+spect|root|spect / spec / spic / pect|看|拉丁語 specere|sense
 vid|root|vid / vis / vise / vide|看|拉丁語 videre|sense
-dict|root|dict|說|拉丁語 dicere|sense
+dict|root|dict / dic|說|拉丁語 dicere|sense
 scrib|root|scrib / scribe / script|寫|拉丁語 scribere|sense
 graph|root|graph|寫、畫|希臘語 graphein|sense
 phon|root|phon / phone|聲音|希臘語 phone|sense
@@ -49,7 +52,7 @@ pan|root|pan|全部|希臘語 pan|life
 panGod|root|Pan|牧神潘|希臘神話 Pan|life
 manu|root|manu / man / main|手|拉丁語 manus|life
 ver|root|ver|真實|拉丁語 verus|life
-cracy|root|cracy|統治|希臘語 kratos|life
+cracy|root|cracy / crat|統治|希臘語 kratos|life
 orama|root|orama|景象|希臘語 horama|life
 acea|root|acea|治療|希臘語 akos|life
 bank|root|bank|長凳|義大利語 banca|life
@@ -86,17 +89,17 @@ tract|root|tract|拉|拉丁語 trahere|move
 press|root|press|壓|拉丁語 premere|move
 pend|root|pend / pens|懸掛；秤重付錢|拉丁語 pendere|move
 vert|root|vert / vers / verse|轉|拉丁語 vertere|move
-cap|root|cap / capt / cept / ceive|拿、抓|拉丁語 capere|move
+cap|root|cap / capt / cept / ceive / cip / cipi / cipe|拿、抓|拉丁語 capere|move
 fact|root|fact / fac / fect / fic / fit / feat|做|拉丁語 facere|move
 vent|root|vent / ven / vene|來|拉丁語 venire|move
 tend|root|tend / tens / tense / tent|伸展|拉丁語 tendere|move
-clud|root|clud / clude / clus|關閉|拉丁語 claudere|move
+clud|root|clud / clude / clus / close / clos|關閉|拉丁語 claudere|move
 mot|root|mot / mote / mob|移動|拉丁語 movere|move
 cur|root|cur / curr / curs|跑、流|拉丁語 currere|move
 flu|root|flu|流|拉丁語 fluere|move
 ped|root|ped / pede|腳|拉丁語 pes, pedis|move
 pod|root|pod|腳|希臘語 pous, podos|move
-lect|root|lect|選；讀|拉丁語 legere|move
+lect|root|lect / leg|選；讀|拉丁語 legere|move
 aud|root|aud|聽|拉丁語 audire|sense
 voc|root|voc / voke|聲音、呼喚|拉丁語 vocare|sense
 sign|root|sign|記號|拉丁語 signum|sense
@@ -124,7 +127,7 @@ fin|root|fin / fine|結束、界限|拉丁語 finis|time
 geo|root|geo|地球、土地|希臘語 ge|nature
 terr|root|terr|土地|拉丁語 terra|nature
 medi|root|medi|中間|拉丁語 medius|nature
-loc|root|loc|地方|拉丁語 locus|nature
+loc|root|loc / loco|地方|拉丁語 locus|nature
 meter|root|meter / metr|測量|希臘語 metron|nature
 therm|root|therm / thermo|熱|希臘語 thermos|nature
 hydr|root|hydr / hydro|水|希臘語 hydor|nature
@@ -142,8 +145,8 @@ tact|root|tact / tang / tegr / tag|接觸|拉丁語 tangere|sense
 quir|root|quir / quire / quest / quisit|尋找、要求|拉丁語 quaerere|mind
 cura|root|cur / cure / curi / sure / sur|照料、擔心|拉丁語 cura|mind
 nat|root|nat|出生|拉丁語 nasci|life
-part|root|part|部分|拉丁語 pars|nature
-sta|root|sta / stat / stance / stant / stitute / stin / sist|站立|拉丁語 stare、sistere|move
+part|root|part / parti|部分|拉丁語 pars|nature
+sta|root|sta / stat / stance / stant / stitute / stin / sist / ist|站立|拉丁語 stare、sistere|move
 pos|root|pos / posit / pose / pon / pone / pound|放置|拉丁語 ponere|move
 act|root|act / ag|做、驅動|拉丁語 agere|move
 sequ|root|sequ / secu / sue|跟隨|拉丁語 sequi|move
@@ -267,13 +270,22 @@ loqu|root|loqu|說話|拉丁語 loqui|sense
 hosp|root|hosp / hospit|客人、款待|拉丁語 hospes|life
 vulner|root|vulner|傷口|拉丁語 vulnus|life
 sol|root|sol|太陽|拉丁語 sol|nature
+aqu|root|aqu / aque|水|拉丁語 aqua|nature
+art|root|art / arti|技藝|拉丁語 ars|life
+liter|root|liter|文字|拉丁語 littera|sense
+mens|root|mens / mense|測量|拉丁語 metiri|nature
+circ|root|circ / circul / circu|圓、環繞|拉丁語 circus|nature
+solus|root|sol / solit|單獨|拉丁語 solus|num
+it|root|it / iti|走、去|拉丁語 ire|move
+dox|root|dox|意見、信念|希臘語 doxa|mind
+techn|root|techn|技術、工藝|希臘語 techne|life
 ure|suf|-ure / -ature / -ur|行為、結果（名詞）|拉丁語 -ura|suf
 ion|suf|-ion / -tion / -ition / -ation / -uation|行為、狀態（名詞）|拉丁語 -io|suf
-ive|suf|-ive / -itive / -iv / -tive|具…性質的（形容詞）|拉丁語 -ivus|suf
+ive|suf|-ive / -itive / -iv / -tive / -ative|具…性質的（形容詞）|拉丁語 -ivus|suf
 able|suf|-able / -ible / -ble / -bil / -ibil|可…的（形容詞）|拉丁語 -abilis|suf
 or|suf|-or / -ator / -itor|做…的人或物|拉丁語 -or|suf
-ary|suf|-ary / -uary|相關事物、集合（名詞）|拉丁語 -arium|suf
-ic|suf|-ic / -tic|…的（形容詞）|希臘語 -ikos|suf
+ary|suf|-ary / -uary / -arium|相關事物、集合（名詞）|拉丁語 -arium|suf
+ic|suf|-ic / -tic / -atic|…的（形容詞）|希臘語 -ikos|suf
 ology|suf|-ology / -logy / -olog|…學|希臘語 -logia|suf
 ize|suf|-ize / -yze|使…化（動詞）|希臘語 -izein|suf
 ous|suf|-ous / -ious / -orious / -os|充滿…的（形容詞）|拉丁語 -osus|suf
