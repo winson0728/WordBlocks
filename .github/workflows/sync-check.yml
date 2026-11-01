@@ -1,0 +1,40 @@
+name: Sync backend check
+
+# Confirms the Supabase project in config/sync.json is reachable and set up.
+on:
+  push:
+    branches: [main]
+    paths: [config/sync.json, supabase/**, .github/workflows/sync-check.yml]
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read config
+        id: cfg
+        run: |
+          echo "url=$(jq -r .supabaseUrl config/sync.json)" >> "$GITHUB_OUTPUT"
+          echo "key=$(jq -r .supabaseKey config/sync.json)" >> "$GITHUB_OUTPUT"
+
+      - name: Project responds
+        run: |
+          code=$(curl -s -o auth.json -w '%{http_code}' "${{ steps.cfg.outputs.url }}/auth/v1/settings" -H "apikey: ${{ steps.cfg.outputs.key }}")
+          echo "HTTP $code"; cat auth.json; echo
+          test "$code" = 200
+
+      - name: Email sign-up is enabled
+        run: |
+          jq -e '.external.email == true and (.disable_signup | not)' auth.json
+          echo "Email confirmation required: $(jq -r '(.mailer_autoconfirm | not)' auth.json)"
+
+      - name: progress table exists (run supabase/schema.sql if this fails)
+        run: |
+          code=$(curl -s -o rows.json -w '%{http_code}' "${{ steps.cfg.outputs.url }}/rest/v1/progress?select=user_id&limit=1" -H "apikey: ${{ steps.cfg.outputs.key }}")
+          echo "HTTP $code"; cat rows.json; echo
+          test "$code" = 200
+
+      - name: Signed-out visitors see no rows (row-level security)
+        run: test "$(jq length rows.json)" = 0

@@ -23,7 +23,10 @@ void main() {
 }
 
 class WordBlocksApp extends StatefulWidget {
-  const WordBlocksApp({super.key});
+  const WordBlocksApp({super.key, this.syncConfig});
+
+  /// Overrides assets/sync.json; tests pass an empty config so they never reach the network.
+  final SyncConfig? syncConfig;
 
   @override
   State<WordBlocksApp> createState() => _WordBlocksAppState();
@@ -32,8 +35,13 @@ class WordBlocksApp extends StatefulWidget {
 class _WordBlocksAppState extends State<WordBlocksApp> {
   late final Future<(Lexicon, Splitter, ReviewStore, SyncService)> _load = _init();
 
-  static Future<(Lexicon, Splitter, ReviewStore, SyncService)> _init() async {
-    final (lexicon, prefs, config) = await (Lexicon.load(), SharedPreferences.getInstance(), SyncConfig.load()).wait;
+  Future<(Lexicon, Splitter, ReviewStore, SyncService)> _init() async {
+    final override = widget.syncConfig;
+    final (lexicon, prefs, config) = await (
+      Lexicon.load(),
+      SharedPreferences.getInstance(),
+      override != null ? Future.value(override) : SyncConfig.load(),
+    ).wait;
     final store = ReviewStore(prefs);
     final sync = SyncService(config, store);
     // Neither needs to finish before the first screen appears.

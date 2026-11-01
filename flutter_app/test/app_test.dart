@@ -2,13 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:wordblocks/main.dart';
+import 'package:wordblocks/sync/sync_service.dart';
 
 Future<void> pumpApp(WidgetTester tester) async {
   SharedPreferences.setMockInitialValues({});
   tester.view.physicalSize = const Size(1080, 2340);
   tester.view.devicePixelRatio = 2.75;
   addTearDown(tester.view.reset);
-  await tester.pumpWidget(const WordBlocksApp());
+  await tester.pumpWidget(const WordBlocksApp(syncConfig: SyncConfig('', '')));
   // Asset and preference loading run on real async I/O, outside the test's fake clock.
   for (var i = 0; i < 50 && find.byType(CircularProgressIndicator).evaluate().isNotEmpty; i++) {
     await tester.runAsync(() => Future<void>.delayed(const Duration(milliseconds: 50)));

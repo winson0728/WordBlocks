@@ -468,7 +468,7 @@ if(st.newDay.d!==todayStr()) st.newDay={d:todayStr(),n:0};
 
 /* ======================= account sync (Supabase) ======================= */
 // Filled in by tools/build-data.mjs from config/sync.json. Empty values keep sync off.
-/* WORDBLOCKS_SYNC_BEGIN */const SYNC={"supabaseUrl":"","supabaseKey":""};/* WORDBLOCKS_SYNC_END */
+/* WORDBLOCKS_SYNC_BEGIN */const SYNC={"supabaseUrl":"https://rowlqsvakwnylftfklub.supabase.co","supabaseKey":"sb_publishable_HJWxj7rxO_uplG2BButBQA_TpJ2l-0B"};/* WORDBLOCKS_SYNC_END */
 const SUPABASE_JS='https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.3/dist/umd/supabase.js';
 const sync={client:null,user:null,status:'off',msg:'',last:null,timer:null,quiet:false,open:false,note:'',busy:false};
 const syncEnabled=()=>!!(SYNC.supabaseUrl&&SYNC.supabaseKey);
