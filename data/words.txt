@@ -731,3 +731,224 @@ facility|fact=fac ile=il ity|設施|做 + 可…的 + 名詞：方便做事的�
 efficiency|ex=ef fact=fic ence=iency|效率|向外 + 做 + 名詞|We need to improve efficiency.
 sufficient|sub=suf fact=fic ent=ient|足夠的|在下 + 做 + 的：從底下補足|We have sufficient food for a week.
 specific|spect=spec ific|具體的|看 + 產生…的：讓人看清楚|Can you be more specific?
+demand|de mand|要求；需求|徹底 + 命令|Demand for electric cars is rising.
+command|con=com mand|命令；掌握|徹底 + 命令|The officer commanded the soldiers to stop.
+recommend|re con=com mand=mend|推薦|再 + 徹底 + 託付|Can you recommend a good restaurant?
+recommendation|re con=com mand=mend ion=ation|推薦；建議|再 + 徹底 + 託付 + 名詞|The doctor's recommendation is to rest.
+mandatory|mand ate=at ory|強制的|命令 + 使 + 的|Wearing a helmet is mandatory.
+capital|capit al|首都；資本|頭 + 的：最重要的|Taipei is the capital of Taiwan.
+achieve|ad=a capit=chieve|達成|朝向 + 頭：做到頭、做完|She achieved her goal of running a marathon.
+achievement|ad=a capit=chieve ment|成就|朝向 + 頭 + 名詞|Winning the award was a great achievement.
+capitalism|capit al ism|資本主義|頭 + 的 + 主義|Capitalism is based on private business.
+equal|equ al|相等的|相等 + 的|All people are equal before the law.
+equality|equ al ity|平等|相等 + 的 + 名詞|They fought for gender equality.
+equation|equ ion=ation|方程式|相等 + 名詞|Solve the equation for x.
+equivalent|equ=equi val ent|相等的；相當於|相等 + 價值 + 的|One US dollar is equivalent to about 32 NT dollars.
+adequate|ad equ ate|足夠的|朝向 + 相等 + 的：達到標準|The room has adequate lighting.
+inadequate|inneg=in ad equ ate|不足的|不 + 朝向 + 相等 + 的|The hospital's equipment is inadequate.
+equity|equ ity|公平；股權|相等 + 名詞|She owns 20 percent equity in the company.
+valid|val id|有效的|強壯 + 的：站得住|Your ticket is valid for one month.
+invalid|inneg=in val id|無效的|不 + 強壯 + 的|This passport is invalid.
+evaluate|ex=e val=valu ate|評估|向外 + 價值 + 使|We will evaluate the results next week.
+evaluation|ex=e val=valu ion=ation|評估|向外 + 價值 + 名詞|Each employee gets a yearly evaluation.
+valuable|val=valu able|有價值的|價值 + 可…的|Thank you for your valuable advice.
+prevail|pre val=vail|盛行；勝過|在前 + 強壯：佔上風|Common sense prevailed.
+available|ad=a val=vail able|可用的；有空的|朝向 + 價值 + 可…的：派得上用場|Is this seat available?
+availability|ad=a val=vail able=abil ity|可用性|朝向 + 價值 + 可…的 + 名詞|Room availability is limited in summer.
+relevant|re lev ent=ant|相關的|再 + 舉起 + 的：被拿起來討論的|Please include only relevant information.
+irrelevant|inneg=ir re lev ent=ant|不相關的|不 + 再 + 舉起 + 的|His comments were irrelevant.
+relief|re lev=lief|放心；緩解|再 + 舉起：卸下重擔|What a relief!
+relieve|re lev=lieve|減輕|再 + 舉起|This medicine relieves pain quickly.
+elevate|ex=e lev ate|提高|向外 + 舉起 + 使|Elevate your leg to reduce swelling.
+elevator|ex=e lev ate=at or|電梯|向外 + 舉起 + 使 + 物|Take the elevator to the 12th floor.
+similar|simil ar|相似的|相似 + 的|Our tastes in music are similar.
+similarity|simil ar ity|相似處|相似 + 的 + 名詞|There are many similarities between the two cities.
+simulate|simil=simul ate|模擬|相似 + 使|The program simulates a real flight.
+simulation|simil=simul ion=ation|模擬|相似 + 名詞|Pilots train with computer simulations.
+resemble|re simil=semble|相似；像|再 + 相似|She resembles her mother.
+assemble|ad=as simil=semble|組裝；集合|朝向 + 相似：聚在一起|It took two hours to assemble the desk.
+assembly|ad=as simil=sembl y|集會；組裝|朝向 + 相似 + 名詞|The school holds an assembly every Monday.
+resonate|re son ate|引起共鳴|再 + 聲音 + 使|Her speech resonated with young voters.
+unison|uni son|一致；齊聲|單一 + 聲音|The crowd shouted in unison.
+supersonic|super son ic|超音速的|超越 + 聲音 + 的|The supersonic jet flew faster than sound.
+consonant|con son ent=ant|子音|一起 + 聲音 + 的：跟母音一起發聲|English has 24 consonant sounds.
+ultrasound|ultra son=sound|超音波|超越 + 聲音|The ultrasound showed a healthy baby.
+compete|con=com pet=pete|競爭|一起 + 尋求：一起追求同一目標|Ten teams will compete in the final.
+competition|con=com pet ion=ition|比賽；競爭|一起 + 尋求 + 名詞|Competition between airlines keeps prices low.
+competitive|con=com pet ive=itive|競爭的；有競爭力的|一起 + 尋求 + 性質|The job market is very competitive.
+competitor|con=com pet or=itor|競爭對手|一起 + 尋求 + 者|Our main competitor lowered its prices.
+competent|con=com pet ent|能勝任的|一起 + 尋求 + 的：追得上|She is a competent manager.
+appetite|ad=ap pet ite|食慾|朝向 + 尋求 + 的|Exercise gives me a big appetite.
+repeat|re pet=peat|重複|再 + 尋求|Could you repeat that, please?
+petition|pet ion=ition|請願書|尋求 + 名詞|Over 10,000 people signed the petition.
+result|re sult|結果|回 + 跳：跳回來的東西|The results will be announced tomorrow.
+insult|in sult|侮辱|向內 + 跳：跳到人身上|He insulted my cooking.
+assault|ad=as sult=sault|攻擊|朝向 + 跳：撲過去|He was arrested for assault.
+resilient|re sult=sil ent=ient|有韌性的|回 + 跳 + 的：能彈回來|Children are often very resilient.
+critical|crit ic al|關鍵的；批評的|判斷 + 的 + 的|This is a critical moment for the company.
+criticism|crit ic ism|批評|判斷 + 的 + 狀態|He doesn't take criticism well.
+critic|crit ic|評論家|判斷 + 的人|The film critic loved the movie.
+criticize|crit ic ize|批評|判斷 + 的 + 使|Don't criticize others in public.
+crisis|crit=cri sis|危機|判斷 + 過程：決定性的時刻|The country faced an economic crisis.
+memory|memor y|記憶|記憶 + 名詞|I have a good memory for faces.
+memorial|memor ial|紀念碑；紀念的|記憶 + 的|We visited the war memorial.
+memorable|memor able|難忘的|記憶 + 可…的|It was a memorable trip.
+commemorate|con=com memor ate|紀念|一起 + 記憶 + 使|The statue commemorates the founder of the city.
+memorize|memor ize|背誦|記憶 + 使|I need to memorize 50 words before Friday.
+nominate|nomin ate|提名|名字 + 使|She was nominated for an Oscar.
+nomination|nomin ion=ation|提名|名字 + 名詞|He received three nominations.
+nominee|nomin ee|被提名人|名字 + 受…者|The nominees will be announced next week.
+nominal|nomin al|名義上的|名字 + 的|There is a nominal fee of five dollars.
+denomination|de nomin ion=ation|面額；教派|徹底 + 名字 + 名詞|The bills come in small denominations.
+pronoun|pro nomin=noun|代名詞|代替 + 名字|"She" is a pronoun.
+penalty|pen al ity=ty|罰款；罰球|懲罰 + 的 + 名詞|There is a penalty for late payment.
+punish|pen=pun ish|懲罰|懲罰 + 做|He was punished for lying.
+punishment|pen=pun ish ment|懲罰|懲罰 + 做 + 名詞|The punishment was too harsh.
+penal|pen al|刑事的|懲罰 + 的|The penal code was updated last year.
+contribute|con trib=tribute|貢獻；捐助|一起 + 給予|Everyone contributed to the project.
+contribution|con trib=tribut ion|貢獻；捐款|一起 + 給予 + 名詞|Thank you for your contribution.
+distribute|dis trib=tribute|分配；發放|分開 + 給予|Volunteers distributed food to the families.
+distribution|dis trib=tribut ion|分配；分布|分開 + 給予 + 名詞|The distribution of wealth is uneven.
+distributor|dis trib=tribut or|經銷商|分開 + 給予 + 者|We are looking for a distributor in Japan.
+attribute|ad=at trib=tribute|歸因於；特質|朝向 + 給予|He attributes his success to hard work.
+corporate|corp=corpor ate|公司的|身體 + 的：組成一體的|She works in corporate finance.
+corporation|corp=corpor ion=ation|公司；企業|身體 + 名詞：法律上的一個「體」|He works for a large corporation.
+incorporate|in corp=corpor ate|納入；組成公司|向內 + 身體 + 使|We incorporated your ideas into the plan.
+dominate|domin ate|支配；主宰|主人 + 使|The team dominated the second half.
+dominant|domin ent=ant|佔優勢的|主人 + 的|English is the dominant language online.
+dominance|domin ence=ance|優勢|主人 + 名詞|The company's dominance in the market is clear.
+predominant|pre domin ent=ant|主要的|預先 + 主人 + 的|Green is the predominant color in the logo.
+minor|min or|次要的；未成年人|小 + 較：較小的|It's only a minor problem.
+minority|min or ity|少數|小 + 較 + 名詞|Only a minority of students voted.
+diminish|de=di min ish|減少|向下 + 小 + 做|The pain will diminish over time.
+minimum|min imum|最小值|小 + 最|The minimum age is 18.
+magnify|magn ify|放大|大 + 使|This lens magnifies objects ten times.
+magnitude|magn itude|規模；震級|大 + 狀態|The earthquake had a magnitude of 6.5.
+magnificent|magn ific ent|壯麗的|大 + 產生…的 + 的|The view from the top was magnificent.
+maximum|magn=max imum|最大值|大 + 最|The maximum speed here is 100 km/h.
+adhere|ad her=here|黏著；遵守|朝向 + 黏|All staff must adhere to the rules.
+coherent|con=co her ent|連貫的|一起 + 黏 + 的|Her argument was clear and coherent.
+inherent|in her ent|固有的|向內 + 黏 + 的：本來就黏在裡面|There are risks inherent in any investment.
+adhesive|ad her=hes ive|黏著劑|朝向 + 黏 + 性質|Use a strong adhesive to fix it.
+hesitate|her=hesit ate|猶豫|黏住 + 使：腳步黏著不動|Don't hesitate to call me.
+hesitation|her=hesit ion=ation|猶豫|黏住 + 名詞|She agreed without hesitation.
+annual|ann al=ual|每年的|年 + 的|The company holds an annual meeting.
+anniversary|ann=anni vert=vers ary|週年紀念|年 + 轉 + 名詞：一年轉一圈回來|Today is our tenth wedding anniversary.
+perennial|per ann=enn ial|多年生的；長久的|穿過 + 年 + 的|Traffic is a perennial problem in the city.
+thesis|the sis|論文；論點|放置 + 過程：提出來的論點|She is writing her master's thesis.
+hypothesis|hypo the sis|假設|在下 + 放置 + 過程：先墊在底下的想法|Scientists tested the hypothesis.
+synthesis|syn the sis|綜合；合成|一起 + 放置 + 過程|The report is a synthesis of ten studies.
+synthetic|syn the ic=tic|合成的|一起 + 放置 + 的|This jacket is made of synthetic fabric.
+photosynthesis|photo syn the sis|光合作用|光 + 一起 + 放置 + 過程|Plants make sugar through photosynthesis.
+admire|ad mir=mire|欣賞；欽佩|朝向 + 驚奇|I admire her courage.
+admiration|ad mir ion=ation|欽佩|朝向 + 驚奇 + 名詞|He looked at the painting with admiration.
+miracle|mir=mira icle=cle|奇蹟|驚奇 + 物|It's a miracle that nobody was hurt.
+approve|ad=ap prob=prove|批准；贊成|朝向 + 證明：認可它|The manager approved my vacation.
+approval|ad=ap prob=prov al|批准|朝向 + 證明 + 名詞|The plan needs government approval.
+probable|prob able|很可能的|證明 + 可…的|Rain is probable this afternoon.
+disprove|dis prob=prove|證明不實|否定 + 證明|The theory was disproved.
+popular|popul ar|受歡迎的|人民 + 的|This is a popular tourist spot.
+popularity|popul ar ity|受歡迎程度|人民 + 的 + 名詞|The game's popularity keeps growing.
+population|popul ion=ation|人口|人民 + 名詞|Taiwan has a population of about 23 million.
+public|popul=publ ic|公眾的|人民 + 的|The park is open to the public.
+publish|popul=publ ish|出版；發表|人民 + 做：公開給大家|The book was published in 2020.
+publication|popul=publ ic ion=ation|出版品|人民 + 的 + 名詞|The magazine is a popular publication.
+operate|oper ate|操作；動手術|工作 + 使|Can you operate this machine?
+operation|oper ion=ation|手術；運作|工作 + 名詞|The operation was a success.
+operator|oper ate=at or|操作員；電信業者|工作 + 使 + 者|The operator connected my call.
+cooperate|con=co oper ate|合作|一起 + 工作 + 使|The two companies agreed to cooperate.
+cooperation|con=co oper ion=ation|合作|一起 + 工作 + 名詞|Thank you for your cooperation.
+medical|med=medic al|醫療的|治療 + 的|She is a medical student.
+medicine|med=medic ine|藥；醫學|治療 + 名詞|Take this medicine three times a day.
+medication|med=medic ion=ation|藥物|治療 + 名詞|Are you taking any medication?
+remedy|re med y|療法；補救|再 + 治療 + 名詞|Honey is a good remedy for a sore throat.
+migrate|migr ate|遷徙|遷移 + 使|Birds migrate south in winter.
+migration|migr ion=ation|遷徙；移居|遷移 + 名詞|The book studies human migration.
+immigrant|in=im migr ent=ant|（移入的）移民|向內 + 遷移 + 的人|Many immigrants work in the city.
+immigration|in=im migr ion=ation|移民入境|向內 + 遷移 + 名詞|Please go through immigration first.
+emigrate|ex=e migr ate|移居國外|向外 + 遷移 + 使|They emigrated to Canada in 1990.
+exhibit|ex hab=hibit|展示；展品|向外 + 持有：拿出來給人看|The museum exhibits Chinese art.
+exhibition|ex hab=hibit ion|展覽|向外 + 持有 + 名詞|We went to a photo exhibition.
+prohibit|pro hab=hibit|禁止|向前 + 持有：在前面擋住|Smoking is prohibited here.
+inhibit|in hab=hibit|抑制|向內 + 持有：拉住|Fear can inhibit learning.
+inhabitant|in hab=habit ent=ant|居民|向內 + 持有 + 的人|The island has 2,000 inhabitants.
+relate|re lat=late|有關；聯繫|回 + 攜帶：把事情帶回來說|How does this relate to our problem?
+relation|re lat ion|關係|回 + 攜帶 + 名詞|The two countries have good relations.
+relationship|re lat ion ship|關係|回 + 攜帶 + 名詞 + 狀態|They have a close relationship.
+translate|trans lat=late|翻譯|跨越 + 攜帶：把意思帶到另一個語言|Can you translate this into Chinese?
+translation|trans lat ion|翻譯|跨越 + 攜帶 + 名詞|The translation is very accurate.
+decline|de clin=cline|下降；婉拒|向下 + 傾斜|Sales declined by 10 percent.
+incline|in clin=cline|傾向|向內 + 傾斜|I'm inclined to agree with you.
+recline|re clin=cline|斜躺|向後 + 傾斜|You can recline your seat after takeoff.
+clinic|clin ic|診所|傾斜（病床）+ 的：在病床邊看診|The clinic opens at 9 a.m.
+junction|junct ion|交叉口|連接 + 名詞|Turn left at the next junction.
+conjunction|con junct ion|連接詞；結合|一起 + 連接 + 名詞|"And" is a conjunction.
+restrict|re strict|限制|回 + 拉緊|Access is restricted to staff.
+restriction|re strict ion|限制|回 + 拉緊 + 名詞|There are no restrictions on what you can bring.
+district|dis=di strict|區|分開 + 拉緊：劃出範圍|We live in a quiet district.
+constrain|con strict=strain|限制；約束|一起 + 拉緊|We are constrained by a small budget.
+constraint|con strict=straint|限制條件|一起 + 拉緊|Time is our biggest constraint.
+restrain|re strict=strain|克制|回 + 拉緊|He couldn't restrain his anger.
+complete|con=com ple=plete|完成；完整的|徹底 + 填滿|Please complete the form.
+completion|con=com ple=plet ion|完成|徹底 + 填滿 + 名詞|The project is near completion.
+deplete|de ple=plete|耗盡|去除 + 填滿：把滿的倒空|Our savings were depleted.
+supply|sub=sup ple=ply|供應|在下 + 填滿：從底下補滿|The water supply was cut off.
+supplement|sub=sup ple ment|補充品|在下 + 填滿 + 名詞|She takes vitamin supplements.
+implement|in=im ple ment|實施；工具|向內 + 填滿 + 名詞：落實|The new policy will be implemented next year.
+plenty|ple=plen ity=ty|大量|填滿 + 名詞|We have plenty of time.
+insert|in sert|插入|向內 + 放入|Insert your card here.
+assert|ad=as sert|斷言；主張|朝向 + 連接：把自己綁在說法上|He asserted that he was innocent.
+desert|de sert|沙漠；拋棄|分開 + 連接：斷開聯繫|The Sahara is the largest hot desert.
+exert|ex sert=ert|施加；盡力|向外 + 放入|Don't exert yourself too much.
+ascend|ad=a scend|上升|朝向 + 爬|The plane began to ascend.
+descend|de scend|下降|向下 + 爬|The plane began to descend.
+descendant|de scend ent=ant|後代|向下 + 爬 + 的人|He is a descendant of a famous poet.
+transcend|trans scend=cend|超越|跨越 + 爬|Music transcends language.
+section|sect ion|部分；區|切 + 名詞|Read section 3 carefully.
+sector|sect or|部門；產業|切 + 物|The tech sector is growing fast.
+insect|in sect|昆蟲|向內 + 切：身體切成好幾節|Bees are useful insects.
+intersection|inter sect ion|十字路口|之間 + 切 + 名詞|Turn right at the intersection.
+segment|sect=seg ment|部分；區段|切 + 名詞|The news segment lasted five minutes.
+convince|con vinc=vince|說服|徹底 + 征服|She convinced me to try again.
+victory|vinc=vict ory|勝利|征服 + 名詞|The team celebrated its victory.
+invincible|inneg=in vinc able=ible|無敵的|不 + 征服 + 可…的|The team seemed invincible.
+evict|ex=e vinc=vict|逐出|向外 + 征服|They were evicted from their apartment.
+confident|con fid ent|有自信的|徹底 + 信任 + 的|She feels confident about the interview.
+confidence|con fid ence|信心|徹底 + 信任 + 名詞|Practice gives you confidence.
+confidential|con fid ent ial|機密的|徹底 + 信任 + 的 + 的|This information is confidential.
+justice|jus=just ice|正義|法律 + 名詞|They want justice for the victims.
+injustice|inneg=in jus=just ice|不公|不 + 法律 + 名詞|He spoke out against injustice.
+justify|jus=just ify|證明…有理|正義 + 使|How can you justify the cost?
+injury|inneg=in jus=jur y|受傷|不 + 法律 + 名詞：不公正的傷害|He has a knee injury.
+jury|jus=jur y|陪審團|法律 + 名詞|The jury found him guilty.
+legal|leg al|合法的；法律的|法律 + 的|Is it legal to park here?
+illegal|inneg=il leg al|非法的|不 + 法律 + 的|It's illegal to drive without a license.
+legislation|leg=legis lat ion|立法；法規|法律 + 攜帶 + 名詞：提出法律|New legislation will take effect in July.
+private|priv ate|私人的|個人 + 的|This is a private beach.
+privilege|priv=privi leg=lege|特權|個人 + 法律：只給個人的法律|Voting is a right, not a privilege.
+deprive|de priv=prive|剝奪|去除 + 個人：拿走個人所有|Lack of sleep deprives the brain of energy.
+gravity|grav ity|重力；嚴重性|重 + 名詞|Gravity keeps us on the ground.
+aggravate|ad=ag grav ate|使惡化|朝向 + 重 + 使|Stress can aggravate the pain.
+mutual|mut al=ual|相互的|改變 + 的：互換的|We have a mutual friend.
+commute|con=com mut=mute|通勤|徹底 + 改變：每天換地方|I commute to work by MRT.
+mutation|mut ion=ation|突變|改變 + 名詞|The virus has a new mutation.
+rational|rat=ration al|理性的|計算 + 的|Let's try to be rational about this.
+irrational|inneg=ir rat=ration al|不理性的|不 + 計算 + 的|His fear of flying is irrational.
+prepare|pre par=pare|準備|預先 + 準備|I need to prepare for the exam.
+preparation|pre par ion=ation|準備|預先 + 準備 + 名詞|The event took months of preparation.
+repair|re par=pair|修理|再 + 準備|How much will it cost to repair the car?
+separate|se par ate|分開的；分開|分開 + 準備 + 使|Keep raw meat separate from vegetables.
+liberal|liber al|自由的；開明的|自由 + 的|She has liberal views on education.
+liberty|liber ity=ty|自由|自由 + 名詞|The Statue of Liberty is in New York.
+liberate|liber ate|解放|自由 + 使|The city was liberated in 1945.
+fraction|fract ion|分數；一小部分|破 + 名詞|Only a fraction of the money was spent.
+fracture|fract ure|骨折|破 + 結果|She has a fracture in her left arm.
+fragile|fract=frag ile|易碎的|破 + 可…的|Be careful, the box is fragile.
+fragment|fract=frag ment|碎片|破 + 名詞|Fragments of glass were on the floor.
+numerous|num=numer ous|許多的|數 + 充滿|The book has numerous mistakes.
+numerical|num=numer ic al|數字的|數 + 的 + 的|Put the files in numerical order.
+punctual|punct al=ual|準時的|點 + 的：剛好在那一點|Please be punctual for the meeting.
+punctuation|punct ion=uation|標點符號|點 + 名詞|Check your spelling and punctuation.
+satisfy|sat=satis ify=fy|使滿意|足夠 + 使|The answer didn't satisfy me.
+satisfaction|sat=satis fact ion|滿意|足夠 + 做 + 名詞|Customer satisfaction is our priority.
+saturate|sat=satur ate|使飽和|足夠 + 使|The market is saturated with cheap phones.

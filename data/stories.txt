@@ -46,3 +46,8 @@ via|古羅馬三條路交會的路口叫 trivium，是人們停下來閒聊八�
 sid|assess 原本指坐在法官旁邊的助手（assessor），負責估算罰金和稅額，後來就成了「評估」。|法官席旁坐著一位拿算盤的助手。
 cis|易混淆：decide 的 cid 來自 caedere「切」，accident 的 cid 來自 cadere「落下」。拼法幾乎一樣，意思完全不同。|一把剪刀剪斷其他選項，只留下一條路。
 serva|易混淆：serve、service 來自 servire「服務」；reserve、preserve、observe 的 serve 則來自 servare「看守、保存」。|守衛站在倉庫門口看守。
+capit|拉丁語 caput 是「頭」。首都 capital 是國家的「頭」；achieve 原意是「做到頭」，也就是完成。它和 cap「拿」只是長得像。|一頂王冠戴在地圖上的首都位置。
+crit|希臘語 krinein 是「判斷、分開」。crisis 原本是醫學用語，指病情好轉或惡化的「轉折點」。|天平正在左右搖擺。
+her|易混淆：inherent（本來就黏在裡面的）來自 haerere「黏」，inherit（繼承）則來自 heres「繼承人」，兩者無關。|一塊膠帶牢牢黏住兩張紙。
+lat|拉丁語「攜帶」ferre 的過去分詞是 latus，所以 transfer 和 translate 是同一家族：一個把東西帶過去，一個把意思帶過去。|一座橋上，一個人提著寫滿字的箱子走到對岸。
+ple|易混淆：supply 和 apply 長得很像，但 supply 來自 plere「填滿」（從底下補滿），apply 來自 plicare「摺疊」。|一個空水杯被慢慢倒滿。

@@ -5,8 +5,10 @@ ana|pre|ana-|逆、向後|希臘語 ana|time
 circum|pre|circum-|環繞|拉丁語 circum|dir
 post|pre|post-|之後|拉丁語 post|time
 extra|pre|extra-|超出、額外|拉丁語 extra|dir
+ultra|pre|ultra-|超越|拉丁語 ultra|dir
+hypo|pre|hypo-|在下|希臘語 hypo|dir
 chron|root|chron|時間|希臘語 chronos|time
-pro|pre|pro- / pur-|向前、預先|拉丁語 pro|dir
+pro|pre|pro- / pur-|向前、預先；代替|拉丁語 pro|dir
 de|pre|de-|向下；去除、反轉|拉丁語 de|dir
 in|pre|in- / im-|向內、進入|拉丁語 in|dir
 re|pre|re-|回、再|拉丁語 re-|dir
@@ -53,7 +55,7 @@ bank|root|bank|長凳|義大利語 banca|life
 con|pre|con- / com- / cor- / col- / co-|一起；徹底|拉丁語 com|rel
 syn|pre|syn- / sym-|一起、同時|希臘語 syn|rel
 un|pre|un-|不|古英語 un-|rel
-inneg|pre|in- / im-（否定）|不、無|拉丁語 in-|rel
+inneg|pre|in- / im- / ir- / il-（否定）|不、無|拉丁語 in-|rel
 dis|pre|dis-|分開；否定|拉丁語 dis|rel
 contra|pre|contra-|相反|拉丁語 contra|rel
 anti|pre|anti- / ant-|對抗|希臘語 anti|rel
@@ -168,8 +170,58 @@ urb|root|urb|城市|拉丁語 urbs|nature
 mod|root|mod / moder|尺度、方式|拉丁語 modus|nature
 agri|root|agri|田地|拉丁語 ager|nature
 ordin|root|ordin / order|順序、排列|拉丁語 ordo|rel
+mand|root|mand / mend|命令、託付|拉丁語 mandare|life
+capit|root|capit / chieve|頭|拉丁語 caput|life
+equ|root|equ / equi|相等|拉丁語 aequus|rel
+val|root|val / valu / vail|價值、強壯|拉丁語 valere|life
+lev|root|lev / lieve / lief|輕、舉起|拉丁語 levare|move
+simil|root|simil / simul / semble|相似|拉丁語 similis|rel
+son|root|son / sound|聲音|拉丁語 sonus|sense
+pet|root|pet / pete / peat|尋求、奔向|拉丁語 petere|move
+sult|root|sult / sault / sil|跳|拉丁語 salire|move
+crit|root|crit / cri|判斷|希臘語 krinein|mind
+memor|root|memor|記憶|拉丁語 memor|mind
+nomin|root|nomin / noun|名字|拉丁語 nomen|sense
+pen|root|pen / pun|懲罰|拉丁語 poena|rel
+trib|root|trib / tribute / tribut|分配、給予|拉丁語 tribuere|rel
+corp|root|corp / corpor|身體|拉丁語 corpus|life
+domin|root|domin|主人、統治|拉丁語 dominus|life
+min|root|min|小、少|拉丁語 minor|num
+magn|root|magn / max|大|拉丁語 magnus|num
+her|root|her / here / hes / hesit|黏|拉丁語 haerere|rel
+ann|root|ann / anni / enn|年|拉丁語 annus|time
+the|root|the / thes|放置|希臘語 tithenai|move
+mir|root|mir / mire / mira|驚奇|拉丁語 mirari|sense
+prob|root|prob / prove / prov|測試、證明|拉丁語 probare|mind
+popul|root|popul / publ|人民|拉丁語 populus|life
+oper|root|oper|工作|拉丁語 opus|move
+med|root|med / medic|治療|拉丁語 mederi|life
+migr|root|migr|遷移|拉丁語 migrare|move
+hab|root|hab / habit / hibit|擁有、持有|拉丁語 habere|move
+lat|root|lat / late|攜帶（ferre 的過去分詞）|拉丁語 latus|move
+clin|root|clin / cline|傾斜|拉丁語 clinare|move
+junct|root|junct|連接|拉丁語 jungere|rel
+strict|root|strict / strain / straint|拉緊|拉丁語 stringere|move
+ple|root|ple / plete / plet / plen / ply|填滿|拉丁語 plere|num
+sert|root|sert / ert|連接、放入|拉丁語 serere|rel
+scend|root|scend / cend|爬|拉丁語 scandere|move
+sect|root|sect / seg|切|拉丁語 secare|move
+vinc|root|vinc / vince / vict|征服|拉丁語 vincere|move
+fid|root|fid|信任|拉丁語 fides|mind
+jus|root|jus / just / jur|法律、正義|拉丁語 jus|life
+leg|root|leg / legis|法律|拉丁語 lex|life
+priv|root|priv / prive|個人、私有|拉丁語 privus|life
+grav|root|grav|重|拉丁語 gravis|nature
+mut|root|mut / mute|改變|拉丁語 mutare|rel
+rat|root|rat / ration|計算、理性|拉丁語 ratio|mind
+par|root|par / pare / pair|準備|拉丁語 parare|move
+liber|root|liber|自由|拉丁語 liber|life
+fract|root|fract / frag|破|拉丁語 frangere|move
+num|root|num / numer|數|拉丁語 numerus|num
+punct|root|punct|點、刺|拉丁語 pungere|sense
+sat|root|sat / satis / satur|足夠|拉丁語 satis|num
 ure|suf|-ure / -ature / -ur|行為、結果（名詞）|拉丁語 -ura|suf
-ion|suf|-ion / -tion / -ition / -ation|行為、狀態（名詞）|拉丁語 -io|suf
+ion|suf|-ion / -tion / -ition / -ation / -uation|行為、狀態（名詞）|拉丁語 -io|suf
 ive|suf|-ive / -itive / -iv / -tive|具…性質的（形容詞）|拉丁語 -ivus|suf
 able|suf|-able / -ible / -ble / -bil / -ibil|可…的（形容詞）|拉丁語 -abilis|suf
 or|suf|-or / -ator / -itor|做…的人或物|拉丁語 -or|suf
@@ -197,7 +249,7 @@ ise|suf|-ise|使…（動詞）|古法語 -iser|suf
 ite|suf|-ite|…的（形容詞）|拉丁語 -itus|suf
 el|suf|-el|小東西（名詞）|拉丁語 -ellus|suf
 age|suf|-age|狀態、行為（名詞）|古法語 -age|suf
-ity|suf|-ity|性質、狀態（名詞）|拉丁語 -itas|suf
+ity|suf|-ity / -ty|性質、狀態（名詞）|拉丁語 -itas|suf
 ment|suf|-ment|行為、結果（名詞）|拉丁語 -mentum|suf
 ee|suf|-ee|受…者（名詞）|古法語 -é|suf
 er|suf|-er|做…的人或物（名詞）|古英語 -ere|suf
@@ -208,3 +260,7 @@ ist|suf|-ist|做…的人（名詞）|希臘語 -istes|suf
 ful|suf|-ful|充滿…的（形容詞）|古英語 -full|suf
 itude|suf|-itude|狀態（名詞）|拉丁語 -itudo|suf
 ice|suf|-ice|行為、狀態（名詞）|拉丁語 -itium|suf
+ar|suf|-ar|…的（形容詞）|拉丁語 -aris|suf
+imum|suf|-imum|最…（名詞）|拉丁語 -imus|suf
+ine|suf|-ine|名詞字尾（物質、技藝）|拉丁語 -ina|suf
+ship|suf|-ship|狀態、關係（名詞）|古英語 -scipe|suf
