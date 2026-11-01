@@ -40,3 +40,9 @@ tect|易混淆：protect 的 tect 來自 tegere「遮蓋」，contact 的 tact �
 quir|question（問題）和 quest（探索）都來自 quaerere「尋找」：提問，就是出發去尋找答案。|一個人提著燈籠在夜裡找東西。
 plic|拉丁語 plicare 是「摺疊」。complicated（複雜）是「摺在一起」；simple（簡單）原意則是「只摺一層」。|一張紙被摺了又摺，變成紙鶴。
 cura|拉丁語 cura 是「照料、擔心」。secure 字面是「免於擔心」（se 分開 + cura）；醫生 cure 病人，也是在照料他。|護士正在替病人蓋好被子。
+sta|拉丁語 stare 是「站」。exist 字面是「站出來」：真的站在你面前，才算存在；assistant 則是「站在旁邊幫忙的人」。|一個人穩穩站在台座上。
+test|拉丁語 testis 是「證人」。古羅馬打官司時兩方各自找證人到場（con + test），後來 contest 就成了「比賽、爭奪」。|法庭上兩位證人分站兩側。
+via|古羅馬三條路交會的路口叫 trivium，是人們停下來閒聊八卦的地方，所以 trivial 是「路口閒聊般的、瑣碎的」。|三條石板路在廣場交會。
+sid|assess 原本指坐在法官旁邊的助手（assessor），負責估算罰金和稅額，後來就成了「評估」。|法官席旁坐著一位拿算盤的助手。
+cis|易混淆：decide 的 cid 來自 caedere「切」，accident 的 cid 來自 cadere「落下」。拼法幾乎一樣，意思完全不同。|一把剪刀剪斷其他選項，只留下一條路。
+serva|易混淆：serve、service 來自 servire「服務」；reserve、preserve、observe 的 serve 則來自 servare「看守、保存」。|守衛站在倉庫門口看守。

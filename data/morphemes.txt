@@ -2,8 +2,11 @@ pre|pre|pre-|預先、在…之前|拉丁語 prae|time
 fore|pre|fore-|前面、預先|古英語 fore|time
 retro|pre|retro-|向後|拉丁語 retro|time
 ana|pre|ana-|逆、向後|希臘語 ana|time
+circum|pre|circum-|環繞|拉丁語 circum|dir
+post|pre|post-|之後|拉丁語 post|time
+extra|pre|extra-|超出、額外|拉丁語 extra|dir
 chron|root|chron|時間|希臘語 chronos|time
-pro|pre|pro-|向前、預先|拉丁語 pro|dir
+pro|pre|pro- / pur-|向前、預先|拉丁語 pro|dir
 de|pre|de-|向下；去除、反轉|拉丁語 de|dir
 in|pre|in- / im-|向內、進入|拉丁語 in|dir
 re|pre|re-|回、再|拉丁語 re-|dir
@@ -137,10 +140,38 @@ quir|root|quir / quire / quest / quisit|尋找、要求|拉丁語 quaerere|mind
 cura|root|cur / cure|照料、擔心|拉丁語 cura|mind
 nat|root|nat|出生|拉丁語 nasci|life
 part|root|part|部分|拉丁語 pars|nature
+sta|root|sta / stat / stance / stant / stitute / sist|站立|拉丁語 stare、sistere|move
+pos|root|pos / posit / pose / pon / pone / pound|放置|拉丁語 ponere|move
+act|root|act / ag|做、驅動|拉丁語 agere|move
+sequ|root|sequ / secu / sue|跟隨|拉丁語 sequi|move
+sum|root|sum / sume / sumpt|拿取、取用|拉丁語 sumere|move
+volv|root|volv / volve / volut|捲、滾動|拉丁語 volvere|move
+pel|root|pel / puls|推、驅使|拉丁語 pellere|move
+fus|root|fus / fuse / fund|傾倒、熔化|拉丁語 fundere|move
+flect|root|flect / flex|彎曲|拉丁語 flectere|move
+sid|root|sid / side / sess|坐|拉丁語 sedere|move
+cis|root|cis / cise / cide|切|拉丁語 caedere|move
+solv|root|solv / solve / solut / solu|鬆開、解開|拉丁語 solvere|move
+tempor|root|tempor|時間|拉丁語 tempus|time
+term|root|term / termin|界限、結束|拉丁語 terminus|time
+test|root|test|見證|拉丁語 testis|sense
+spond|root|spond / sponse / spons|承諾、回應|拉丁語 spondere|sense
+gno|root|gno / cogn / not|知道|拉丁語 noscere、希臘語 gnosis|mind
+grat|root|grat / grate / gree / grace|感謝、令人愉快|拉丁語 gratus|mind
+sci|root|sci|知道|拉丁語 scire|mind
+serv|root|serv / serve|服務、侍奉|拉丁語 servire|life
+serva|root|serv / serve|保持、看守|拉丁語 servare|life
+cult|root|cult / cultiv|耕種、培育|拉丁語 colere|life
+via|root|via / vi / vey|道路|拉丁語 via|nature
+vac|root|vac / vacu / void|空的|拉丁語 vacare|nature
+urb|root|urb|城市|拉丁語 urbs|nature
+mod|root|mod / moder|尺度、方式|拉丁語 modus|nature
+agri|root|agri|田地|拉丁語 ager|nature
+ordin|root|ordin / order|順序、排列|拉丁語 ordo|rel
 ure|suf|-ure / -ature / -ur|行為、結果（名詞）|拉丁語 -ura|suf
 ion|suf|-ion / -tion / -ition / -ation|行為、狀態（名詞）|拉丁語 -io|suf
-ive|suf|-ive / -itive|具…性質的（形容詞）|拉丁語 -ivus|suf
-able|suf|-able / -ible|可…的（形容詞）|拉丁語 -abilis|suf
+ive|suf|-ive / -itive / -iv / -tive|具…性質的（形容詞）|拉丁語 -ivus|suf
+able|suf|-able / -ible / -ble / -bil / -ibil|可…的（形容詞）|拉丁語 -abilis|suf
 or|suf|-or / -ator / -itor|做…的人或物|拉丁語 -or|suf
 ary|suf|-ary|相關事物、集合（名詞）|拉丁語 -arium|suf
 ic|suf|-ic / -tic|…的（形容詞）|希臘語 -ikos|suf
@@ -148,16 +179,16 @@ ology|suf|-ology / -logy|…學|希臘語 -logia|suf
 ize|suf|-ize|使…化（動詞）|希臘語 -izein|suf
 ous|suf|-ous / -ious|充滿…的（形容詞）|拉丁語 -osus|suf
 ent|suf|-ent / -ient / -ant|…的（形容詞）|拉丁語 -ens|suf
-ate|suf|-ate|使…、做（動詞）|拉丁語 -atus|suf
+ate|suf|-ate / -at / -uate|使…、做（動詞）|拉丁語 -atus|suf
 ism|suf|-ism|狀態、主義（名詞）|希臘語 -ismos|suf
-icle|suf|-icle|紀錄、小物（名詞）|拉丁語 -iculum|suf
+icle|suf|-icle / -cle|紀錄、小物（名詞）|拉丁語 -iculum|suf
 y|suf|-y|狀態、作品（名詞）|希臘語 -ia|suf
 ial|suf|-ial|…的（形容詞）|拉丁語 -ialis|suf
 ish|suf|-ish|做…（動詞）|古法語 -iss-|suf
 sis|suf|-sis|過程、狀態（名詞）|希臘語 -sis|suf
 ing|suf|-ing|動作、結果（名詞）|古英語 -ung|suf
-al|suf|-al|…的（形容詞）|拉丁語 -alis|suf
-ence|suf|-ence / -ance / -ience|行為、狀態（名詞）|拉丁語 -entia|suf
+al|suf|-al / -ual|…的（形容詞）|拉丁語 -alis|suf
+ence|suf|-ence / -ance / -ience / -ency / -iency|行為、狀態（名詞）|拉丁語 -entia|suf
 ory|suf|-ory / -itory|場所（名詞）；…的|拉丁語 -orium|suf
 ian|suf|-an / -ian / -anean|…的、…的人|拉丁語 -anus|suf
 id|suf|-id|…的（形容詞）|拉丁語 -idus|suf
@@ -169,3 +200,11 @@ age|suf|-age|狀態、行為（名詞）|古法語 -age|suf
 ity|suf|-ity|性質、狀態（名詞）|拉丁語 -itas|suf
 ment|suf|-ment|行為、結果（名詞）|拉丁語 -mentum|suf
 ee|suf|-ee|受…者（名詞）|古法語 -é|suf
+er|suf|-er|做…的人或物（名詞）|古英語 -ere|suf
+ule|suf|-ule|小東西（名詞）|拉丁語 -ulus|suf
+ify|suf|-ify / -fy|使…（動詞）|拉丁語 -ificare|suf
+ific|suf|-ific|產生…的（形容詞）|拉丁語 -ificus|suf
+ist|suf|-ist|做…的人（名詞）|希臘語 -istes|suf
+ful|suf|-ful|充滿…的（形容詞）|古英語 -full|suf
+itude|suf|-itude|狀態（名詞）|拉丁語 -itudo|suf
+ice|suf|-ice|行為、狀態（名詞）|拉丁語 -itium|suf

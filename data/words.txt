@@ -538,3 +538,196 @@ replicate|re plic ate|複製|再 + 摺疊 + 使|Other scientists could not repli
 inscription|in scrib=script ion|銘文|向內 + 寫 + 名詞：刻進去的字|The ring has an inscription inside.
 mediation|medi ion=ation|調解|中間 + 名詞|The dispute was settled through mediation.
 repression|re press ion|壓抑；鎮壓|回 + 壓 + 名詞|Political repression increased after the election.
+station|sta=stat ion|車站；站|站立 + 名詞：停下來站著的地方|The train station is a five-minute walk away.
+stable|sta able=ble|穩定的|站立 + 可…的：站得住|Prices have been stable this year.
+stability|sta able=bil ity|穩定性|站立 + 可…的 + 名詞|The country needs political stability.
+constant|con sta=stant|持續的；不變的|徹底 + 站立 + 的：一直站著不動|The baby needs constant attention.
+distance|dis=di sta=stance|距離|分開 + 站立：站得遠遠的|What's the distance from here to the airport?
+instance|in sta=stance|例子|向內 + 站立：站在眼前的事|For instance, you could take the MRT.
+substance|sub sta=stance|物質；實質|在下 + 站立：撐在底下的東西|This substance is dangerous to touch.
+circumstance|circum sta=stance|情況|環繞 + 站立：圍繞在四周的事|Under no circumstances should you open the door.
+institute|in sta=stitute|機構；學院|向內 + 使站立：建立起來的組織|She works at a research institute.
+institution|in sta=stitut ion|機構；制度|向內 + 使站立 + 名詞|Banks are financial institutions.
+constitute|con sta=stitute|構成|一起 + 使站立|Women constitute half of the workforce.
+constitution|con sta=stitut ion|憲法；體質|一起 + 使站立 + 名詞：立國的根本|The constitution protects free speech.
+substitute|sub sta=stitute|代替；替代品|在下 + 使站立：站到別人的位置|You can substitute honey for sugar.
+insist|in sta=sist|堅持|向內 + 站立：站穩不讓|He insisted on paying for dinner.
+assist|ad=as sta=sist|協助|朝向 + 站立：站在旁邊幫忙|Our staff will assist you.
+assistant|ad=as sta=sist ent=ant|助理|朝向 + 站立 + 的人|She works as a teaching assistant.
+resist|re sta=sist|抵抗|回 + 站立：站著頂回去|I couldn't resist the chocolate cake.
+consist|con sta=sist|由…組成|一起 + 站立|The team consists of five engineers.
+persist|per sta=sist|持續；堅持|徹底 + 站立：一直站到最後|If the pain persists, see a doctor.
+exist|ex sta=ist|存在|向外 + 站立：站出來|Do ghosts really exist?
+obstacle|ob sta icle=cle|障礙|對著 + 站立 + 物：擋在面前的東西|Fear is the biggest obstacle to success.
+position|pos ion=ition|位置；職位|放置 + 名詞：被放的地方|What position do you play?
+positive|pos ive=itive|正面的；積極的|放置 + 性質：明確擺出來的|Try to stay positive.
+component|con=com pos=pon ent|零件；成分|一起 + 放置 + 的：放在一起的部分|The factory makes car components.
+deposit|de pos=posit|存款；訂金|向下 + 放置：放下來存著|You need to pay a deposit of $500.
+opponent|ob=op pos=pon ent|對手|對著 + 放置 + 的人：擺在對面的人|She beat her opponent in two sets.
+expose|ex pos=pose|暴露；揭露|向外 + 放置：擺到外面|Don't expose your skin to the sun for too long.
+impose|in=im pos=pose|強加；徵收|向內 + 放置：硬放上去|The government imposed a new tax.
+propose|pro pos=pose|提議；求婚|向前 + 放置：擺到大家面前|I propose that we meet on Monday.
+proposal|pro pos al|提案|向前 + 放置 + 名詞|The board rejected the proposal.
+compose|con=com pos=pose|作曲；組成|一起 + 放置|Mozart composed his first symphony at eight.
+composition|con=com pos ion=ition|作品；組成|一起 + 放置 + 名詞|The composition of the team has changed.
+dispose|dis pos=pose|處理掉|分開 + 放置：放到別處|Please dispose of your trash properly.
+suppose|sub=sup pos=pose|假設；認為|在下 + 放置：先墊在底下的想法|I suppose you're right.
+oppose|ob=op pos=pose|反對|對著 + 放置：擺在對立面|Many residents oppose the new airport.
+opposite|ob=op pos ite|相反的；對面|對著 + 放置 + 的|The bank is opposite the post office.
+exposure|ex pos ure|曝露；曝光|向外 + 放置 + 結果|Too much sun exposure can damage your skin.
+postpone|post pos=pone|延期|之後 + 放置：放到後面|The match was postponed because of rain.
+compound|con=com pos=pound|化合物；複合的|一起 + 放置|Water is a compound of hydrogen and oxygen.
+action|act ion|行動|做 + 名詞|It's time to take action.
+active|act ive|活躍的；主動的|做 + 性質|My grandmother is still very active.
+activity|act ive=iv ity|活動|做 + 性質 + 名詞|The hotel offers many activities for children.
+actor|act or|演員|做 + 者：表演動作的人|He is a famous Korean actor.
+actual|act al=ual|實際的|做 + 的：真正做出來的|The actual cost was higher than expected.
+exact|ex act|確切的|向外 + 做：完整做出來|What is the exact time?
+react|re act|反應|回 + 做|How did she react to the news?
+reaction|re act ion|反應|回 + 做 + 名詞|His reaction surprised everyone.
+interaction|inter act ion|互動|之間 + 做 + 名詞|The app encourages interaction between users.
+transaction|trans act ion|交易|跨越 + 做 + 名詞|Each transaction costs one dollar.
+agent|act=ag ent|代理人；仲介|做 + 的人：替人辦事的人|Our travel agent booked the hotel.
+agency|act=ag ence=ency|機構；代理公司|做 + 名詞|She works for an advertising agency.
+sequence|sequ ence|順序；連續|跟隨 + 名詞|Put the pictures in the correct sequence.
+consequence|con sequ ence|後果|一起 + 跟隨 + 名詞：隨之而來的事|Every choice has consequences.
+subsequent|sub sequ ent|隨後的|在下 + 跟隨 + 的：緊接在後|Subsequent tests showed no problems.
+consecutive|con sequ=secu ive=tive|連續的|一起 + 跟隨 + 性質|It rained for five consecutive days.
+pursue|pro=pur sequ=sue|追求|向前 + 跟隨|She wants to pursue a career in law.
+consume|con sum=sume|消耗；消費|徹底 + 拿：全部拿光|Older cars consume more fuel.
+consumer|con sum=sum er|消費者|徹底 + 拿 + 的人|Consumers are spending less this year.
+consumption|con sum=sumpt ion|消耗量|徹底 + 拿 + 名詞|Electricity consumption rises in summer.
+assume|ad=as sum=sume|假定；承擔|朝向 + 拿：先拿來當前提|Don't assume everyone agrees with you.
+assumption|ad=as sum=sumpt ion|假設|朝向 + 拿 + 名詞|That's a reasonable assumption.
+resume|re sum=sume|恢復；繼續|再 + 拿：重新拿起來|The meeting will resume after lunch.
+presume|pre sum=sume|推定|預先 + 拿：先認定|I presume you've met before.
+involve|in volv=volve|涉及；牽涉|向內 + 捲：捲進去|The job involves a lot of travel.
+involvement|in volv=volve ment|參與|向內 + 捲 + 名詞|Parental involvement helps children learn.
+evolve|ex=e volv=volve|演化；逐步發展|向外 + 捲：慢慢展開|The company evolved from a small shop.
+evolution|ex=e volv=volut ion|演化|向外 + 捲 + 名詞|Darwin's theory of evolution changed science.
+revolve|re volv=volve|旋轉；圍繞|回 + 捲：一圈圈轉回來|The earth revolves around the sun.
+revolution|re volv=volut ion|革命；旋轉|回 + 捲 + 名詞：整個翻轉過來|The internet started a revolution in communication.
+compel|con=com pel|強迫|一起 + 推|The bad weather compelled us to turn back.
+expel|ex pel|開除；驅逐|向外 + 推|He was expelled from school.
+propel|pro pel|推動|向前 + 推|The boat is propelled by a small engine.
+repel|re pel|驅除；排斥|回 + 推|This spray repels mosquitoes.
+impulse|in=im pel=pulse|衝動|向內 + 推|I bought the shoes on impulse.
+compulsory|con=com pel=puls ory|強制的|一起 + 推 + 的|Education is compulsory until age 15.
+confuse|con fus=fuse|使困惑|一起 + 倒：全倒在一起|The instructions confused me.
+confusion|con fus ion|困惑；混亂|一起 + 倒 + 名詞|There was some confusion about the time.
+refuse|re fus=fuse|拒絕|回 + 倒：倒回去不收|She refused to answer.
+refund|re fus=fund|退款|回 + 倒：把錢倒回去|I'd like a refund, please.
+transfusion|trans fus ion|輸血|跨越 + 倒 + 名詞|He needed a blood transfusion.
+fusion|fus ion|融合|熔化 + 名詞|The restaurant serves Asian fusion food.
+reflect|re flect|反射；反映|回 + 彎：光彎回來|The lake reflects the mountains.
+reflection|re flect ion|倒影；反省|回 + 彎 + 名詞|She looked at her reflection in the window.
+flexible|flect=flex able=ible|有彈性的|彎曲 + 可…的|I have flexible working hours.
+flexibility|flect=flex able=ibil ity|彈性|彎曲 + 可…的 + 名詞|The job offers a lot of flexibility.
+deflect|de flect|使轉向|離開 + 彎|He deflected the question with a joke.
+temporary|tempor ary|暫時的|時間 + 的：只在一段時間內|This is only a temporary solution.
+contemporary|con tempor ary|當代的|一起 + 時間 + 的：同一個時代|The museum shows contemporary art.
+terminal|term=termin al|航廈；末期的|界限 + 的：終點|The flight leaves from Terminal 2.
+determine|de term=termine|決定；查明|徹底 + 界限：劃定範圍|Your attitude determines your success.
+determination|de term=termin ion=ation|決心|徹底 + 界限 + 名詞|She showed great determination.
+terminate|term=termin ate|終止|結束 + 使|The contract was terminated early.
+testify|test ify|作證|見證 + 使|She agreed to testify in court.
+protest|pro test|抗議|向前 + 見證：公開站出來說|Thousands of people protested in the streets.
+contest|con test|比賽；爭奪|一起 + 見證：雙方各找證人|She won a singing contest.
+obvious|ob via=vi ous|明顯的|對著 + 路 + 充滿：就擋在路上|The answer is obvious.
+previous|pre via=vi ous|先前的|預先 + 路 + 的：走在前面的|I met her at my previous job.
+trivial|tri via=vi al|瑣碎的|三 + 路 + 的：三岔路口的閒聊|Don't worry about trivial details.
+convey|con via=vey|傳達；運送|一起 + 路：一起上路|Words can't convey how grateful I am.
+deviate|de via=vi ate|偏離|離開 + 路 + 使|The plane deviated from its course.
+vacant|vac ent=ant|空著的|空 + 的|Is this seat vacant?
+vacation|vac ion=ation|假期|空 + 名詞：空出來的時間|We're going on vacation next week.
+evacuate|ex=e vac=vacu ate|撤離|向外 + 空 + 使：把地方清空|Residents were told to evacuate.
+avoid|ex=a vac=void|避免|向外 + 空：把自己清出去|Try to avoid sugary drinks.
+urban|urb ian=an|都市的|城市 + 的|More people live in urban areas.
+suburb|sub urb|郊區|在下 + 城市：城市底下的地區|They moved to a quiet suburb.
+suburban|sub urb ian=an|郊區的|在下 + 城市 + 的|They live in a suburban house with a garden.
+recognize|re gno=cogn ize|認出；承認|再 + 知道：再次認得|I didn't recognize you with short hair.
+recognition|re gno=cogn ion=ition|認可；辨識|再 + 知道 + 名詞|Her work finally received recognition.
+cognitive|gno=cogn ive=itive|認知的|知道 + 性質|Sleep improves cognitive function.
+diagnosis|dia gno sis|診斷|穿過 + 知道 + 過程：看穿病因|The doctor made a quick diagnosis.
+diagnose|dia gno=gnose|診斷|穿過 + 知道|She was diagnosed with diabetes.
+prognosis|pro gno sis|預後；預測|預先 + 知道 + 過程|The prognosis is good.
+notion|gno=not ion|觀念|知道 + 名詞|I have no notion of what he means.
+notice|gno=not ice|注意到；通知|知道 + 名詞|Did you notice anything strange?
+notify|gno=not ify|通知|知道 + 使|We will notify you by email.
+notable|gno=not able|值得注意的|知道 + 可…的|The city is notable for its night markets.
+model|mod el|模型；模範|尺度 + 小：小型的樣本|He builds model airplanes.
+moderate|mod=moder ate|適度的|尺度 + 的：有分寸|Moderate exercise is good for you.
+accommodate|ad=ac con=com mod ate|容納；提供住宿|朝向 + 一起 + 尺度 + 使：調整得剛好|The hotel can accommodate 300 guests.
+accommodation|ad=ac con=com mod ion=ation|住宿|朝向 + 一起 + 尺度 + 名詞|The price includes accommodation.
+modify|mod ify|修改|尺度 + 使：調整|You can modify the settings later.
+module|mod ule|模組；單元|尺度 + 小：一個小單位|The course has six modules.
+commodity|con=com mod ity|商品；原物料|一起 + 尺度 + 名詞：合用的東西|Oil is a valuable commodity.
+ordinary|ordin ary|普通的|順序 + 的：照常規排的|It was just an ordinary day.
+extraordinary|extra ordin ary|非凡的|超出 + 順序 + 的：超出常規|She has an extraordinary voice.
+coordinate|con=co ordin ate|協調|一起 + 順序 + 使|She coordinates the volunteer program.
+coordinator|con=co ordin ate=at or|協調者|一起 + 順序 + 使 + 者|He is the project coordinator.
+disorder|dis ordin=order|失調；混亂|分開 + 順序：亂了套|She suffers from a sleep disorder.
+subordinate|sub ordin ate|下屬；次要的|在下 + 順序 + 的：排在下面|He treats his subordinates fairly.
+president|pre sid ent|總統；董事長|在前 + 坐 + 的人：坐在最前面的人|The president gave a speech.
+resident|re sid ent|居民|回 + 坐 + 的人：坐定下來的人|Local residents complained about the noise.
+residence|re sid ence|住所|回 + 坐 + 名詞|The official residence is open to visitors on weekends.
+reside|re sid=side|居住|回 + 坐：坐定|He resides in Kaohsiung.
+session|sid=sess ion|一段時間；會議|坐 + 名詞：坐下來的一段時間|The training session lasts two hours.
+obsession|ob sid=sess ion|著迷；執念|對著 + 坐 + 名詞：一直盤據在心上|His obsession with work is unhealthy.
+assess|ad=as sid=sess|評估|朝向 + 坐：坐在旁邊審理|We need to assess the damage.
+assessment|ad=as sid=sess ment|評估|朝向 + 坐 + 名詞|The teacher's assessment was fair.
+subsidy|sub sid y|補助金|在下 + 坐 + 名詞：坐在後方的支援|Farmers receive government subsidies.
+decide|de cis=cide|決定|去除 + 切：切掉其他選項|I can't decide what to wear.
+decision|de cis ion|決定|去除 + 切 + 名詞|It was a difficult decision.
+decisive|de cis ive|決定性的；果斷的|去除 + 切 + 性質|We need a decisive leader.
+precise|pre cis=cise|精確的|預先 + 切：事先切齊|Can you give me the precise address?
+precision|pre cis ion|精準|預先 + 切 + 名詞|The machine cuts with great precision.
+concise|con cis=cise|簡潔的|徹底 + 切：切得乾淨|Keep your answer concise.
+grateful|grat=grate ful|感激的|感謝 + 充滿|I'm grateful for your help.
+gratitude|grat itude|感激|感謝 + 狀態|She expressed her gratitude to the nurses.
+agree|ad=a grat=gree|同意|朝向 + 令人愉快：合人心意|I agree with you.
+agreement|ad=a grat=gree ment|協議；同意|朝向 + 令人愉快 + 名詞|The two companies signed an agreement.
+disagree|dis ad=a grat=gree|不同意|否定 + 朝向 + 令人愉快|I disagree with that decision.
+disgrace|dis grat=grace|恥辱|否定 + 恩寵：失去恩寵|His behavior was a disgrace.
+congratulate|con grat=gratul ate|祝賀|一起 + 感到愉快 + 使|Let me congratulate you on your promotion.
+respond|re spond|回應|回 + 承諾：回一個承諾|Please respond within 24 hours.
+response|re spond=sponse|回應|回 + 承諾|We received over 500 responses.
+responsible|re spond=spons able=ible|負責的|回 + 承諾 + 可…的：能給出承諾的|Who is responsible for this project?
+responsibility|re spond=spons able=ibil ity|責任|回 + 承諾 + 可…的 + 名詞|Parents have a responsibility to protect their children.
+responsive|re spond=spons ive|反應靈敏的|回 + 承諾 + 性質|The website is fast and responsive.
+correspond|con=cor re spond|通信；相符|一起 + 回 + 承諾|His story doesn't correspond with the facts.
+correspondence|con=cor re spond ence|通信；書信|一起 + 回 + 承諾 + 名詞|Please keep all correspondence with the bank.
+sponsor|spond=spons or|贊助者；贊助|承諾 + 者：替人擔保的人|A local bank sponsors the festival.
+service|serv ice|服務|服務 + 名詞|The service at this restaurant is excellent.
+servant|serv ent=ant|僕人|服務 + 的人|The king had many servants.
+deserve|de serv=serve|應得|徹底 + 服務：好好服務而應得|You deserve a break.
+reserve|re serva=serve|預訂；保留|回 + 保持：留著|I'd like to reserve a table for two.
+reservation|re serva=serv ion=ation|預訂|回 + 保持 + 名詞|Do you have a reservation?
+preserve|pre serva=serve|保存|預先 + 保持|Salt is used to preserve fish.
+conserve|con serva=serve|節約；保護|徹底 + 保持|Please conserve water.
+conservation|con serva=serv ion=ation|保育|徹底 + 保持 + 名詞|The group works on wildlife conservation.
+observe|ob serva=serve|觀察；遵守|對著 + 看守|Scientists observed the birds for months.
+observation|ob serva=serv ion=ation|觀察|對著 + 看守 + 名詞|The patient is under observation.
+solution|solv=solut ion|解決辦法；溶液|鬆開 + 名詞：解開的方法|We need to find a solution quickly.
+resolve|re solv=solve|解決；下定決心|再 + 鬆開|The issue was resolved quickly.
+resolution|re solv=solut ion|決心；解析度|再 + 鬆開 + 名詞|My New Year's resolution is to exercise more.
+dissolve|dis solv=solve|溶解；解散|分開 + 鬆開|Sugar dissolves in water.
+absolute|ab solv=solute|絕對的|離開 + 鬆開：完全不受束縛|I have absolute trust in her.
+soluble|solv=solu able=ble|可溶的|鬆開 + 可…的|This vitamin is soluble in water.
+culture|cult ure|文化|耕種 + 結果：培育出來的|I love learning about Japanese culture.
+cultural|cult ure=ur al|文化的|耕種 + 結果 + 的|Taipei has many cultural events.
+agriculture|agri cult ure|農業|田地 + 耕種 + 結果|Agriculture is important to the local economy.
+cultivate|cult=cultiv ate|耕種；培養|耕種 + 使|She cultivates good relationships with clients.
+multicultural|multi cult ure=ur al|多元文化的|許多 + 耕種 + 結果 + 的|Toronto is a multicultural city.
+science|sci ence|科學|知道 + 名詞|She teaches science at a high school.
+scientist|sci ent ist|科學家|知道 + 的 + 人|Scientists discovered a new species.
+scientific|sci ent ific|科學的|知道 + 的 + 產生…的|We need scientific evidence.
+conscious|con sci ous|有意識的|徹底 + 知道 + 的|He was conscious during the operation.
+unconscious|un con sci ous|失去意識的|不 + 徹底 + 知道 + 的|He was unconscious for two hours.
+conscience|con sci ence|良心|一起 + 知道 + 名詞：心裡清楚|I have a clear conscience.
+feature|fact=feat ure|特色；功能|做 + 結果：做出來的樣子|This phone has a great camera feature.
+defeat|de fact=feat|擊敗|反轉 + 做：毀掉別人做的|Our team defeated the champions.
+facility|fact=fac ile=il ity|設施|做 + 可…的 + 名詞：方便做事的東西|The school has excellent sports facilities.
+efficiency|ex=ef fact=fic ence=iency|效率|向外 + 做 + 名詞|We need to improve efficiency.
+sufficient|sub=suf fact=fic ent=ient|足夠的|在下 + 做 + 的：從底下補足|We have sufficient food for a week.
+specific|spect=spec ific|具體的|看 + 產生…的：讓人看清楚|Can you be more specific?
