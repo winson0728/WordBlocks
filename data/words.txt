@@ -2291,3 +2291,146 @@ represent|re pre ess=sent|代表|再 + 在前 + 存在：再呈現一次|She rep
 representative|re pre ess=sent ate=at ive|代表|再 + 在前 + 存在 + 使 + 性質|Speak to a customer service representative.
 representation|re pre ess=sent ion=ation|代表；描繪|再 + 在前 + 存在 + 名詞|Women need more representation in politics.
 payment|pac=pay ment|付款|平息 + 名詞|Payment is due at the end of the month.
+certain|cert ain|確定的；某個|確定 + 的|I'm certain that I locked the door.
+uncertain|un cert ain|不確定的|不 + 確定 + 的|The future is uncertain.
+certainty|cert ain ity=ty|確定性|確定 + 的 + 名詞|There is no certainty that it will work.
+military|milit ary|軍事的；軍隊|士兵 + 的|He served in the military for two years.
+language|lingu=langu age|語言|舌頭 + 名詞|She speaks three languages.
+central|centr al|中央的|中心 + 的|The hotel is in central Taipei.
+concentrate|con centr ate|專心；集中|一起 + 中心 + 使|I can't concentrate with all this noise.
+concentration|con centr ion=ation|專注；濃度|一起 + 中心 + 名詞|The job requires a lot of concentration.
+eccentric|ex=ec centr ic|古怪的|向外 + 中心 + 的：偏離中心|He is a bit eccentric.
+election|ex=e lect ion|選舉|向外 + 選 + 名詞|The election will be held in January.
+electoral|ex=e lect or al|選舉的|向外 + 選 + 者 + 的|The electoral system is complex.
+unite|uni=un ite|聯合|單一 + 使|The two groups united against the plan.
+minute|min ute|分鐘；微小的|小 + 的|Wait a minute.
+ability|hab=abil ity|能力|持有 + 名詞：能拿得住|She has the ability to stay calm.
+inability|inneg=in hab=abil ity|無能力|不 + 持有 + 名詞|His inability to listen annoys me.
+disability|dis hab=abil ity|身心障礙|否定 + 持有 + 名詞|The building is accessible to people with disabilities.
+augment|aug ment|增加|增加 + 名詞|He works nights to augment his income.
+auction|aug=auct ion|拍賣|增加 + 名詞：價格往上加|The painting was sold at auction.
+author|aug=auth or|作者|增加 + 者：使事物增長的人|She is the author of three novels.
+authority|aug=auth or ity|權威；當局|增加 + 者 + 名詞|The local authorities closed the road.
+authorize|aug=auth or ize|授權|增加 + 者 + 使|Only managers can authorize refunds.
+authorization|aug=auth or ize=iz ion=ation|授權|增加 + 者 + 使 + 名詞|You need written authorization.
+method|meta=met hod|方法|之後 + 路：跟著走的路|This is a simple method for learning words.
+period|peri hod=od|時期；句號|周圍 + 路：繞一圈的時間|The museum is closed for a short period.
+domestic|dom=domest ic|國內的；家庭的|家 + 的|Domestic flights leave from Terminal 1.
+measure|mens=meas ure|測量；措施|測量 + 結果|Measure the room before you buy a sofa.
+measurement|mens=meas ure ment|測量；尺寸|測量 + 結果 + 名詞|Take accurate measurements.
+argument|argu ment|爭論；論點|闡明 + 名詞|They had an argument about money.
+suicide|sui cis=cide|自殺|自己 + 殺|Suicide prevention is an important issue.
+homicide|homi cis=cide|殺人；兇殺|人 + 殺|Police are investigating the homicide.
+excuse|ex caus=cuse|藉口；原諒|向外 + 訴訟：免除責任|That's no excuse for being late.
+accuse|ad=ac caus=cuse|指控|朝向 + 訴訟|He was accused of lying.
+accusation|ad=ac caus=cus ion=ation|指控|朝向 + 訴訟 + 名詞|She denied the accusation.
+pregnant|pre nat=gnant|懷孕的|預先 + 出生 + 的|She is six months pregnant.
+technique|techn ique|技巧|技術 + 名詞|He has a good technique for remembering names.
+unique|uni=un ique|獨特的|單一 + 的|Every fingerprint is unique.
+physique|phys ique|體格|身體 + 名詞|He has a strong physique.
+contrast|contra sta=st|對比|相反 + 站立|There is a sharp contrast between rich and poor.
+bonus|bene=bon nus=us|獎金|好 + 名詞|Employees get a bonus at the end of the year.
+formula|form ule=ula|公式；配方|形狀 + 小|What's the formula for the area of a circle?
+lieutenant|loc=lieu tain=ten ent=ant|中尉；副手|地方 + 握住 + 的人：代守崗位的人|The lieutenant gave the order.
+summary|summ ary|摘要|總和 + 的|Write a short summary of the article.
+summarize|summ ary=ar ize|總結|總和 + 的 + 使|Can you summarize the main points?
+domain|dom ain|領域；網域|家 + 名詞：主人的領地|Health care is a public domain.
+treat|tract=treat|對待；治療；請客|拉|How do you treat your staff?
+treatment|tract=treat ment|治療；對待|拉 + 名詞|The treatment worked well.
+treaty|tract=treat y|條約|拉 + 名詞：談判出來的|The two countries signed a peace treaty.
+retreat|re tract=treat|撤退；靜修|回 + 拉|The army was forced to retreat.
+dynamic|dyn=dynam ic|有活力的；動態的|力量 + 的|She is a dynamic leader.
+dynasty|dyn=dynast y|朝代|力量 + 名詞|The Tang dynasty lasted almost 300 years.
+affair|ad=af fact=fair|事務；事件|朝向 + 做|The minister of foreign affairs visited Japan.
+crucial|cruc ial|關鍵的|十字 + 的：在十字路口的|This is a crucial decision.
+peaceful|pac=peace ful|和平的；寧靜的|和平 + 充滿|It's a peaceful village.
+radiation|radi ion=ation|輻射|光線 + 名詞|Too much radiation is harmful.
+radiate|radi ate|散發|光線 + 使|She radiates confidence.
+radioactive|radi=radio act ive|放射性的|光線 + 做 + 性質|The area is still radioactive.
+spectrum|spect=spectr um|光譜；範圍|看 + 名詞|The survey covers a wide spectrum of opinions.
+emphasis|en=em phan=pha sis|強調|進入 + 顯現 + 過程|The school puts emphasis on reading.
+emphasize|en=em phan=phas ize|強調|進入 + 顯現 + 使|I want to emphasize this point.
+distinguish|dis=di stinct=stingu ish|區別|分開 + 標記 + 做|Can you distinguish between the twins?
+distinct|dis=di stinct|明顯不同的|分開 + 標記|There are two distinct groups.
+distinction|dis=di stinct ion|區別；卓越|分開 + 標記 + 名詞|She graduated with distinction.
+distinctive|dis=di stinct ive|獨特的|分開 + 標記 + 性質|The bird has a distinctive red head.
+extinct|ex stinct=tinct|滅絕的|向外 + 刺：熄滅|Dinosaurs are extinct.
+extinction|ex stinct=tinct ion|滅絕|向外 + 刺 + 名詞|Many species face extinction.
+instinct|in stinct|本能|向內 + 刺：從內部推動|Birds build nests by instinct.
+architect|arch=archi techn=tect|建築師|統治 + 工藝：總工匠|The architect designed a new library.
+architecture|arch=archi techn=tect ure|建築|統治 + 工藝 + 結果|Taipei has a mix of old and new architecture.
+rebel|re bell=bel|反叛者；造反|再 + 戰爭|The rebels took control of the city.
+rebellion|re bell ion|叛亂|再 + 戰爭 + 名詞|The rebellion was crushed.
+momentum|mot=mo ment um|動力；氣勢|移動 + 名詞|The campaign is gaining momentum.
+ambulance|ambul ence=ance|救護車|行走 + 名詞：流動醫院|Call an ambulance!
+medieval|medi ev al|中世紀的|中間 + 時代 + 的|The town has a medieval castle.
+sentiment|sens=sent ment=iment|情感；觀點|感覺 + 名詞|Public sentiment is against the plan.
+sentimental|sens=sent ment=iment al|多愁善感的|感覺 + 名詞 + 的|The ring has sentimental value.
+dignity|dign ity|尊嚴|值得 + 名詞|Everyone deserves to be treated with dignity.
+ideology|ide=ideo ology=logy|意識形態|觀念 + 學問|The two parties have different ideologies.
+ideal|ide al|理想的|觀念 + 的|This is the ideal place for a picnic.
+autism|auto=aut ism|自閉症|自己 + 狀態|Early support helps children with autism.
+elegant|ex=e lect=leg ent=ant|優雅的|向外 + 選 + 的：精挑細選的|She wore an elegant dress.
+aggregate|ad=ag greg ate|總計的|朝向 + 群 + 使|The team won with an aggregate score of 5-3.
+congregation|con greg ion=ation|會眾|一起 + 群 + 名詞|The congregation stood to sing.
+segregate|se greg ate|隔離|分開 + 群 + 使|The old law segregated people by race.
+segregation|se greg ion=ation|隔離|分開 + 群 + 名詞|The movement fought against segregation.
+gregarious|greg ary=ari ous|愛交際的|群 + 的 + 充滿|She is outgoing and gregarious.
+illusion|in=il lud=lus ion|錯覺；幻想|向內 + 玩 + 名詞：被戲弄|The mirror creates the illusion of space.
+allude|ad=al lud=lude|暗指|朝向 + 玩|He alluded to his past mistakes.
+prelude|pre lud=lude|前奏|預先 + 玩|The talks were a prelude to a deal.
+delusion|de lud=lus ion|妄想|離開 + 玩 + 名詞|He is under the delusion that he is famous.
+elude|ex=e lud=lude|躲避；理解不了|向外 + 玩：溜走|The meaning of the poem eludes me.
+terrain|terr ain|地形|土地 + 名詞|The bike is built for rough terrain.
+anatomy|ana tom y|解剖學|向上 + 切 + 名詞|Medical students study human anatomy.
+atom|an=a tom|原子|沒有 + 切：切不開|Water is made of hydrogen and oxygen atoms.
+atomic|an=a tom ic|原子的|沒有 + 切 + 的|The atomic bomb was first used in 1945.
+altitude|alt itude|海拔；高度|高 + 狀態|The plane is flying at a high altitude.
+bibliography|bibl=biblio graph y|參考書目|書 + 寫 + 名詞|List your sources in the bibliography.
+receipt|re cap=ceipt|收據|回 + 拿|Please keep your receipt.
+aerial|aer ial|空中的|空氣 + 的|The aerial view of the city is amazing.
+ambition|ambi=amb it ion|抱負；野心|周圍 + 走 + 名詞：四處拉票|Her ambition is to become a pilot.
+ambitious|ambi=amb it ous=ious|有抱負的|周圍 + 走 + 充滿|It's an ambitious plan.
+ambivalent|ambi val ent|矛盾的；舉棋不定的|兩邊 + 強壯 + 的|She is ambivalent about moving abroad.
+refuge|re fug=fuge|避難所|回 + 逃|They found refuge in a church.
+refugee|re fug ee|難民|回 + 逃 + 受…者|Thousands of refugees crossed the border.
+fugitive|fug ive=itive|逃犯|逃 + 性質|Police are searching for the fugitive.
+verbal|verb al|口頭的|字、話 + 的|We had a verbal agreement.
+proverb|pro verb|諺語|向前 + 話：公開流傳的話|"Practice makes perfect" is a proverb.
+adverb|ad verb|副詞|朝向 + 字：加在動詞旁的字|"Quickly" is an adverb.
+monument|mon=monu ment|紀念碑|提醒 + 名詞|The monument honors those who died in the war.
+voyage|via=voy age|航程|道路 + 名詞|The ship's voyage took three weeks.
+proximity|proxim ity|鄰近|最近 + 名詞|The hotel's proximity to the beach is a plus.
+approximate|ad=ap proxim ate|大約的|朝向 + 最近 + 使|The approximate cost is $500.
+corridor|cur=corrid or|走廊|跑 + 物：跑過去的通道|His office is at the end of the corridor.
+renaissance|re nat=naiss ence=ance|復興；文藝復興|再 + 出生 + 名詞|The city is enjoying a cultural renaissance.
+calculate|calc=calcul ate|計算|小石子 + 使|Calculate the total cost.
+calculation|calc=calcul ion=ation|計算|小石子 + 名詞|My calculations show we will finish on time.
+calculator|calc=calcul ate=at or|計算機|小石子 + 使 + 物|You can use a calculator in the exam.
+abundance|ab und ence=ance|豐富|離開 + 波浪 + 名詞：滿溢出來|The region has an abundance of fruit.
+abundant|ab und ent=ant|豐富的|離開 + 波浪 + 的|Fish are abundant in the lake.
+redundant|re=red und ent=ant|多餘的；被裁員的|回 + 波浪 + 的：溢回來|Fifty workers were made redundant.
+antique|ante=ant ique|古董|之前 + 的|She collects antique furniture.
+discourse|dis cur=course|論述|分開 + 跑：話題來回|The book is a discourse on modern art.
+critique|crit ique|評論|判斷 + 名詞|She wrote a critique of the new policy.
+decay|de cid=cay|腐爛；衰退|向下 + 落下|Sugar causes tooth decay.
+endure|in=en dur=dure|忍受；持續|使 + 持久|She endured years of pain.
+endurance|in=en dur ence=ance|耐力|使 + 持久 + 名詞|Marathon runners need great endurance.
+durable|dur able|耐用的|持久 + 可…的|These shoes are very durable.
+duration|dur ion=ation|持續時間|持久 + 名詞|The duration of the flight is 12 hours.
+persuade|per suad=suade|說服|徹底 + 勸說|She persuaded me to come.
+persuasion|per suad=suas ion|說服|徹底 + 勸說 + 名詞|With a little persuasion, he agreed.
+persuasive|per suad=suas ive|有說服力的|徹底 + 勸說 + 性質|He gave a persuasive speech.
+dissuade|dis suad=suade|勸阻|分開 + 勸說|We tried to dissuade him from quitting.
+decree|de cern=cree|法令|徹底 + 分辨|The king issued a decree.
+confront|con front|面對；對抗|一起 + 前額：額頭相對|We must confront the problem.
+confrontation|con front ion=ation|對抗|一起 + 前額 + 名詞|They wanted to avoid a confrontation.
+metabolism|meta bol ism|新陳代謝|之後 + 丟 + 狀態：變化|Exercise speeds up your metabolism.
+exempt|ex empt|豁免的|向外 + 拿：拿出來|Food is exempt from the tax.
+exemption|ex empt ion|豁免|向外 + 拿 + 名詞|Students get an exemption from the fee.
+redemption|re=red empt ion|贖回；救贖|回 + 買 + 名詞|The film is a story of redemption.
+lunar|lun ar|月亮的|月亮 + 的|The Lunar New Year is the biggest holiday in Taiwan.
+stellar|stell ar|星星的；傑出的|星星 + 的|She gave a stellar performance.
+constellation|con stell ion=ation|星座|一起 + 星星 + 名詞|Orion is a famous constellation.
+endorse|in=en dors=dorse|背書；支持|使 + 背：在背面簽名|The plan was endorsed by the board.
+endorsement|in=en dors=dorse ment|支持；代言|使 + 背 + 名詞|The athlete has many product endorsements.

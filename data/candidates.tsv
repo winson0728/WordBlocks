@@ -11,7 +11,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 5.16	press	ready	press	prim/press: press
 5.15	sound	ready	son=sound	son: sound
 5.14	official	ready	ob=of fac=fic ial	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
-5.12	review	ready	re vid=view	vid: appear; see
 5.08	cover	ready	con=co ver	operi: cover; hide
 5.04	minister	ready	min sta=ist er	min: less; smaller
 5.04	visit	ready	vid=visit	vid: appear; see
@@ -23,7 +22,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.93	administration	ready	ad min sta=ist rat=ration	min: less; smaller
 4.89	captain	ready	cap tain	capit/cipit: head | capit: head | capt: head | cip/cept/cap/cep/cup: hold; take; contain
 4.88	peter	ready	pet er	petr: rock; stone
-4.87	status	ready	sta=stat us	stat/sta/stet/stitu/stit: stand; condition; still | stat: stand
 4.86	division	ready	de=di vid=vis ion	divid/divis: separated into parts; divided | divid: divide | divis: divide
 4.83	remain	ready	re manu=main	mans: dwell; stay
 4.79	spirit	ready	spir it	spir: breathe
@@ -41,6 +39,7 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.57	permanent	ready	per manu=man ent	mans: dwell; stay
 4.56	grace	ready	grat=grace	grac: pleasing; thankful | grace/gree: pleasing; thankful | grat: thank; please; pleasing; thankful; kind
 4.55	concert	ready	con cert	cert: settled; sure | sert: bind; join; put
+4.55	circle	ready	circ=circle	circ: circle; ring
 4.53	portion	ready	port ion	part: divide; part; separate; share | portio: part; share
 4.47	province	ready	pro vinc=vince	vinc: conquer
 4.45	compare	ready	con=com par=pare	compar: alike; matching
@@ -55,8 +54,10 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.37	legacy	ready	lect=leg acy	leg: send; pick; read | lega: appoint; bring; send | lega: appoint; send; bring
 4.36	heritage	ready	her it age	heri: inherit | herit/her: heir; stick; hold
 4.36	script	ready	scrib=script	scrib/script: write | script: write
+4.34	genetic	ready	gen ic=etic	gene/genit/gen/gn: birth; beget; race; kind; produce; production; origin; formation
 4.33	prominent	ready	pro min ent	min: project
 4.32	versus	ready	vert=vers us	vers/verg/vert/ver: turn; range; totality; world | vers: turn
+4.32	humanity	ready	hum ian=an ity	human: man
 4.32	registration	ready	rect=reg sta=ist rat=ration	regis: list; recorded
 4.31	triple	ready	tri ple	tri: three
 4.31	discrimination	ready	dis crit=cri min ion=ation	crimin: judgement; distinguish
@@ -70,174 +71,148 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.18	verse	ready	vert=verse	vers/verg/vert/ver: turn; range; totality; world | vers: turn
 4.18	patent	ready	pass=pat ent	pat: be open; suffer; feel; endure
 4.17	tactics	ready	tact ics	tag: arrange; put in order
+4.17	magnetic	ready	magn ic=etic	magnet: 
 4.16	marvel	ready	mar vel	mir: behold; look; wonder at | mir: wonder; amazement; behold; look
 4.16	indigenous	ready	in de=di gen ous	gene/genit/gen/gn: birth; beget; race; kind; produce; production; origin; formation
 4.15	vertical	ready	ver ic=tic al	vers/verg/vert/ver: turn; range; totality; world | vert: turn
 4.14	duration	ready	du rat=ration	dur: hard; last | dur: last
 4.12	divide	ready	de=di vid=vide	divid/divis: separated into parts; divided | divid: divide
+4.11	pathetic	ready	path ic=etic	path: feel; suffer | path: feeling; disease; feel; illness
 4.11	proportion	ready	pro port ion	portio: part; share
-4.10	consensus	ready	con sens us	sens/sent: aware; feel; think | sens: feel; perceive; think
-4.10	innovative	ready	in nov ive=ative	nov: new
 4.09	tender	ready	tend er	tend: reach; stretch | tens/tend/tent: stretch; strain; thin
-4.09	vacuum	ready	vac=vacu um	vac: at leisure; empty | vac: empty; speak; call; voice
 4.09	meter	ready	meter	metr: measure; apportion; surrounding stuff
 4.08	provincial	ready	pro vinc ial	vinc: conquer
 4.07	adjust	ready	ad jus=just	jus: law; right
-4.07	testament	ready	test ment=ament	testat/test: challenge; trial; examination | testat: make a will
 4.07	administrator	ready	ad min sta=ist rat or	min: less; smaller
 4.06	pulse	ready	pel=pulse	puls/pul: drive; urge | puls: drive; urge
 4.05	passport	ready	pass port	pass: step
 4.05	alter	ready	alter	alter: change; another; other
 4.05	graph	ready	graph	graph: draw; write; produce image; descriptive science
 4.04	audit	ready	aud it	aud: hear; listen | aud: hearing; listening; sound; hear | dat/dit: give
+4.03	modest	ready	mod ess=est	mod: manner; measure; way | moder/mod: measure; change; manner; way
 4.03	tribal	ready	trib al	trib: OR waste away; family; race | tribal: family; race
 4.02	consultation	ready	con sult ion=ation	consul: consult; deliberate; take counsel | sell: sees; take | sult: leap; spring forward
-4.00	civic	ready	civ ic	civ: citizen | civil/civ: citizen
-4.00	minus	ready	min us	min: less; smaller
 4.00	portal	ready	port al	port: carry; bear; bring
+3.99	facilitate	ready	fac ile=il ity=it ate	fac: do; make | feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 3.99	mediterranean	ready	medi terr ian=anean	medi: between; middle | medi: middle
-3.98	absent	ready	ab sens=sent	abs: apart (prefix); away from; off
+3.99	rehabilitation	ready	re hab ile=il ity=it ion=ation	re: again; back (prefix)
+3.98	absent	ready	ab ess=sent	abs: apart (prefix); away from; off
 3.98	circus	ready	circ us	circ: circle; ring
 3.97	tactical	ready	tact ic al	tag: arrange; put in order
-3.96	preview	ready	pre vid=view	vid: appear; see
+3.97	sally	ready	sal lig=ly	sili/saul: jump
 3.96	viable	ready	via able=ble	vivi/viv: life; live
 3.95	meditation	ready	med it ion=ation	medit: contemplate; ponder
-3.93	descent	ready	de scend=scent	scend/scens: climb
 3.92	theology	ready	the ology	log: word; reason; speech; thought; study; science; theory | logy: study of (suffix) | the/theo: god; God
+3.91	deployment	ready	de plic=ploy ment	ploy: fold
 3.91	sphere	ready	spher=sphere	spher: ball; sphere; sperical
+3.89	liable	ready	lig=li able	li: bind; hold; tie
 3.87	consult	ready	con sult	consul: consult; deliberate; take counsel | sell: sees; take
-3.87	abusive	ready	ab us ive	us: use
 3.86	congressman	ready	con gress manu=man	grad: degree; go; step; walk | gress: step; walk
+3.86	judiciary	ready	judic ary=iary	judic: judge | judic: judge; judgment
 3.86	legion	ready	lect=leg ion	lect: choose; gather; variety | lege: choose; gather; pick
 3.86	logistics	ready	log sta=ist ics	log: reason; speech; word
 3.82	deliberate	ready	de liber ate	de: away; downward completely (prefix); off; reversal; undoing | liber, libr: balance; weigh
-3.82	pardon	ready	par don	don: gift; give | don: give
 3.82	scent	ready	scend=scent	sens/sent: aware; feel; think
 3.81	archer	ready	arch er	arc: bow
 3.81	battalion	ready	bat=batt al ion	bat: beat
 3.81	manor	ready	manu=man or	mans: dwell; stay
+3.81	sympathetic	ready	syn=sym path ic=etic	path: feeling; disease; feel; illness | sym: together (prefix)
 3.80	inheritance	ready	in her it ence=ance	heri: inherit | herit/her: heir; stick; hold
+3.78	apparatus	ready	ad=ap per=par ad=at us	apert: open | para: arrange; assemble; order; prepare; provide; procure; bearing; beside
 3.78	collaborative	ready	con=col labor ive=ative	labor: work
 3.77	comparative	ready	con=com par ive=ative	com: together (prefix); with | compar: alike; matching
 3.77	interval	ready	inter val	inter: among (prefix); between
 3.77	seminar	ready	se min ar	semin: seed; sow
 3.77	digit	ready	digit	digit/digit: finger
-3.76	resurrection	ready	re sur rect ion	surg/surrect: rise | surrect: rise
+3.76	resurrection	ready	re sub=sur rect ion	surg/surrect: rise | surrect: rise
 3.75	lateral	ready	lat er al	later: side
 3.75	merge	ready	merg=merge	merg: dip; plunge | merg: dip; sink; to plunge
 3.74	contempt	ready	con tempt	comtemn: despise; scorn | temn: scorn; slight
 3.74	compass	ready	con=com pass	pans: spread | pass: step
-3.73	genus	ready	gen us	gene/genit/gen/gn: birth; beget; race; kind; produce; production; origin; formation
 3.72	unarmed	ready	un ad=ar med	arma: arms; implements; tools; weapon
 3.72	bilateral	ready	bi lat er al	later: side
+3.71	energetic	ready	en erg ic=etic	en: in; into; to cover or contain (prefix) | erg/urg/org: work; effect | erg: work
 3.71	severity	ready	se ver ity	sever: grave; serious; strict | sever: stern; strict; serious
 3.71	vista	ready	via=vi sta	vid: appear; see | vis: see; appear
-3.70	confederate	ready	con fid=feder ate	feder: league; treaty | feder: treaty; agreement; contract; league; pact
 3.69	traitor	ready	tract=trait or	trad: betray; deliver
 3.67	insulation	ready	in sub=su lat ion	insul: island
 3.67	imminent	ready	in=im min ent	min: project
 3.66	collateral	ready	con=col lat er al	later: side
 3.66	demise	ready	dem ise	miss/mitt/mit: send | miss: send (wcity)
 3.65	formidable	ready	form id able	formid: fear
-3.65	negligence	ready	neg lect=lig ence	lect: choose; gather; variety
+3.65	optic	ready	opt ic	optic: eye; observation; perception; likeness; vision
 3.64	precipitation	ready	pre cap=cip it ion=ation	capit/cipit: head
-3.64	corpus	ready	corp us	corpor/corp: body; flesh
+3.64	corpus	ready	con=cor pod=pus	corpor/corp: body; flesh
 3.63	reconsider	ready	re con sid er	sider: star
-3.61	enclosure	ready	en clud=clos ure	en: in; into; to cover or contain (prefix)
-3.61	trajectory	ready	trans=tra ject ory	jac/ject: cast; throw; lie
 3.60	chant	ready	cant=chant	cin/cant/chant/cent: sing; song
+3.60	prolific	ready	pro lig=li fac=fic	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 3.60	segregation	ready	sect=seg rect=reg ion=ation	greg: flock; herd; gather
 3.60	attain	ready	ad=at tain	ting/tact/tang/tat/teg/tig: touch; arrange; order; feel
+3.59	humility	ready	hum=humili ity=ty	hum: earth; the ground | hum: ground; earth
 3.58	foreman	ready	fore manu=man	fore: before; earlier (prefix); previous
-3.57	crescent	ready	cre scend=scent	cresc: grow; increase | cret: grow; increase
 3.57	latitude	ready	lat itude	lat: broad; wide; carry
 3.56	batter	ready	bat=batt er	bat: beat
 3.56	consulate	ready	con sub=su lat=late	sell: sees; take
-3.56	concussion	ready	con cuss ion	cuti/cuss: shake
-3.56	interrogation	ready	inter rog ion=ation	rogat/roga/rog: ask; demand; take away
+3.55	humiliation	ready	hum=humili ion=ation	hum: ground; earth
 3.55	ministerial	ready	min sta=ist er ial	min: less; smaller
 3.54	dialect	ready	dia lect	dia: apart (prefix); between; through | lect: choose; gather; variety
 3.54	covert	ready	con=co vert	operi: cover; hide
 3.54	seminary	ready	se min ary	semin: seed; sow
 3.54	articulate	ready	art icle=icul ate	articula: divide into small joints; speak clearly
 3.54	accreditation	ready	ad=ac cre dict=dit ion=ation	cred/cre: believe; trust
+3.54	clarification	ready	clar ific ion=ation	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 3.54	administer	ready	ad min sta=ist er	min: less; smaller
 3.53	marvelous	ready	mar vel ous	mir: wonder; amazement; behold; look
 3.52	condemnation	ready	con dem nat ion	demn/damn/dam: to inflict loss upon; loss; harm; tame
 3.52	inherit	ready	in her it	herit/her: heir; stick; hold
 3.51	discriminate	ready	dis crit=cri min ate	crimin: crime; distinguish | crimin: judgement; distinguish
-3.51	diligence	ready	de=di lect=lig ence	dilig: choose; like; select | lect: choose; gather; variety | lig: choose; collect; gather
 3.51	syndicate	ready	syn dict=dic ate	syn: together; with (prefix)
-3.51	speculative	ready	spect=spec ule=ul ive=ative	spect/spec/spic: appear; look; see; spectrum
+3.51	cosmos	ready	cosm ous=os	cosm: world; order; universe
 3.50	allegation	ready	ad=al lect=leg ion=ation	leg: send; pick; read
 3.49	dubious	ready	du bio us	dub: doubt | dubi: doubt; doubtful
 3.49	hereditary	ready	her=here dict=dit ary	hered: heir; inherit | herit/her: heir; stick; hold
-3.49	intellect	ready	inter=intel lect	intellec: power to know | lect: choose; gather | lect: choose; gather; variety
-3.49	gravitational	ready	grav it ion=ation al	gravid/grav: heavy; pregnant; weighty
 3.46	criterion	ready	crit er ion	crit: a judge; choose; separate | crit: choose; judge; separate
 3.46	dialog	ready	dia log	dia: apart (prefix); between; through
-3.46	immoral	ready	in=im mor al	mor: custom; disposition
-3.45	confederation	ready	con fid=feder ion=ation	feder: league; treaty | feder: treaty; agreement; contract; league; pact
 3.45	recap	ready	re cap	capit/cipit: head
 3.45	genital	ready	gen it al	gene/genit/gen/gn: birth; beget; race; kind; produce; production; origin; formation
 3.45	empress	ready	en=em press	para: arrange; assemble; order; prepare; provide; procure; bearing; beside
 3.45	statistic	ready	sta=stat sta=ist ic	stat/sta/stet/stitu/stit: stand; condition; still
-3.45	tentative	ready	tain=tent ive=ative	tens/tend/tent: stretch; strain; thin
-3.44	orderly	ready	ordin=order ly	ordin: arrange; order; rank; regulate
+3.44	orderly	ready	ordin=order lig=ly	ordin: arrange; order; rank; regulate
+3.43	illicit	ready	in=il lig=li cit	cit: arouse; set in motion; summon | lic/licit: permissible; unrestrained | lic: be permitted
 3.43	relegation	ready	re lect=leg ion=ation	leg: send; pick; read
-3.43	miraculous	ready	mir icle=acul ous	mir: wonder; amazement; behold; look
 3.42	disparity	ready	dis par ity	par: equal
 3.42	compliant	ready	con=com plic=pli ent=ant	pli/plic: bend; fold; tangle | pli: bend; fold
 3.42	proton	ready	pro ton	proto/prot: first; earliest
-3.41	artifact	ready	art=arti fact	art: craft; skill | feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 3.41	ordination	ready	ordin ion=ation	ordin: arrange; order; rank; regulate | ordin: order; rank; arrange; regulate
 3.41	parity	ready	par ity	par: equal
-3.41	monstrous	ready	mon=monstr ous	monstr: show; point out
 3.40	arson	ready	ad=ar son	ard: burn
 3.40	tenor	ready	tain=ten or	ten: hold; keep | tent/ten/tin/tain/tent: hold; keep; maintain
-3.40	traverse	ready	trans=tra vert=verse	trans: across (prefix) | vers: turn
-3.39	hospice	ready	hosp ice	hosp: guest; host | hosp: host
-3.39	negligible	ready	neg lect=lig able=ible	lect: choose; gather; variety | lig: choose; collect; gather
 3.39	magnum	ready	magn um	magn: great | magn: great; large
-3.39	spherical	ready	spher ic al	spher: ball; sphere; sperical | sphere: sphere
 3.39	coefficient	ready	con=co ex=ef fac=fic ent=ient	ient: indication; kind of agent; form adjective
-3.38	defamation	ready	de fa=fam ion=ation	fa: say; speak; spoken of | fam: public opinion; report | fam: report; public opinion
-3.38	surrogate	ready	sur rog ate	rog: ask; demand | rogat/roga/rog: ask; demand; take away | rogat: ask; demand
-3.37	surpass	ready	sur pass	pass: step | sur: above; in addition (prefix); over; upon
-3.36	equitable	ready	equ it able	equ: equal; same
+3.37	surpass	ready	sub=sur pass	pass: step | sur: above; in addition (prefix); over; upon
 3.36	sensual	ready	sens al=ual	sens: feel; perceive; think
 3.36	discredit	ready	dis cre dict=dit	cred/cre: believe; trust
-3.36	revisit	ready	re vid=visit	vid: appear; see
-3.35	grammatical	ready	gramm ic=atic al	gramm: a letter; written character
 3.35	graphite	ready	graph ite	graph: draw; write; produce image; descriptive science | graph: write
 3.35	unilateral	ready	uni lat er al	later: side | uni/un: one; single | uni: one
-3.35	conspicuous	ready	con spect=spic ous=uous	spect/spec/spic: appear; look; see; spectrum | spic: look at; see
-3.35	computation	ready	con=com put ion=ation	comput: calculate; compute
-3.35	illumination	ready	in=il lumin ion=ation	lumen/lumin: light
+3.35	pedestal	ready	ped ess=est al	ped: foot
 3.35	inquisition	ready	in quir=quisit ion	quir/quisit: search; seek
-3.34	infirmary	ready	in firm ary	firm: firm; steadfast; strong | firm: firm; strong
 3.34	rector	ready	rect or	rect: right; ruled; straight
 3.34	perseverance	ready	per se ver ence=ance	sever: grave; serious; strict | sever: stern; strict; serious
-3.34	involuntary	ready	in vol=volunt ary	vol: will; wish | voli/volu/vol: will
 3.34	divisive	ready	de=di vid=vis ive	divid/divis: separated into parts; divided
 3.34	ligament	ready	lect=lig ment=ament	lig: bind; tie
 3.34	visitation	ready	vid=visit ion=ation	vid: appear; see
-3.33	negligent	ready	neg lect=lig ent	lect: choose; gather; variety
+3.33	saline	ready	sal ine	sal: salt
 3.32	pervert	ready	per vert	per: thoroughly; through; utterly; very (prefix) | vers/verg/vert/ver: turn; range; totality; world
 3.32	potion	ready	pot ion	pot: drink
 3.31	tendon	ready	tain=ten don	tend: reach; stretch
-3.30	commune	ready	con=com mun=mune	commun: common | mun: a gift; achievement | mun: common; public; gift; achievemnet
 3.30	fermentation	ready	fer ment ion=ation	ferm: cause to rise; leaven
 3.30	conservatory	ready	con serv ate=at ory	serv: keep; protect; serve
-3.30	toxin	ready	tox ine=in	tox: arrow; bow; poison
 3.29	occult	ready	ob=oc cult	clud/clus: close; shut
-3.28	defunct	ready	de funct	funct: do; perform | funct: perform
-3.28	impractical	ready	in=im pract ic al	in: not (prefix)
+3.28	ardent	ready	ad=ar dent	ard: burn
+3.27	trident	ready	tri dent	dent: tooth | tri: three
+3.27	fixation	ready	fix ion=ation	fix: attach; fastened | fix: fastened; fixed
 3.27	encompass	ready	en con=com pass	pass: step
-3.27	pendulum	ready	pend ule=ul um	pend/pens: hang; weigh; pay; consider | pend: hang; pay; weigh
-3.27	impetus	ready	in=im pet us	pet(it): ask; attack; fall; rush at; seek; strive
 3.27	seminal	ready	se min al	semin: seed; sow
-3.27	literate	ready	liter ate	litera/liter: letter
 3.26	meditate	ready	med it ate	medit: contemplate; ponder
 3.26	nonfiction	ready	non fac=fic ion=tion	fig: form; shape | non: not (prefix)
 3.26	disparate	ready	dis par ate	par: equal | para: arrange; assemble; order; prepare; provide; procure; bearing; beside
@@ -245,13 +220,11 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.25	archery	ready	arch ery	arc: bow
 3.25	regency	ready	rect=reg ence=ency	reg: govern; rule
 3.24	commandant	ready	con=com mand ent=ant	mend: order; command; commit
-3.23	diligent	ready	de=di lect=lig ent	dilig: choose; like; select | elig: pick out; select | lect: choose; gather; variety | lig: choose; collect; gather
 3.23	confederacy	ready	con fid=feder acy	feder: treaty; agreement; contract; league; pact
+3.23	neurology	ready	neur ology	log: word; reason; speech; thought; study; science; theory | neur: nerve; sinew
 3.22	envious	ready	en via=vi ous	invid: envy | vid: appear; see
 3.22	reverence	ready	re ver ence	rever: to stand in awe of; fear | verer: fear; stand in awe of
-3.22	prospectus	ready	pro spect us	spect/spec/spic: appear; look; see; spectrum
 3.22	tempt	ready	tempt	tens/tend/tent: stretch; strain; thin
-3.21	translucent	ready	trans lumin=luc ent	luc: bright; light; shine | luc: light; shine
 3.21	inquest	ready	in quir=quest	quest: ask; seek | quir/quisit: search; seek
 3.21	circumcision	ready	circum cis ion	cid/cis: cut; kill
 3.21	antigen	ready	ante=anti gen	gene/genit/gen/gn: birth; beget; race; kind; produce; production; origin; formation
@@ -261,126 +234,81 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.20	manure	ready	manu=man ure	manu/mani/man: hand
 3.19	agitation	ready	ad=ag it ion=ation	ag: act; do; drive; go; move; urge
 3.19	devise	ready	de vid=vise	divid: divide | divis: divide
-3.19	sacrament	ready	sacr ment=ament	sacer/secr: sacred | sacr: holy; sacred
 3.19	perverse	ready	per vert=verse	vers/verg/vert/ver: turn; range; totality; world | vers: turn
 3.18	allege	ready	ad=al leg=lege	ag/al/am: movement to; toward; in addition to; act; do; drive; nurture; grow; love | lega: appoint; bring; send | lega: appoint; send; bring
 3.18	nativity	ready	nat ive=iv ity	gnant/nai/nat: born; be from; spring forth; source; birth; tribe | nat: born
 3.18	locus	ready	loc us	loc: place
-3.17	animosity	ready	anim ous=os ity	anim: mind; soul; spirit
+3.18	polytechnic	ready	poly techn ic	technic-/techni-/techn-: art; skill; technique
 3.17	possessive	ready	pos sid=sess ive	poss: able; have power | poss: be able; have power
 3.17	ration	ready	rat=ration	rat: calculate; determine; settle; think
-3.17	insurrection	ready	in sur rect ion	surg/surrect: rise | surrect: rise
+3.17	insurrection	ready	in sub=sur rect ion	surg/surrect: rise | surrect: rise
 3.16	cyclic	ready	cycl ic	cycl: circle
 3.16	severance	ready	se ver ence=ance	para: arrange; assemble; order; prepare; provide; procure; bearing; beside
-3.16	telecommunication	ready	tele con=com mun ic ion=ation	tele: distance; far
 3.15	aqueous	ready	aqu=aque ous	aqu: water
 3.15	enchanting	ready	en cant=chant ing	chant: sing | cin/cant/chant/cent: sing; song
 3.15	sever	ready	se ver	para: arrange; assemble; order; prepare; provide; procure; bearing; beside
-3.14	avian	ready	avi ian=an	av: bird
+3.14	sedentary	ready	se dent ary	sed/sid/sess: settle; calm; sit | sed: settle; sit
 3.14	cantor	ready	cant or	cin/cant/chant/cent: sing; song
 3.14	discriminating	ready	dis crit=cri min ate=at ing	crimin: judgement; distinguish
+3.14	dispersal	ready	dis per sal	sperg/spers: scatter; sprinkle
 3.13	intravenous	ready	in trans=tra vent=ven ous	intra: within (prefix)
 3.13	reiterate	ready	re it er ate	iter: again; repeat
-3.13	toxicology	ready	tox ic ology	log: word; reason; speech; thought; study; science; theory | tox: poison
-3.12	figurative	ready	fig ure=ur ive=ative	fig: feign; form; make; shape | fig: form; shape
-3.11	affliction	ready	ad=af flict ion	flict: dash; strike | flig/flict: strike; dash
-3.11	dispense	ready	dis pend=pense	pend/pens: hang; weigh; pay; consider | pens: hang; pay; weigh
-3.11	hydroelectric	ready	hydr=hydro electr ic	hydr/hyd: water; liquid
+3.12	salient	ready	sal ent=ient	ient: indication; kind of agent; form adjective | sili/saul: jump
+3.11	polynomial	ready	poly nom ial	nom: arrangement; law; order; specified area of knowledge | nom: name; term | poly: many (prefix)
 3.10	parable	ready	par able	bole: put; throw | par: beside; near; beget; produce
-3.10	compulsion	ready	con=com pel=puls ion	com: together (prefix); with | puls/pul: drive; urge
 3.10	creditor	ready	cred or=itor	cred/cre: believe; trust | cred: believe
-3.10	dispel	ready	dis pel	pel-pell: drive; urge | pel: drive; push
-3.10	plenary	ready	ple=plen ary	plen: fill | plen: full; many
-3.10	semblance	ready	simil=sembl ence=ance	sembl: appear; be like; seem | sembl: seem; appear; like | simil: likeness; imitating
-3.10	dissident	ready	dis sid ent	sid: settle; sit
-3.10	tactile	ready	tact ile	tact: touch | ting/tact/tang/tat/teg/tig: touch; arrange; order; feel
-3.10	thermostat	ready	therm=thermo sta=stat	stat/sta/stet/stitu/stit: stand; condition; still | therm: heat; warm
-3.10	objectivity	ready	ob ject ive=iv ity	jac/ject: cast; throw; lie
 3.10	multilateral	ready	multi lat er al	later: side
 3.10	supermodel	ready	super mod el	moder/mod: measure; change; manner; way
-3.10	normative	ready	norm ive=ative	norm: average; normal
-3.10	improvisation	ready	in=im pro vid=vis ion=ation	vid: appear; see
-3.09	remit	ready	re mit	miss/mitt/mit: send | mit: send; throw
 3.09	prefect	ready	pre fact=fect	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
-3.09	reunification	ready	re uni fac=fic ion=ation	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state | uni/un: one; single
 3.09	orthopedic	ready	ortho ped ic	orth: straight; straightening; correcting | paed: child; teach
-3.09	ultrasonic	ready	ultra son ic	son: sound
-3.08	credence	ready	cred ence	cred/cre: believe; trust | cred: believe
-3.08	prerogative	ready	pre rog ive=ative	rogat/roga/rog: ask; demand; take away | rogat: ask; demand
+3.08	neurotic	ready	neur=neuro ic=tic	neur: nerve | neur: nerve; sinew
 3.08	repressive	ready	re press ive	prim/press: press
 3.08	scribe	ready	scrib=scribe	scrib/script: write
 3.07	allegory	ready	ad=al lect=leg ory	all: other | allel/all: other; different | egor: speak
 3.07	equine	ready	equ ine	equ: horse; even; level | eque: horse
-3.07	deliverance	ready	de liber=liver ence=ance	liber: free; weigh; consider
 3.07	penchant	ready	pen cant=chant	pend/pens: hang; weigh; pay; consider
-3.07	planar	ready	plan ar	plana/plano: flat
 3.06	deliberation	ready	de liber ion=ation	liber, libr: balance; weigh
+3.05	incendiary	ready	in scend=cend ary=iary	cand/cend: glisten; glowing; iridescent; shine; shining | cand: burn; glow
 3.05	centurion	ready	cant=cent ure=ur ion	cent: hundred
-3.05	desist	ready	de sta=sist	sist: place; to stand
+3.05	utilitarian	ready	us=ut ile=il ity=it ar ian	us: use; useful; utility | ut: use | util: use; useful
+3.05	paragon	ready	para gon	ac: point; sharp; tip; extremities; subject to being
 3.05	albino	ready	ad=al bi gno=no	albin/alb: dull white; white
 3.04	fervent	ready	fer vent	ferv: boil | ferv: boil; glow
 3.04	sedition	ready	se dict=dit ion	it: go | se: apart; without (prefix) | sec: apart; cut; split
-3.04	magnate	ready	magn ate	magn: great | magn: great; large
-3.04	impotent	ready	in=im pot ent	potent: potent; powerful
-3.04	sanctity	ready	sacr=sanct ity	sanct: holy; sacred
 3.04	particulate	ready	part icle=icul ate	articula: divide into small joints; speak clearly
-3.04	mortuary	ready	mort ary=uary	mortal/mort: death
+3.04	neurologist	ready	neur=neuro log sta=ist	neur: nerve; sinew
 3.03	curate	ready	cur ate	cura/cur: care | cura: attention; care
 3.03	disseminate	ready	dis semi nat=nate	dis: apart; asunder; away from (prefix) | semin: seed; sow
 3.03	complicity	ready	con=com plic ity	pli/plic: bend; fold; tangle | plic: bend; embrace; fold
-3.03	devious	ready	de via=vi ous	vi: road; way
-3.03	civility	ready	civ ile=il ity	civil/civ: citizen
-3.03	locator	ready	loc or=ator	loc: place
 3.03	nourishment	ready	gno=no ure=ur ish ment	nour: nourish; feed
 3.03	preorder	ready	pre ordin=order	ordin: order; rank; arrange; regulate
-3.03	invariant	ready	in vari ent=ant	vari: bend; turn; vary
-3.02	monogram	ready	mono gramm=gram	gramm/gram: letter; writing | gramm: a letter; written character | mono: one; single
-3.02	sumptuous	ready	sum=sumpt ous=uous	sumptu: expense
 3.02	tenuous	ready	tain=ten ous=uous	tenu: make thin | tenu: slender; thin
-3.02	improvise	ready	in=im pro vid=vise	vid: appear; see | vis: appear; see | vis: see; appear
-3.02	anarchism	ready	ad=an arch ism	arch: leader; ruler; first; govern
-3.01	inanimate	ready	in anim ate	anima/anim: breath; life; spirit; mind | anima: breath; life
-3.01	deciduous	ready	de cid ous=uous	cid/cad/cas: fall | cid: fall; sink
-3.00	gestation	ready	gest ion=ation	gest: bring; carry | gest: carry; bear; bring
+3.00	rehabilitate	ready	re hab ile=il ity=it ate	hab: have; hold | habit/hab: have; dwell; live; abide
 3.00	criminology	ready	crit=cri min ology	logy: study of (suffix)
 3.00	portage	ready	port age	port: bear; bring; carry | port: carry; bear; bring
 3.00	indiscriminate	ready	in dis crit=cri min ate	crimin: judgement; distinguish
-2.99	senile	ready	sen ile	sen: old | sen: old; grow old
-2.99	biometric	ready	bio meter=metr ic	bio: life
-2.98	aberration	ready	ab err ion=ation	ab: apart (prefix); away from; off | err: stray | err: wander
-2.98	impatience	ready	in=im pass=pat ence=ience	in: not (prefix) | pat: endure; feel; suffer
-2.98	negate	ready	neg ate	negat: deny
 2.98	detonate	ready	de ton ate	ton: thunder; tone
 2.98	visor	ready	vid=vis or	vid: appear; see | vis: appear; see | vis: see; appear
-2.97	executor	ready	ex sequ=ecut or	ecu: follow | ecu: follow 
-2.97	navigable	ready	nav=navig able	naut/nav: ship; boat; seafaring; spaceflight; voyager | nav: ship
+2.98	cosmology	ready	cosm ology	cosm: world; order; universe
+2.97	posthumous	ready	post hum ous	post: after (prefix)
+2.96	salinity	ready	sal ine=in ity	sal: salt | sal: salt; jump
 2.96	tensile	ready	tend=tens ile	tens/tend/tent: stretch; strain; thin | tens: strain; stretch
-2.96	pathogenic	ready	path=patho gen ic	path: feeling; disease; feel; illness
 2.96	putative	ready	put ive=ative	put: prune; reckon; cleanse; trim
 2.96	rectum	ready	rect um	rig/reg: straight; direct; straighten; rule
-2.95	expectant	ready	ex spect=pect ent=ant	spect: appear; look; see
 2.94	suppressor	ready	sub=sup press or	prim/press: press
-2.93	unjustly	ready	un jus=just ly	jus: law; right
+2.93	unjustly	ready	un jus=just lig=ly	jus: law; right
 2.93	denominational	ready	de nomin ion=ation al	nomen/nomin: name
-2.93	normality	ready	norm al ity	norm: average; normal
-2.93	separator	ready	se par or=ator	para: arrange; assemble; order; prepare; provide; procure; bearing; beside
-2.93	substation	ready	sub sta ion=tion	stat/sta/stet/stitu/stit: stand; condition; still
+2.92	clarion	ready	clar ion	clar: clear
+2.92	matrimony	ready	matr imony	mater: mother; womb; surrounding stuff | matr: mother
+2.92	facilitation	ready	fac ile=il ity=it ion=ation	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 2.92	incontinence	ready	in con tain=tin ence	tent/ten/tin/tain/tent: hold; keep; maintain
-2.91	errant	ready	err ent=ant	err: stray | err: wander
 2.91	pectoral	ready	spect=pect or al	pect: breast; chest | pector: chest
-2.91	enquire	ready	en quir=quire	quir: ask; seek
 2.91	ordinate	ready	ordin ate	ordin: order; rank; arrange; regulate
 2.91	countenance	ready	con=co un tain=ten ence=ance	tent/ten/tin/tain/tent: hold; keep; maintain
 2.90	epicenter	ready	epi cant=cent er	centr: center
 2.90	capitulation	ready	capit ule=ul ion=ation	capit/cipit: head
-2.90	autocratic	ready	auto cracy=crat ic	crac/crat: government; rule; authority
-2.90	cursive	ready	cur=curs ive	corr/curs/curr: run; course
-2.90	recursive	ready	re cur=curs ive	corr/curs/curr: run; course
-2.90	indoctrination	ready	in doc=doctr ine=in ion=ation	doc/dog: teach; opinion; tenet; praise
-2.90	fluidity	ready	flu id ity	flu/fluc/fluv: flow; river
-2.90	demonstrator	ready	de mon=monstr or=ator	monstr: show; point out
+2.90	facilitator	ready	fac ile=il ity=it or=ator	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 2.90	nourish	ready	gno=no ure=ur ish	nour: nourish; feed
-2.90	introspective	ready	intro spect=spec ive=tive	spect/spec/spic: appear; look; see; spectrum
 2.90	destruct	ready	de struct	struct/stru: to make up; build
 2.90	protectorate	ready	pro tect or ate	ting/tact/tang/tat/teg/tig: touch; arrange; order; feel
 2.90	valence	ready	val ence	val: strength; worth
@@ -403,14 +331,17 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.87	genotype	ready	gen=geno typ=type	gene/genit/gen/gn: birth; beget; race; kind; produce; production; origin; formation
 2.87	programmatic	ready	pro gramm ic=atic	gramm/gram: letter; writing
 2.87	dislocation	ready	dis loc ion=ation	loc: place
+2.87	nautilus	ready	naut ile=il nus=us	naut/nav: ship; boat; seafaring; spaceflight; voyager
 2.87	enviable	ready	en via able=ble	vid: appear; see
 2.86	apparition	ready	ad=ap par ion=ition	pari: come in sight
 2.86	insolvent	ready	in sol vent	solv: loosen; release
-2.86	hydrolysis	ready	hydr=hydro ly sis	hydr/hyd: water; liquid | ly: dissolving; loosen; loosening; dissolve; separation
+2.86	argon	ready	ad=ar gon	erg/urg/org: work; effect
+2.86	hydrolysis	ready	hydr=hydro lig=ly sis	hydr/hyd: water; liquid | ly: dissolving; loosen; loosening; dissolve; separation
 2.86	illiteracy	ready	in=il liter acy	litera/liter: letter
 2.86	purview	ready	pro=pur vid=view	vid: appear; see
 2.85	predicate	ready	pre dict=dic ate	dicat: declare; speak
 2.85	ferment	ready	fer ment	ferm: cause to rise; leaven | ferv: boil; glow
+2.85	parallax	ready	per=par ad=al lax	allel/all: other; different
 2.85	figurine	ready	fig ure=ur ine	fig: form; shape
 2.85	immorality	ready	in=im mor al ity	mor: custom; disposition
 2.85	inquisitor	ready	in quir=quisit or	quir/quisit: search; seek
@@ -425,6 +356,7 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.83	potable	ready	pot able	pot: drink
 2.83	excrement	ready	ex cre ment	cer/cr: sift; separate; judge; observe
 2.82	cognizant	ready	gno=cogn ize=iz ent=ant	cognit/cogniz/cogni/gnor/gnos: know; knowledge; recognition | cogniz: know | gnit/gnostic/gnos: know | gnit/not: know
+2.82	indelible	ready	in de lig=li able=ble	del: delete | del: destroy; erase
 2.82	personification	ready	per son ific ion=ation	fac/fic: do; make | fic: do; make
 2.82	unintelligible	ready	un inter=intel lect=lig able=ible	intellig: power to think
 2.82	reinsurance	ready	re in cura=sur ence=ance	cura/cur: care
@@ -434,6 +366,7 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.81	commissary	ready	con=com mit=miss ary	miss/mitt/mit: send
 2.81	intensification	ready	in tend=tens ific ion=ation	tens/tend/tent: stretch; strain; thin
 2.80	candor	ready	cand or	cand/cend: glisten; glowing; iridescent; shine; shining | cand: burn; glow
+2.80	microcosm	ready	micro cosm	cosm: order; ornament; universe; world | cosm: world; order; universe | micro: small
 2.80	astrologer	ready	astro log er	aster: star; star-shaped
 2.80	lingual	ready	lingu al	lingu: language; tongue
 2.79	obliterate	ready	ob liter ate	liter: letter | litera/liter: letter
@@ -445,6 +378,7 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.78	precipitate	ready	pre cap=cip it ate	capit: head | cipit: head
 2.78	accretion	ready	ad=ac cre ion=tion	creas/creet: grow; rise; increase; multiply; reproduce | creet: GROW; INCREASE | cret: grow; increase
 2.78	appreciable	ready	ad=ap prec=preci able	preti: price
+2.78	polygraph	ready	poly graph	graph: draw; write; produce image; descriptive science
 2.78	ligature	ready	lect=lig ure=ature	lig: bind; tie
 2.78	associative	ready	ad=as soci ive=ative	soci: group; join; society; social; sociological
 2.78	visage	ready	vid=vis age	vid: appear; see
@@ -464,6 +398,7 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.75	occlusion	ready	ob=oc clud=clus ion	clud/clus: close; shut | clus: close; shut
 2.75	tripartite	ready	tri part ite	part: divide; part; separate; share
 2.75	denier	ready	de neg=ni er	den: ten each
+2.75	modulus	ready	mod ule=ul nus=us	moder/mod: measure; change; manner; way
 2.75	repose	ready	re pos=pose	pon: put; place
 2.74	impassable	ready	in=im pass able	pass: step
 2.74	procreation	ready	pro cre ion=ation	creat: create; make
@@ -498,6 +433,7 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.67	rejuvenate	ready	re jun=juven ate	juven: young | juven: young; youth
 2.67	segregate	ready	sect=seg rect=reg ate	greg: flock; herd; gather | se: apart; without (prefix)
 2.67	silicate	ready	sult=sil ic ate	silic: flint
+2.67	indenture	ready	in dent ure	dent: tooth
 2.67	perfusion	ready	per fus ion	fus: pour; melt; blend
 2.67	gravitation	ready	grav it ion=ation	gravid/grav: heavy; pregnant; weighty
 2.67	motility	ready	mot ile=il ity	mot: move; motion
@@ -518,16 +454,20 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.65	typology	ready	typ ology	typ: impression; model; print; stamp
 2.64	agitate	ready	ad=ag it ate	ag: act; do; drive; go; move; urge | ago/ig/act: do; go; move
 2.64	contemptuous	ready	con tempt ous=uous	comtemn: despise; scorn | temn: scorn; slight
+2.64	indentation	ready	in dent ion=ation	dent: tooth
+2.64	patrician	ready	patr ic ian	pater/patr: father; country | patr: father
 2.64	objectification	ready	ob ject ific ion=ation	jac/ject: cast; throw; lie
 2.64	discontinuous	ready	dis con tain=tin ous=uous	tent/ten/tin/tain/tent: hold; keep; maintain
 2.63	cornice	ready	corn ice	coron: crown
+2.63	affix	ready	ad=af fix	fix: attach; fastened | fix: fastened; fixed
 2.63	demonstrative	ready	de mon=monstr ive=ative	monstr: point out; show | monstr: show; point out
 2.63	parasol	ready	para sol	sol: the sun
 2.63	decapitation	ready	de capit ion=ation	capit/cipit: head
 2.63	factional	ready	fac ion=tion al	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
-2.63	resurface	ready	re sur fa=face	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
+2.63	resurface	ready	re sub=sur fa=face	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 2.63	demonstrable	ready	de mon=monstr able	monstr: show; point out
 2.63	discontinuation	ready	dis con tain=tin ion=uation	tent/ten/tin/tain/tent: hold; keep; maintain
+2.63	parenthesis	ready	per=par en the sis	thetic/thet/the: arrangement; in order; put; place
 2.63	transvestite	ready	trans vest ite	vest: clothe; garment; dress
 2.62	remiss	ready	re mit=miss	miss/mitt/mit: send | miss: send (wcity)
 2.62	cognate	ready	gno=cogn ate	gnant/nai/nat: born; be from; spring forth; source; birth; tribe | nat: born
@@ -546,7 +486,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 6.03	because	needs-root		caus/cuse/cus: cause; motive; reason; sake; case | caus: case; motive; reason; sake
 5.78	state	needs-root		stat: stand
 5.66	please	needs-root		plac/plais/pleas: calm; please; soothe; gratify
-5.60	company	needs-root		pan: all; everything; group; whole; worldwide | pan: bread
 5.56	system	needs-root		syl/sys: with
 5.54	point	needs-root		pung/punct: point; prick
 5.44	course	needs-root		corr/curs/curr: run; course | cour: run | cours: run
@@ -657,7 +596,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.56	severe	needs-root		sever: grave; serious; strict | sever: stern; strict; serious
 4.56	victim	needs-root		vict: conquer
 4.56	pregnant	needs-root		gnant/nai/nat: born; be from; spring forth; source; birth; tribe
-4.55	circle	needs-root		circ: circle; ring
 4.55	catholic	needs-root		holo: whole
 4.55	manner	needs-root		manu/mani/man: hand
 4.54	championship	needs-root		camp: field | champ: field
@@ -711,12 +649,9 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.37	routine	needs-root		rupt: break; burst
 4.37	summary	needs-root		summ: highest
 4.36	automatic	needs-root		auto: self | tauto/auto: self; directed from within; same
-4.36	salary	needs-root		sal: salt
 4.35	chemistry	needs-root		che: mix; pour out | chem: pour out; mix
 4.35	gorgeous	needs-root		gorg: throat
 4.35	fancy	needs-root		phan: appear; bring to light; show
-4.34	absence	needs-root		ab: apart (prefix); away from; off
-4.34	genetic	needs-root		gene/genit/gen/gn: birth; beget; race; kind; produce; production; origin; formation
 4.33	density	needs-root		dens: close; thick | dens: thick
 4.33	premium	needs-root		empt/em: buy; take
 4.33	ethnic	needs-root		ethn: people; race; tribe; nation; society
@@ -724,7 +659,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.33	pregnancy	needs-root		gnant/nai/nat: born; be from; spring forth; source; birth; tribe
 4.32	underground	needs-root		under: beneath (prefix)
 4.32	virtual	needs-root		vir: man
-4.32	humanity	needs-root		human: man
 4.32	punch	needs-root		pung/punct: point; prick
 4.31	domain	needs-root		dom: house | domin: lord; master
 4.31	praise	needs-root		preci: price; value
@@ -745,7 +679,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.29	estimate	needs-root		estim: value
 4.29	default	needs-root		fall: false; deceive | faul: deceive
 4.29	polish	needs-root		pol: make sooth
-4.29	reliable	needs-root		re: again; back (prefix)
 4.28	crucial	needs-root		cruc: cross | cruc: cross; important point
 4.28	judgment	needs-root		jud: judge | judic: judge
 4.28	peaceful	needs-root		peac: peace
@@ -798,7 +731,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.17	trophy	needs-root		trop: turn
 4.17	colonial	needs-root		cult: cultivate; till; inhabit
 4.17	couch	needs-root		loc: place
-4.17	magnetic	needs-root		magnet: 
 4.16	embrace	needs-root		brac: the two arms
 4.16	inter	needs-root		terr: earth; ground; land | terr: earth; land
 4.16	parade	needs-root		para: arrange; assemble; order; prepare; provide; procure; bearing; beside
@@ -822,17 +754,13 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.12	authorized	needs-root		auth: author
 4.12	colony	needs-root		cult: cultivate; till; inhabit
 4.12	tribe	needs-root		tribut/trib: assign; allow; allot; bestow; pay
-4.11	dental	needs-root		dent: tooth
 4.11	editorial	needs-root		dit/dat: give; push | dit: give
 4.11	harmony	needs-root		harm: a joining; fitting; joint
-4.11	humble	needs-root		hum: earth; the ground | hum: ground; earth
-4.11	pathetic	needs-root		path: feel; suffer | path: feeling; disease; feel; illness
 4.11	selfish	needs-root		self: by oneself (prefix)
 4.11	voter	needs-root		vot: a wish; vow
 4.11	eternal	needs-root		aev/ev: age; time
 4.11	athlete	needs-root		athl: contest; prize
 4.11	diplomatic	needs-root		diplo: twofold
-4.10	declaration	needs-root		clar: clear
 4.10	distinction	needs-root		stingu/stinct/stinc/tinct: apart; mark; brand
 4.09	anxious	needs-root		anx: distressed; worried | anxi: distressed; worried
 4.09	diary	needs-root		di: day
@@ -850,7 +778,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.07	ethical	needs-root		eth: behavior; custom; moral | ethic: behavior; moral
 4.07	hostile	needs-root		host: an enemy
 4.07	momentum	needs-root		mot: move; motion | mov: move
-4.07	optical	needs-root		opt: see; sight
 4.07	tremendous	needs-root		trem: tremble
 4.07	flame	needs-root		flam: flame
 4.06	ambulance	needs-root		ambul: walk | ambul: walk; go
@@ -858,14 +785,12 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.06	password	needs-root		pass: step
 4.06	tolerance	needs-root		toler: bear; put up with
 4.06	cheat	needs-root		cid/cad/cas: fall
-4.05	declare	needs-root		clar: clear
 4.05	medieval	needs-root		aev/ev: age; time | medi: between; middle | medi: middle
 4.04	finale	needs-root		fin: end; limit
 4.04	authentic	needs-root		auth: author | tauto/auto: self; directed from within; same
 4.04	flavor	needs-root		fla: blow
 4.04	spite	needs-root		spect/spec/spic: appear; look; see; spectrum
 4.03	peninsula	needs-root		insul: island | paen: almost (prefix)
-4.03	modest	needs-root		mod: manner; measure; way | moder/mod: measure; change; manner; way
 4.03	semester	needs-root		semi: half | sex: six; sixth
 4.03	sentiment	needs-root		sens/sent: aware; feel; think | sent: be aware; feel; think
 4.02	dignity	needs-root		dign: merited; worthy | dign: suitable; worthy
@@ -880,12 +805,9 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.00	distinctive	needs-root		stinc: brand; mark; prick | stingu/stinct/stinc/tinct: apart; mark; brand
 3.99	uncertain	needs-root		cert: settled; sure
 3.99	clause	needs-root		claus: close | clud/clus: close; shut
-3.99	facilitate	needs-root		fac: do; make | feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 3.99	cathedral	needs-root		hedr: base; seat | hedr: seat; base; side
 3.99	quarterly	needs-root		quart: fourth
-3.99	rehabilitation	needs-root		re: again; back (prefix)
 3.99	remix	needs-root		misc/mix: mix
-3.99	negotiate	needs-root		negoti: do business
 3.99	probe	needs-root		prob: worthy; good; test; find good
 3.98	dense	needs-root		dens: close; thick | dens: thick
 3.98	colleague	needs-root		lect: choose; gather; variety | lega: appoint; bring; send | lega: appoint; send; bring
@@ -897,14 +819,12 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.97	tuition	needs-root		tuit: look after; protect; watch | tuit: watch; protect; guard; look after
 3.97	autism	needs-root		tauto/auto: self; directed from within; same
 3.97	fortunately	needs-root		fortun: luck; chance; casual
-3.97	sally	needs-root		sili/saul: jump
 3.96	deceased	needs-root		ceas: go; yield
 3.96	infantry	needs-root		fa: say; speak; spoken of | fa: speak
 3.96	maritime	needs-root		mar: pool; the sea | mar: sea
 3.96	superb	needs-root		super: above; over
 3.96	toast	needs-root		torr: burn; dry; parch
 3.96	polar	needs-root		pol: pole; community; society
-3.95	binary	needs-root		bi: twice; two
 3.95	elegant	needs-root		elig: pick out; select | lege: choose; gather; pick
 3.95	feast	needs-root		fest: feast
 3.95	messenger	needs-root		miss/mitt/mit: send | miss: send (wcity)
@@ -933,13 +853,10 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.91	exotic	needs-root		ex: out; out of; outside (prefix) | exo: outer (prefix); outside
 3.91	refuge	needs-root		fug: flee
 3.91	catalog	needs-root		log: reason; speech; word
-3.91	deployment	needs-root		ploy: fold
-3.91	prosperity	needs-root		spe(r): hope
 3.91	verbal	needs-root		verb: word
 3.91	ammunition	needs-root		ag/al/am: movement to; toward; in addition to; act; do; drive; nurture; grow; love
 3.91	pioneer	needs-root		ped: foot
 3.90	chorus	needs-root		chor: chorus; dance
-3.90	clarity	needs-root		clar: clear
 3.90	esteem	needs-root		estim: value
 3.90	hostage	needs-root		host: an enemy
 3.90	monument	needs-root		mon: advise; remind; warn
@@ -949,7 +866,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.90	elevation	needs-root		lev: lift; light; raise
 3.90	vault	needs-root		volv: roll; turn
 3.89	holocaust	needs-root		caust: burn; heat | holo: whole
-3.89	liable	needs-root		li: bind; hold; tie
 3.89	rogue	needs-root		rog: ask; demand
 3.89	umbrella	needs-root		umbr: shade; shadow | umbra/umbr: shade; shadow
 3.89	voyage	needs-root		voy: way
@@ -974,13 +890,10 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.86	abundance	needs-root		ab: apart (prefix); away from; off | und: be excessive; flow; overflow; wave | und: wave
 3.86	antique	needs-root		antiqu: ancient
 3.86	carnival	needs-root		carn/car: flesh | carn: flesh
-3.86	judiciary	needs-root		judic: judge | judic: judge; judgment
 3.86	prompt	needs-root		ompt: buy; take
 3.86	radius	needs-root		radi: ray; shine
 3.86	instinct	needs-root		stinc: brand; mark; prick
-3.86	dentist	needs-root		dont: tooth
 3.86	judgement	needs-root		judic: judge
-3.86	trilogy	needs-root		log: word; reason; speech; thought; study; science; theory
 3.85	arbitrary	needs-root		arbitr: judge; umpire; witness
 3.85	carriage	needs-root		caric: load; wagon
 3.85	obscure	needs-root		scur: conceal; cover | scur: cover; conceal
@@ -1019,7 +932,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.81	melody	needs-root		melo: song
 3.81	narrator	needs-root		narr: relate; tell
 3.81	partisan	needs-root		part: divide; part; separate; share | part: part; divide; share; separate
-3.81	sympathetic	needs-root		path: feeling; disease; feel; illness | sym: together (prefix)
 3.81	obesity	needs-root		ed/es: eat
 3.81	dioxide	needs-root		oxi/oxy/ox: sharp; pointed
 3.81	absorb	needs-root		sorp: suck
@@ -1036,22 +948,18 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.79	bulletin	needs-root		bull: boil; bubble
 3.79	cautious	needs-root		caut: guard against
 3.79	surround	needs-root		sur: above; in addition (prefix); over; upon | und: wave
-3.78	apparatus	needs-root		apert: open | para: arrange; assemble; order; prepare; provide; procure; bearing; beside
 3.78	hierarchy	needs-root		arch: govern; rule | hiero: priestly; sacred
 3.78	metabolism	needs-root		bole: put; throw
-3.78	cosmic	needs-root		cosm: order; ornament; universe; world | cosm: world; order; universe
 3.78	ecosystem	needs-root		eco: environment; house
 3.78	exempt	needs-root		empt/em: buy; take
 3.78	phantom	needs-root		phan: appear; bring to light; show | phan: appear; show; visible; manifestation
 3.78	render	needs-root		rend: give up
 3.78	allergic	needs-root		erg/urg/org: work; effect
 3.78	faint	needs-root		feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
-3.78	negotiation	needs-root		negoti: do business
 3.78	parody	needs-root		par: beside; near; beget; produce
 3.77	incumbent	needs-root		cumb: lie down; recline
 3.77	floral	needs-root		flor: flower
 3.77	lunar	needs-root		lun: moon | lunar: moon
-3.77	maternal	needs-root		mater: mother | mater: mother; womb; surrounding stuff | matr: mother
 3.77	memoir	needs-root		memor: mindful; remembering | memor: recall; remember
 3.77	simplicity	needs-root		plic: bend; embrace; fold
 3.77	fortress	needs-root		fort: strong
@@ -1060,7 +968,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.76	bypass	needs-root		by: side (prefix)
 3.76	catalyst	needs-root		cata: down (prefix) | ly: dissolving; loosen; loosening; dissolve; separation
 3.76	corpse	needs-root		corp: body | corpor/corp: body; flesh
-3.76	neural	needs-root		neur: nerve | neur: nerve; sinew
 3.76	phenomenal	needs-root		phen: appear; shine; show
 3.76	stellar	needs-root		stell: star
 3.76	diploma	needs-root		diplo: twofold
@@ -1111,8 +1018,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.72	radioactive	needs-root		radi: beam; spoke; radiation; ray; shine
 3.72	insanity	needs-root		san: health; healthy
 3.71	apocalypse	needs-root		apo: away (prefix)
-3.71	cosmetic	needs-root		cosm: order; ornament; universe; world
-3.71	energetic	needs-root		en: in; into; to cover or contain (prefix) | erg/urg/org: work; effect | erg: work
 3.71	analogy	needs-root		log: reason; speech; word | log: word; reason; speech; thought; study; science; theory
 3.71	illustrate	needs-root		lustr: enlighten; light | lustr: light; enlighten
 3.71	salute	needs-root		salut: health | salv/salu: health; welfare; safe; healthy
@@ -1126,7 +1031,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.70	creed	needs-root		cred/cre: believe; trust | cred: believe
 3.70	adore	needs-root		or: address; pray | orat: pray; plead; address; speak
 3.70	oracle	needs-root		or: address; pray | orat: pray; plead; address; speak
-3.70	pentagon	needs-root		gon: corner; angle; knee; birth; type; origin; seed | penta: five | penta: five (prefix)
 3.70	premature	needs-root		pre: before; in advance (prefix)
 3.70	stimulation	needs-root		stimul: excite; prick
 3.70	millennium	needs-root		anni/enni: year; yearly | milli: thousand; thousandth; thousand(th)
@@ -1161,7 +1065,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.66	rouge	needs-root		rou: red
 3.66	chartered	needs-root		chart: diagram; map; paper; sheet
 3.66	disagreement	needs-root		grat: thank; please; pleasing; thankful; kind
-3.66	maternity	needs-root		mater: mother; womb; surrounding stuff
 3.66	morale	needs-root		mor: custom; disposition
 3.66	oxide	needs-root		oxi/oxy/ox: sharp; pointed
 3.66	absorption	needs-root		sorp: suck
@@ -1172,7 +1075,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.65	exemption	needs-root		em: buy; blood
 3.65	manifesto	needs-root		manu/mani/man: hand
 3.65	nexus	needs-root		nect: bind; join; tie
-3.65	optic	needs-root		optic: eye; observation; perception; likeness; vision
 3.65	obsolete	needs-root		op/os: against; towards; in the way of
 3.65	posture	needs-root		pon: put; place
 3.64	electorate	needs-root		elig: pick out; select | lect: choose; gather; variety
@@ -1223,13 +1125,11 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.60	equilibrium	needs-root		equ: equal; same | iqu: equal; even; level
 3.60	isolate	needs-root		insul: island
 3.60	authenticity	needs-root		auth: author
-3.60	prolific	needs-root		feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 3.59	calorie	needs-root		calor: heat
 3.59	crusade	needs-root		crus: cross
 3.59	dynamite	needs-root		dynam/dyna/dyn: force; power; energy; strength | dynam: power
 3.59	elastic	needs-root		ela: drive; flexible
 3.59	gracious	needs-root		grac: pleasing; thankful | grace/gree: pleasing; thankful | grat/grac: pleasing; thankful | grat: thank; please; pleasing; thankful; kind
-3.59	humility	needs-root		hum: earth; the ground | hum: ground; earth
 3.59	leopard	needs-root		leo: lion
 3.59	multitude	needs-root		mult: many; much
 3.59	patriotism	needs-root		patr: father
@@ -1278,7 +1178,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.55	intricate	needs-root		tric: entangle; make trouble | tric: make trouble; entangle
 3.55	bureaucracy	needs-root		crac/crat: government; rule; authority
 3.55	cumulative	needs-root		cumul: mass; heap
-3.55	humiliation	needs-root		hum: ground; earth
 3.55	diarrhea	needs-root		rrh/rrhea/rrh: flow; discharge
 3.55	detrimental	needs-root		ter/tris: rub; wear; three
 3.54	fugitive	needs-root		fug: flee
@@ -1289,7 +1188,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.54	prosecute	needs-root		secu/sequ: follow | secut: follow
 3.54	intuition	needs-root		tuit: look after; protect; watch | tuit: watch; protect; guard; look after
 3.54	mitigate	needs-root		ago/ig/act: do; go; move
-3.54	clarification	needs-root		feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 3.53	celestial	needs-root		cel: heaven
 3.53	redeem	needs-root		demp: decide; decree; deem; determine; judge; consider; examine; reckon; think | em: buy; blood | empt/em: buy; take
 3.53	flourish	needs-root		flor: flower
@@ -1320,7 +1218,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.51	parasite	needs-root		para: at or to one side of; beside; beyond; past by (prefix) | sit: food; grain; wheat
 3.51	quotation	needs-root		quot: how many
 3.51	derive	needs-root		riv: brook; stream | riv: stream; brook
-3.51	cosmos	needs-root		cosm: world; order; universe
 3.50	ancestry	needs-root		ced/cess: go; yield | cess: go; yield
 3.50	reconcile	needs-root		cil: bring together; unite | cil: unite; bring together
 3.50	adjoining	needs-root		join: join
@@ -1365,7 +1262,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.46	antibody	needs-root		anti: against (prefix)
 3.46	leukemia	needs-root		em: buy; blood | emia: blood condition (suffix) | leuk: white
 3.46	suffice	needs-root		fac/fic: do; make | feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state | fic: do; make
-3.46	octopus	needs-root		oct: eight | octo: eight
 3.46	annoy	needs-root		odi: hate; ill-will
 3.46	privy	needs-root		priv: deprive; separate; single | priv: own; separate; deprive; single
 3.46	consultancy	needs-root		sell: sees; take
@@ -1382,7 +1278,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.45	divinity	needs-root		dei/div: God; god; augury | divin: divine
 3.45	dorsal	needs-root		dors: back
 3.45	lotion	needs-root		lot: wash
-3.45	prosper	needs-root		spe(r): hope
 3.45	cervical	needs-root		cervic: neck; cervix; neck of uterus
 3.45	durability	needs-root		dur: hard; last
 3.45	patronage	needs-root		pater/patr: father; country
@@ -1396,7 +1291,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.44	parry	needs-root		para: arrange; assemble; order; prepare; provide; procure; bearing; beside
 3.43	antiquity	needs-root		antiqu: ancient
 3.43	discreet	needs-root		cern: observe; separate | creet: GROW; INCREASE
-3.43	illicit	needs-root		cit: arouse; set in motion; summon | lic/licit: permissible; unrestrained | lic: be permitted
 3.43	coroner	needs-root		coron: crown
 3.43	horrendous	needs-root		horr: shudder; stand on end
 3.43	hostel	needs-root		hosp: guest; host | hosp: host
@@ -1478,7 +1372,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.37	ambiguity	needs-root		ambi: about; around; both (prefix)
 3.37	bipartisan	needs-root		bi: twice; two
 3.37	delusion	needs-root		de: away; downward completely (prefix); off; reversal; undoing | lus: laugh; mock; play; sport
-3.37	beneficiary	needs-root		fic: do; make
 3.37	relic	needs-root		lict: leave | linqu/lict: leave
 3.37	morphine	needs-root		morph: form; shape
 3.37	sanitary	needs-root		san: health; healthy | sanit: health
@@ -1491,7 +1384,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.37	ecstatic	needs-root		stat/sta/stet/stitu/stit: stand; condition; still
 3.37	reunite	needs-root		uni/un: one; single
 3.36	archaic	needs-root		archaeo: OLD; ancient
-3.36	cosmopolitan	needs-root		cosm: order; ornament; universe; world | cosm: world; order; universe
 3.36	decorate	needs-root		decor: beauty; elegance; splendor | decor: ornament; acceptable | dign: suitable; worthy
 3.36	rebellious	needs-root		re: again; back (prefix)
 3.36	undesirable	needs-root		sir: heavenly body; star
@@ -1512,7 +1404,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.35	authentication	needs-root		auth: author
 3.35	cadet	needs-root		capit/cipit: head
 3.35	herpes	needs-root		herpet/herp: creep; reptile
-3.35	pedestal	needs-root		ped: foot
 3.35	pedigree	needs-root		ped: foot
 3.35	ponder	needs-root		pond: hang; weigh; pay; consider; weight
 3.34	acidic	needs-root		acid: sour
@@ -1539,7 +1430,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.33	grieve	needs-root		grav: heavy; weighty | gravid/grav: heavy; pregnant; weighty
 3.33	harmonic	needs-root		harm: a joining; fitting; joint
 3.33	holistic	needs-root		holo: whole
-3.33	saline	needs-root		sal: salt
 3.33	ultraviolet	needs-root		ultra: beyond (prefix)
 3.33	migraine	needs-root		crani: skull
 3.33	propeller	needs-root		pel: drive; push
@@ -1587,19 +1477,15 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.29	ineligible	needs-root		lect: choose; gather; variety
 3.29	sporadic	needs-root		spor: sow; scatter; seed
 3.28	amplitude	needs-root		ampl: large; spacious
-3.28	ardent	needs-root		ard: burn
 3.28	epitome	needs-root		epi: on the outside (prefix); over; upon | tom: cut
 3.28	degrade	needs-root		grad/gred/gress: walk; step; go | grad: degree; go; step; walk
 3.28	horrid	needs-root		horr: shudder; stand on end
 3.28	quadrant	needs-root		quadr: fourfold; square
 3.28	grotesque	needs-root		cryph/crypt: hide; hidden; secret
 3.28	adamant	needs-root		demn/damn/dam: to inflict loss upon; loss; harm; tame
-3.28	decimal	needs-root		decem/decim/dec/deca/deic: ten; tenth; speak; point
 3.28	topography	needs-root		top: place; location; state
 3.28	entropy	needs-root		trop: turn
-3.27	trident	needs-root		dent: tooth | tri: three
 3.27	dogma	needs-root		doc/dog: teach; opinion; tenet; praise | dogm: opinion
-3.27	fixation	needs-root		fix: attach; fastened | fix: fastened; fixed
 3.27	poignant	needs-root		poign: point; prick | pung/punct: point; prick
 3.27	quaint	needs-root		gnit/gnostic/gnos: know | quaint: know
 3.27	abound	needs-root		und: be excessive; flow; overflow; wave | und: wave
@@ -1618,7 +1504,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.26	tortoise	needs-root		tort: twist; wring
 3.26	dismal	needs-root		mal/male: badly; improperly; wrongly; wretchedly
 3.26	orthodoxy	needs-root		orth: straight; straightening; correcting
-3.26	paternal	needs-root		pater/patr: father; country
 3.26	sorority	needs-root		soror: sister
 3.26	detriment	needs-root		ter/tris: rub; wear; three
 3.25	aversion	needs-root		abs: apart (prefix); away from; off
@@ -1641,7 +1526,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.24	cinematography	needs-root		cine: motion picture; move
 3.24	forte	needs-root		fort: strong
 3.24	nocturnal	needs-root		noct: night | nyc: night
-3.24	paternity	needs-root		pater/patr: father; country | pater: father
 3.24	plethora	needs-root		plet: fill; full
 3.24	vigil	needs-root		vig: lively; vigor
 3.24	euphoria	needs-root		eu: well; good
@@ -1653,13 +1537,11 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.23	cryptic	needs-root		cryph/crypt: hide; hidden; secret | crypt: hidden; vault
 3.23	deletion	needs-root		del: delete | del: destroy; erase
 3.23	domino	needs-root		domin: lord; master
-3.23	prefix	needs-root		fix: attach; fastened | fix: fastened; fixed
 3.23	itinerary	needs-root		itiner: journey
 3.23	renegade	needs-root		neg: deny | negat/neg: deny; negate
 3.23	pantry	needs-root		pan: bread
 3.23	triad	needs-root		tri: three
 3.23	proctor	needs-root		cura/cur: care
-3.23	neurology	needs-root		log: word; reason; speech; thought; study; science; theory | neur: nerve; sinew
 3.22	armistice	needs-root		arma: arms; implements; tools; weapon
 3.22	armory	needs-root		arma: arms; implements; tools; weapon
 3.22	auspices	needs-root		au: bird
@@ -1716,7 +1598,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.19	caricature	needs-root		caric: load; wagon
 3.19	chandelier	needs-root		chand: burn; glow
 3.19	glossary	needs-root		gloss/glott/glot: tongue; speech; language | gloss: language; tongue; word
-3.19	kilometer	needs-root		kilo: one thousand (prefix) | kilo: thousand
 3.19	ornate	needs-root		orn: adorn; furnish | orn: decorate; furnish
 3.19	palpable	needs-root		palp: feel
 3.19	complacent	needs-root		plac/plais/pleas: calm; please; soothe; gratify | plac: please
@@ -1749,7 +1630,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.18	exploratory	needs-root		plor: cry out; complain; wail
 3.18	dispersion	needs-root		sperg/spers: scatter; sprinkle
 3.18	respite	needs-root		spect/spec/spic: appear; look; see; spectrum
-3.18	polytechnic	needs-root		technic-/techni-/techn-: art; skill; technique
 3.17	condone	needs-root		don: gift; give | don: give
 3.17	anemia	needs-root		em: buy; blood | emia: blood condition (suffix)
 3.17	euthanasia	needs-root		eu: good; well (prefix) | eu: well; good | than-: death
@@ -1793,13 +1673,11 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.14	displeasure	needs-root		plac: please
 3.14	jurisprudence	needs-root		jus/jur: law; justice; judge; ritual; swear | prud: foresee
 3.14	tranquil	needs-root		quiet: quiet; rest
-3.14	sedentary	needs-root		sed/sid/sess: settle; calm; sit | sed: settle; sit
 3.14	sorcerer	needs-root		sort: kind; lot
 3.14	sorcery	needs-root		sort: kind; lot
 3.14	avert	needs-root		vers/verg/vert/ver: turn; range; totality; world | vert: turn
 3.14	chromium	needs-root		chrom: color; color type
 3.14	asymmetric	needs-root		metr: measure; apportion; surrounding stuff
-3.14	dispersal	needs-root		sperg/spers: scatter; sprinkle
 3.13	inept	needs-root		apt/ept: able; capable; able to; having the quality of; fit | apt: fit; join | ept: fit; join
 3.13	cynicism	needs-root		cyn: dog
 3.13	dowry	needs-root		don: gift; give
@@ -1828,13 +1706,11 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.12	relinquish	needs-root		linqu/lict: leave | linqu: abandon; leave
 3.12	patriarchy	needs-root		arch: leader; ruler; first; govern
 3.12	inhalation	needs-root		hal/hel: breathe
-3.12	salient	needs-root		ient: indication; kind of agent; form adjective | sili/saul: jump
 3.12	piedmont	needs-root		ped: foot
 3.11	cyclops	needs-root		cycl: circle | cycl: circle; wheel | optic: eye; observation; perception; likeness; vision
 3.11	folio	needs-root		foli: leaf
 3.11	frugal	needs-root		frug: fruits of the earth; thrift
 3.11	hologram	needs-root		gramm/gram: letter; writing | holo: whole
-3.11	polynomial	needs-root		nom: arrangement; law; order; specified area of knowledge | nom: name; term | poly: many (prefix)
 3.11	adoration	needs-root		orat: address; pray; speak | orat: pray; plead; address; speak
 3.11	trespass	needs-root		pass: step
 3.11	pneumatic	needs-root		pneuma: air; breath; wind | pneumo/pneumo: blow; breathe; lung; respiration; air, gas
@@ -1889,11 +1765,9 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.08	heterogeneous	needs-root		gene/genit/gen/gn: birth; beget; race; kind; produce; production; origin; formation | hetero: another (prefix); different; other
 3.08	irritate	needs-root		irrir: exasperate; excite; provoke
 3.08	nascent	needs-root		gnant/nai/nat: born; be from; spring forth; source; birth; tribe | nasc: be born | nat: born
-3.08	neurotic	needs-root		neur: nerve | neur: nerve; sinew
 3.08	octave	needs-root		octav: eight
 3.08	psychoanalysis	needs-root		psych: mind; soul; spirit | psych: mind; spirit
 3.08	viceroy	needs-root		roy: king; rule
-3.08	humiliate	needs-root		hum: ground; earth
 3.08	lesion	needs-root		lid/lis: hurt; strike
 3.08	postmodern	needs-root		moder/mod: measure; change; manner; way
 3.08	momentary	needs-root		mot: move; motion
@@ -1916,7 +1790,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.07	pacifist	needs-root		pac: peace
 3.07	paraphrase	needs-root		para: at or to one side of; beside; beyond; past by (prefix)
 3.07	pediatrician	needs-root		ped: child
-3.07	unify	needs-root		uni/un: one; single | uni: one
 3.07	verbatim	needs-root		verb: word
 3.07	creole	needs-root		creat: create; make
 3.07	gamergate	needs-root		erg/urg/org: work; effect
@@ -1945,16 +1818,12 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.06	requiem	needs-root		quies/quit: rest
 3.05	asterisk	needs-root		aster: star | aster: star; star-shaped
 3.05	bonanza	needs-root		bon: good
-3.05	incendiary	needs-root		cand/cend: glisten; glowing; iridescent; shine; shining | cand: burn; glow
 3.05	fervor	needs-root		ferv: boil | ferv: boil; glow
-3.05	suffix	needs-root		fix: attach; fastened | fix: fastened; fixed
 3.05	deluge	needs-root		lug: wash | lut/lu/lv: wash; loosen; dissolve
 3.05	somber	needs-root		mb: shadow | ombr: shade | umbra/umbr: shade; shadow
 3.05	melodrama	needs-root		melo: song
 3.05	tremor	needs-root		trem: tremble
-3.05	utilitarian	needs-root		us: use; useful; utility | ut: use | util: use; useful
 3.05	convoluted	needs-root		volu: roll; turn
-3.05	paragon	needs-root		ac: point; sharp; tip; extremities; subject to being
 3.05	undivided	needs-root		divid/divis: separated into parts; divided
 3.05	fiduciary	needs-root		fid: faith; trust
 3.05	impediment	needs-root		ped: foot
@@ -1963,7 +1832,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.04	armament	needs-root		arma: arms; implements; tools; weapon
 3.04	belligerent	needs-root		bell: war
 3.04	friar	needs-root		fratr: brother
-3.04	polygon	needs-root		gon: angle; corner | gon: corner; angle; knee; birth; type; origin; seed | poly: many
 3.04	idyllic	needs-root		ideid: form; shape
 3.04	insatiable	needs-root		in: not (prefix) | satis/sati/sat: enough; sufficient | satis: enough; sufficient
 3.04	obtuse	needs-root		ob: against; on; over; to; toward | tus: strike
@@ -1978,7 +1846,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.04	evasive	needs-root		vas: advance; go
 3.04	decadent	needs-root		cid/cad/cas: fall
 3.04	monochrome	needs-root		chrom: color; color type
-3.04	neurologist	needs-root		neur: nerve; sinew
 3.04	quartermaster	needs-root		quadr/quarter/quart: four; fourth
 3.04	radiance	needs-root		radi: beam; spoke; radiation; ray; shine
 3.04	trove	needs-root		trop: turn
@@ -2029,12 +1896,10 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 3.01	bovine	needs-root		bov/bos/bou/bu: cow; ox; milk
 3.01	cervix	needs-root		cervic: neck; cervix; neck of uterus
 3.01	inflate	needs-root		fla: blow
-3.01	kilogram	needs-root		kilo: thousand
 3.01	quart	needs-root		quadr/quarter/quart: four; fourth
 3.01	sepsis	needs-root		sep: putrid; infected; rot
 3.01	typography	needs-root		typ: impression; model; print; stamp
 3.00	nefarious	needs-root		fa: say; speak; spoken of | fas: law; right
-3.00	rehabilitate	needs-root		hab: have; hold | habit/hab: have; dwell; live; abide
 3.00	mishap	needs-root		hap: by chance
 3.00	tenet	needs-root		ten: hold; keep | tent/ten/tin/tain/tent: hold; keep; maintain
 3.00	travesty	needs-root		vest: clothe; dress; garment | vest: clothe; garment; dress
@@ -2072,7 +1937,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.98	mistreatment	needs-root		treat: draw; handle
 2.98	archangel	needs-root		arch: leader; ruler; first; govern
 2.98	baritone	needs-root		baro: weight; pressure | ton: pressure; tension; stretch
-2.98	cosmology	needs-root		cosm: world; order; universe
 2.98	indiscriminately	needs-root		crimin: judgement; distinguish
 2.98	mademoiselle	needs-root		domin: lord; master
 2.98	locale	needs-root		loc: place
@@ -2088,7 +1952,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.97	idiom	needs-root		idi: own; peculiarity; individual | idio: one's own; peculiar
 2.97	elated	needs-root		lat: bring; carry; lift
 2.97	posterity	needs-root		post: after (prefix) | poster: after; behind | poster: coming after; following
-2.97	posthumous	needs-root		post: after (prefix)
 2.97	exuberant	needs-root		uber: bear abundantly | uber: fruitful; udder
 2.97	vertebrate	needs-root		vert: turn
 2.97	scour	needs-root		cura/cur: care
@@ -2099,7 +1962,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.96	archetype	needs-root		arch: leader; ruler; first; govern | arche: chief; first; original | typ: form; impression; model | typ: impression; model; print; stamp
 2.96	chisel	needs-root		cid/cis: cut; kill | cis: cut; kill | cise: cut; kill
 2.96	luster	needs-root		lustr: enlighten; light
-2.96	salinity	needs-root		sal: salt | sal: salt; jump
 2.96	persevere	needs-root		sever: grave; serious; strict | sever: stern; strict; serious
 2.96	bottomless	needs-root		bottom: bottom
 2.96	elector	needs-root		lect: choose; gather; variety
@@ -2158,14 +2020,11 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.92	exacerbate	needs-root		acerb/acer: bitter; sharp; sour; tip; extremities; height; summit | acerb: bitter
 2.92	causality	needs-root		caus: case; motive; reason; sake
 2.92	concentric	needs-root		centr: center
-2.92	clarion	needs-root		clar: clear
 2.92	recluse	needs-root		clud/clus: close; shut | clus/clud: close; shut | clus: close; shut
 2.92	categorize	needs-root		egor: speak
 2.92	euphemism	needs-root		eu: good; well (prefix)
 2.92	delinquency	needs-root		linqu/lict: leave | linqu: abandon; leave
-2.92	matrimony	needs-root		mater: mother; womb; surrounding stuff | matr: mother
 2.92	onerous	needs-root		oner: burden | oner: burden; load
-2.92	facilitation	needs-root		feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 2.92	congregate	needs-root		greg: flock; herd; gather
 2.92	ejaculation	needs-root		jac: throw; lie
 2.92	necrosis	needs-root		necr/nec/nic: dead; death; harm
@@ -2177,7 +2036,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.91	lunacy	needs-root		lun: moon
 2.91	nonpartisan	needs-root		non: not (prefix)
 2.91	noxious	needs-root		nox: harm; hurt | nox: hurt
-2.91	octagon	needs-root		oct: eight
 2.91	opulent	needs-root		opul: wealth
 2.91	repugnant	needs-root		pugn/pug: fight; fist | pugn: fight
 2.91	pungent	needs-root		pung/punct: point; prick | pung: point; prick
@@ -2199,7 +2057,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.90	virtuoso	needs-root		vir: man
 2.90	cardiologist	needs-root		cardi/card: heart
 2.90	grotto	needs-root		cryph/crypt: hide; hidden; secret
-2.90	facilitator	needs-root		feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 2.90	infatuation	needs-root		fatu: feeble; foolish; silly; useless
 2.90	aquifer	needs-root		fer: bear; carry; bear; send; bring
 2.90	misogynist	needs-root		gyn/gynec: woman; female
@@ -2243,7 +2100,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.87	sagittarius	needs-root		sag: perceive; seek out
 2.87	distinguishable	needs-root		stingu/stinct/stinc/tinct: apart; mark; brand | stingu: pierce; prick; quench
 2.87	campo	needs-root		camp: field
-2.87	nautilus	needs-root		naut/nav: ship; boat; seafaring; spaceflight; voyager
 2.87	epithet	needs-root		thetic/thet/the: arrangement; in order; put; place
 2.86	belittle	needs-root		be: on all sides; overly; with a quality (prefix)
 2.86	decadence	needs-root		cad: fall; sink | cid/cad/cas: fall
@@ -2254,7 +2110,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.86	conjugate	needs-root		jug: join; yoke
 2.86	pollute	needs-root		lut: wash
 2.86	cutaneous	needs-root		cut: hide; skin; shape
-2.86	argon	needs-root		erg/urg/org: work; effect
 2.86	pentecostal	needs-root		penta: five
 2.86	thrombosis	needs-root		thrombo: clot
 2.85	ambulatory	needs-root		ambul: walk | ambul: walk; go
@@ -2264,7 +2119,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.85	nullify	needs-root		null/nul: none; nothing | null: none; nothing
 2.85	omnipotent	needs-root		omni: all | potent: potent; powerful
 2.85	quintet	needs-root		quint: five
-2.85	parallax	needs-root		allel/all: other; different
 2.85	chiropractor	needs-root		chir: hand
 2.85	chromosomal	needs-root		chrom: color; color type
 2.85	euphoric	needs-root		eu: well; good
@@ -2277,7 +2131,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.84	biodegradable	needs-root		bio: life
 2.84	bonny	needs-root		bon: good
 2.84	kaleidoscope	needs-root		cal: beautiful; beauty | eido: form; image; shape | eido: image; shape; form
-2.84	hexagon	needs-root		gon: angle; corner | gon: corner; angle; knee; birth; type; origin; seed | hex: six (prefix) | hex: six; sixth
 2.84	demography	needs-root		dem: people | graph: write
 2.84	gynecology	needs-root		gyn/gynec: woman; female | gyn: woman
 2.84	lactation	needs-root		lact: milk | lacta/lact/lac: milk
@@ -2304,7 +2157,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.83	terracotta	needs-root		terr: earth; land
 2.83	tropic	needs-root		trop: turn
 2.82	conceit	needs-root		ceit: hold; seize; take | ceiv: take; hold; seize
-2.82	indelible	needs-root		del: delete | del: destroy; erase
 2.82	falter	needs-root		fall: beguile; deceive; err
 2.82	itinerant	needs-root		itiner: journey
 2.82	peregrine	needs-root		egri: field
@@ -2336,7 +2188,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.81	consternation	needs-root		strat: spread; strew; stretch; level; layer
 2.80	ambivalence	needs-root		ambi: about; around; both (prefix) | val: strength; worth
 2.80	amphitheater	needs-root		amphi: around (prefix); on both sides
-2.80	microcosm	needs-root		cosm: order; ornament; universe; world | cosm: world; order; universe | micro: small
 2.80	dysentery	needs-root		dys: abnormal; bad; ill; impaired; sick
 2.80	iridescent	needs-root		esce: becoming (suffix); process of beginning
 2.80	firmness	needs-root		firm: firm; steadfast; strong
@@ -2375,7 +2226,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.78	caudal	needs-root		caud: tail
 2.78	encephalitis	needs-root		cephal: head
 2.78	glycogen	needs-root		glyc: sweet; sugar
-2.78	polygraph	needs-root		graph: draw; write; produce image; descriptive science
 2.78	homologous	needs-root		hom: alike; same; earthling; human
 2.78	elude	needs-root		lud/lus: play
 2.78	esplanade	needs-root		plana/plano: flat
@@ -2428,7 +2278,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.75	chroma	needs-root		chrom: color; color type
 2.75	marinade	needs-root		mar: sea
 2.75	melancholic	needs-root		melan: black; dark
-2.75	modulus	needs-root		moder/mod: measure; change; manner; way
 2.75	chlorophyll	needs-root		phyll: leaf
 2.75	quash	needs-root		cuti/cuss: shake
 2.74	beseech	needs-root		be: on all sides; overly; with a quality (prefix)
@@ -2549,7 +2398,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.67	stratum	needs-root		stern: spread (out); stretch out | strat: spread; strew; stretch; level; layer
 2.67	encephalopathy	needs-root		cephal: head
 2.67	chiral	needs-root		chir: hand
-2.67	indenture	needs-root		dent: tooth
 2.67	apostate	needs-root		stat/sta/stet/stitu/stit: stand; condition; still
 2.66	apocryphal	needs-root		apo: away (prefix) | cryph/crypt: hide; hidden; secret | crypt: hidden; vault
 2.66	excavate	needs-root		cav: hollow
@@ -2570,11 +2418,9 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.65	extraordinaire	needs-root		ordin: order; rank; arrange; regulate
 2.65	pacifism	needs-root		pac: peace
 2.64	cataclysm	needs-root		cata: down (prefix)
-2.64	indentation	needs-root		dent: tooth
 2.64	fallacious	needs-root		fall: beguile; deceive; err | fall: false; deceive
 2.64	fastidious	needs-root		fast: conceit; pride
 2.64	gastronomy	needs-root		gaster/gastri/gastro/gastr: stomach | gastr: stomach | nom: arrangement; law; order; specified area of knowledge
-2.64	patrician	needs-root		pater/patr: father; country | patr: father
 2.64	proviso	needs-root		provis: provide | vid: appear; see | vis: see; appear
 2.64	sacrilege	needs-root		lect: choose; gather; variety | sacr: holy; sacred
 2.64	insipid	needs-root		sap: taste; to be wise | sipi: taste; wise
@@ -2597,7 +2443,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.64	clairvoyant	needs-root		vid: appear; see
 2.63	contrarian	needs-root		contra: against; opposite
 2.63	coalesce	needs-root		esce: becoming (suffix); process of beginning
-2.63	affix	needs-root		fix: attach; fastened | fix: fastened; fixed
 2.63	germinate	needs-root		germ: bud; seed; vital part | germ: sprout; vital part
 2.63	laceration	needs-root		lacer: mangled; torn | lachrym: tear; tear duct
 2.63	microbe	needs-root		micro: small
@@ -2618,7 +2463,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 2.63	entente	needs-root		tens/tend/tent: stretch; strain; thin
 2.63	retinue	needs-root		tent/ten/tin/tain/tent: hold; keep; maintain
 2.63	thermoplastic	needs-root		therm: heat; warm
-2.63	parenthesis	needs-root		thetic/thet/the: arrangement; in order; put; place
 2.62	forestall	needs-root		fore: before; earlier (prefix); previous
 2.62	reticent	needs-root		tac: be silent | tic: be silent | tic: silent
 2.62	vanquish	needs-root		vanq: conquer | vinc: conquer

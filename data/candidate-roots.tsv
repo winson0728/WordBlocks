@@ -1,29 +1,26 @@
 # Roots in the open datasets that WordBlocks does not have yet, by number of common words they unlock.
 root	common words	English meaning	examples
-feck	26	do; make; shape; fashion; face; form; figure; effect; noun of action or associat	office, official, fiction, affair, classification, facilitate, faint, feasible
-fec	26	do; make; shape; fashion; face; form; figure; effect; noun of action or associat	office, official, fiction, affair, classification, facilitate, faint, feasible
-gene	24	birth; beget; race; kind; produce; production; origin; formation	gender, genuine, genetic, genius, gentle, indigenous, genesis, eugene
-genit	24	birth; beget; race; kind; produce; production; origin; formation	gender, genuine, genetic, genius, gentle, indigenous, genesis, eugene
-gn	24	birth; beget; race; kind; produce; production; origin; formation	gender, genuine, genetic, genius, gentle, indigenous, genesis, eugene
+feck	24	do; make; shape; fashion; face; form; figure; effect; noun of action or associat	office, official, fiction, affair, classification, facilitate, faint, feasible
+fec	24	do; make; shape; fashion; face; form; figure; effect; noun of action or associat	office, official, fiction, affair, classification, facilitate, faint, feasible
+gene	23	birth; beget; race; kind; produce; production; origin; formation	gender, genuine, genetic, genius, gentle, indigenous, genesis, eugene
+genit	23	birth; beget; race; kind; produce; production; origin; formation	gender, genuine, genetic, genius, gentle, indigenous, genesis, eugene
+gn	23	birth; beget; race; kind; produce; production; origin; formation	gender, genuine, genetic, genius, gentle, indigenous, genesis, eugene
 cipit	15	head	chief, captain, chapter, precipitation, recap, cadet, achievable, biceps
 auth	15	author	author, authority, authorized, authentic, authorization, authorised, authenticity, authoritarian
 urg	14	work; effect	organic, organ, surgeon, organize, allergic, energetic, allergy, organism
 org	14	work; effect	organic, organ, surgeon, organize, allergic, energetic, allergy, organism
-patr	12	father	patrick, patron, patriotism, patronage, patriarch, paternal, paternity, padre
-cad	11	fall; sink	chance, cheat, decay, parachute, cascade, chute, cadence, decadent
 mani	11	hand	manner, manipulation, manifest, manifesto, managerial, maneuver, manifestation, manipulative
 divid	11	divide	individual, division, device, divided, divide, dividend, divisive, individuality
 divis	11	divide	individual, division, divided, divide, dividend, divisive, individuality, devise
 greg	11	flock; herd	aggregate, congregation, segregation, aggregation, egregious, congregational, congregate, aggregator
+cad	10	fall; sink	chance, cheat, decay, parachute, cascade, chute, cadence, decadent
 carn	10	flesh	carnival, incarnation, carnage, reincarnation, incarnate, carnal, carnivorous, carrion
-cura	10	attention; care	proxy, proctor, curate, manicure, scour, reinsurance, surety, pedicure
+cura	10	attention; care	proxy, proctor, curate, manicure, scour, surety, reinsurance, pedicure
 lus	10	laugh; mock; play; sport	illusion, elusive, collusion, delusion, ludicrous, prelude, lackluster, allusion
 long	10	long	lifelong, longevity, longitudinal, longitude, prolong, oblong, lunge, elongate
-stet	10	stand; condition; still	status, statue, statute, statistic, ecstatic, thermostat, electrostatic, substation
 dynam	9	force; power; energy; strength	dynamic, dynamics, dynasty, dynamite, aerodynamic, dynamo, aerodynamics, dynamism
 car	9	flesh	carnival, incarnation, carnage, reincarnation, incarnate, carnal, carrion, carnation
 centr	9	center	central, centre, eccentric, centric, centrist, centrifugal, concentric, epicenter
-gravid	9	heavy; pregnant; weighty	grave, grief, gravitational, grieve, grievous, grievance, gravitate, aggravation
 verg	9	turn; range; totality; world	versus, verse, vertical, pervert, vertex, perverse, vertigo, avert
 phan	9	appear; bring to light; show	fantastic, fantasy, fancy, emphasis, phenomenon, phantom, epiphany, phenotype
 plac	9	please	please, pleasure, pleasant, placebo, complacent, displeasure, placid, placate
@@ -37,12 +34,9 @@ cus	8	cause; motive; reason; sake; case	because, cause, excuse, accuse, accusati
 chrom	8	color; pigment	chrome, chromosome, chromium, monochrome, chromatic, chromosomal, chroma, monochromatic
 gnos	8	know; knowledge; recognition	acquaintance, reconnaissance, quaint, notoriety, incognito, agnostic, connoisseur, cognizant
 fall	8	beguile; deceive; err	fault, false, default, fallacy, infallible, falter, falsetto, fallacious
-hyd	8	water; liquid	hydraulic, hydra, hydroelectric, hydrophobic, hydrolysis, hydraulics, hydrant, hydrochloric
-jac	8	lie; throw	adjacent, trajectory, objectivity, ejection, ejaculation, subjectivity, projective, objectification
-neur	8	nerve	neural, neurology, neuron, neurotic, neurologist, neurosurgery, neuropathy, neurosurgeon
-pater	8	father	patrick, patron, patronage, paternal, paternity, padre, repatriation, patrician
+gravid	8	heavy; pregnant; weighty	grave, grief, grieve, grievous, grievance, gravitate, aggravation, gravitation
 quadr	8	fourfold; square	quarter, squadron, quartet, quadrant, quadruple, quartermaster, quart, quadrangle
-arma	7	arms; implements; tools; weapon	unarmed, armistice, armory, disarm, armada, armament, armadillo
+arma	7	arms; implements; tools; weapon	unarmed, armory, armistice, disarm, armada, armament, armadillo
 be	7	on all sides; overly; with a quality (prefix)	behavior, beloved, betray, bestow, belittle, bewildering, beseech
 camp	7	field	campaign, champion, championship, campus, campsite, encampment, campo
 cuse	7	cause; motive; reason; sake; case	because, cause, excuse, accuse, accusation, causal, causative
@@ -50,13 +44,14 @@ gnit	7	know	acquaintance, reconnaissance, quaint, notoriety, incognito, connoiss
 gnostic	7	know	acquaintance, reconnaissance, quaint, notoriety, incognito, connoisseur, cognizant
 fil	7	line; thread	profile, filter, filament, fillet, filibuster, filet, defile
 hom	7	alike; same; earthling; human	homosexual, homophobia, homogeneous, homologous, homeostasis, homology, homily
+hyd	7	water; liquid	hydraulic, hydra, hydrophobic, hydrolysis, hydraulics, hydrant, hydrochloric
 top	7	place; location; state	topic, utopia, topography, topology, isotope, dystopia, ectopic
 lud	7	laugh; mock; play; sport	illusion, elusive, ludicrous, prelude, interlude, elude, allude
 plais	7	calm; please; soothe; gratify	please, pleasure, placebo, complacent, placid, placate, implacable
 pleas	7	calm; please; soothe; gratify	please, pleasure, placebo, complacent, placid, placate, implacable
 quart	7	four; fourth	quarter, quarterly, quartet, quadruple, quartermaster, quart, quadrangle
 san	7	heal	insane, insanity, sanitation, sanity, sanitary, sanatorium, sanitarium
-teg	7	touch; arrange; order; feel	contingent, attain, contingency, integer, contiguous, tactile, protectorate
+stet	7	stand; condition; still	statue, statute, statistic, ecstatic, electrostatic, homeostasis, apostate
 demn	7	to inflict loss upon; loss; harm; tame	damage, condemn, condemnation, adamant, damnation, indemnity, indemnify
 damn	7	to inflict loss upon; loss; harm; tame	damage, condemn, condemnation, adamant, damnation, indemnity, indemnify
 dam	7	to inflict loss upon; loss; harm; tame	damage, condemn, condemnation, adamant, damnation, indemnity, indemnify
@@ -70,10 +65,7 @@ ambi	6	about; around; both (prefix)	ambition, ambient, ambiguous, ambiguity, amb
 morph	6	form; shape	morphology, morphine, metamorphosis, amorphous, endorphins, anthropomorphic
 crypt	6	hidden; vault	grotesque, cryptic, crypt, cryptography, grotto, apocryphal
 cryph	6	hide; hidden; secret	grotesque, cryptic, crypt, cryptography, grotto, apocryphal
-clar	6	clear	clear, declaration, declare, clarity, clarinet, clarion
 coron	6	crown	coronation, coroner, corona, corolla, corollary, cornice
-cosm	6	order; ornament; universe; world	cosmic, cosmetic, cosmos, cosmopolitan, cosmology, microcosm
-corr	6	run; course	course, corridor, discourse, courier, cursive, recursive
 crimin	6	crime; distinguish	criminal, discrimination, discriminate, discriminating, indiscriminate, indiscriminately
 cruc	6	cross	cross, crucial, crucifixion, crucifix, crucify, cruciate
 dign	6	suitable; worthy	decent, dignity, decorate, disdain, dainty, indignant
@@ -81,10 +73,12 @@ decor	6	beauty; elegance; splendor	decoration, decorative, decor, decorate, deco
 dur	6	last	duration, endure, endurance, durable, durability, duress
 flam	6	burn	flame, inflammatory, flaming, flamboyant, flamenco, flamethrower
 insul	6	island	peninsula, insulation, isolate, insular, insulate, islet
+jac	6	lie; throw	adjacent, ejection, ejaculation, subjectivity, projective, objectification
 theo	6	god; God	enthusiasm, theology, timothy, theodore, atheism, pantheon
 gnant	6	born; be from; spring forth; source; birth; tribe	pregnant, pregnancy, renaissance, nativity, nascent, cognate
 nai	6	born; be from; spring forth; source; birth; tribe	pregnant, pregnancy, renaissance, nativity, nascent, cognate
 orat	6	pray; plead; address; speak	oracle, adore, adoration, oratory, orator, oration
+pater	6	father; country	patrick, patron, patronage, padre, repatriation, patrician
 quarter	6	four; fourth	quarter, quartet, quadruple, quartermaster, quart, quadrangle
 radi	6	ray; shine	radiation, radius, radioactive, radiant, radiance, radioactivity
 rig	6	straight; direct; straighten; rule	regime, regiment, surge, erection, regimen, rectum
@@ -92,11 +86,8 @@ sed	6	settle; sit	sediment, sedentary, sedimentary, sedative, sedate, supersede
 stinc	6	brand; mark; prick	distinction, distinctive, distinguish, instinct, extinguish, distinguishable
 suad	6	persuade; recommend	persuade, persuasive, persuasion, dissuade, suave, assuage
 surg	6	rise	source, surge, resurrection, insurgent, insurrection, resurgent
-ting	6	touch; arrange; order; feel	contingent, attain, contingency, contiguous, tactile, protectorate
-tat	6	touch; arrange; order; feel	contingent, attain, contingency, contiguous, tactile, protectorate
-tig	6	touch; arrange; order; feel	contingent, attain, contingency, contiguous, tactile, protectorate
+teg	6	touch; arrange; order; feel	contingent, attain, contingency, integer, contiguous, protectorate
 trop	6	turn	tropical, trophy, entropy, trope, trove, tropic
-volu	6	will	volume, involuntary, convoluted, revolting, voluminous, voluptuous
 vot	6	a wish; vow	voter, devotion, devote, devout, devotional, devotee
 misc	6	mix	mixture, remix, miscellaneous, promiscuous, meddle, promiscuity
 mix	6	mix	mixture, remix, miscellaneous, promiscuous, meddle, promiscuity
@@ -115,15 +106,10 @@ cav	5	hollow	cavity, excavation, concave, cavernous, excavate
 fug	5	flee	refuge, fugitive, centrifugal, centrifuge, subterfuge
 cours	5	run	course, discourse, courier, recourse, concourse
 dens	5	close; thick	density, dense, condensation, condensate, condense
-dent	5	tooth	dental, trident, dandelion, indenture, indentation
 semin	5	seed; sow	seminar, seminary, seminal, disseminate, insemination
 empt	5	buy; take	example, premium, redemption, exempt, redeem
 eu	5	good; well (prefix)	euphoria, euthanasia, eulogy, euphemism, euphoric
-fix	5	fastened; fixed	fixture, fixation, prefix, suffix, affix
-fluc	5	flow; river	flush, influx, fluctuate, fluidity, fluctuation
-fluv	5	flow; river	flush, influx, fluctuate, fluidity, fluctuation
-fortun	5	luck; chance; casual	fortune, fortunately, fortunate, misfortune, fortuitous
-gon	5	angle; corner	pentagon, polygon, hexagon, trigonometry, gonorrhea
+fortun	5	luck; chance; casual	fortune, fortunate, fortunately, misfortune, fortuitous
 gred	5	walk; step; go	grade, degrade, retrograde, ingress, egress
 grand	5	great; large	grandeur, grandchild, grandiose, grandstand, grandparent
 herit	5	heir; stick; hold	heritage, inheritance, inherit, hereditary, heiress
@@ -132,21 +118,35 @@ lact	5	milk	lettuce, lactose, lactic, lactation, lactate
 later	5	side	lateral, bilateral, collateral, unilateral, multilateral
 leo	5	lion	leonard, leopard, leopold, chameleon, dandelion
 lut	5	wash; loosen; dissolve	pollution, dilute, dilution, deluge, pollute
-mater	5	mother	maternal, maternity, matron, matrimony, matriarch
-matr	5	mother	maternal, metropolis, matron, matrimony, matriarch
 mount	5	hill; mountain	amount, paramount, insurmountable, tantamount, mountaineer
 orn	5	adorn; furnish	ornamental, ornament, ornate, adorn, ornamentation
 plor	5	cry out; wail	explore, exploration, deplorable, exploratory, implore
 plur	5	more	double, surplus, plural, plurality, quadruple
-sal	5	salt	salary, salad, saline, saltwater, salinity
 speci	5	kind; sort	species, spice, specimen, subspecies, speciation
 stingu	5	apart; mark; brand	distinction, distinctive, distinguish, extinguish, distinguishable
 stinct	5	apart; mark; brand	distinction, distinctive, distinguish, extinguish, distinguishable
 tinct	5	apart; mark; brand	distinction, distinctive, distinguish, extinguish, distinguishable
+tig	5	contact; touch	contingent, attain, contingency, contiguous, protectorate
+ting	5	touch; arrange; order; feel	contingent, attain, contingency, contiguous, protectorate
+tat	5	touch; arrange; order; feel	contingent, attain, contingency, contiguous, protectorate
 tuit	5	look after; protect; watch	tuition, tutor, intuitive, intuition, tutelage
-aero	5	air; atmosphere	aerobic, aerodynamic, aeroplane, aeronautics, aerosol
+volu	5	roll; turn	volume, convoluted, revolting, voluminous, voluptuous
+aero	5	air; atmosphere	aerodynamic, aerobic, aeroplane, aeronautics, aerosol
 custom	5	become used to; form a habit of	customer, accustomed, customary, customize, customarily
 sili	5	jump	sally, salient, assailant, resiliency, sault
 saul	5	jump	sally, salient, assailant, resiliency, sault
 magnet	5		magnetic, magnet, magnesium, manganese, magnetism
 melan	5	black; dark	melancholy, melanoma, melatonin, melanin, melancholic
+oxi	5	sharp; pointed	dioxide, oxide, monoxide, hypoxia, oxymoron
+ox	5	sharp; pointed	dioxide, oxide, monoxide, hypoxia, oxymoron
+prot	4	first; earliest	protein, protocol, protagonist, proton
+allel	4	other; different	parallel, allegory, allele, parallax
+gyn	4	woman; female	misogyny, misogynist, gynecology, androgynous
+gynec	4	woman; female	misogyny, misogynist, gynecology, androgynous
+bell	4	war	rebel, rebellion, belligerent, antebellum
+poster	4	coming after; following	anterior, posterior, preposterous, posterity
+morpho	4	form; shape	metamorphosis, amorphous, endorphins, anthropomorphic
+sep	4	putrid; infected; rot	septic, sepsis, antiseptic, sepia
+ept	4	fit; join	comfortably, visibly, adept, inept
+technic	4	art; skill; technique	technique, architect, polytechnic, pyrotechnics
+techni	4	art; skill; technique	technique, architect, polytechnic, pyrotechnics

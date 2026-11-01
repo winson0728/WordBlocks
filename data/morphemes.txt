@@ -21,6 +21,8 @@ octo|pre|octo- / octa-|八|希臘語 okto|num
 dec|pre|dec- / decim-|十|拉丁語 decem|num
 kilo|pre|kilo-|千|希臘語 khilioi|num
 milli|pre|milli-|千分之一|拉丁語 mille|num
+meta|pre|meta- / met-|之後、超越|希臘語 meta|dir
+ambi|pre|ambi- / amb-|兩邊、周圍|拉丁語 ambi-|dir
 chron|root|chron|時間|希臘語 chronos|time
 pro|pre|pro- / pur-|向前、預先；代替|拉丁語 pro|dir
 de|pre|de-|向下；去除、反轉|拉丁語 de|dir
@@ -76,7 +78,7 @@ anti|pre|anti- / ant-|對抗|希臘語 anti|rel
 auto|pre|auto-|自己|希臘語 autos|rel
 micro|pre|micro-|微小|希臘語 mikros|rel
 tele|pre|tele-|遠|希臘語 tele|rel
-uni|pre|uni-|單一|拉丁語 unus|num
+uni|pre|uni- / un-|單一|拉丁語 unus|num
 bi|pre|bi-|二、雙|拉丁語 bi-|num
 tri|pre|tri-|三|拉丁語 tri-|num
 mono|pre|mono- / mon-|單一、獨自|希臘語 monos|num
@@ -100,11 +102,11 @@ press|root|press|壓|拉丁語 premere|move
 pend|root|pend / pens|懸掛；秤重付錢|拉丁語 pendere|move
 vert|root|vert / vers / verse|轉|拉丁語 vertere|move
 cap|root|cap / capt / cept / ceive / cip / cipi / cipe|拿、抓|拉丁語 capere|move
-fact|root|fact / fac / fect / fic / fit / feat|做|拉丁語 facere|move
+fact|root|fact / fac / fect / fic / fit / feat / fair|做|拉丁語 facere|move
 vent|root|vent / ven / vene|來|拉丁語 venire|move
 tend|root|tend / tens / tense / tent|伸展|拉丁語 tendere|move
 clud|root|clud / clude / clus / close / clos|關閉|拉丁語 claudere|move
-mot|root|mot / mote / mob / move / mov|移動|拉丁語 movere|move
+mot|root|mot / mote / mob / move / mov / mo|移動|拉丁語 movere|move
 cur|root|cur / curr / curs|跑、流|拉丁語 currere|move
 flu|root|flu|流|拉丁語 fluere|move
 ped|root|ped / pede|腳|拉丁語 pes, pedis|move
@@ -114,7 +116,7 @@ aud|root|aud|聽|拉丁語 audire|sense
 voc|root|voc / voke|聲音、呼喚|拉丁語 vocare|sense
 sign|root|sign|記號|拉丁語 signum|sense
 scope|root|scope|看|希臘語 skopein|sense
-lingu|root|lingu|舌頭、語言|拉丁語 lingua|sense
+lingu|root|lingu / langu|舌頭、語言|拉丁語 lingua|sense
 ton|root|ton / tone|聲調|希臘語 tonos|sense
 log|root|log / logue|話語|希臘語 logos|sense
 onym|root|onym|名字|希臘語 onyma|sense
@@ -154,7 +156,7 @@ plic|root|plic / ply / plicit / pli|摺疊|拉丁語 plicare|move
 tact|root|tact / tang / tegr / tag|接觸|拉丁語 tangere|sense
 quir|root|quir / quire / quest / quisit|尋找、要求|拉丁語 quaerere|mind
 cura|root|cur / cure / curi / sure / sur|照料、擔心|拉丁語 cura|mind
-nat|root|nat|出生|拉丁語 nasci|life
+nat|root|nat / nate / gnant / naiss|出生|拉丁語 nasci|life
 part|root|part / parti|部分|拉丁語 pars|nature
 sta|root|sta / stat / stance / stant / stitute / stin / sist / ist|站立|拉丁語 stare、sistere|move
 pos|root|pos / posit / pose / pon / pone / pound|放置|拉丁語 ponere|move
@@ -283,7 +285,7 @@ sol|root|sol|太陽|拉丁語 sol|nature
 aqu|root|aqu / aque|水|拉丁語 aqua|nature
 art|root|art / arti|技藝|拉丁語 ars|life
 liter|root|liter|文字|拉丁語 littera|sense
-mens|root|mens / mense|測量|拉丁語 metiri|nature
+mens|root|mens / mense / meas|測量|拉丁語 metiri|nature
 circ|root|circ / circul / circu|圓、環繞|拉丁語 circus|nature
 solus|root|sol / solit|單獨|拉丁語 solus|num
 it|root|it / iti|走、去|拉丁語 ire|move
@@ -361,6 +363,44 @@ panis|root|pan / pani|麵包|拉丁語 panis|life
 sal|root|sal|鹽|拉丁語 sal|nature
 oti|root|oti|閒暇|拉丁語 otium|life
 ess|root|ess / est / sent / sence|存在|拉丁語 esse|life
+milit|root|milit|士兵|拉丁語 miles|life
+centr|root|centr|中心|拉丁語 centrum|nature
+aug|root|aug / auct / auth|增加|拉丁語 augere|move
+hod|root|hod / od|路|希臘語 hodos|nature
+dom|root|dom / domest|家|拉丁語 domus|life
+argu|root|argu|闡明、證明|拉丁語 arguere|mind
+sui|root|sui|自己|拉丁語 sui|rel
+homi|root|homi|人|拉丁語 homo|life
+caus|root|caus / cuse|原因、訴訟|拉丁語 causa|mind
+summ|root|summ|最高、總和|拉丁語 summa|num
+dyn|root|dyn / dynam / dynast|力量|希臘語 dynamis|move
+cruc|root|cruc|十字|拉丁語 crux|nature
+radi|root|radi / radio|光線、輻條|拉丁語 radius|nature
+phan|root|phan / pha / phas|顯現|希臘語 phainein|sense
+stinct|root|stinct / tinct / stingu|刺、標記|拉丁語 stinguere|sense
+bell|root|bell / bel|戰爭|拉丁語 bellum|life
+ambul|root|ambul|行走|拉丁語 ambulare|move
+ev|root|ev|時代|拉丁語 aevum|time
+dign|root|dign|值得|拉丁語 dignus|mind
+ide|root|ide / ideo|觀念|希臘語 idea|mind
+greg|root|greg|群|拉丁語 grex|life
+lud|root|lud / lus / lude|玩|拉丁語 ludere|move
+tom|root|tom|切|希臘語 tomos|move
+alt|root|alt|高|拉丁語 altus|nature
+bibl|root|bibl / biblio|書|希臘語 biblion|sense
+aer|root|aer|空氣|希臘語 aer|nature
+fug|root|fug / fuge|逃|拉丁語 fugere|move
+verb|root|verb|字、話|拉丁語 verbum|sense
+proxim|root|proxim|最近|拉丁語 proximus|dir
+calc|root|calc / calcul|小石子、計算|拉丁語 calculus|num
+und|root|und|波浪|拉丁語 unda|nature
+dur|root|dur / dure|持久、堅硬|拉丁語 durare|time
+suad|root|suad / suade / suas|勸說|拉丁語 suadere|sense
+front|root|front|前額、前面|拉丁語 frons|dir
+empt|root|empt|拿取、買|拉丁語 emere|move
+lun|root|lun|月亮|拉丁語 luna|nature
+stell|root|stell|星星|拉丁語 stella|nature
+dors|root|dors / dorse|背|拉丁語 dorsum|life
 ure|suf|-ure / -ature / -ur / -ury|行為、結果（名詞）|拉丁語 -ura|suf
 ion|suf|-ion / -tion / -ition / -ation / -uation|行為、狀態（名詞）|拉丁語 -io|suf
 ive|suf|-ive / -itive / -iv / -tive / -ative|具…性質的（形容詞）|拉丁語 -ivus|suf
@@ -391,10 +431,10 @@ ite|suf|-ite|…的（形容詞）|拉丁語 -itus|suf
 el|suf|-el|小東西（名詞）|拉丁語 -ellus|suf
 age|suf|-age / -ag|狀態、行為（名詞）|古法語 -age|suf
 ity|suf|-ity / -ty / -ety / -it|性質、狀態（名詞）|拉丁語 -itas|suf
-ment|suf|-ment / -ament|行為、結果（名詞）|拉丁語 -mentum|suf
+ment|suf|-ment / -ament / -iment|行為、結果（名詞）|拉丁語 -mentum|suf
 ee|suf|-ee|受…者（名詞）|古法語 -é|suf
 er|suf|-er|做…的人或物（名詞）|古英語 -ere|suf
-ule|suf|-ule|小東西（名詞）|拉丁語 -ulus|suf
+ule|suf|-ule / -ula|小東西（名詞）|拉丁語 -ulus|suf
 ify|suf|-ify / -fy|使…（動詞）|拉丁語 -ificare|suf
 ific|suf|-ific / -ifice|產生…的（形容詞）|拉丁語 -ificus|suf
 ist|suf|-ist|做…的人（名詞）|希臘語 -istes|suf
@@ -413,3 +453,6 @@ um|suf|-um|名詞字尾|拉丁語 -um|suf
 eer|suf|-eer|做…的人（名詞）|法語 -ier|suf
 imony|suf|-imony|狀態、結果（名詞）|拉丁語 -imonium|suf
 nus|suf|-us|名詞字尾|拉丁語 -us|suf
+ain|suf|-ain|…的；名詞字尾|拉丁語 -anus|suf
+ute|suf|-ute|…的（形容詞）|拉丁語 -utus|suf
+ique|suf|-ique / -que|…的；名詞字尾|法語 -ique|suf
