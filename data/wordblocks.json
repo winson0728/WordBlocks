@@ -152,7 +152,7 @@
   {
    "id": "inter",
    "type": "pre",
-   "forms": "inter-",
+   "forms": "inter- / enter-",
    "meaning": "在…之間",
    "origin": "拉丁語 inter",
    "category": "dir"
@@ -225,7 +225,7 @@
   {
    "id": "spect",
    "type": "root",
-   "forms": "spect / spic",
+   "forms": "spect / spec / spic",
    "meaning": "看",
    "origin": "拉丁語 specere",
    "category": "sense",
@@ -341,7 +341,7 @@
   {
    "id": "mit",
    "type": "root",
-   "forms": "mit / miss",
+   "forms": "mit / miss / mitt / mise / mess",
    "meaning": "送、放出",
    "origin": "拉丁語 mittere",
    "category": "move",
@@ -481,7 +481,7 @@
   {
    "id": "con",
    "type": "pre",
-   "forms": "con- / com- / cor-",
+   "forms": "con- / com- / cor- / col- / co-",
    "meaning": "一起；徹底",
    "origin": "拉丁語 com",
    "category": "rel"
@@ -1155,9 +1155,91 @@
    "scene": "一隻白馬額頭長出一支螺旋角。"
   },
   {
+   "id": "tain",
+   "type": "root",
+   "forms": "tain / ten / tin / tent",
+   "meaning": "握住、保持",
+   "origin": "拉丁語 tenere",
+   "category": "move",
+   "story": "maintain 字面是「用手握住」（拉丁語 manu tenere）：要維持一樣東西，就得一直把它握在手裡。",
+   "scene": "一雙手穩穩捧著一個玻璃球。"
+  },
+  {
+   "id": "tect",
+   "type": "root",
+   "forms": "tect",
+   "meaning": "遮蓋",
+   "origin": "拉丁語 tegere",
+   "category": "move",
+   "story": "易混淆：protect 的 tect 來自 tegere「遮蓋」，contact 的 tact 來自 tangere「接觸」。有些字根表把兩者混在一起，其實是不同的字根。",
+   "scene": "一把大傘遮住底下的小屋。"
+  },
+  {
+   "id": "cid",
+   "type": "root",
+   "forms": "cid / cas",
+   "meaning": "落下、發生",
+   "origin": "拉丁語 cadere",
+   "category": "move"
+  },
+  {
+   "id": "plic",
+   "type": "root",
+   "forms": "plic / ply",
+   "meaning": "摺疊",
+   "origin": "拉丁語 plicare",
+   "category": "move",
+   "story": "拉丁語 plicare 是「摺疊」。complicated（複雜）是「摺在一起」；simple（簡單）原意則是「只摺一層」。",
+   "scene": "一張紙被摺了又摺，變成紙鶴。"
+  },
+  {
+   "id": "tact",
+   "type": "root",
+   "forms": "tact",
+   "meaning": "接觸",
+   "origin": "拉丁語 tangere",
+   "category": "sense"
+  },
+  {
+   "id": "quir",
+   "type": "root",
+   "forms": "quir / quire / quest / quisit",
+   "meaning": "尋找、要求",
+   "origin": "拉丁語 quaerere",
+   "category": "mind",
+   "story": "question（問題）和 quest（探索）都來自 quaerere「尋找」：提問，就是出發去尋找答案。",
+   "scene": "一個人提著燈籠在夜裡找東西。"
+  },
+  {
+   "id": "cura",
+   "type": "root",
+   "forms": "cur / cure",
+   "meaning": "照料、擔心",
+   "origin": "拉丁語 cura",
+   "category": "mind",
+   "story": "拉丁語 cura 是「照料、擔心」。secure 字面是「免於擔心」（se 分開 + cura）；醫生 cure 病人，也是在照料他。",
+   "scene": "護士正在替病人蓋好被子。"
+  },
+  {
+   "id": "nat",
+   "type": "root",
+   "forms": "nat",
+   "meaning": "出生",
+   "origin": "拉丁語 nasci",
+   "category": "life"
+  },
+  {
+   "id": "part",
+   "type": "root",
+   "forms": "part",
+   "meaning": "部分",
+   "origin": "拉丁語 pars",
+   "category": "nature"
+  },
+  {
    "id": "ure",
    "type": "suf",
-   "forms": "-ure / -ature",
+   "forms": "-ure / -ature / -ur",
    "meaning": "行為、結果（名詞）",
    "origin": "拉丁語 -ura",
    "category": "suf"
@@ -1237,7 +1319,7 @@
   {
    "id": "ent",
    "type": "suf",
-   "forms": "-ent / -ient",
+   "forms": "-ent / -ient / -ant",
    "meaning": "…的（形容詞）",
    "origin": "拉丁語 -ens",
    "category": "suf"
@@ -1384,6 +1466,30 @@
    "forms": "-age",
    "meaning": "狀態、行為（名詞）",
    "origin": "古法語 -age",
+   "category": "suf"
+  },
+  {
+   "id": "ity",
+   "type": "suf",
+   "forms": "-ity",
+   "meaning": "性質、狀態（名詞）",
+   "origin": "拉丁語 -itas",
+   "category": "suf"
+  },
+  {
+   "id": "ment",
+   "type": "suf",
+   "forms": "-ment",
+   "meaning": "行為、結果（名詞）",
+   "origin": "拉丁語 -mentum",
+   "category": "suf"
+  },
+  {
+   "id": "ee",
+   "type": "suf",
+   "forms": "-ee",
+   "meaning": "受…者（名詞）",
+   "origin": "古法語 -é",
    "category": "suf"
   }
  ],
@@ -6287,6 +6393,2226 @@
    "meaning": "百分比",
    "literal": "每 + 百",
    "example": "Ninety percent of students passed."
+  },
+  {
+   "word": "different",
+   "parts": [
+    {
+     "id": "dis",
+     "text": "dif"
+    },
+    {
+     "id": "fer",
+     "text": "fer"
+    },
+    {
+     "id": "ent",
+     "text": "ent"
+    }
+   ],
+   "meaning": "不同的",
+   "literal": "分開 + 攜帶 + 的",
+   "example": "My brother and I have different hobbies."
+  },
+  {
+   "word": "success",
+   "parts": [
+    {
+     "id": "sub",
+     "text": "suc"
+    },
+    {
+     "id": "cede",
+     "text": "cess"
+    }
+   ],
+   "meaning": "成功",
+   "literal": "在下 + 走：緊接著達成",
+   "example": "The event was a big success."
+  },
+  {
+   "word": "respect",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "spect",
+     "text": "spect"
+    }
+   ],
+   "meaning": "尊重",
+   "literal": "回 + 看：回頭再看一眼",
+   "example": "We should respect other people's opinions."
+  },
+  {
+   "word": "version",
+   "parts": [
+    {
+     "id": "vert",
+     "text": "vers"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "版本",
+   "literal": "轉 + 名詞：轉換後的樣子",
+   "example": "Please download the latest version of the app."
+  },
+  {
+   "word": "construction",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "struct",
+     "text": "struct"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "建設；工程",
+   "literal": "一起 + 建造 + 名詞",
+   "example": "The road is under construction."
+  },
+  {
+   "word": "collection",
+   "parts": [
+    {
+     "id": "con",
+     "text": "col"
+    },
+    {
+     "id": "lect",
+     "text": "lect"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "收藏；收集",
+   "literal": "一起 + 選 + 名詞",
+   "example": "The museum has a large art collection."
+  },
+  {
+   "word": "commission",
+   "parts": [
+    {
+     "id": "con",
+     "text": "com"
+    },
+    {
+     "id": "mit",
+     "text": "miss"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "佣金；委員會",
+   "literal": "一起 + 送 + 名詞：委託出去",
+   "example": "Salespeople earn a commission on each sale."
+  },
+  {
+   "word": "effective",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "ef"
+    },
+    {
+     "id": "fact",
+     "text": "fect"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "有效的",
+   "literal": "向外 + 做 + 性質",
+   "example": "This is an effective way to save money."
+  },
+  {
+   "word": "location",
+   "parts": [
+    {
+     "id": "loc",
+     "text": "loc"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "地點",
+   "literal": "地方 + 名詞",
+   "example": "The new store is in a great location."
+  },
+  {
+   "word": "generation",
+   "parts": [
+    {
+     "id": "gen",
+     "text": "gener"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "世代",
+   "literal": "產生 + 名詞",
+   "example": "My parents' generation didn't have smartphones."
+  },
+  {
+   "word": "conversation",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "vert",
+     "text": "vers"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "對話",
+   "literal": "一起 + 轉 + 名詞：話題來回轉",
+   "example": "We had a long conversation over coffee."
+  },
+  {
+   "word": "reference",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "fer",
+     "text": "fer"
+    },
+    {
+     "id": "ence",
+     "text": "ence"
+    }
+   ],
+   "meaning": "參考；推薦信",
+   "literal": "回 + 攜帶 + 名詞",
+   "example": "My former boss wrote me a reference."
+  },
+  {
+   "word": "reduce",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "duc",
+     "text": "duce"
+    }
+   ],
+   "meaning": "減少",
+   "literal": "回 + 引導：往回拉",
+   "example": "We need to reduce costs this year."
+  },
+  {
+   "word": "profit",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "fact",
+     "text": "fit"
+    }
+   ],
+   "meaning": "利潤",
+   "literal": "向前 + 做：做出成果",
+   "example": "The company made a profit of two million dollars."
+  },
+  {
+   "word": "factor",
+   "parts": [
+    {
+     "id": "fact",
+     "text": "fact"
+    },
+    {
+     "id": "or",
+     "text": "or"
+    }
+   ],
+   "meaning": "因素",
+   "literal": "做 + 者：促成結果的東西",
+   "example": "Price is an important factor."
+  },
+  {
+   "word": "finance",
+   "parts": [
+    {
+     "id": "fin",
+     "text": "fin"
+    },
+    {
+     "id": "ence",
+     "text": "ance"
+    }
+   ],
+   "meaning": "財務；資助",
+   "literal": "結束 + 名詞：把帳結清",
+   "example": "She works in finance."
+  },
+  {
+   "word": "capable",
+   "parts": [
+    {
+     "id": "cap",
+     "text": "cap"
+    },
+    {
+     "id": "able",
+     "text": "able"
+    }
+   ],
+   "meaning": "有能力的",
+   "literal": "拿 + 可…的：拿得起",
+   "example": "He is capable of running the team."
+  },
+  {
+   "word": "universe",
+   "parts": [
+    {
+     "id": "uni",
+     "text": "uni"
+    },
+    {
+     "id": "vert",
+     "text": "verse"
+    }
+   ],
+   "meaning": "宇宙",
+   "literal": "單一 + 轉：萬物合為一體",
+   "example": "The universe is about 13.8 billion years old."
+  },
+  {
+   "word": "admit",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ad"
+    },
+    {
+     "id": "mit",
+     "text": "mit"
+    }
+   ],
+   "meaning": "承認；准許進入",
+   "literal": "朝向 + 送：放進來",
+   "example": "He admitted that he made a mistake."
+  },
+  {
+   "word": "sentence",
+   "parts": [
+    {
+     "id": "sens",
+     "text": "sent"
+    },
+    {
+     "id": "ence",
+     "text": "ence"
+    }
+   ],
+   "meaning": "句子；判刑",
+   "literal": "感覺 + 名詞：表達想法的單位",
+   "example": "Write a sentence using this word."
+  },
+  {
+   "word": "expression",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "ex"
+    },
+    {
+     "id": "press",
+     "text": "press"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "表情；表達",
+   "literal": "向外 + 壓 + 名詞",
+   "example": "Her expression changed when she heard the news."
+  },
+  {
+   "word": "attractive",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "at"
+    },
+    {
+     "id": "tract",
+     "text": "tract"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "有吸引力的",
+   "literal": "朝向 + 拉 + 性質",
+   "example": "The job offers an attractive salary."
+  },
+  {
+   "word": "immediate",
+   "parts": [
+    {
+     "id": "inneg",
+     "text": "im"
+    },
+    {
+     "id": "medi",
+     "text": "medi"
+    },
+    {
+     "id": "ate",
+     "text": "ate"
+    }
+   ],
+   "meaning": "立即的",
+   "literal": "不 + 中間 + 的：中間沒有隔閡",
+   "example": "We need an immediate answer."
+  },
+  {
+   "word": "suspect",
+   "parts": [
+    {
+     "id": "sub",
+     "text": "su"
+    },
+    {
+     "id": "spect",
+     "text": "spect"
+    }
+   ],
+   "meaning": "懷疑；嫌疑犯",
+   "literal": "從下 + 看",
+   "example": "Police arrested a suspect last night."
+  },
+  {
+   "word": "permission",
+   "parts": [
+    {
+     "id": "per",
+     "text": "per"
+    },
+    {
+     "id": "mit",
+     "text": "miss"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "許可",
+   "literal": "穿過 + 送 + 名詞：放行",
+   "example": "You need permission to park here."
+  },
+  {
+   "word": "extension",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "ex"
+    },
+    {
+     "id": "tend",
+     "text": "tens"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "延長；分機",
+   "literal": "向外 + 伸展 + 名詞",
+   "example": "My phone extension is 205."
+  },
+  {
+   "word": "promotion",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "mot",
+     "text": "mot"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "升遷；促銷",
+   "literal": "向前 + 移動 + 名詞",
+   "example": "The store is running a holiday promotion."
+  },
+  {
+   "word": "exception",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "ex"
+    },
+    {
+     "id": "cap",
+     "text": "cept"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "例外",
+   "literal": "向外 + 拿 + 名詞",
+   "example": "Every rule has an exception."
+  },
+  {
+   "word": "compensation",
+   "parts": [
+    {
+     "id": "con",
+     "text": "com"
+    },
+    {
+     "id": "pend",
+     "text": "pens"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "補償；薪酬",
+   "literal": "一起 + 秤重 + 名詞",
+   "example": "The job offers good compensation."
+  },
+  {
+   "word": "commit",
+   "parts": [
+    {
+     "id": "con",
+     "text": "com"
+    },
+    {
+     "id": "mit",
+     "text": "mit"
+    }
+   ],
+   "meaning": "承諾；犯（罪）",
+   "literal": "一起 + 送：把自己交出去",
+   "example": "We are committed to quality."
+  },
+  {
+   "word": "manual",
+   "parts": [
+    {
+     "id": "manu",
+     "text": "manu"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "手動的；使用手冊",
+   "literal": "手 + 的",
+   "example": "Read the manual before using the machine."
+  },
+  {
+   "word": "innovation",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "nov",
+     "text": "nov"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "創新",
+   "literal": "向內 + 新 + 名詞",
+   "example": "The company is known for innovation."
+  },
+  {
+   "word": "acceptable",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ac"
+    },
+    {
+     "id": "cap",
+     "text": "cept"
+    },
+    {
+     "id": "able",
+     "text": "able"
+    }
+   ],
+   "meaning": "可接受的",
+   "literal": "朝向 + 拿 + 可…的",
+   "example": "Is this price acceptable to you?"
+  },
+  {
+   "word": "venture",
+   "parts": [
+    {
+     "id": "vent",
+     "text": "vent"
+    },
+    {
+     "id": "ure",
+     "text": "ure"
+    }
+   ],
+   "meaning": "冒險；新事業",
+   "literal": "來 + 結果：迎向未知",
+   "example": "They started a joint venture in Vietnam."
+  },
+  {
+   "word": "reception",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "cap",
+     "text": "cept"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "接待處；歡迎會",
+   "literal": "回 + 拿 + 名詞：接收",
+   "example": "Please leave your bag at reception."
+  },
+  {
+   "word": "pension",
+   "parts": [
+    {
+     "id": "pend",
+     "text": "pens"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "退休金",
+   "literal": "付錢 + 名詞",
+   "example": "He lives on a small pension."
+  },
+  {
+   "word": "excess",
+   "parts": [
+    {
+     "id": "ex",
+     "text": "ex"
+    },
+    {
+     "id": "cede",
+     "text": "cess"
+    }
+   ],
+   "meaning": "過量",
+   "literal": "向外 + 走：超出界線",
+   "example": "You must pay for excess baggage."
+  },
+  {
+   "word": "admission",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ad"
+    },
+    {
+     "id": "mit",
+     "text": "miss"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "入場；入學許可",
+   "literal": "朝向 + 送 + 名詞",
+   "example": "Admission to the museum is free."
+  },
+  {
+   "word": "convenient",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "vent",
+     "text": "ven"
+    },
+    {
+     "id": "ent",
+     "text": "ient"
+    }
+   ],
+   "meaning": "方便的",
+   "literal": "一起 + 來 + 的：剛好湊在一起",
+   "example": "Is Friday convenient for you?"
+  },
+  {
+   "word": "provision",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "vid",
+     "text": "vis"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "供應；條款",
+   "literal": "向前 + 看 + 名詞：預先準備",
+   "example": "The contract has a provision for late payment."
+  },
+  {
+   "word": "inspection",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "spect",
+     "text": "spect"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "檢查",
+   "literal": "向內 + 看 + 名詞",
+   "example": "The car passed its safety inspection."
+  },
+  {
+   "word": "inspector",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "spect",
+     "text": "spect"
+    },
+    {
+     "id": "or",
+     "text": "or"
+    }
+   ],
+   "meaning": "檢查員",
+   "literal": "向內 + 看 + 者",
+   "example": "The inspector checked every room."
+  },
+  {
+   "word": "advise",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ad"
+    },
+    {
+     "id": "vid",
+     "text": "vise"
+    }
+   ],
+   "meaning": "建議",
+   "literal": "朝向 + 看：幫人看清楚",
+   "example": "I advise you to book early."
+  },
+  {
+   "word": "invisible",
+   "parts": [
+    {
+     "id": "inneg",
+     "text": "in"
+    },
+    {
+     "id": "vid",
+     "text": "vis"
+    },
+    {
+     "id": "able",
+     "text": "ible"
+    }
+   ],
+   "meaning": "看不見的",
+   "literal": "不 + 看 + 可…的",
+   "example": "Air is invisible."
+  },
+  {
+   "word": "submission",
+   "parts": [
+    {
+     "id": "sub",
+     "text": "sub"
+    },
+    {
+     "id": "mit",
+     "text": "miss"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "提交；屈服",
+   "literal": "在下 + 送 + 名詞",
+   "example": "The deadline for submissions is Friday."
+  },
+  {
+   "word": "subscription",
+   "parts": [
+    {
+     "id": "sub",
+     "text": "sub"
+    },
+    {
+     "id": "scrib",
+     "text": "script"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "訂閱",
+   "literal": "在下 + 寫 + 名詞",
+   "example": "I cancelled my magazine subscription."
+  },
+  {
+   "word": "profitable",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "fact",
+     "text": "fit"
+    },
+    {
+     "id": "able",
+     "text": "able"
+    }
+   ],
+   "meaning": "有利潤的",
+   "literal": "向前 + 做 + 可…的",
+   "example": "The business became profitable in its second year."
+  },
+  {
+   "word": "resignation",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "sign",
+     "text": "sign"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "辭職",
+   "literal": "回 + 記號 + 名詞：撤回簽名",
+   "example": "She handed in her resignation."
+  },
+  {
+   "word": "pending",
+   "parts": [
+    {
+     "id": "pend",
+     "text": "pend"
+    },
+    {
+     "id": "ing",
+     "text": "ing"
+    }
+   ],
+   "meaning": "待決的",
+   "literal": "懸掛 + 中",
+   "example": "The order is still pending."
+  },
+  {
+   "word": "prediction",
+   "parts": [
+    {
+     "id": "pre",
+     "text": "pre"
+    },
+    {
+     "id": "dict",
+     "text": "dict"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "預測",
+   "literal": "預先 + 說 + 名詞",
+   "example": "His prediction came true."
+  },
+  {
+   "word": "supervisor",
+   "parts": [
+    {
+     "id": "super",
+     "text": "super"
+    },
+    {
+     "id": "vid",
+     "text": "vis"
+    },
+    {
+     "id": "or",
+     "text": "or"
+    }
+   ],
+   "meaning": "主管",
+   "literal": "在上 + 看 + 者",
+   "example": "Ask your supervisor for a day off."
+  },
+  {
+   "word": "motive",
+   "parts": [
+    {
+     "id": "mot",
+     "text": "mot"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "動機",
+   "literal": "移動 + 性質：推動你的力量",
+   "example": "What was the motive for the crime?"
+  },
+  {
+   "word": "automotive",
+   "parts": [
+    {
+     "id": "auto",
+     "text": "auto"
+    },
+    {
+     "id": "mot",
+     "text": "mot"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "汽車的",
+   "literal": "自己 + 移動 + 性質",
+   "example": "He works in the automotive industry."
+  },
+  {
+   "word": "demographic",
+   "parts": [
+    {
+     "id": "dem",
+     "text": "demo"
+    },
+    {
+     "id": "graph",
+     "text": "graph"
+    },
+    {
+     "id": "ic",
+     "text": "ic"
+    }
+   ],
+   "meaning": "人口統計的",
+   "literal": "人民 + 寫 + 的",
+   "example": "Young adults are our target demographic."
+  },
+  {
+   "word": "rejection",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "ject",
+     "text": "ject"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "拒絕",
+   "literal": "回 + 丟 + 名詞",
+   "example": "Don't take the rejection personally."
+  },
+  {
+   "word": "selective",
+   "parts": [
+    {
+     "id": "se",
+     "text": "se"
+    },
+    {
+     "id": "lect",
+     "text": "lect"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "有選擇性的",
+   "literal": "分開 + 選 + 性質",
+   "example": "The university is very selective."
+  },
+  {
+   "word": "prospective",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "spect",
+     "text": "spect"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "未來的；潛在的",
+   "literal": "向前 + 看 + 性質",
+   "example": "We met with prospective clients."
+  },
+  {
+   "word": "revision",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "vid",
+     "text": "vis"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "修訂",
+   "literal": "再 + 看 + 名詞",
+   "example": "The report needs some revision."
+  },
+  {
+   "word": "projection",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "ject",
+     "text": "ject"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "預測；投影",
+   "literal": "向前 + 丟 + 名詞",
+   "example": "Sales projections for next year look good."
+  },
+  {
+   "word": "distraction",
+   "parts": [
+    {
+     "id": "dis",
+     "text": "dis"
+    },
+    {
+     "id": "tract",
+     "text": "tract"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "分心的事物",
+   "literal": "分開 + 拉 + 名詞",
+   "example": "Phones are a big distraction at work."
+  },
+  {
+   "word": "occurrence",
+   "parts": [
+    {
+     "id": "ob",
+     "text": "oc"
+    },
+    {
+     "id": "cur",
+     "text": "curr"
+    },
+    {
+     "id": "ence",
+     "text": "ence"
+    }
+   ],
+   "meaning": "發生；事件",
+   "literal": "對著 + 跑 + 名詞",
+   "example": "Power cuts are a rare occurrence here."
+  },
+  {
+   "word": "renovation",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "nov",
+     "text": "nov"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "翻修",
+   "literal": "再 + 新 + 名詞",
+   "example": "The hotel is closed for renovation."
+  },
+  {
+   "word": "allocation",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "al"
+    },
+    {
+     "id": "loc",
+     "text": "loc"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "分配",
+   "literal": "朝向 + 地方 + 名詞",
+   "example": "The budget allocation for marketing was cut."
+  },
+  {
+   "word": "defect",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "fact",
+     "text": "fect"
+    }
+   ],
+   "meaning": "缺陷",
+   "literal": "去除 + 做：少做了一部分",
+   "example": "The phone was returned because of a defect."
+  },
+  {
+   "word": "relocation",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "loc",
+     "text": "loc"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "搬遷",
+   "literal": "再 + 地方 + 名詞",
+   "example": "The company paid for my relocation."
+  },
+  {
+   "word": "inexpensive",
+   "parts": [
+    {
+     "id": "inneg",
+     "text": "in"
+    },
+    {
+     "id": "ex",
+     "text": "ex"
+    },
+    {
+     "id": "pend",
+     "text": "pens"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "便宜的",
+   "literal": "不 + 向外 + 付錢 + 性質",
+   "example": "This is an inexpensive restaurant."
+  },
+  {
+   "word": "discourage",
+   "parts": [
+    {
+     "id": "dis",
+     "text": "dis"
+    },
+    {
+     "id": "cord",
+     "text": "cour"
+    },
+    {
+     "id": "age",
+     "text": "age"
+    }
+   ],
+   "meaning": "使氣餒；勸阻",
+   "literal": "分開 + 心 + 名詞：把勇氣拿走",
+   "example": "High prices discourage customers."
+  },
+  {
+   "word": "induce",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "duc",
+     "text": "duce"
+    }
+   ],
+   "meaning": "引起；誘使",
+   "literal": "向內 + 引導",
+   "example": "Too much coffee can induce anxiety."
+  },
+  {
+   "word": "semiconductor",
+   "parts": [
+    {
+     "id": "semi",
+     "text": "semi"
+    },
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "duc",
+     "text": "duct"
+    },
+    {
+     "id": "or",
+     "text": "or"
+    }
+   ],
+   "meaning": "半導體",
+   "literal": "一半 + 一起 + 引導 + 物",
+   "example": "Taiwan is a world leader in semiconductors."
+  },
+  {
+   "word": "contend",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "tend",
+     "text": "tend"
+    }
+   ],
+   "meaning": "競爭；主張",
+   "literal": "一起 + 伸展：互相較勁",
+   "example": "Three teams are contending for the title."
+  },
+  {
+   "word": "synonymous",
+   "parts": [
+    {
+     "id": "syn",
+     "text": "syn"
+    },
+    {
+     "id": "onym",
+     "text": "onym"
+    },
+    {
+     "id": "ous",
+     "text": "ous"
+    }
+   ],
+   "meaning": "同義的",
+   "literal": "相同 + 名字 + 的",
+   "example": "Paris is synonymous with fashion."
+  },
+  {
+   "word": "descriptive",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "scrib",
+     "text": "script"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "描述性的",
+   "literal": "向下 + 寫 + 性質",
+   "example": "Use descriptive words in your essay."
+  },
+  {
+   "word": "impending",
+   "parts": [
+    {
+     "id": "in",
+     "text": "im"
+    },
+    {
+     "id": "pend",
+     "text": "pend"
+    },
+    {
+     "id": "ing",
+     "text": "ing"
+    }
+   ],
+   "meaning": "即將發生的",
+   "literal": "向內 + 懸掛 + 中：懸在頭上",
+   "example": "They warned of an impending storm."
+  },
+  {
+   "word": "dictator",
+   "parts": [
+    {
+     "id": "dict",
+     "text": "dict"
+    },
+    {
+     "id": "or",
+     "text": "ator"
+    }
+   ],
+   "meaning": "獨裁者",
+   "literal": "說 + 者：說了算的人",
+   "example": "The dictator ruled for 30 years."
+  },
+  {
+   "word": "maintain",
+   "parts": [
+    {
+     "id": "manu",
+     "text": "main"
+    },
+    {
+     "id": "tain",
+     "text": "tain"
+    }
+   ],
+   "meaning": "維持；保養",
+   "literal": "手 + 握住",
+   "example": "It costs a lot to maintain an old car."
+  },
+  {
+   "word": "obtain",
+   "parts": [
+    {
+     "id": "ob",
+     "text": "ob"
+    },
+    {
+     "id": "tain",
+     "text": "tain"
+    }
+   ],
+   "meaning": "取得",
+   "literal": "對著 + 握住",
+   "example": "You must obtain a visa first."
+  },
+  {
+   "word": "retain",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "tain",
+     "text": "tain"
+    }
+   ],
+   "meaning": "保留",
+   "literal": "回 + 握住",
+   "example": "The company wants to retain good staff."
+  },
+  {
+   "word": "contain",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "tain",
+     "text": "tain"
+    }
+   ],
+   "meaning": "包含",
+   "literal": "一起 + 握住",
+   "example": "This drink contains a lot of sugar."
+  },
+  {
+   "word": "entertain",
+   "parts": [
+    {
+     "id": "inter",
+     "text": "enter"
+    },
+    {
+     "id": "tain",
+     "text": "tain"
+    }
+   ],
+   "meaning": "娛樂；招待",
+   "literal": "之間 + 握住：把客人留在中間",
+   "example": "He entertained the guests with stories."
+  },
+  {
+   "word": "sustain",
+   "parts": [
+    {
+     "id": "sub",
+     "text": "sus"
+    },
+    {
+     "id": "tain",
+     "text": "tain"
+    }
+   ],
+   "meaning": "維持；承受",
+   "literal": "從下 + 握住：從下面撐著",
+   "example": "The economy cannot sustain this growth."
+  },
+  {
+   "word": "tenant",
+   "parts": [
+    {
+     "id": "tain",
+     "text": "ten"
+    },
+    {
+     "id": "ent",
+     "text": "ant"
+    }
+   ],
+   "meaning": "房客",
+   "literal": "握住 + 的人：持有房子的人",
+   "example": "The tenant pays rent every month."
+  },
+  {
+   "word": "content",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "tain",
+     "text": "tent"
+    }
+   ],
+   "meaning": "內容；滿足的",
+   "literal": "一起 + 握住：被裝在裡面的",
+   "example": "The content of the course is useful."
+  },
+  {
+   "word": "nation",
+   "parts": [
+    {
+     "id": "nat",
+     "text": "nat"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "國家",
+   "literal": "出生 + 名詞：同一出身的人",
+   "example": "The whole nation watched the game."
+  },
+  {
+   "word": "national",
+   "parts": [
+    {
+     "id": "nat",
+     "text": "nat"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "國家的",
+   "literal": "出生 + 名詞 + 的",
+   "example": "Today is a national holiday."
+  },
+  {
+   "word": "international",
+   "parts": [
+    {
+     "id": "inter",
+     "text": "inter"
+    },
+    {
+     "id": "nat",
+     "text": "nat"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "國際的",
+   "literal": "之間 + 出生 + 名詞 + 的",
+   "example": "She works for an international company."
+  },
+  {
+   "word": "native",
+   "parts": [
+    {
+     "id": "nat",
+     "text": "nat"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "本土的；母語的",
+   "literal": "出生 + 性質",
+   "example": "English is not my native language."
+  },
+  {
+   "word": "natural",
+   "parts": [
+    {
+     "id": "nat",
+     "text": "nat"
+    },
+    {
+     "id": "ure",
+     "text": "ur"
+    },
+    {
+     "id": "al",
+     "text": "al"
+    }
+   ],
+   "meaning": "自然的",
+   "literal": "出生 + 結果 + 的：與生俱來",
+   "example": "This juice is 100% natural."
+  },
+  {
+   "word": "require",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "quir",
+     "text": "quire"
+    }
+   ],
+   "meaning": "需要；要求",
+   "literal": "再 + 尋找",
+   "example": "The job requires two years of experience."
+  },
+  {
+   "word": "request",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "quir",
+     "text": "quest"
+    }
+   ],
+   "meaning": "請求",
+   "literal": "再 + 尋找",
+   "example": "We received your request."
+  },
+  {
+   "word": "acquire",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ac"
+    },
+    {
+     "id": "quir",
+     "text": "quire"
+    }
+   ],
+   "meaning": "取得；習得",
+   "literal": "朝向 + 尋找",
+   "example": "The company acquired a small startup."
+  },
+  {
+   "word": "inquiry",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "quir",
+     "text": "quir"
+    },
+    {
+     "id": "y",
+     "text": "y"
+    }
+   ],
+   "meaning": "詢問",
+   "literal": "向內 + 尋找 + 名詞",
+   "example": "Thank you for your inquiry."
+  },
+  {
+   "word": "question",
+   "parts": [
+    {
+     "id": "quir",
+     "text": "quest"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "問題",
+   "literal": "尋找 + 名詞",
+   "example": "May I ask you a question?"
+  },
+  {
+   "word": "apply",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ap"
+    },
+    {
+     "id": "plic",
+     "text": "ply"
+    }
+   ],
+   "meaning": "申請；應用",
+   "literal": "朝向 + 摺疊：貼合上去",
+   "example": "I applied for the job last week."
+  },
+  {
+   "word": "application",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ap"
+    },
+    {
+     "id": "plic",
+     "text": "plic"
+    },
+    {
+     "id": "ion",
+     "text": "ation"
+    }
+   ],
+   "meaning": "申請；應用程式",
+   "literal": "朝向 + 摺疊 + 名詞",
+   "example": "Fill out the application form."
+  },
+  {
+   "word": "reply",
+   "parts": [
+    {
+     "id": "re",
+     "text": "re"
+    },
+    {
+     "id": "plic",
+     "text": "ply"
+    }
+   ],
+   "meaning": "回覆",
+   "literal": "回 + 摺疊：把話摺回去",
+   "example": "Please reply by Friday."
+  },
+  {
+   "word": "imply",
+   "parts": [
+    {
+     "id": "in",
+     "text": "im"
+    },
+    {
+     "id": "plic",
+     "text": "ply"
+    }
+   ],
+   "meaning": "暗示",
+   "literal": "向內 + 摺疊：把意思摺在裡面",
+   "example": "What are you implying?"
+  },
+  {
+   "word": "complicate",
+   "parts": [
+    {
+     "id": "con",
+     "text": "com"
+    },
+    {
+     "id": "plic",
+     "text": "plic"
+    },
+    {
+     "id": "ate",
+     "text": "ate"
+    }
+   ],
+   "meaning": "使複雜",
+   "literal": "一起 + 摺疊 + 使",
+   "example": "Don't complicate things."
+  },
+  {
+   "word": "multiply",
+   "parts": [
+    {
+     "id": "multi",
+     "text": "multi"
+    },
+    {
+     "id": "plic",
+     "text": "ply"
+    }
+   ],
+   "meaning": "乘；增加",
+   "literal": "許多 + 摺疊：摺成很多層",
+   "example": "Multiply 6 by 7."
+  },
+  {
+   "word": "department",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "part",
+     "text": "part"
+    },
+    {
+     "id": "ment",
+     "text": "ment"
+    }
+   ],
+   "meaning": "部門",
+   "literal": "分開 + 部分 + 名詞",
+   "example": "She works in the sales department."
+  },
+  {
+   "word": "apartment",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "a"
+    },
+    {
+     "id": "part",
+     "text": "part"
+    },
+    {
+     "id": "ment",
+     "text": "ment"
+    }
+   ],
+   "meaning": "公寓",
+   "literal": "朝向 + 部分 + 名詞：分隔出的一部分",
+   "example": "We rent a small apartment downtown."
+  },
+  {
+   "word": "partial",
+   "parts": [
+    {
+     "id": "part",
+     "text": "part"
+    },
+    {
+     "id": "ial",
+     "text": "ial"
+    }
+   ],
+   "meaning": "部分的",
+   "literal": "部分 + 的",
+   "example": "We got a partial refund."
+  },
+  {
+   "word": "accident",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ac"
+    },
+    {
+     "id": "cid",
+     "text": "cid"
+    },
+    {
+     "id": "ent",
+     "text": "ent"
+    }
+   ],
+   "meaning": "意外",
+   "literal": "朝向 + 落下 + 的：突然掉到身上",
+   "example": "He was injured in a car accident."
+  },
+  {
+   "word": "incident",
+   "parts": [
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "cid",
+     "text": "cid"
+    },
+    {
+     "id": "ent",
+     "text": "ent"
+    }
+   ],
+   "meaning": "事件",
+   "literal": "向內 + 落下 + 的",
+   "example": "The incident happened at 3 a.m."
+  },
+  {
+   "word": "coincidence",
+   "parts": [
+    {
+     "id": "con",
+     "text": "co"
+    },
+    {
+     "id": "in",
+     "text": "in"
+    },
+    {
+     "id": "cid",
+     "text": "cid"
+    },
+    {
+     "id": "ence",
+     "text": "ence"
+    }
+   ],
+   "meaning": "巧合",
+   "literal": "一起 + 向內 + 落下 + 名詞：同時落下",
+   "example": "What a coincidence!"
+  },
+  {
+   "word": "occasion",
+   "parts": [
+    {
+     "id": "ob",
+     "text": "oc"
+    },
+    {
+     "id": "cid",
+     "text": "cas"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "場合；時機",
+   "literal": "對著 + 落下 + 名詞",
+   "example": "This dress is for special occasions."
+  },
+  {
+   "word": "secure",
+   "parts": [
+    {
+     "id": "se",
+     "text": "se"
+    },
+    {
+     "id": "cura",
+     "text": "cure"
+    }
+   ],
+   "meaning": "安全的；確保",
+   "literal": "分開 + 擔心：免於擔憂",
+   "example": "Keep your password secure."
+  },
+  {
+   "word": "security",
+   "parts": [
+    {
+     "id": "se",
+     "text": "se"
+    },
+    {
+     "id": "cura",
+     "text": "cur"
+    },
+    {
+     "id": "ity",
+     "text": "ity"
+    }
+   ],
+   "meaning": "安全；保全",
+   "literal": "分開 + 擔心 + 名詞",
+   "example": "Airport security is very strict."
+  },
+  {
+   "word": "accurate",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "ac"
+    },
+    {
+     "id": "cura",
+     "text": "cur"
+    },
+    {
+     "id": "ate",
+     "text": "ate"
+    }
+   ],
+   "meaning": "準確的",
+   "literal": "朝向 + 照料 + 的：細心做到",
+   "example": "Is this information accurate?"
+  },
+  {
+   "word": "inaccurate",
+   "parts": [
+    {
+     "id": "inneg",
+     "text": "in"
+    },
+    {
+     "id": "ad",
+     "text": "ac"
+    },
+    {
+     "id": "cura",
+     "text": "cur"
+    },
+    {
+     "id": "ate",
+     "text": "ate"
+    }
+   ],
+   "meaning": "不準確的",
+   "literal": "不 + 朝向 + 照料 + 的",
+   "example": "The report contained inaccurate data."
+  },
+  {
+   "word": "curious",
+   "parts": [
+    {
+     "id": "cura",
+     "text": "cur"
+    },
+    {
+     "id": "ous",
+     "text": "ious"
+    }
+   ],
+   "meaning": "好奇的",
+   "literal": "照料 + 充滿：凡事都想關心",
+   "example": "Children are naturally curious."
+  },
+  {
+   "word": "protect",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "tect",
+     "text": "tect"
+    }
+   ],
+   "meaning": "保護",
+   "literal": "向前 + 遮蓋",
+   "example": "Sunscreen protects your skin."
+  },
+  {
+   "word": "protection",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "tect",
+     "text": "tect"
+    },
+    {
+     "id": "ion",
+     "text": "ion"
+    }
+   ],
+   "meaning": "保護",
+   "literal": "向前 + 遮蓋 + 名詞",
+   "example": "Wear eye protection."
+  },
+  {
+   "word": "detect",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "tect",
+     "text": "tect"
+    }
+   ],
+   "meaning": "偵測",
+   "literal": "去除 + 遮蓋：把蓋子掀開",
+   "example": "The alarm detects smoke."
+  },
+  {
+   "word": "detective",
+   "parts": [
+    {
+     "id": "de",
+     "text": "de"
+    },
+    {
+     "id": "tect",
+     "text": "tect"
+    },
+    {
+     "id": "ive",
+     "text": "ive"
+    }
+   ],
+   "meaning": "偵探",
+   "literal": "去除 + 遮蓋 + 性質",
+   "example": "The detective solved the case."
+  },
+  {
+   "word": "contact",
+   "parts": [
+    {
+     "id": "con",
+     "text": "con"
+    },
+    {
+     "id": "tact",
+     "text": "tact"
+    }
+   ],
+   "meaning": "聯絡；接觸",
+   "literal": "一起 + 接觸",
+   "example": "Please contact us by email."
+  },
+  {
+   "word": "intact",
+   "parts": [
+    {
+     "id": "inneg",
+     "text": "in"
+    },
+    {
+     "id": "tact",
+     "text": "tact"
+    }
+   ],
+   "meaning": "完整無損的",
+   "literal": "不 + 接觸：沒被碰過",
+   "example": "The package arrived intact."
+  },
+  {
+   "word": "committee",
+   "parts": [
+    {
+     "id": "con",
+     "text": "com"
+    },
+    {
+     "id": "mit",
+     "text": "mitt"
+    },
+    {
+     "id": "ee",
+     "text": "ee"
+    }
+   ],
+   "meaning": "委員會",
+   "literal": "一起 + 送 + 受…者：被委託的人",
+   "example": "The committee meets every Monday."
+  },
+  {
+   "word": "promise",
+   "parts": [
+    {
+     "id": "pro",
+     "text": "pro"
+    },
+    {
+     "id": "mit",
+     "text": "mise"
+    }
+   ],
+   "meaning": "承諾",
+   "literal": "向前 + 送：把話先送出去",
+   "example": "I promise I'll be on time."
+  },
+  {
+   "word": "message",
+   "parts": [
+    {
+     "id": "mit",
+     "text": "mess"
+    },
+    {
+     "id": "age",
+     "text": "age"
+    }
+   ],
+   "meaning": "訊息",
+   "literal": "送 + 名詞：被送出的東西",
+   "example": "Leave a message after the beep."
+  },
+  {
+   "word": "special",
+   "parts": [
+    {
+     "id": "spect",
+     "text": "spec"
+    },
+    {
+     "id": "ial",
+     "text": "ial"
+    }
+   ],
+   "meaning": "特別的",
+   "literal": "看 + 的：外觀與眾不同",
+   "example": "Today is a special day."
+  },
+  {
+   "word": "aspect",
+   "parts": [
+    {
+     "id": "ad",
+     "text": "a"
+    },
+    {
+     "id": "spect",
+     "text": "spect"
+    }
+   ],
+   "meaning": "方面",
+   "literal": "朝向 + 看：從某個角度看",
+   "example": "Consider every aspect of the plan."
   }
  ]
 }

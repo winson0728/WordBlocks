@@ -11,7 +11,7 @@ trans|pre|trans-|跨越、轉移|拉丁語 trans|dir
 ex|pre|ex- / e-|向外|拉丁語 ex|dir
 sub|pre|sub- / sup- / su-|在下、從下|拉丁語 sub|dir
 super|pre|super-|在上、超越|拉丁語 super|dir
-inter|pre|inter-|在…之間|拉丁語 inter|dir
+inter|pre|inter- / enter-|在…之間|拉丁語 inter|dir
 ob|pre|ob-|對著、阻擋|拉丁語 ob|dir
 per|pre|per-|穿過、徹底；每|拉丁語 per|dir
 ab|pre|ab-|離開|拉丁語 ab|dir
@@ -20,7 +20,7 @@ para|pre|para-|旁邊|希臘語 para|dir
 infra|pre|infra-|在下方|拉丁語 infra|dir
 intro|pre|intro-|向內|拉丁語 intro|dir
 epi|pre|epi-|在…之上、散布|希臘語 epi|dir
-spect|root|spect / spic|看|拉丁語 specere|sense
+spect|root|spect / spec / spic|看|拉丁語 specere|sense
 vid|root|vid / vis / vise / vide|看|拉丁語 videre|sense
 dict|root|dict|說|拉丁語 dicere|sense
 scrib|root|scrib / scribe / script|寫|拉丁語 scribere|sense
@@ -32,7 +32,7 @@ photo|root|photo|光|希臘語 phos|sense
 struct|root|struct / stroy|建造、堆疊|拉丁語 struere|move
 port|root|port|搬運、攜帶|拉丁語 portare|move
 ject|root|ject|丟、投擲|拉丁語 iacere|move
-mit|root|mit / miss|送、放出|拉丁語 mittere|move
+mit|root|mit / miss / mitt / mise / mess|送、放出|拉丁語 mittere|move
 duc|root|duc / duct / duce|引導|拉丁語 ducere|move
 gress|root|gress|走、步伐|拉丁語 gradi|move
 rupt|root|rupt|破裂|拉丁語 rumpere|move
@@ -47,7 +47,7 @@ cracy|root|cracy|統治|希臘語 kratos|life
 orama|root|orama|景象|希臘語 horama|life
 acea|root|acea|治療|希臘語 akos|life
 bank|root|bank|長凳|義大利語 banca|life
-con|pre|con- / com- / cor-|一起；徹底|拉丁語 com|rel
+con|pre|con- / com- / cor- / col- / co-|一起；徹底|拉丁語 com|rel
 syn|pre|syn- / sym-|一起、同時|希臘語 syn|rel
 un|pre|un-|不|古英語 un-|rel
 inneg|pre|in- / im-（否定）|不、無|拉丁語 in-|rel
@@ -128,7 +128,16 @@ cycl|root|cycl / cycle|圓、循環|希臘語 kyklos|nature
 angl|root|angl / angle|角|拉丁語 angulus|nature
 rect|root|rect|直、正|拉丁語 rectus|nature
 corn|root|corn|角（獸角）|拉丁語 cornu|nature
-ure|suf|-ure / -ature|行為、結果（名詞）|拉丁語 -ura|suf
+tain|root|tain / ten / tin / tent|握住、保持|拉丁語 tenere|move
+tect|root|tect|遮蓋|拉丁語 tegere|move
+cid|root|cid / cas|落下、發生|拉丁語 cadere|move
+plic|root|plic / ply|摺疊|拉丁語 plicare|move
+tact|root|tact|接觸|拉丁語 tangere|sense
+quir|root|quir / quire / quest / quisit|尋找、要求|拉丁語 quaerere|mind
+cura|root|cur / cure|照料、擔心|拉丁語 cura|mind
+nat|root|nat|出生|拉丁語 nasci|life
+part|root|part|部分|拉丁語 pars|nature
+ure|suf|-ure / -ature / -ur|行為、結果（名詞）|拉丁語 -ura|suf
 ion|suf|-ion / -tion / -ition / -ation|行為、狀態（名詞）|拉丁語 -io|suf
 ive|suf|-ive / -itive|具…性質的（形容詞）|拉丁語 -ivus|suf
 able|suf|-able / -ible|可…的（形容詞）|拉丁語 -abilis|suf
@@ -138,7 +147,7 @@ ic|suf|-ic / -tic|…的（形容詞）|希臘語 -ikos|suf
 ology|suf|-ology / -logy|…學|希臘語 -logia|suf
 ize|suf|-ize|使…化（動詞）|希臘語 -izein|suf
 ous|suf|-ous / -ious|充滿…的（形容詞）|拉丁語 -osus|suf
-ent|suf|-ent / -ient|…的（形容詞）|拉丁語 -ens|suf
+ent|suf|-ent / -ient / -ant|…的（形容詞）|拉丁語 -ens|suf
 ate|suf|-ate|使…、做（動詞）|拉丁語 -atus|suf
 ism|suf|-ism|狀態、主義（名詞）|希臘語 -ismos|suf
 icle|suf|-icle|紀錄、小物（名詞）|拉丁語 -iculum|suf
@@ -157,3 +166,6 @@ ise|suf|-ise|使…（動詞）|古法語 -iser|suf
 ite|suf|-ite|…的（形容詞）|拉丁語 -itus|suf
 el|suf|-el|小東西（名詞）|拉丁語 -ellus|suf
 age|suf|-age|狀態、行為（名詞）|古法語 -age|suf
+ity|suf|-ity|性質、狀態（名詞）|拉丁語 -itas|suf
+ment|suf|-ment|行為、結果（名詞）|拉丁語 -mentum|suf
+ee|suf|-ee|受…者（名詞）|古法語 -é|suf

@@ -287,3 +287,124 @@ correct|con=cor rect|正確的；改正|徹底 + 直|Correct the mistakes in red
 direct|dis=di rect|直接的；指引|分開 + 直：拉直方向|Is there a direct flight to Osaka?
 unicorn|uni corn|獨角獸|單一 + 角|The unicorn is the national animal of Scotland.
 percent|per cent|百分比|每 + 百|Ninety percent of students passed.
+different|dis=dif fer ent|不同的|分開 + 攜帶 + 的|My brother and I have different hobbies.
+success|sub=suc cede=cess|成功|在下 + 走：緊接著達成|The event was a big success.
+respect|re spect|尊重|回 + 看：回頭再看一眼|We should respect other people's opinions.
+version|vert=vers ion|版本|轉 + 名詞：轉換後的樣子|Please download the latest version of the app.
+construction|con struct ion|建設；工程|一起 + 建造 + 名詞|The road is under construction.
+collection|con=col lect ion|收藏；收集|一起 + 選 + 名詞|The museum has a large art collection.
+commission|con=com mit=miss ion|佣金；委員會|一起 + 送 + 名詞：委託出去|Salespeople earn a commission on each sale.
+effective|ex=ef fact=fect ive|有效的|向外 + 做 + 性質|This is an effective way to save money.
+location|loc ion=ation|地點|地方 + 名詞|The new store is in a great location.
+generation|gen=gener ion=ation|世代|產生 + 名詞|My parents' generation didn't have smartphones.
+conversation|con vert=vers ion=ation|對話|一起 + 轉 + 名詞：話題來回轉|We had a long conversation over coffee.
+reference|re fer ence|參考；推薦信|回 + 攜帶 + 名詞|My former boss wrote me a reference.
+reduce|re duc=duce|減少|回 + 引導：往回拉|We need to reduce costs this year.
+profit|pro fact=fit|利潤|向前 + 做：做出成果|The company made a profit of two million dollars.
+factor|fact or|因素|做 + 者：促成結果的東西|Price is an important factor.
+finance|fin ence=ance|財務；資助|結束 + 名詞：把帳結清|She works in finance.
+capable|cap able|有能力的|拿 + 可…的：拿得起|He is capable of running the team.
+universe|uni vert=verse|宇宙|單一 + 轉：萬物合為一體|The universe is about 13.8 billion years old.
+admit|ad mit|承認；准許進入|朝向 + 送：放進來|He admitted that he made a mistake.
+sentence|sens=sent ence|句子；判刑|感覺 + 名詞：表達想法的單位|Write a sentence using this word.
+expression|ex press ion|表情；表達|向外 + 壓 + 名詞|Her expression changed when she heard the news.
+attractive|ad=at tract ive|有吸引力的|朝向 + 拉 + 性質|The job offers an attractive salary.
+immediate|inneg=im medi ate|立即的|不 + 中間 + 的：中間沒有隔閡|We need an immediate answer.
+suspect|sub=su spect|懷疑；嫌疑犯|從下 + 看|Police arrested a suspect last night.
+permission|per mit=miss ion|許可|穿過 + 送 + 名詞：放行|You need permission to park here.
+extension|ex tend=tens ion|延長；分機|向外 + 伸展 + 名詞|My phone extension is 205.
+promotion|pro mot ion|升遷；促銷|向前 + 移動 + 名詞|The store is running a holiday promotion.
+exception|ex cap=cept ion|例外|向外 + 拿 + 名詞|Every rule has an exception.
+compensation|con=com pend=pens ion=ation|補償；薪酬|一起 + 秤重 + 名詞|The job offers good compensation.
+commit|con=com mit|承諾；犯（罪）|一起 + 送：把自己交出去|We are committed to quality.
+manual|manu al|手動的；使用手冊|手 + 的|Read the manual before using the machine.
+innovation|in nov ion=ation|創新|向內 + 新 + 名詞|The company is known for innovation.
+acceptable|ad=ac cap=cept able|可接受的|朝向 + 拿 + 可…的|Is this price acceptable to you?
+venture|vent ure|冒險；新事業|來 + 結果：迎向未知|They started a joint venture in Vietnam.
+reception|re cap=cept ion|接待處；歡迎會|回 + 拿 + 名詞：接收|Please leave your bag at reception.
+pension|pend=pens ion|退休金|付錢 + 名詞|He lives on a small pension.
+excess|ex cede=cess|過量|向外 + 走：超出界線|You must pay for excess baggage.
+admission|ad mit=miss ion|入場；入學許可|朝向 + 送 + 名詞|Admission to the museum is free.
+convenient|con vent=ven ent=ient|方便的|一起 + 來 + 的：剛好湊在一起|Is Friday convenient for you?
+provision|pro vid=vis ion|供應；條款|向前 + 看 + 名詞：預先準備|The contract has a provision for late payment.
+inspection|in spect ion|檢查|向內 + 看 + 名詞|The car passed its safety inspection.
+inspector|in spect or|檢查員|向內 + 看 + 者|The inspector checked every room.
+advise|ad vid=vise|建議|朝向 + 看：幫人看清楚|I advise you to book early.
+invisible|inneg=in vid=vis able=ible|看不見的|不 + 看 + 可…的|Air is invisible.
+submission|sub mit=miss ion|提交；屈服|在下 + 送 + 名詞|The deadline for submissions is Friday.
+subscription|sub scrib=script ion|訂閱|在下 + 寫 + 名詞|I cancelled my magazine subscription.
+profitable|pro fact=fit able|有利潤的|向前 + 做 + 可…的|The business became profitable in its second year.
+resignation|re sign ion=ation|辭職|回 + 記號 + 名詞：撤回簽名|She handed in her resignation.
+pending|pend ing|待決的|懸掛 + 中|The order is still pending.
+prediction|pre dict ion|預測|預先 + 說 + 名詞|His prediction came true.
+supervisor|super vid=vis or|主管|在上 + 看 + 者|Ask your supervisor for a day off.
+motive|mot ive|動機|移動 + 性質：推動你的力量|What was the motive for the crime?
+automotive|auto mot ive|汽車的|自己 + 移動 + 性質|He works in the automotive industry.
+demographic|dem=demo graph ic|人口統計的|人民 + 寫 + 的|Young adults are our target demographic.
+rejection|re ject ion|拒絕|回 + 丟 + 名詞|Don't take the rejection personally.
+selective|se lect ive|有選擇性的|分開 + 選 + 性質|The university is very selective.
+prospective|pro spect ive|未來的；潛在的|向前 + 看 + 性質|We met with prospective clients.
+revision|re vid=vis ion|修訂|再 + 看 + 名詞|The report needs some revision.
+projection|pro ject ion|預測；投影|向前 + 丟 + 名詞|Sales projections for next year look good.
+distraction|dis tract ion|分心的事物|分開 + 拉 + 名詞|Phones are a big distraction at work.
+occurrence|ob=oc cur=curr ence|發生；事件|對著 + 跑 + 名詞|Power cuts are a rare occurrence here.
+renovation|re nov ion=ation|翻修|再 + 新 + 名詞|The hotel is closed for renovation.
+allocation|ad=al loc ion=ation|分配|朝向 + 地方 + 名詞|The budget allocation for marketing was cut.
+defect|de fact=fect|缺陷|去除 + 做：少做了一部分|The phone was returned because of a defect.
+relocation|re loc ion=ation|搬遷|再 + 地方 + 名詞|The company paid for my relocation.
+inexpensive|inneg=in ex pend=pens ive|便宜的|不 + 向外 + 付錢 + 性質|This is an inexpensive restaurant.
+discourage|dis cord=cour age|使氣餒；勸阻|分開 + 心 + 名詞：把勇氣拿走|High prices discourage customers.
+induce|in duc=duce|引起；誘使|向內 + 引導|Too much coffee can induce anxiety.
+semiconductor|semi con duc=duct or|半導體|一半 + 一起 + 引導 + 物|Taiwan is a world leader in semiconductors.
+contend|con tend|競爭；主張|一起 + 伸展：互相較勁|Three teams are contending for the title.
+synonymous|syn onym ous|同義的|相同 + 名字 + 的|Paris is synonymous with fashion.
+descriptive|de scrib=script ive|描述性的|向下 + 寫 + 性質|Use descriptive words in your essay.
+impending|in=im pend ing|即將發生的|向內 + 懸掛 + 中：懸在頭上|They warned of an impending storm.
+dictator|dict or=ator|獨裁者|說 + 者：說了算的人|The dictator ruled for 30 years.
+maintain|manu=main tain|維持；保養|手 + 握住|It costs a lot to maintain an old car.
+obtain|ob tain|取得|對著 + 握住|You must obtain a visa first.
+retain|re tain|保留|回 + 握住|The company wants to retain good staff.
+contain|con tain|包含|一起 + 握住|This drink contains a lot of sugar.
+entertain|inter=enter tain|娛樂；招待|之間 + 握住：把客人留在中間|He entertained the guests with stories.
+sustain|sub=sus tain|維持；承受|從下 + 握住：從下面撐著|The economy cannot sustain this growth.
+tenant|tain=ten ent=ant|房客|握住 + 的人：持有房子的人|The tenant pays rent every month.
+content|con tain=tent|內容；滿足的|一起 + 握住：被裝在裡面的|The content of the course is useful.
+nation|nat ion|國家|出生 + 名詞：同一出身的人|The whole nation watched the game.
+national|nat ion al|國家的|出生 + 名詞 + 的|Today is a national holiday.
+international|inter nat ion al|國際的|之間 + 出生 + 名詞 + 的|She works for an international company.
+native|nat ive|本土的；母語的|出生 + 性質|English is not my native language.
+natural|nat ure=ur al|自然的|出生 + 結果 + 的：與生俱來|This juice is 100% natural.
+require|re quir=quire|需要；要求|再 + 尋找|The job requires two years of experience.
+request|re quir=quest|請求|再 + 尋找|We received your request.
+acquire|ad=ac quir=quire|取得；習得|朝向 + 尋找|The company acquired a small startup.
+inquiry|in quir y|詢問|向內 + 尋找 + 名詞|Thank you for your inquiry.
+question|quir=quest ion|問題|尋找 + 名詞|May I ask you a question?
+apply|ad=ap plic=ply|申請；應用|朝向 + 摺疊：貼合上去|I applied for the job last week.
+application|ad=ap plic ion=ation|申請；應用程式|朝向 + 摺疊 + 名詞|Fill out the application form.
+reply|re plic=ply|回覆|回 + 摺疊：把話摺回去|Please reply by Friday.
+imply|in=im plic=ply|暗示|向內 + 摺疊：把意思摺在裡面|What are you implying?
+complicate|con=com plic ate|使複雜|一起 + 摺疊 + 使|Don't complicate things.
+multiply|multi plic=ply|乘；增加|許多 + 摺疊：摺成很多層|Multiply 6 by 7.
+department|de part ment|部門|分開 + 部分 + 名詞|She works in the sales department.
+apartment|ad=a part ment|公寓|朝向 + 部分 + 名詞：分隔出的一部分|We rent a small apartment downtown.
+partial|part ial|部分的|部分 + 的|We got a partial refund.
+accident|ad=ac cid ent|意外|朝向 + 落下 + 的：突然掉到身上|He was injured in a car accident.
+incident|in cid ent|事件|向內 + 落下 + 的|The incident happened at 3 a.m.
+coincidence|con=co in cid ence|巧合|一起 + 向內 + 落下 + 名詞：同時落下|What a coincidence!
+occasion|ob=oc cid=cas ion|場合；時機|對著 + 落下 + 名詞|This dress is for special occasions.
+secure|se cura=cure|安全的；確保|分開 + 擔心：免於擔憂|Keep your password secure.
+security|se cura=cur ity|安全；保全|分開 + 擔心 + 名詞|Airport security is very strict.
+accurate|ad=ac cura=cur ate|準確的|朝向 + 照料 + 的：細心做到|Is this information accurate?
+inaccurate|inneg=in ad=ac cura=cur ate|不準確的|不 + 朝向 + 照料 + 的|The report contained inaccurate data.
+curious|cura=cur ous=ious|好奇的|照料 + 充滿：凡事都想關心|Children are naturally curious.
+protect|pro tect|保護|向前 + 遮蓋|Sunscreen protects your skin.
+protection|pro tect ion|保護|向前 + 遮蓋 + 名詞|Wear eye protection.
+detect|de tect|偵測|去除 + 遮蓋：把蓋子掀開|The alarm detects smoke.
+detective|de tect ive|偵探|去除 + 遮蓋 + 性質|The detective solved the case.
+contact|con tact|聯絡；接觸|一起 + 接觸|Please contact us by email.
+intact|inneg=in tact|完整無損的|不 + 接觸：沒被碰過|The package arrived intact.
+committee|con=com mit=mitt ee|委員會|一起 + 送 + 受…者：被委託的人|The committee meets every Monday.
+promise|pro mit=mise|承諾|向前 + 送：把話先送出去|I promise I'll be on time.
+message|mit=mess age|訊息|送 + 名詞：被送出的東西|Leave a message after the beep.
+special|spect=spec ial|特別的|看 + 的：外觀與眾不同|Today is a special day.
+aspect|ad=a spect|方面|朝向 + 看：從某個角度看|Consider every aspect of the plan.
