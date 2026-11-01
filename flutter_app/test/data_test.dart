@@ -29,7 +29,7 @@ void main() {
 
     test('words are indexed by morpheme', () {
       expect(lex.wordsWith('struct').map((w) => w.word), containsAll(['construct', 'destroy', 'infrastructure']));
-      expect(lex.morphemes['sub']!.spellings, ['sub', 'sup', 'su']);
+      expect(lex.morphemes['sub']!.spellings, ['sub', 'sup', 'su', 'sug']);
       expect(lex.morphemes['inneg']!.label, 'in-');
     });
 
@@ -50,10 +50,10 @@ void main() {
     });
 
     test('guesses unseen words from known parts', () {
-      final r = splitter.analyze('transportation')!;
+      final r = splitter.analyze('transportable')!;
       expect(r.source, AnalysisSource.guess);
-      expect(r.parts.map((p) => p.text), ['trans', 'port', 'ation']);
-      expect(r.parts.map((p) => p.id), ['trans', 'port', 'ion']);
+      expect(r.parts.map((p) => p.text), ['trans', 'port', 'able']);
+      expect(r.parts.map((p) => p.id), ['trans', 'port', 'able']);
     });
 
     test('gives up on words with no known root', () {

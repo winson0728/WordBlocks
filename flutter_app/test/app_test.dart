@@ -42,11 +42,11 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.text('詞庫收錄'), findsOneWidget); // progressive is pre-filled
 
-    await tester.enterText(find.byKey(const Key('split-input')), 'transportation');
+    await tester.enterText(find.byKey(const Key('split-input')), 'transportable');
     await tester.testTextInput.receiveAction(TextInputAction.search);
     await tester.pumpAndSettle();
     expect(find.text('自動推測'), findsOneWidget);
-    expect(find.text('ation'), findsOneWidget);
+    expect(find.text('able'), findsOneWidget);
   });
 
   testWidgets('review: answer a new card and grade it', (tester) async {
