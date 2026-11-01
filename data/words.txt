@@ -2092,3 +2092,202 @@ century|cent ure=ury|世紀|百 + 名詞|The temple was built in the 18th centur
 unity|uni ity=ty|團結|單一 + 名詞|The leader called for national unity.
 monster|mon=monst er|怪物|警告 + 物：凶兆|The children were scared of the monster in the movie.
 medium|medi um|中等的；媒介|中間 + 名詞|I'd like a medium coffee, please.
+review|re vid=view|複習；評論|再 + 看|Let's review what we learned yesterday.
+status|sta=stat nus=us|地位；狀態|站立 + 名詞|What's the status of my order?
+consensus|con sens nus=us|共識|一起 + 感覺 + 名詞|The group reached a consensus.
+innovative|in nov ive=ative|創新的|向內 + 新 + 性質|The company is known for innovative products.
+vacuum|vac=vacu um|真空；吸塵器|空 + 名詞|Sound cannot travel in a vacuum.
+testament|test ment=ament|證明；遺囑|見證 + 名詞|The building is a testament to his skill.
+civic|civ ic|公民的；市政的|公民 + 的|Voting is a civic duty.
+minus|min nus=us|減去|小 + 名詞|Ten minus four is six.
+preview|pre vid=view|預覽|預先 + 看|Click here to preview the file.
+descent|de scend=scent|下降；血統|向下 + 爬|The plane began its descent.
+abusive|ab us ive|虐待的；辱罵的|離開 + 使用 + 性質|He left an abusive relationship.
+pardon|per=par don|原諒；赦免|徹底 + 給|Pardon me, could you repeat that?
+genus|gen nus=us|屬（生物分類）|種類 + 名詞|The lion belongs to the genus Panthera.
+confederate|con fid=feder ate|同盟的；同謀|一起 + 信任 + 的|The confederate states left the union.
+negligence|neg lect=lig ence|疏忽|不 + 選 + 名詞|The accident was caused by negligence.
+negligent|neg lect=lig ent|疏忽的|不 + 選 + 的|The company was negligent in its safety checks.
+negligible|neg lect=lig able=ible|可忽略的|不 + 選 + 可…的|The difference in price is negligible.
+enclosure|en clud=clos ure|圍欄；附件|使 + 關閉 + 結果|The animals live in a large enclosure.
+trajectory|trans=tra ject ory|軌跡|跨越 + 丟 + 名詞|The rocket's trajectory was perfect.
+crescent|cresc=crescent|新月形|生長 + 的：漸漸長大的月亮|A crescent moon hung in the sky.
+concussion|con cuss ion|腦震盪|一起 + 敲打 + 名詞|The player suffered a concussion.
+interrogation|inter rog ion=ation|審問|之間 + 詢問 + 名詞|The interrogation lasted all night.
+diligence|dis=di lect=lig ence|勤奮|分開 + 選 + 名詞：用心挑選|Success requires diligence.
+diligent|dis=di lect=lig ent|勤奮的|分開 + 選 + 的|She is a diligent student.
+speculative|spect=spec ule=ul ive=ative|推測的；投機的|看 + 小 + 性質|The report is highly speculative.
+intellect|inter=intel lect|智力|之間 + 選|He is a man of great intellect.
+gravitational|grav ity=it ion=ation al|重力的|重 + 名詞 + 名詞 + 的|The moon's gravitational pull causes tides.
+immoral|inneg=im mor al|不道德的|不 + 習俗 + 的|Stealing is immoral.
+confederation|con fid=feder ion=ation|聯邦；聯盟|一起 + 信任 + 名詞|Switzerland is a confederation.
+tentative|tempt=tent ive=ative|暫定的；試探性的|嘗試 + 性質|We made tentative plans for Friday.
+miraculous|mir icle=acul ous|奇蹟般的|驚奇 + 物 + 充滿|She made a miraculous recovery.
+artifact|art=arti fact|人工製品；文物|技藝 + 做|The museum displays ancient artifacts.
+monstrous|mon=monstr ous|可怕的；巨大的|警告 + 充滿|It was a monstrous crime.
+traverse|trans=tra vert=verse|橫越|跨越 + 轉|The road traverses the mountains.
+hospice|hosp ice|安寧病房|款待 + 名詞|She spent her final weeks in a hospice.
+spherical|spher ic al|球形的|球 + 的 + 的|The earth is roughly spherical.
+defamation|de fa=fam ion=ation|誹謗|離開 + 說 + 名詞：毀人名聲|He sued the newspaper for defamation.
+surrogate|sub=sur rog ate|代理人；代孕|在下 + 要求 + 使：被找來代替的|She acted as a surrogate mother.
+equitable|equ ity=it able|公平的|相等 + 名詞 + 可…的|We want an equitable solution.
+revisit|re vid=visit|重遊；重新考慮|再 + 看|We should revisit this question next year.
+grammatical|gramm ic=atic al|文法的|寫下的字 + 的 + 的|The essay has a few grammatical errors.
+conspicuous|con spect=spic ous=uous|顯眼的|徹底 + 看 + 充滿|He felt conspicuous in his bright suit.
+computation|con=com put ion=ation|計算|一起 + 計算 + 名詞|The computation took several hours.
+illumination|in=il lumin ion=ation|照明|向內 + 光 + 名詞|The room has soft illumination.
+infirmary|inneg=in firm ary|醫務室|不 + 穩固 + 場所：給身體不穩的人|The injured player was taken to the infirmary.
+involuntary|inneg=in vol=volunt ary|不自覺的|不 + 意願 + 的|Breathing is an involuntary action.
+commune|con=com mun=mune|公社|一起 + 共同|They lived in a commune in the hills.
+toxin|tox ine=in|毒素|毒 + 名詞|The body removes toxins through the liver.
+defunct|de funct|已不存在的|離開 + 執行：不再運作|The company is now defunct.
+impractical|inneg=im pract ic al|不切實際的|不 + 做 + 的 + 的|The plan is too impractical.
+pendulum|pend ule=ul um|鐘擺|懸掛 + 小 + 名詞|The pendulum swung back and forth.
+impetus|in=im pet nus=us|推動力|向內 + 奔向 + 名詞|The new law gave impetus to reform.
+literate|liter ate|識字的|文字 + 的|Most adults in the country are literate.
+prospectus|pro spect nus=us|說明書|向前 + 看 + 名詞|Read the prospectus before you invest.
+translucent|trans lumin=luc ent|半透明的|跨越 + 光 + 的|The curtains are made of translucent fabric.
+sacrament|sacr ment=ament|聖禮|神聖 + 名詞|Marriage is a sacrament in the church.
+animosity|anim ous=os ity|敵意|心靈 + 充滿 + 名詞|There is no animosity between them.
+telecommunication|tele con=com mun ic ion=ation|電信|遠 + 一起 + 共同 + 的 + 名詞|She works in telecommunications.
+avian|avi ian=an|鳥類的|鳥 + 的|Avian flu spread across the region.
+toxicology|tox ic ology|毒理學|毒 + 的 + 學問|The toxicology report came back negative.
+figurative|fig ure=ur ive=ative|比喻的|形狀 + 結果 + 性質|The phrase is used in a figurative sense.
+affliction|ad=af flict ion|苦難；病痛|朝向 + 打擊 + 名詞|Poor eyesight is a common affliction.
+dispense|dis pend=pense|分發|分開 + 秤重|The machine dispenses cold drinks.
+hydroelectric|hydr=hydro electr ic|水力發電的|水 + 電 + 的|The dam produces hydroelectric power.
+compulsion|con=com pel=puls ion|強迫；衝動|一起 + 推 + 名詞|He felt a compulsion to check his phone.
+dispel|dis pel|驅散|分開 + 推|The report dispelled any doubts.
+plenary|ple=plen ary|全體出席的|填滿 + 的|The conference opened with a plenary session.
+semblance|simil=sembl ence=ance|表象|相似 + 名詞|Life returned to some semblance of normal.
+dissident|dis sid ent|異議人士|分開 + 坐 + 的人|The dissidents were sent to prison.
+tactile|tact ile|觸覺的|接觸 + 可…的|Babies love tactile toys.
+thermostat|therm=thermo sta=stat|恆溫器|熱 + 站立：讓溫度停住|Set the thermostat to 26 degrees.
+objectivity|ob ject ive=iv ity|客觀性|對著 + 丟 + 性質 + 名詞|Journalists should aim for objectivity.
+normative|norm ive=ative|規範性的|規範 + 性質|The study takes a normative approach.
+improvise|in=im pro vid=vise|即興；臨時湊合|不 + 預先 + 看：沒有事先準備|We forgot the plates, so we improvised.
+improvisation|inneg=im pro vid=vis ion=ation|即興|不 + 預先 + 看 + 名詞|Jazz is full of improvisation.
+remit|re mit|匯款；職權範圍|回 + 送|Please remit payment within 30 days.
+reunification|re uni fact=fic ion=ation|重新統一|再 + 單一 + 做 + 名詞|Germany celebrated its reunification.
+ultrasonic|ultra son ic|超音波的|超越 + 聲音 + 的|Bats use ultrasonic sounds.
+credence|cred ence|相信|相信 + 名詞|The evidence gives credence to his story.
+prerogative|pre rog ive=ative|特權|預先 + 詢問 + 性質：最先被問意見|It's the manager's prerogative to decide.
+deliverance|de liber=liver ence=ance|解救|離開 + 自由 + 名詞|They prayed for deliverance from the war.
+planar|plan ar|平面的|平的 + 的|The design uses planar surfaces.
+desist|de sta=sist|停止|離開 + 站立|The court ordered them to cease and desist.
+magnate|magn ate|大亨|大 + 人|He is a shipping magnate.
+impotent|inneg=im pot ent|無能為力的|不 + 能力 + 的|The police seemed impotent against the gangs.
+sanctity|sacr=sanct ity|神聖|神聖 + 名詞|They respect the sanctity of life.
+mortuary|mort ary=uary|停屍間|死 + 場所|The body was taken to the mortuary.
+devious|de via=vi ous|狡猾的|離開 + 路 + 充滿：不走正路|He used devious methods to win.
+civility|civ ile=il ity|禮貌|公民 + 可…的 + 名詞|Please treat each other with civility.
+locator|loc ate=at or|定位器|地方 + 使 + 物|Use the store locator to find a shop near you.
+invariant|inneg=in vari ent=ant|不變的|不 + 變化 + 的|The speed of light is invariant.
+monogram|mono gramm=gram|字母組合圖案|單一 + 字母|The towels have her monogram on them.
+sumptuous|sum=sumpt ous=uous|奢華的|拿取 + 充滿：花費很多|We had a sumptuous dinner.
+anarchism|an arch ism|無政府主義|沒有 + 統治 + 主義|He wrote a book on anarchism.
+inanimate|inneg=in anim ate|無生命的|不 + 生命氣息 + 的|A rock is an inanimate object.
+deciduous|de cid ous=uous|落葉的|向下 + 落下 + 充滿|Maple trees are deciduous.
+gestation|gest ion=ation|懷孕期；醞釀|攜帶 + 名詞|The idea had a long gestation.
+senile|sen ile|衰老的|老 + 可…的|My grandfather is not senile at all.
+biometric|bio meter=metr ic|生物特徵的|生命 + 測量 + 的|The phone uses biometric security.
+aberration|ab err ion=ation|異常|離開 + 偏離 + 名詞|The low score was an aberration.
+impatience|inneg=im pass=pat ence=ience|不耐煩|不 + 承受 + 名詞|He showed his impatience by tapping his foot.
+negate|neg ate|否定；使無效|否定 + 使|The new tax will negate the benefits.
+executor|ex sequ=ecut or|遺囑執行人|向外 + 跟隨 + 者|She was named the executor of the will.
+navigable|nav=navig able|可航行的|船 + 可…的|The river is navigable for 200 km.
+pathogenic|path=patho gen ic|致病的|痛苦 + 產生 + 的|Some bacteria are pathogenic.
+expectant|ex spect=pect ent=ant|期待的；懷孕的|向外 + 看 + 的|The hospital has classes for expectant mothers.
+normality|norm al ity|正常狀態|規範 + 的 + 名詞|Life slowly returned to normality.
+separator|se par ate=at or|分隔器|分開 + 準備 + 使 + 物|The machine has a cream separator.
+substation|sub sta=stat ion|變電所；分站|在下 + 站立 + 名詞|A fire at the substation caused a blackout.
+errant|err ent=ant|犯錯的；漂泊的|偏離 + 的|An errant ball broke the window.
+enquire|en quir=quire|詢問|進入 + 尋找|I'm writing to enquire about the course.
+autocratic|auto cracy=crat ic|專制的|自己 + 統治 + 的|The country has an autocratic government.
+cursive|cur=curs ive|草寫的|跑 + 性質：筆跑得快|She writes in cursive.
+recursive|re cur=curs ive|遞迴的|再 + 跑 + 性質|The function is recursive.
+indoctrination|in doc=doctr ine=in ion=ation|灌輸|向內 + 教導 + 名詞|The school was accused of political indoctrination.
+fluidity|flu id ity|流動性|流 + 的 + 名詞|The dancer moves with great fluidity.
+demonstrator|de mon=monstr ate=at or|示威者；示範者|徹底 + 提醒 + 使 + 者|Thousands of demonstrators filled the square.
+introspective|intro spect=spec ive=tive|內省的|向內 + 看 + 性質|He is quiet and introspective.
+declare|de clar=clare|宣布；申報|徹底 + 清楚|Do you have anything to declare?
+declaration|de clar ion=ation|宣言|徹底 + 清楚 + 名詞|The Declaration of Independence was signed in 1776.
+clarify|clar ify|澄清|清楚 + 使|Could you clarify your question?
+clarity|clar ity|清晰|清楚 + 名詞|The photo has great clarity.
+desperate|de sper ate|絕望的；極度渴望的|離開 + 希望 + 的|He was desperate for a job.
+despair|de sper=spair|絕望|離開 + 希望|She felt a deep sense of despair.
+prosper|pro sper|繁榮|向前 + 希望|The town prospered thanks to tourism.
+prosperity|pro sper ity|繁榮|向前 + 希望 + 名詞|The country enjoyed years of prosperity.
+obligation|ob lig ion=ation|義務|對著 + 綁 + 名詞|You have no obligation to buy.
+oblige|ob lig=lige|使不得不；幫忙|對著 + 綁|We were obliged to cancel the trip.
+obligatory|ob lig ate=at ory|強制的|對著 + 綁 + 使 + 的|Attendance is obligatory.
+rely|re lig=ly|依賴|回 + 綁：綁回在身上|You can rely on me.
+reliable|re lig=li able|可靠的|回 + 綁 + 可…的|This car is very reliable.
+reliability|re lig=li able=abil ity|可靠性|回 + 綁 + 可…的 + 名詞|The reliability of the data is in question.
+reliance|re lig=li ence=ance|依賴|回 + 綁 + 名詞|We need to reduce our reliance on imports.
+apparent|ad=ap parere=par ent|明顯的|朝向 + 出現 + 的|For no apparent reason, he left.
+appear|ad=ap parere=pear|出現；似乎|朝向 + 出現|A rainbow appeared after the rain.
+appearance|ad=ap parere=pear ence=ance|外表；出現|朝向 + 出現 + 名詞|Don't judge people by their appearance.
+disappear|dis ad=ap parere=pear|消失|否定 + 朝向 + 出現|My keys have disappeared.
+transparent|trans parere=par ent|透明的|跨越 + 出現 + 的：看得穿|The bottle is made of transparent plastic.
+transparency|trans parere=par ence=ency|透明度|跨越 + 出現 + 名詞|Voters want more transparency from the government.
+humble|hum able=ble|謙虛的|大地 + 的：貼近地面|She is humble about her success.
+humiliate|hum=humili ate|羞辱|低下 + 使|He was humiliated in front of his friends.
+beneficial|bene fact=fic ial|有益的|好 + 做 + 的|Exercise is beneficial to health.
+beneficiary|bene fact=fic ary=iary|受益人|好 + 做 + 人|She is the main beneficiary of the will.
+maternal|matr=matern al|母親的|母親 + 的|My maternal grandmother lives in Tainan.
+maternity|matr=matern ity|母職；產婦的|母親 + 名詞|She is on maternity leave.
+paternal|patr=patern al|父親的|父親 + 的|He felt a paternal pride.
+paternity|patr=patern ity|父親身分|父親 + 名詞|Fathers can take paternity leave.
+dental|dent al|牙齒的|牙齒 + 的|I have a dental appointment at 3.
+dentist|dent ist|牙醫|牙齒 + 人|I go to the dentist twice a year.
+optical|opt ic al|光學的；視覺的|眼睛 + 的 + 的|The store sells optical equipment.
+optician|opt ic ian|配鏡師|眼睛 + 的 + 人|The optician checked my eyes.
+neural|neur al|神經的|神經 + 的|AI uses neural networks.
+neuroscience|neur=neuro sci ence|神經科學|神經 + 知道 + 名詞|She has a PhD in neuroscience.
+cosmic|cosm ic|宇宙的|宇宙 + 的|Cosmic rays come from outer space.
+cosmetic|cosm ic=etic|化妝品；表面的|秩序 + 的：整理儀容|The changes are only cosmetic.
+cosmopolitan|cosm=cosmo polit ian=an|國際化的|宇宙 + 城邦 + 的：世界公民|Singapore is a cosmopolitan city.
+polygon|poly gon|多邊形|許多 + 角|A hexagon is a polygon with six sides.
+pentagon|penta gon|五角形|五 + 角|The building is shaped like a pentagon.
+hexagon|hexa gon|六角形|六 + 角|Honeycombs are made of hexagons.
+octagon|octo=octa gon|八角形|八 + 角|The stop sign is an octagon.
+octopus|octo pod=pus|章魚|八 + 腳|An octopus has eight arms.
+decimal|dec=decim al|小數；十進位的|十 + 的|Round the number to two decimal places.
+kilogram|kilo gramm=gram|公斤|千 + 公克|The bag weighs one kilogram.
+kilometer|kilo meter|公里|千 + 公尺|The station is two kilometers away.
+centimeter|cent=centi meter|公分|百分之一 + 公尺|The box is 30 centimeters wide.
+millimeter|milli meter|公釐|千分之一 + 公尺|The rain fell 50 millimeters in an hour.
+milligram|milli gramm=gram|毫克|千分之一 + 公克|Take 500 milligrams twice a day.
+binary|bi=bin ary|二進位的|二 + 的|Computers use binary code.
+trilogy|tri log y|三部曲|三 + 話語 + 名詞|The film is the last part of a trilogy.
+unify|uni ify=fy|統一|單一 + 使|The leader tried to unify the country.
+semicircle|semi circ=circle|半圓|一半 + 圓|The chairs were placed in a semicircle.
+prefix|pre fix|字首|預先 + 固定：固定在前面的|"Un-" is a common prefix.
+suffix|sub=suf fix|字尾|在下 + 固定：固定在後面的|"-ness" is a suffix that makes nouns.
+economic|eco nom ic|經濟的|家 + 管理 + 的|The country faces economic problems.
+commercial|con=com merc ial|商業的；廣告|一起 + 交易 + 的|This is a commercial area.
+commerce|con=com merc=merce|商業|一起 + 交易|E-commerce has grown fast.
+merchant|merc=merch ent=ant|商人|交易 + 的人|The merchant sold silk and tea.
+merchandise|merc=merchand ise|商品|交易 + 的 + 物|All merchandise is 20 percent off.
+company|con=com panis=pan y|公司；陪伴|一起 + 麵包 + 名詞|She works for a tech company.
+companion|con=com panis=pan ion|同伴|一起 + 麵包 + 名詞|The dog was his faithful companion.
+accompany|ad=ac con=com panis=pan y|陪同；伴隨|朝向 + 一起 + 麵包 + 名詞|Children must be accompanied by an adult.
+employ|in=em plic=ploy|僱用|向內 + 摺疊：捲進工作中|The factory employs 500 people.
+employee|in=em plic=ploy ee|員工|向內 + 摺疊 + 受…者|The company has 200 employees.
+employer|in=em plic=ploy er|雇主|向內 + 摺疊 + 的人|My employer pays for my training.
+employment|in=em plic=ploy ment|就業|向內 + 摺疊 + 名詞|Employment rose by 2 percent.
+unemployment|un in=em plic=ploy ment|失業|不 + 向內 + 摺疊 + 名詞|Unemployment is falling.
+salary|sal ary|薪水|鹽 + 的|She earns a good salary.
+negotiate|neg oti ate|談判|不 + 閒暇 + 使：做生意|We need to negotiate a better price.
+negotiation|neg oti ion=ation|談判|不 + 閒暇 + 名詞|The negotiations lasted three days.
+interest|inter ess=est|興趣；利息|之間 + 存在：身在其中|The bank pays 2 percent interest.
+essence|ess ence|本質|存在 + 名詞|Time is of the essence.
+essential|ess ent ial|必要的|存在 + 的 + 的|Water is essential for life.
+absence|ab ess=sence|缺席；缺乏|離開 + 存在|Nobody noticed his absence.
+present|pre ess=sent|現在的；出席的；禮物|在前 + 存在|All students were present.
+presence|pre ess=sence|出席；存在|在前 + 存在|Your presence is requested at the meeting.
+represent|re pre ess=sent|代表|再 + 在前 + 存在：再呈現一次|She represents Taiwan at the Olympics.
+representative|re pre ess=sent ate=at ive|代表|再 + 在前 + 存在 + 使 + 性質|Speak to a customer service representative.
+representation|re pre ess=sent ion=ation|代表；描繪|再 + 在前 + 存在 + 名詞|Women need more representation in politics.
+payment|pac=pay ment|付款|平息 + 名詞|Payment is due at the end of the month.

@@ -14,10 +14,17 @@ ortho|pre|ortho-|正、直|希臘語 orthos|rel
 proto|pre|proto-|第一、原始|希臘語 protos|time
 hemi|pre|hemi-|一半|希臘語 hemi|num
 apo|pre|apo-|離開|希臘語 apo|dir
+poly|pre|poly-|許多|希臘語 polys|num
+penta|pre|penta-|五|希臘語 pente|num
+hexa|pre|hexa-|六|希臘語 hex|num
+octo|pre|octo- / octa-|八|希臘語 okto|num
+dec|pre|dec- / decim-|十|拉丁語 decem|num
+kilo|pre|kilo-|千|希臘語 khilioi|num
+milli|pre|milli-|千分之一|拉丁語 mille|num
 chron|root|chron|時間|希臘語 chronos|time
 pro|pre|pro- / pur-|向前、預先；代替|拉丁語 pro|dir
 de|pre|de-|向下；去除、反轉|拉丁語 de|dir
-in|pre|in- / im-|向內、進入|拉丁語 in|dir
+in|pre|in- / im- / em-|向內、進入|拉丁語 in|dir
 re|pre|re-|回、再|拉丁語 re-|dir
 trans|pre|trans- / tran- / tra-|跨越、轉移|拉丁語 trans|dir
 ex|pre|ex- / e-|向外|拉丁語 ex|dir
@@ -261,7 +268,7 @@ nounce|root|nounce / nunci|宣告|拉丁語 nuntiare|sense
 pict|root|pict|畫|拉丁語 pingere|sense
 polit|root|polit|城邦、公民|希臘語 polis|life
 fend|root|fend / fens / fense|打擊、防衛|拉丁語 fendere|move
-cresc|root|cresc / crease / crete / cruit|生長|拉丁語 crescere|life
+cresc|root|cresc / crease / crete / cruit / crescent|生長|拉丁語 crescere|life
 tort|root|tort|扭曲|拉丁語 torquere|move
 vad|root|vad / vade / vas|走、去|拉丁語 vadere|move
 trud|root|trud / trude / trus|推、擠|拉丁語 trudere|move
@@ -297,7 +304,7 @@ civ|root|civ|公民|拉丁語 civis|life
 cern|root|cern / cret|分辨|拉丁語 cernere|mind
 sen|root|sen|老|拉丁語 senex|life
 libr|root|libr|書|拉丁語 liber（書）|sense
-tempt|root|tempt|嘗試|拉丁語 temptare|mind
+tempt|root|tempt / tent|嘗試|拉丁語 temptare|mind
 anim|root|anim|生命氣息、心靈|拉丁語 anima|life
 fund|root|fund / found|底部、基礎|拉丁語 fundus|nature
 neg|root|neg / ny / ni|否定|拉丁語 negare|rel
@@ -316,7 +323,7 @@ flict|root|flict|打擊|拉丁語 fligere|move
 text|root|text|編織|拉丁語 texere|move
 cre|root|cre|創造|拉丁語 creare|life
 typ|root|typ / type|類型、印記|希臘語 typos|sense
-pac|root|pac|和平|拉丁語 pax|life
+pac|root|pac / pay|和平|拉丁語 pax|life
 err|root|err|漫遊、偏離|拉丁語 errare|move
 pand|root|pand / pans|展開|拉丁語 pandere|move
 jun|root|jun / juven|年輕|拉丁語 juvenis|life
@@ -336,13 +343,31 @@ mor|root|mor|習俗|拉丁語 mos|life
 atmo|root|atmo|蒸氣|希臘語 atmos|nature
 spher|root|spher / sphere|球|希臘語 sphaira|nature
 digit|root|digit|手指|拉丁語 digitus|num
+clar|root|clar / clare|清楚|拉丁語 clarus|sense
+sper|root|sper / spair|希望|拉丁語 sperare|mind
+lig|root|lig / lige / ly / li|綁|拉丁語 ligare|rel
+parere|root|par / pear|出現|拉丁語 parere|sense
+hum|root|hum / humili|大地、低下|拉丁語 humus|nature
+matr|root|matr / matern|母親|拉丁語 mater|life
+patr|root|patr / patern|父親|拉丁語 pater|life
+dent|root|dent|牙齒|拉丁語 dens|life
+opt|root|opt|眼睛、看|希臘語 optikos|sense
+neur|root|neur / neuro|神經|希臘語 neuron|life
+cosm|root|cosm / cosmo|宇宙、秩序|希臘語 kosmos|nature
+gon|root|gon|角|希臘語 gonia|nature
+fix|root|fix|固定|拉丁語 figere|rel
+merc|root|merc / merce / merch / merchand|交易|拉丁語 merx|life
+panis|root|pan / pani|麵包|拉丁語 panis|life
+sal|root|sal|鹽|拉丁語 sal|nature
+oti|root|oti|閒暇|拉丁語 otium|life
+ess|root|ess / est / sent / sence|存在|拉丁語 esse|life
 ure|suf|-ure / -ature / -ur / -ury|行為、結果（名詞）|拉丁語 -ura|suf
 ion|suf|-ion / -tion / -ition / -ation / -uation|行為、狀態（名詞）|拉丁語 -io|suf
 ive|suf|-ive / -itive / -iv / -tive / -ative|具…性質的（形容詞）|拉丁語 -ivus|suf
 able|suf|-able / -ible / -ble / -bil / -ibil|可…的（形容詞）|拉丁語 -abilis|suf
 or|suf|-or / -ator / -itor|做…的人或物|拉丁語 -or|suf
-ary|suf|-ary / -uary / -arium|相關事物、集合（名詞）|拉丁語 -arium|suf
-ic|suf|-ic / -tic / -atic|…的（形容詞）|希臘語 -ikos|suf
+ary|suf|-ary / -uary / -arium / -iary|相關事物、集合（名詞）|拉丁語 -arium|suf
+ic|suf|-ic / -tic / -atic / -etic|…的（形容詞）|希臘語 -ikos|suf
 ology|suf|-ology / -logy / -olog|…學|希臘語 -logia|suf
 ize|suf|-ize / -yze / -iz|使…化（動詞）|希臘語 -izein|suf
 ous|suf|-ous / -ious / -orious / -os / -uous|充滿…的（形容詞）|拉丁語 -osus|suf
@@ -365,7 +390,7 @@ ise|suf|-ise|使…（動詞）|古法語 -iser|suf
 ite|suf|-ite|…的（形容詞）|拉丁語 -itus|suf
 el|suf|-el|小東西（名詞）|拉丁語 -ellus|suf
 age|suf|-age / -ag|狀態、行為（名詞）|古法語 -age|suf
-ity|suf|-ity / -ty / -ety|性質、狀態（名詞）|拉丁語 -itas|suf
+ity|suf|-ity / -ty / -ety / -it|性質、狀態（名詞）|拉丁語 -itas|suf
 ment|suf|-ment / -ament|行為、結果（名詞）|拉丁語 -mentum|suf
 ee|suf|-ee|受…者（名詞）|古法語 -é|suf
 er|suf|-er|做…的人或物（名詞）|古英語 -ere|suf
@@ -387,3 +412,4 @@ ior|suf|-ior|較…的（形容詞）|拉丁語 -ior|suf
 um|suf|-um|名詞字尾|拉丁語 -um|suf
 eer|suf|-eer|做…的人（名詞）|法語 -ier|suf
 imony|suf|-imony|狀態、結果（名詞）|拉丁語 -imonium|suf
+nus|suf|-us|名詞字尾|拉丁語 -us|suf

@@ -63,3 +63,7 @@ electr|希臘語 elektron 是「琥珀」。古希臘人發現琥珀摩擦後會
 radic|radix 就是「根」：本 App 講的「字根」在拉丁語裡正是 radix。radical 原意是「從根本來的」，eradicate 是「連根拔起」。|一株植物被連根拔出土。
 plaud|explode 原本是劇場用語：觀眾用拍手和噓聲把演員「轟下台」（ex + plaudere）。後來才變成「爆炸」。|劇場觀眾拍手噓聲，把演員趕下台。
 astro|disaster 字面是「壞星星」（dis + astro）：古人相信災禍來自星象不吉。|夜空中一顆星星被烏雲遮住。
+panis|company 和 companion 字面是「一起吃麵包的人」（com + panis）。和你分享麵包的，就是你的同伴。|兩個人分著吃一條長麵包。
+sal|salary 來自拉丁語 sal「鹽」。常聽到的說法是羅馬士兵領鹽當薪水，不過學者認為比較可能是「買鹽的錢」；無論如何，薪水和鹽確實是同一個字根。|一袋粗鹽旁邊放著幾枚銅幣。
+oti|拉丁語 otium 是「閒暇」，negotium（neg + otium）就是「不閒著」，也就是做生意。英文 negotiate（談判）就從這裡來。|兩個商人隔著桌子握手成交。
+pac|pay 來自拉丁語 pacare「使平靜」：付了錢，債主就平靜下來了。它和 peace（和平）是同一個字根。|收到錢的債主露出微笑。
