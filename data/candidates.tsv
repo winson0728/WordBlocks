@@ -13,7 +13,6 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 5.04	minister	ready	min sta=ist er	min: less; smaller
 5.00	individual	ready	in de=di vid al=ual	divid/divis: separated into parts; divided | divid: divide
 4.99	consider	ready	con sid er	sider: star
-4.98	significant	ready	sign ific ent=ant	sign: mark; sign
 4.97	photo	ready	photo	phot/phos: light
 4.94	degree	ready	de grat=gree	grad: degree; go; step; walk
 4.93	administration	ready	ad min sta=ist rat=ration	min: less; smaller
@@ -25,311 +24,107 @@ zipf	word	status	proposed parts (words.txt syntax)	source roots and English mean
 4.77	prove	ready	prob=prove	prob: worthy; good; test; find good
 4.75	corner	ready	corn er	corn: horn
 4.75	criminal	ready	crit=cri min al	crimin: crime; distinguish | crimin: judgement; distinguish
-4.69	survey	ready	sur via=vey	vid: appear; see
 4.63	funding	ready	fus=fund ing	fund: bottom
 4.60	cycle	ready	cycl=cycle	cycl: circle | cycl: circle; wheel
 4.60	republic	ready	re popul=publ ic	public: of the people; public
 4.58	senator	ready	se nat or	sen: old; grow old
-4.57	opposition	ready	ob=op pos ion=ition	op: against; on; over; to; toward
 4.56	grace	ready	grat=grace	grac: pleasing; thankful | grace/gree: pleasing; thankful | grat: thank; please; pleasing; thankful; kind
 4.54	empire	ready	en=em spir=pire	para: arrange; assemble; order; prepare; provide; procure; bearing; beside
 4.53	portion	ready	port ion	part: divide; part; separate; share | portio: part; share
-4.50	visual	ready	vid=vis al=ual	vid: appear; see | vis: appear; see | vis: see; appear
 4.47	province	ready	pro vinc=vince	vinc: conquer
 4.45	compare	ready	con=com par=pare	compar: alike; matching
-4.45	suffer	ready	sub=suf fer	fer: bear; bring; carry | fer: bear; carry; bear; send; bring
 4.45	administrative	ready	ad min sta=ist rat ive	min: less; smaller
 4.44	fiction	ready	fac=fic ion=tion	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state | fict: fashion; feign | fig: form; shape
-4.42	designer	ready	de sign er	sign: mark
 4.42	solve	ready	solv=solve	solut/solv: loosen; set free
 4.38	angle	ready	angl=angle	ang: a corner; angle | angul: angular
-4.37	currency	ready	cur=curr ence=ency	corr/curs/curr: run; course | curr: run
 4.36	script	ready	scrib=script	scrib/script: write | script: write
-4.34	instant	ready	in sta=stant	stant/stanc: stand | stant: stand
 4.33	prominent	ready	pro min ent	min: project
-4.32	legislative	ready	leg=legis lat ive	lat: bring; carry; lift
 4.31	triple	ready	tri ple	tri: three
 4.31	discrimination	ready	dis crit=cri min ion=ation	crimin: judgement; distinguish
-4.30	summit	ready	sum mit	summ: highest
+4.30	summit	ready	sub=sum mit	summ: highest
 4.28	consideration	ready	con sid=side rat=ration	sider: star
 4.25	tribute	ready	trib=tribute	tribut/trib: assign; allow; allot; bestow; pay | tribut: allot; allow; assign; pay
 4.24	habit	ready	hab=habit	hab: have; hold | habit/hab: have; dwell; live; abide
-4.23	casual	ready	cid=cas al=ual	cas: fall; sink | cid/cad/cas: fall
 4.23	strict	ready	strict	strain/string: bind; pull; draw tight | strict: bind; draw tight
-4.22	motivation	ready	mot ive=iv ion=ation	mot: move; motion
-4.19	congressional	ready	con gress ion al	grad: degree; go; step; walk
-4.19	distant	ready	de=di sta=stant	stant/stanc: stand | stant: stand
 4.18	verse	ready	vert=verse	vers/verg/vert/ver: turn; range; totality; world | vers: turn
-4.18	victor	ready	vinc=vict or	vict: conquer | vinc: conquer
-4.17	revolutionary	ready	re volv=volut ion ary	volu: roll; turn
-4.16	presidency	ready	pre sid ence=ency	sid: settle; sit
 4.16	indigenous	ready	in de=di gen ous	gene/genit/gen/gn: birth; beget; race; kind; produce; production; origin; formation
 4.15	vertical	ready	ver ic=tic al	vers/verg/vert/ver: turn; range; totality; world | vert: turn
-4.14	conviction	ready	con vinc=vict ion	vict: conquer | vinc: conquer
-4.13	activist	ready	act ive=iv ist	act: act; do; drive; go; move; urge | ago/ig/act: do; go; move
-4.13	accordance	ready	ad=ac cord ence=ance	cord: heart; agree
-4.13	separation	ready	se par ion=ation	para: arrange; assemble; order; prepare; provide; procure; bearing; beside
 4.12	divide	ready	de=di vid=vide	divid/divis: separated into parts; divided | divid: divide
 4.11	proportion	ready	pro port ion	portio: part; share
-4.10	facial	ready	fac ial	faci: face; figure; form | feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 4.09	tender	ready	tend er	tend: reach; stretch | tens/tend/tent: stretch; strain; thin
 4.09	meter	ready	meter	metr: measure; apportion; surrounding stuff
 4.08	provincial	ready	pro vinc ial	vinc: conquer
-4.07	capability	ready	cap able=abil ity	abil: aptitude; handy
 4.07	adjust	ready	ad jus=just	jus: law; right
 4.07	administrator	ready	ad min sta=ist rat or	min: less; smaller
 4.06	pulse	ready	pel=pulse	puls/pul: drive; urge | puls: drive; urge
 4.05	graph	ready	graph	graph: draw; write; produce image; descriptive science
-4.05	mobility	ready	mot=mob ile=il ity	mob: move | mot: move; motion
 4.03	tribal	ready	trib al	trib: OR waste away; family; race | tribal: family; race
 4.02	consultation	ready	con sult ion=ation	consul: consult; deliberate; take counsel | sell: sees; take | sult: leap; spring forward
 4.00	portal	ready	port al	port: carry; bear; bring
 3.99	mediterranean	ready	medi terr ian=anean	medi: between; middle | medi: middle
 3.98	absent	ready	ab sens=sent	abs: apart (prefix); away from; off
-3.98	habitat	ready	hab=habit ate=at	habit/hab: have; dwell; live; abide | habit: abide; dwell; live
-3.98	porter	ready	port er	port: bear; bring; carry | port: carry; bear; bring
-3.98	sequel	ready	sequ el	secu/sequ: follow | sequ: follow
-3.97	mandate	ready	mand ate	dat/dit: give | dat: give | mand: command; order | manu/mani/man: hand | mend: order; command; commit
 3.97	tactical	ready	tact ic al	tag: arrange; put in order
-3.96	tendency	ready	tend ence=ency	tend: reach; stretch | tens/tend/tent: stretch; strain; thin
 3.96	viable	ready	via able=ble	vivi/viv: life; live
-3.92	delegation	ready	de leg ion=ation	de: away; downward completely (prefix); off; reversal; undoing | leg: send; pick; read | lega: appoint; bring; send | lega: appoint; send; bring
 3.92	theology	ready	the ology	log: word; reason; speech; thought; study; science; theory | logy: study of (suffix) | the/theo: god; God
-3.91	liberation	ready	liber ion=ation	liber: free; weigh; consider
-3.90	coordination	ready	con=co ordin ion=ation	ordin: order; rank; arrange; regulate
-3.88	credibility	ready	cred able=ibil ity	cred/cre: believe; trust | cred: believe
-3.88	leverage	ready	lev er age	lev: lift; light; raise | lev: light
-3.88	verify	ready	ver ify	ver: true; truth
 3.87	consult	ready	con sult	consul: consult; deliberate; take counsel | sell: sees; take
 3.86	legion	ready	leg ion	lect: choose; gather; variety | lege: choose; gather; pick
-3.86	correlation	ready	con=cor re lat ion	relat: bring back; carry back | relat: carry back; bring back
-3.86	correspondent	ready	con=cor re spond ent	spond/spons: assurance; surety; guarantee; pledge; promise
-3.85	proposition	ready	pro pos ion=ition	pon: put; place | pos: place; put
-3.83	justification	ready	jus=just ific ion=ation	jus: law; right
-3.83	notorious	ready	gno=not or ous=ious	gnit/gnostic/gnos: know | not: know
 3.82	deliberate	ready	de liber ate	de: away; downward completely (prefix); off; reversal; undoing | liber, libr: balance; weigh
 3.82	decoration	ready	de con=co rat=ration	decor: beauty; elegance; splendor | decor: ornament; acceptable
 3.81	archer	ready	arch er	arc: bow
 3.80	decorative	ready	de con=co rat ive	decor: ornament; acceptable
-3.79	probation	ready	prob ion=ation	prob: worthy; good; test; find good
-3.78	specify	ready	spect=spec ify	speci: kind; sort
-3.78	visibility	ready	vid=vis able=ibil ity	vid: appear; see
-3.77	prohibition	ready	pro hab=hibit ion	hibit: have; hold
 3.77	interval	ready	inter val	inter: among (prefix); between
-3.77	complement	ready	con=com ple ment	ple: fill | plet/ple: fill; full; many
 3.77	seminar	ready	se min ar	semin: seed; sow
-3.77	modification	ready	mod ific ion=ation	moder/mod: measure; change; manner; way
 3.76	resurrection	ready	re sur rect ion	surg/surrect: rise | surrect: rise
 3.75	lateral	ready	lat er al	later: side
-3.75	migrant	ready	migr ent=ant	migr: wander
-3.75	noticeable	ready	gno=not ice able	gnit/gnostic/gnos: know
-3.75	specification	ready	spect=spec ific ion=ation	speci: kind; sort
-3.73	termination	ready	term=termin ion=ation	termin: boundary; limit; end
-3.72	philosopher	ready	phil=philo soph er	pha: speak; spoken of | soph: wisdom; wise
 3.72	bilateral	ready	bi lat er al	later: side
-3.72	ensemble	ready	en simil=semble	simil: likeness; imitating
-3.71	recorder	ready	re cord er	cord: heart
 3.71	severity	ready	se ver ity	sever: grave; serious; strict | sever: stern; strict; serious
-3.71	continuation	ready	con tain=tin ion=uation	tent/ten/tin/tain/tent: hold; keep; maintain
 3.71	vista	ready	via=vi sta	vid: appear; see | vis: see; appear
-3.70	delegate	ready	de leg ate	leg: send; pick; read | lega: appoint; bring; send | lega: appoint; send; bring
-3.70	dissertation	ready	dis sert ion=ation	ser: a row; bind; connect; join; order; put | sert/ser: join; bind; put | sert: bind; join; put
-3.70	domination	ready	domin ion=ation	domin: lord; master
-3.68	terminology	ready	term=termin ology	log: word; reason; speech; thought; study; science; theory | termin: boundary; end; limit
 3.67	insulation	ready	in sub=su lat ion	insul: island
 3.67	imminent	ready	in=im min ent	min: project
-3.67	irresponsible	ready	inneg=ir re spond=spons able=ible	spond/spons: assurance; surety; guarantee; pledge; promise
-3.66	dominion	ready	domin ion	domin: lord; master
 3.66	collateral	ready	con=col lat er al	later: side
 3.66	demise	ready	dem ise	miss/mitt/mit: send | miss: send (wcity)
-3.66	novelty	ready	nov el ity=ty	nov: new
-3.66	versatile	ready	ver sat ile	vers/verg/vert/ver: turn; range; totality; world
-3.65	corporal	ready	corp=corpor al	corp: body | corpor/corp: body; flesh
 3.65	formidable	ready	form id able	formid: fear
-3.65	resonance	ready	re son ence=ance	son: sound
-3.64	deficiency	ready	de fac=fic ence=iency	de: away; downward completely (prefix); off; reversal; undoing | fac/fic: do; make | fic: do; make
-3.64	lever	ready	lev er	lev/liev: lift up; raise; rise | lev: lift; light; raise
 3.63	reconsider	ready	re con sid er	sider: star
-3.63	temporal	ready	tempor al	tempor/temp: time | tempor: time
-3.63	cultivation	ready	cult=cultiv ion=ation	cult: cultivate; till; inhabit
-3.63	stationary	ready	sta ion=tion ary	stat/sta/stet/stitu/stit: stand; condition; still
-3.61	casualty	ready	cid=cas al=ual ity=ty	cas/cid/cad: fall; sink | cas: fall; sink | cid/cad/cas: fall
-3.61	hypothetical	ready	hypo the ic=tic al	hypo: beneath; under (prefix)
-3.61	perpetual	ready	per pet al=ual	pet(it): ask; attack; fall; rush at; seek; strive
-3.61	factual	ready	fact al=ual	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
-3.61	simulator	ready	simil=simul or=ator	simil: likeness; imitating
-3.60	motivate	ready	mot ive=iv ate	mot: move | mot: move; motion
-3.60	ordinance	ready	ordin ence=ance	ordin: arrange; order; rank; regulate | ordin: order; rank; arrange; regulate
 3.60	attain	ready	ad=at tain	ting/tact/tang/tat/teg/tig: touch; arrange; order; feel
-3.58	resilience	ready	re sult=sil ence=ience	sili/saul: jump
 3.57	latitude	ready	lat itude	lat: broad; wide; carry
-3.57	victorious	ready	vinc=vict or ous=ious	vinc: conquer
-3.56	promoter	ready	pro mot er	mot: move
-3.56	complementary	ready	con=com ple ment ary	ple: fill
 3.56	consulate	ready	con sub=su lat=late	sell: sees; take
-3.56	convict	ready	con vinc=vict	vinc: conquer
-3.55	summon	ready	sum mon	mon: advise; remind; warn
 3.55	ministerial	ready	min sta=ist er ial	min: less; smaller
 3.54	dialect	ready	dia lect	dia: apart (prefix); between; through | lect: choose; gather; variety
 3.54	covert	ready	con=co vert	operi: cover; hide
 3.54	seminary	ready	se min ary	semin: seed; sow
 3.54	administer	ready	ad min sta=ist er	min: less; smaller
-3.53	insignificant	ready	in sign ific ent=ant	sign: mark | sign: mark; sign
 3.52	condemnation	ready	con dem nat ion	demn/damn/dam: to inflict loss upon; loss; harm; tame
-3.52	fidelity	ready	fid el ity	fid: faith; trust
 3.51	discriminate	ready	dis crit=cri min ate	crimin: crime; distinguish | crimin: judgement; distinguish
-3.50	profitability	ready	pro fact=fit able=abil ity	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 3.50	allegation	ready	ad=al leg ion=ation	leg: send; pick; read
-3.49	concurrent	ready	con cur=curr ent	corr/curs/curr: run; course | curr: run
-3.49	coincide	ready	con=co in cis=cide	cid/cad/cas: fall
-3.48	adventurous	ready	ad vent ure=ur ous	ad: near (prefix); to; towards
-3.48	injunction	ready	in junct ion	junct: join
-3.48	unnatural	ready	un nat ure=ur al	nat: born
-3.48	admirable	ready	ad mir able	mir: wonder; amazement; behold; look
-3.48	motivational	ready	mot ive=iv ion=ation al	mot: move; motion
-3.48	repetition	ready	re pet ion=ition	petit/pet: strive toward; go; seek
-3.48	retrospective	ready	retro spect=spec ive=tive	spect/spec/spic: appear; look; see; spectrum
-3.48	converse	ready	con vert=verse	vers/verg/vert/ver: turn; range; totality; world
 3.47	aperture	ready	ad=ap sert=ert ure	apert: open
-3.47	concord	ready	con cord	cord: heart; agree
-3.47	containment	ready	con tain ment	ment: act of; state or; result; action or process; condition; resemblance | tent/ten/tin/tain/tent: hold; keep; maintain
-3.47	moderation	ready	mod=moder ion=ation	moder/mod: measure; change; manner; way
-3.47	notation	ready	gno=not ion=ation	nota/not: letter; mark; note; know
 3.46	criterion	ready	crit er ion	crit: a judge; choose; separate | crit: choose; judge; separate
 3.46	dialog	ready	dia log	dia: apart (prefix); between; through
-3.46	despicable	ready	de spect=spic able	spect/spec/spic: appear; look; see; spectrum | spic: look at; see
-3.46	subcommittee	ready	sub con=com mit=mitt ee	miss/mitt/mit: send
-3.46	disruptive	ready	dis rupt ive	rupt: break; burst
-3.45	stature	ready	sta=stat ure	stat: stand
 3.45	recap	ready	re cap	capit/cipit: head
 3.45	empress	ready	en=em press	para: arrange; assemble; order; prepare; provide; procure; bearing; beside
-3.45	oppressive	ready	ob=op press ive	prim/press: press
 3.45	statistic	ready	sta=stat sta=ist ic	stat/sta/stet/stitu/stit: stand; condition; still
-3.44	precursor	ready	pre cur=curs or	curs: run
-3.44	reflex	ready	re flect=flex	flect/flex: bend | flex: bend
-3.44	indifferent	ready	in dis=dif fer ent	fer: bear; carry; bear; send; bring
-3.44	preparatory	ready	pre par ate=at ory	para: arrange; assemble; order; prepare; provide; procure; bearing; beside
-3.44	deprivation	ready	de priv ion=ation	priv: own; separate; deprive; single
-3.44	solvent	ready	solv ent	solut/solv: loosen; set free
-3.43	repository	ready	re pos ory=itory	pos/posit: place; put; settle | pos: place; put | posit: place; put; settle
-3.43	expressive	ready	ex press ive	press: press; strain | prim/press: press
-3.43	proficiency	ready	pro fac=fic ence=iency	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
 3.43	relegation	ready	re leg ion=ation	leg: send; pick; read
-3.43	pendant	ready	pend ent=ant	pend/pens: hang; weigh; pay; consider
 3.42	disparity	ready	dis par ity	par: equal
-3.42	inverse	ready	in vert=verse	vers/verg/vert/ver: turn; range; totality; world | vers: turn
-3.42	visionary	ready	vid=vis ion ary	vid: appear; see | vis: appear; see | vis: see; appear
-3.42	replication	ready	re plic ion=ation	pli/plic: bend; fold; tangle
 3.42	proton	ready	pro ton	proto/prot: first; earliest
-3.41	indefinite	ready	in de fin ite	fin: end; limit | in: not (prefix)
-3.41	immortality	ready	in=im mort al ity	in: not (prefix) | mort: death | mortal/mort: death
-3.41	natal	ready	nat al	gnant/nai/nat: born; be from; spring forth; source; birth; tribe | nat: born
-3.41	novice	ready	nov ice	nov: new
 3.41	ordination	ready	ordin ion=ation	ordin: arrange; order; rank; regulate | ordin: order; rank; arrange; regulate
 3.41	parity	ready	par ity	par: equal
-3.41	expulsion	ready	ex pel=puls ion	pel/pul: drive; urge | puls/pul: drive; urge | puls: drive; urge
-3.41	vitality	ready	viv=vit al ity	vit: alive; life | vita/vit: life; live
-3.41	revolver	ready	re vol ver	volv: roll; turn
-3.41	agile	ready	act=ag ile	ago/ig/act: do; go; move
-3.41	hesitant	ready	her=hesit ent=ant	hes: cling; stick; to stick hold back
-3.41	projector	ready	pro ject or	jac/ject: cast; throw; lie
-3.41	moderator	ready	mod=moder or=ator	moder/mod: measure; change; manner; way
-3.41	irrespective	ready	inneg=ir re spect=spec ive=tive	spect/spec/spic: appear; look; see; spectrum
-3.40	conceive	ready	con cap=ceive	ceiv: hold; seize; take | ceiv: take; hold; seize
 3.40	tenor	ready	tain=ten or	ten: hold; keep | tent/ten/tin/tain/tent: hold; keep; maintain
-3.40	incorporation	ready	in corp=corpor ion=ation	corpor/corp: body; flesh
-3.40	diffusion	ready	dis=dif fus ion	fus: pour; melt; blend
 3.39	preface	ready	pre fac=face	fa: say; speak; spoken of | fa: speak
-3.39	intermittent	ready	inter mit tain=tent	miss/mitt/mit: send | miss: send (wcity) | mit: send; throw
-3.39	punitive	ready	pen=pun ive=itive	pun: pain; punishment | pun: punish
-3.39	subconscious	ready	sub con sci ous	sci: know | sub: below (prefix); under
 3.39	coefficient	ready	con=co ex=ef fac=fic ent=ient	ient: indication; kind of agent; form adjective
-3.38	adversity	ready	ad vert=vers ity	ad: near (prefix); to; towards | vers/verg/vert/ver: turn; range; totality; world | vers: turn
-3.38	impartial	ready	in=im part ial	part: divide; part; separate; share | part: part; divide; share; separate
-3.38	retribution	ready	re trib=tribut ion	tribut/trib: assign; allow; allot; bestow; pay | tribut: allot; allow; assign; pay
-3.38	compressor	ready	con=com press or	prim/press: press
-3.38	inquire	ready	in quir=quire	quir/quisit: search; seek
-3.37	designate	ready	de sign ate	sign: mark | sign: mark; sign
-3.37	inclination	ready	in clin ion=ation	clina/clin/clin/cliv: lean; lie; recline; inclined; monoclinic
-3.37	endemic	ready	en dem ic	dem: people
-3.37	discontent	ready	dis con tain=tent	tent/ten/tin/tain/tent: hold; keep; maintain
-3.36	centennial	ready	cent ann=enn ial	anni/enni: year; yearly | cent: hundred | enn: year
-3.36	interruption	ready	inter rupt ion	rupt: break; burst
 3.36	sensual	ready	sens al=ual	sens: feel; perceive; think
-3.36	pertinent	ready	per tain=tin ent	tent/ten/tin/tain/tent: hold; keep; maintain | tin: hold; keep
-3.36	anarchist	ready	an arch sta=ist	arch: leader; ruler; first; govern
-3.36	unification	ready	uni fac=fic ion=ation	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state | uni/un: one; single
-3.36	surveyor	ready	sur via=vey or	vid: appear; see
 3.35	graphite	ready	graph ite	graph: draw; write; produce image; descriptive science | graph: write
 3.35	unilateral	ready	uni lat er al	later: side | uni/un: one; single | uni: one
-3.35	revert	ready	re vert	vers/verg/vert/ver: turn; range; totality; world | vert: turn
-3.35	biologist	ready	bio log sta=ist	bio: life
-3.35	ingenious	ready	in gen ous=ious	gene/genit/gen/gn: birth; beget; race; kind; produce; production; origin; formation
-3.35	conjecture	ready	con ject ure	jac/ject: cast; throw; lie
 3.35	inquisition	ready	in quir=quisit ion	quir/quisit: search; seek
-3.35	continual	ready	con tain=tin al=ual	tent/ten/tin/tain/tent: hold; keep; maintain
-3.34	cognition	ready	gno=cogn ion=ition	cognit/cogniz/cogni/gnor/gnos: know; knowledge; recognition | cognit: know | gnit/gnostic/gnos: know | gnit/not: know
-3.34	adherence	ready	ad her ence	her: hold fast; stick | hes: cling; stick; to stick hold back
-3.34	adjective	ready	ad ject ive	jac/ject: cast; throw; lie | ject: cast; throw
 3.34	rector	ready	rect or	rect: right; ruled; straight
 3.34	perseverance	ready	per se ver ence=ance	sever: grave; serious; strict | sever: stern; strict; serious
-3.34	capitalize	ready	capit al ize	capit/cipit: head
 3.34	divisive	ready	de=di vid=vis ive	divid/divis: separated into parts; divided
-3.33	agility	ready	act=ag ile=il ity	ag: act; do; drive; go; move; urge
-3.33	deficient	ready	de fac=fic ent=ient	fic: do; make
-3.33	inhabit	ready	in hab=habit	habit/hab: have; dwell; live; abide
-3.33	invoke	ready	in voc=voke	voc/voc/vok: call; voice
 3.32	pervert	ready	per vert	per: thoroughly; through; utterly; very (prefix) | vers/verg/vert/ver: turn; range; totality; world
-3.32	versatility	ready	ver sat ile=il ity	vers: turn
-3.32	dissatisfaction	ready	dis sat=satis fac ion=tion	feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state
-3.32	supervisory	ready	super vid=vis ory	vid: appear; see
-3.31	complication	ready	con=com plic ion=ation	com: together (prefix); with | pli/plic: bend; fold; tangle
-3.31	cohesive	ready	con=co her=hes ive	hes: cling; stick; to stick hold back | hes: hold fast; stick
-3.31	contentious	ready	con tain=tent ous=ious	tens/tend/tent: stretch; strain; thin | tent: reach; stretch
-3.31	incidental	ready	in cid ent al	cid/cad/cas: fall
-3.30	abstraction	ready	ab=abs tract ion	abs: apart (prefix); away from; off
-3.30	incur	ready	in cur	corr/curs/curr: run; course | cur: run | im: in; on
 3.30	fermentation	ready	fer ment ion=ation	ferm: cause to rise; leaven
-3.30	adjunct	ready	ad junct	junct: join
-3.30	depressive	ready	de press ive	press: press; strain | prim/press: press
 3.30	conservatory	ready	con serv ate=at ory	serv: keep; protect; serve
-3.30	attentive	ready	ad=at tain=ten ive=tive	tens/tend/tent: stretch; strain; thin
-3.29	proficient	ready	pro fac=fic ent=ient	fac/fic: do; make | feck/fect/fic-/fac/fec: do; make; shape; fashion; face; form; figure; effect; noun of action or associated state | fic: do; make
-3.29	improbable	ready	in=im prob able	in: not (prefix)
-3.29	mediator	ready	medi or=ator	medi: between; middle | medit: contemplate; ponder
-3.29	mirage	ready	mir age	mir: behold; look; wonder at | mir: wonder; amazement; behold; look
-3.29	compulsive	ready	con=com pel=puls ive	puls/pul: drive; urge | puls: drive; urge
-3.29	adversary	ready	ad vert=vers ary	vers: turn
 3.29	occult	ready	ob=oc cult	clud/clus: close; shut
-3.29	infusion	ready	in fus ion	fus: pour; melt; blend
-3.28	refine	ready	re fin=fine	fin: end; limit
-3.28	diffuse	ready	dis=dif fus=fuse	fus: melt; pour
-3.28	cohesion	ready	con=co her=hes ion	hes: cling; stick; to stick hold back | hes: hold fast; stick
-3.28	recollection	ready	re con=col lect ion	lect: choose; gather | lect: choose; gather; variety
-3.28	rupture	ready	rupt ure	rupt: break; burst
-3.28	symmetrical	ready	syn=sym meter=metr ic al	sym: together (prefix)
-3.27	impulsive	ready	in=im pel=puls ive	puls/pul: drive; urge | puls: drive; urge
 3.27	seminal	ready	se min al	semin: seed; sow
-3.27	sophistication	ready	soph sta=ist ic ion=ation	soph: wisdom; wise
-3.27	gratification	ready	grat ific ion=ation	grat: thank; please; pleasing; thankful; kind
-3.27	transverse	ready	trans vert=verse	vers/verg/vert/ver: turn; range; totality; world
 3.26	nonfiction	ready	non fac=fic ion=tion	fig: form; shape | non: not (prefix)
 3.26	disparate	ready	dis par ate	par: equal | para: arrange; assemble; order; prepare; provide; procure; bearing; beside
-3.26	multiplication	ready	multi plic ion=ation	plic: bend; embrace; fold
 3.26	excise	ready	ex cis=cise	cid/cis: cut; kill
-3.26	equator	ready	equ or=ator	iqu: equal; even; level
-3.26	projectile	ready	pro ject ile	jac/ject: cast; throw; lie
-3.26	advisable	ready	ad vid=vis able	vid: appear; see
-3.25	biennial	ready	bi ann=enn ial	anni/enni: year; yearly | enn: year
-3.25	attest	ready	ad=at test	test: witness | testat/test: challenge; trial; examination
-3.25	auditory	ready	aud ory=itory	aud: hearing; listening; sound; hear
-3.25	microbiology	ready	micro bio ology=logy	bio: life
-3.25	commend	ready	con=com mand=mend	mend: order; command; commit
-3.25	submissive	ready	sub mit=miss ive	miss/mitt/mit: send
-3.24	recurrent	ready	re cur=curr ent	curr: run
-3.24	seduce	ready	se duc=duce	duc: bring; lead | duct/duc: bring; lead; draw; pull | se: apart; without (prefix) | sec: apart; cut; split
-3.24	conducive	ready	con duc ive	duct/duc: bring; lead; draw; pull | duct: bring; lead
-3.24	conscientious	ready	con sci ent ous=ious	sci: know | sci: know; discern
 3.24	insidious	ready	in sid ous=ious	sed/sid/sess: settle; calm; sit | sid: settle; sit
 3.24	commandant	ready	con=com mand ent=ant	mend: order; command; commit
 3.23	seductive	ready	se duc ive=tive	duct/duc: bring; lead; draw; pull | duct: bring; lead

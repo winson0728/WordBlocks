@@ -51,3 +51,6 @@ crit|希臘語 krinein 是「判斷、分開」。crisis 原本是醫學用語�
 her|易混淆：inherent（本來就黏在裡面的）來自 haerere「黏」，inherit（繼承）則來自 heres「繼承人」，兩者無關。|一塊膠帶牢牢黏住兩張紙。
 lat|拉丁語「攜帶」ferre 的過去分詞是 latus，所以 transfer 和 translate 是同一家族：一個把東西帶過去，一個把意思帶過去。|一座橋上，一個人提著寫滿字的箱子走到對岸。
 ple|易混淆：supply 和 apply 長得很像，但 supply 來自 plere「填滿」（從底下補滿），apply 來自 plicare「摺疊」。|一個空水杯被慢慢倒滿。
+pass|易混淆：passion、patient 來自 pati「承受、受苦」，passport、passenger 則來自 passus「腳步」。耶穌受難在英文就叫 the Passion。|一個人咬著牙扛起重擔。
+fa|infant（嬰兒）來自拉丁語 in + fari，字面是「還不會說話的人」。|搖籃裡的嬰兒張嘴卻說不出話。
+cant|incentive（誘因）來自 incinere「起音、帶頭唱」：誘因就是讓人跟著唱起來的那個音。|指揮家舉起指揮棒，合唱團準備開口。

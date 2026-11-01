@@ -1157,3 +1157,162 @@ recurrent|re cur=curr ent|反覆發生的|再 + 跑 + 的|She suffers from recur
 seduce|se duc=duce|引誘|分開 + 引導：引到一旁|The ad tries to seduce buyers with low prices.
 conducive|con duc ive|有助於…的|一起 + 引導 + 性質|A quiet room is conducive to study.
 conscientious|con sci ent ous=ious|認真負責的|徹底 + 知道 + 的 + 充滿|She is a conscientious worker.
+general|gen=gener al|一般的；將軍|產生 + 的：整個種類的|In general, people here are friendly.
+generous|gen=gener ous|慷慨的|產生 + 充滿：出身高貴的|Thank you for your generous gift.
+generator|gen=gener ate=at or|發電機|產生 + 使 + 物|The hospital has a backup generator.
+genocide|gen=geno cis=cide|種族屠殺|種族 + 殺|The museum remembers the victims of genocide.
+ensure|en cura=sure|確保|使 + 安心|Please ensure the door is locked.
+assure|ad=as cura=sure|向…保證|朝向 + 安心|I assure you it's safe.
+insurance|in cura=sur ence=ance|保險|向內 + 安心 + 名詞|Do you have travel insurance?
+accuracy|ad=ac cura=cur acy|準確性|朝向 + 照料 + 性質|The accuracy of the data is important.
+curiosity|cura=curi ous=os ity|好奇心|照料 + 充滿 + 名詞|She opened the box out of curiosity.
+manage|manu=man age|管理；設法做到|手 + 名詞：用手操控|She manages a team of ten people.
+management|manu=man age ment|管理；管理階層|手 + 名詞 + 名詞|The hotel is under new management.
+manager|manu=man age=ag er|經理|手 + 名詞 + 的人|I'd like to speak to the manager.
+energy|en erg y|能量；精力|進入 + 工作 + 名詞|Solar energy is clean and renewable.
+synergy|syn erg y|綜效|一起 + 工作 + 名詞|The merger created synergy between the two firms.
+destination|de sta=stin ion=ation|目的地|徹底 + 站立 + 名詞：最後站定的地方|Bali is a popular holiday destination.
+destiny|de sta=stin y|命運|徹底 + 站立 + 名詞：早已立定的事|She believes it was her destiny to be a doctor.
+constituent|con sta=stitu ent|成分；選民|一起 + 使站立 + 的|Salt is a constituent of seawater.
+superstition|super sta=stit ion|迷信|在上 + 站立 + 名詞|It's a superstition that 4 is an unlucky number.
+degree|de gress=gree|度；學位|向下 + 步伐：一階一階|It's 30 degrees today.
+graduate|gress=grad ate=uate|畢業；畢業生|步伐 + 使：走完一級|She graduated from university last year.
+graduation|gress=grad ion=uation|畢業典禮|步伐 + 名詞|My parents came to my graduation.
+gradual|gress=grad al=ual|逐漸的|步伐 + 的：一步一步|There has been a gradual rise in prices.
+ingredient|in gress=gredi ent|成分；食材|向內 + 走 + 的：走進去的東西|Mix all the ingredients together.
+integrate|in tact=tegr ate|整合；融入|不 + 接觸 + 使：使完整未受損|The app integrates with your calendar.
+integrity|in tact=tegr ity|正直；完整|不 + 接觸 + 名詞|He is a man of integrity.
+integral|in tact=tegr al|不可或缺的|不 + 接觸 + 的：完整的一部分|Music is an integral part of the festival.
+tangible|tact=tang able=ible|有形的；具體的|接觸 + 可…的：摸得到|We need tangible results.
+contagious|con tact=tag ous=ious|傳染性的|一起 + 接觸 + 充滿|The flu is very contagious.
+passion|pass ion|熱情|承受 + 名詞：強烈的感受|She has a passion for music.
+passionate|pass ion ate|熱情的|承受 + 名詞 + 的|He is passionate about football.
+passive|pass ive|被動的|承受 + 性質|Don't be so passive in meetings.
+compassion|con=com pass ion|同情心|一起 + 承受 + 名詞|The nurse treated everyone with compassion.
+patient|pass=pat ent=ient|有耐心的；病人|承受 + 的|Please be patient, the doctor will see you soon.
+patience|pass=pat ence=ience|耐心|承受 + 名詞|Learning a language takes patience.
+impatient|inneg=im pass=pat ent=ient|不耐煩的|不 + 承受 + 的|He gets impatient in traffic.
+region|rect=reg ion|地區|統治 + 名詞：統治的範圍|This region is famous for tea.
+regional|rect=reg ion al|地區的|統治 + 名詞 + 的|She is the regional sales manager.
+regular|rect=regul ar|規律的；定期的|規則 + 的|Regular exercise is good for your heart.
+irregular|inneg=ir rect=regul ar|不規則的|不 + 規則 + 的|He has an irregular heartbeat.
+regulate|rect=regul ate|規範；調節|規則 + 使|The law regulates the use of drones.
+regulation|rect=regul ion=ation|規定|規則 + 名詞|Safety regulations must be followed.
+erect|ex=e rect|豎立；直立的|向外 + 直：立直|A statue was erected in the park.
+controversy|contra=contro vert=vers y|爭議|相反 + 轉 + 名詞：轉向相反的立場|The decision caused a lot of controversy.
+diversity|dis=di vert=vers ity|多樣性|分開 + 轉 + 名詞|The city is known for its cultural diversity.
+diversify|dis=di vert=vers ify|多樣化|分開 + 轉 + 使|The company plans to diversify its products.
+psychology|psych ology|心理學|心靈 + 學問|She studied psychology in college.
+psychological|psych ology=olog ic al|心理的|心靈 + 學問 + 的 + 的|The war had a psychological impact on soldiers.
+psychologist|psych ology=olog ist|心理學家|心靈 + 學問 + 人|He sees a psychologist every week.
+psychic|psych ic|通靈的；靈媒|心靈 + 的|She claims to be psychic.
+analysis|ana ly sis|分析|向後 + 鬆開 + 過程：拆開來看|The data needs careful analysis.
+analytical|ana ly ic=tic al|分析的|向後 + 鬆開 + 的 + 的|She has strong analytical skills.
+paralysis|para ly sis|癱瘓|旁邊 + 鬆開 + 過程|The accident left him with paralysis in both legs.
+ignore|inneg=i gno=gnore|忽視|不 + 知道：裝作不知道|Don't ignore the warning signs.
+ignorant|inneg=i gno=gnor ent=ant|無知的|不 + 知道 + 的|I was ignorant of the rules.
+noble|gno=no able=ble|高貴的；貴族|知道 + 可…的：人人都認得的|It was a noble act.
+infant|inneg=in fa=fant|嬰兒|不 + 說：還不會說話的人|The infant is sleeping.
+infancy|inneg=in fa=fanc y|嬰兒期；初期|不 + 說 + 名詞|The technology is still in its infancy.
+confess|con fa=fess|坦白；招認|徹底 + 說|He confessed to stealing the money.
+profession|pro fa=fess ion|職業|向前 + 說 + 名詞：公開宣告自己的本行|Teaching is a respected profession.
+professional|pro fa=fess ion al|專業的；職業的|向前 + 說 + 名詞 + 的|You should get professional advice.
+professor|pro fa=fess or|教授|向前 + 說 + 者：公開講授的人|She is a professor of history.
+preface|pre fa=face|序言|預先 + 說|The author explains her goals in the preface.
+exclaim|ex claim|驚叫|向外 + 喊叫|"Look at that!" she exclaimed.
+exclamation|ex claim=clam ion=ation|驚嘆|向外 + 喊叫 + 名詞|Use an exclamation mark here.
+proclaim|pro claim|宣告|向前 + 宣告|The country proclaimed its independence.
+proclamation|pro claim=clam ion=ation|宣言|向前 + 宣告 + 名詞|The king issued a proclamation.
+acclaim|ad=ac claim|讚揚|朝向 + 喊叫|The film received wide acclaim.
+reclaim|re claim|收回；開墾|回 + 喊叫：喊回來|You can reclaim your bag at the counter.
+grammar|gramm ar|文法|寫下的字 + 的|English grammar is not easy.
+diagram|dia gramm=gram|圖表|穿過 + 記號：畫出來說明|Look at the diagram on page 5.
+program|pro gramm=gram|程式；節目|預先 + 寫下：事先寫好的|I installed a new program on my laptop.
+telegram|tele gramm=gram|電報|遠 + 寫下的字|They sent a telegram to announce the birth.
+comprehend|con=com prehend|理解|徹底 + 抓住|I couldn't comprehend what he said.
+comprehension|con=com prehend=prehens ion|理解力|徹底 + 抓住 + 名詞|The test checks reading comprehension.
+comprehensive|con=com prehend=prehens ive|全面的|徹底 + 抓住 + 性質|We offer comprehensive insurance.
+apprehend|ad=ap prehend|逮捕；理解|朝向 + 抓住|Police apprehended the suspect.
+enterprise|inter=enter prehend=prise|企業；事業|之間 + 抓住：著手去做|Small enterprises create many jobs.
+surprise|sur prehend=prise|驚喜；使驚訝|在上 + 抓住：突然抓住|We planned a surprise party for her.
+innate|in nat=nate|天生的|向內 + 出生|She has an innate talent for music.
+connect|con nect|連接|一起 + 綁|Connect your phone to the Wi-Fi.
+connection|con nect ion|連結；關係|一起 + 綁 + 名詞|The internet connection is slow.
+disconnect|dis con nect|斷開|分開 + 一起 + 綁|The call was disconnected.
+explicit|ex plic=plicit|明確的|向外 + 摺疊：攤開來的|The instructions were very explicit.
+implicit|in=im plic=plicit|含蓄的；隱含的|向內 + 摺疊：摺在裡面的|There was an implicit threat in his words.
+duplicate|du plic ate|複製；副本|二 + 摺疊 + 使|Please make a duplicate of the key.
+appliance|ad=ap plic=pli ence=ance|家電|朝向 + 摺疊 + 名詞|We bought new kitchen appliances.
+primary|prim ary|主要的；初級的|第一 + 的|Our primary goal is safety.
+primitive|prim ive=itive|原始的|第一 + 性質|They found primitive tools in the cave.
+adapt|ad apt|適應；改編|朝向 + 適合|Children adapt quickly to new schools.
+adaptation|ad apt ion=ation|改編；適應|朝向 + 適合 + 名詞|The film is an adaptation of a novel.
+aptitude|apt itude|天資|適合 + 狀態|She has an aptitude for languages.
+economy|eco nom y|經濟|家 + 管理 + 名詞|The economy grew by 3 percent.
+economics|eco nom ics|經濟學|家 + 管理 + 學科|He studies economics.
+economist|eco nom ist|經濟學家|家 + 管理 + 人|Economists expect prices to rise.
+autonomy|auto nom y|自主權|自己 + 法則 + 名詞|The region has a high degree of autonomy.
+autonomous|auto nom ous|自主的；自動駕駛的|自己 + 法則 + 的|Autonomous cars are being tested in the city.
+astronomy|astro nom y|天文學|星星 + 法則 + 名詞|He has loved astronomy since childhood.
+astronaut|astro naut|太空人|星星 + 航行者|The astronaut spent six months in space.
+debate|de bat=bate|辯論|徹底 + 打|There was a lively debate on the issue.
+combat|con=com bat|戰鬥；對抗|一起 + 打|The city is trying to combat air pollution.
+battery|bat=batt ery|電池|打 + 名詞：一排連續打擊的炮|My phone battery is low.
+accent|ad=ac cant=cent|口音；重音|朝向 + 唱|She speaks English with a British accent.
+incentive|in cant=cent ive|誘因|向內 + 唱 + 性質：起音帶頭|Bonuses are an incentive to work harder.
+enchant|en cant=chant|使著迷|使 + 唱：唱咒語迷住|The children were enchanted by the story.
+certify|cert ify|證明；認證|確定 + 使|The products are certified organic.
+certificate|cert ific ate|證書|確定 + 產生…的 + 名詞|You need a birth certificate.
+doctor|doc=doct or|醫生；博士|教導 + 者：有學問的人|You should see a doctor.
+document|doc=docu ment|文件|教導 + 名詞：用來說明的東西|Please sign this document.
+documentary|doc=docu ment ary|紀錄片|教導 + 名詞 + 的|We watched a documentary about whales.
+doctrine|doc=doctr ine|教義；主義|教導 + 名詞|The doctrine is taught in all their schools.
+laboratory|labor ate=at ory|實驗室|工作 + 使 + 場所|The samples were sent to a laboratory.
+collaborate|con=col labor ate|合作|一起 + 工作 + 使|The two artists collaborated on the album.
+collaboration|con=col labor ion=ation|合作|一起 + 工作 + 名詞|The project is a collaboration between three universities.
+elaborate|ex=e labor ate|詳細說明；精心的|向外 + 工作 + 使|Could you elaborate on your idea?
+figure|fig ure|數字；身形；人物|形狀 + 結果|Sales figures are up this month.
+configure|con fig ure|設定|一起 + 形狀 + 結果|You need to configure the router first.
+configuration|con fig ure=ur ion=ation|配置；設定|一起 + 形狀 + 結果 + 名詞|Check the network configuration.
+effort|ex=ef fort|努力|向外 + 強壯：把力氣使出來|Thanks for all your effort.
+comfort|con=com fort|安慰；舒適|徹底 + 強壯：給人力量|She comforted the crying child.
+comfortable|con=com fort able|舒適的|徹底 + 強壯 + 可…的|This sofa is very comfortable.
+enforce|en fort=force|執行；強制實施|使 + 強壯|The police enforce the law.
+reinforce|re in fort=force|加強|再 + 向內 + 強壯|They reinforced the bridge with steel.
+reinforcement|re in fort=force ment|增援；強化|再 + 向內 + 強壯 + 名詞|Positive reinforcement helps children learn.
+prejudice|pre judic=judice|偏見|預先 + 判斷|We must fight racial prejudice.
+judicial|judic ial|司法的|判斷 + 的|The judicial system should be fair.
+marine|mar ine|海洋的|海 + 的|The area is rich in marine life.
+submarine|sub mar ine|潛水艇|在下 + 海 + 的|The submarine stayed underwater for weeks.
+emerge|ex=e merg=merge|浮現；出現|向外 + 沉：從水裡冒出|The sun emerged from behind the clouds.
+emergency|ex=e merg ence=ency|緊急狀況|向外 + 沉 + 名詞：突然冒出來的事|In an emergency, call 119.
+immerse|in=im merg=merse|沉浸|向內 + 浸|She immersed herself in her work.
+immersion|in=im merg=mers ion|沉浸|向內 + 浸 + 名詞|Language immersion is the fastest way to learn.
+submerge|sub merg=merge|淹沒|在下 + 浸|The road was submerged after the storm.
+social|soci al|社會的；社交的|同伴 + 的|Humans are social animals.
+society|soci ity=ety|社會|同伴 + 名詞|We live in a modern society.
+associate|ad=as soci ate|聯想；同事|朝向 + 同伴 + 使|I associate summer with the beach.
+association|ad=as soci ion=ation|協會；聯想|朝向 + 同伴 + 名詞|She joined the teachers' association.
+socialism|soci al ism|社會主義|同伴 + 的 + 主義|The book compares capitalism and socialism.
+sociology|soci ology|社會學|同伴 + 學問|She has a degree in sociology.
+various|vari ous|各種的|變化 + 充滿|The shop sells various kinds of tea.
+variety|vari ity=ety|多樣性；種類|變化 + 名詞|The menu offers a wide variety of dishes.
+variable|vari able|易變的；變數|變化 + 可…的|The weather here is highly variable.
+variation|vari ion=ation|變化；差異|變化 + 名詞|There is little variation in prices.
+explain|ex plan=plain|解釋|向外 + 平的：攤平說明|Can you explain the rules again?
+explanation|ex plan ion=ation|解釋|向外 + 平的 + 名詞|There is no simple explanation.
+disturb|dis turb|打擾|徹底 + 攪動|Please don't disturb me while I'm working.
+turbulence|turb ule=ul ence|亂流；動盪|攪動 + 小 + 名詞|We hit some turbulence over the ocean.
+excite|ex cit=cite|使興奮|向外 + 喚起|The news excited the fans.
+excitement|ex cit=cite ment|興奮|向外 + 喚起 + 名詞|The children could hardly contain their excitement.
+recite|re cit=cite|背誦|再 + 喚起|She recited a poem in class.
+incite|in cit=cite|煽動|向內 + 喚起|He was arrested for inciting violence.
+announce|ad=an nounce|宣布|朝向 + 宣告|They announced their engagement.
+announcement|ad=an nounce ment|公告|朝向 + 宣告 + 名詞|Please listen to the following announcement.
+pronounce|pro nounce|發音；宣告|向前 + 宣告|How do you pronounce this word?
+pronunciation|pro nounce=nunci ion=ation|發音|向前 + 宣告 + 名詞|Her pronunciation is very clear.
+denounce|de nounce|譴責|徹底 + 宣告|The leaders denounced the attack.
+depict|de pict|描繪|向下 + 畫|The painting depicts a busy market.
+picture|pict ure|圖片|畫 + 結果|Can I take a picture of you?
+politics|polit ics|政治|城邦 + 學科|She is not interested in politics.
+political|polit ic al|政治的|城邦 + 的 + 的|There are three main political parties.

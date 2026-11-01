@@ -7,6 +7,7 @@ post|pre|post-|之後|拉丁語 post|time
 extra|pre|extra-|超出、額外|拉丁語 extra|dir
 ultra|pre|ultra-|超越|拉丁語 ultra|dir
 hypo|pre|hypo-|在下|希臘語 hypo|dir
+du|pre|du-|二|拉丁語 duo|num
 chron|root|chron|時間|希臘語 chronos|time
 pro|pre|pro- / pur-|向前、預先；代替|拉丁語 pro|dir
 de|pre|de-|向下；去除、反轉|拉丁語 de|dir
@@ -39,14 +40,14 @@ port|root|port|搬運、攜帶|拉丁語 portare|move
 ject|root|ject|丟、投擲|拉丁語 iacere|move
 mit|root|mit / miss / mitt / mise / mess|送、放出|拉丁語 mittere|move
 duc|root|duc / duct / duce|引導|拉丁語 ducere|move
-gress|root|gress|走、步伐|拉丁語 gradi|move
+gress|root|gress / grad / gree / gredi|走、步伐|拉丁語 gradi|move
 rupt|root|rupt|破裂|拉丁語 rumpere|move
 bio|root|bio|生命|希臘語 bios|life
 dem|root|dem / demo|人民|希臘語 demos|life
 cred|root|cred|相信|拉丁語 credere|mind
 pan|root|pan|全部|希臘語 pan|life
 panGod|root|Pan|牧神潘|希臘神話 Pan|life
-manu|root|manu|手|拉丁語 manus|life
+manu|root|manu / man / main|手|拉丁語 manus|life
 ver|root|ver|真實|拉丁語 verus|life
 cracy|root|cracy|統治|希臘語 kratos|life
 orama|root|orama|景象|希臘語 horama|life
@@ -57,7 +58,7 @@ syn|pre|syn- / sym-|一起、同時|希臘語 syn|rel
 un|pre|un-|不|古英語 un-|rel
 inneg|pre|in- / im- / ir- / il-（否定）|不、無|拉丁語 in-|rel
 dis|pre|dis-|分開；否定|拉丁語 dis|rel
-contra|pre|contra-|相反|拉丁語 contra|rel
+contra|pre|contra- / contro-|相反|拉丁語 contra|rel
 anti|pre|anti- / ant-|對抗|希臘語 anti|rel
 auto|pre|auto-|自己|希臘語 autos|rel
 micro|pre|micro-|微小|希臘語 mikros|rel
@@ -131,18 +132,18 @@ oxy|root|oxy|尖銳、酸|希臘語 oxys|nature
 form|root|form|形狀|拉丁語 forma|nature
 cycl|root|cycl / cycle|圓、循環|希臘語 kyklos|nature
 angl|root|angl / angle|角|拉丁語 angulus|nature
-rect|root|rect|直、正|拉丁語 rectus|nature
+rect|root|rect / reg / regul|直、正|拉丁語 rectus|nature
 corn|root|corn|角（獸角）|拉丁語 cornu|nature
 tain|root|tain / ten / tin / tent|握住、保持|拉丁語 tenere|move
 tect|root|tect|遮蓋|拉丁語 tegere|move
 cid|root|cid / cas / cide|落下、發生|拉丁語 cadere|move
-plic|root|plic / ply|摺疊|拉丁語 plicare|move
-tact|root|tact|接觸|拉丁語 tangere|sense
+plic|root|plic / ply / plicit / pli|摺疊|拉丁語 plicare|move
+tact|root|tact / tang / tegr / tag|接觸|拉丁語 tangere|sense
 quir|root|quir / quire / quest / quisit|尋找、要求|拉丁語 quaerere|mind
-cura|root|cur / cure|照料、擔心|拉丁語 cura|mind
+cura|root|cur / cure / curi / sure / sur|照料、擔心|拉丁語 cura|mind
 nat|root|nat|出生|拉丁語 nasci|life
 part|root|part|部分|拉丁語 pars|nature
-sta|root|sta / stat / stance / stant / stitute / sist|站立|拉丁語 stare、sistere|move
+sta|root|sta / stat / stance / stant / stitute / stin / sist|站立|拉丁語 stare、sistere|move
 pos|root|pos / posit / pose / pon / pone / pound|放置|拉丁語 ponere|move
 act|root|act / ag|做、驅動|拉丁語 agere|move
 sequ|root|sequ / secu / sue|跟隨|拉丁語 sequi|move
@@ -158,7 +159,7 @@ tempor|root|tempor|時間|拉丁語 tempus|time
 term|root|term / termin|界限、結束|拉丁語 terminus|time
 test|root|test|見證|拉丁語 testis|sense
 spond|root|spond / sponse / spons|承諾、回應|拉丁語 spondere|sense
-gno|root|gno / cogn / not|知道|拉丁語 noscere、希臘語 gnosis|mind
+gno|root|gno / gnor / cogn / not / no|知道|拉丁語 noscere、希臘語 gnosis|mind
 grat|root|grat / grate / gree / grace|感謝、令人愉快|拉丁語 gratus|mind
 sci|root|sci|知道|拉丁語 scire|mind
 serv|root|serv / serve|服務、侍奉|拉丁語 servire|life
@@ -220,6 +221,39 @@ fract|root|fract / frag|破|拉丁語 frangere|move
 num|root|num / numer|數|拉丁語 numerus|num
 punct|root|punct|點、刺|拉丁語 pungere|sense
 sat|root|sat / satis / satur|足夠|拉丁語 satis|num
+erg|root|erg|工作、能量|希臘語 ergon|move
+pass|root|pass / pat|承受、感受|拉丁語 pati|mind
+psych|root|psych|心靈|希臘語 psyche|mind
+ly|root|ly|鬆開、分解|希臘語 lyein|move
+fa|root|fa / fant / fanc / fess / face|說|拉丁語 fari|sense
+claim|root|claim / clam|喊叫、宣告|拉丁語 clamare|sense
+gramm|root|gramm / gram|寫下的字、記號|希臘語 gramma|sense
+prehend|root|prehend / prehens / prise|抓住|拉丁語 prehendere|move
+nect|root|nect|綁、連接|拉丁語 nectere|rel
+prim|root|prim|第一|拉丁語 primus|num
+apt|root|apt|適合|拉丁語 aptus|rel
+nom|root|nom|法則、管理|希臘語 nomos|life
+eco|root|eco|家|希臘語 oikos|life
+astro|root|astro|星星|希臘語 astron|nature
+naut|root|naut|船員、航行|希臘語 nautes|nature
+bat|root|bat / bate|打|拉丁語 battuere|move
+cant|root|cant / cent / chant|唱|拉丁語 canere|sense
+cert|root|cert|確定|拉丁語 certus|mind
+doc|root|doc / doct / docu / doctr|教導|拉丁語 docere|mind
+labor|root|labor|工作|拉丁語 labor|move
+fig|root|fig|形狀|拉丁語 figura|nature
+fort|root|fort / force|強壯|拉丁語 fortis|move
+judic|root|judic / judice|判斷、審判|拉丁語 judex|life
+mar|root|mar|海|拉丁語 mare|nature
+merg|root|merg / merge / merse / mers|浸、沉|拉丁語 mergere|move
+soci|root|soci|同伴|拉丁語 socius|life
+vari|root|vari|變化、各種|拉丁語 varius|rel
+plan|root|plan / plain|平的|拉丁語 planus|nature
+turb|root|turb|攪動|拉丁語 turbare|move
+cit|root|cit / cite|喚起、引用|拉丁語 citare|sense
+nounce|root|nounce / nunci|宣告|拉丁語 nuntiare|sense
+pict|root|pict|畫|拉丁語 pingere|sense
+polit|root|polit|城邦、公民|希臘語 polis|life
 ure|suf|-ure / -ature / -ur|行為、結果（名詞）|拉丁語 -ura|suf
 ion|suf|-ion / -tion / -ition / -ation / -uation|行為、狀態（名詞）|拉丁語 -io|suf
 ive|suf|-ive / -itive / -iv / -tive|具…性質的（形容詞）|拉丁語 -ivus|suf
@@ -227,9 +261,9 @@ able|suf|-able / -ible / -ble / -bil / -ibil|可…的（形容詞）|拉丁語 
 or|suf|-or / -ator / -itor|做…的人或物|拉丁語 -or|suf
 ary|suf|-ary|相關事物、集合（名詞）|拉丁語 -arium|suf
 ic|suf|-ic / -tic|…的（形容詞）|希臘語 -ikos|suf
-ology|suf|-ology / -logy|…學|希臘語 -logia|suf
-ize|suf|-ize|使…化（動詞）|希臘語 -izein|suf
-ous|suf|-ous / -ious / -orious|充滿…的（形容詞）|拉丁語 -osus|suf
+ology|suf|-ology / -logy / -olog|…學|希臘語 -logia|suf
+ize|suf|-ize / -yze|使…化（動詞）|希臘語 -izein|suf
+ous|suf|-ous / -ious / -orious / -os|充滿…的（形容詞）|拉丁語 -osus|suf
 ent|suf|-ent / -ient / -ant|…的（形容詞）|拉丁語 -ens|suf
 ate|suf|-ate / -at / -uate|使…、做（動詞）|拉丁語 -atus|suf
 ism|suf|-ism|狀態、主義（名詞）|希臘語 -ismos|suf
@@ -248,8 +282,8 @@ ile|suf|-ile|可…的（形容詞）|拉丁語 -ilis|suf
 ise|suf|-ise|使…（動詞）|古法語 -iser|suf
 ite|suf|-ite|…的（形容詞）|拉丁語 -itus|suf
 el|suf|-el|小東西（名詞）|拉丁語 -ellus|suf
-age|suf|-age|狀態、行為（名詞）|古法語 -age|suf
-ity|suf|-ity / -ty|性質、狀態（名詞）|拉丁語 -itas|suf
+age|suf|-age / -ag|狀態、行為（名詞）|古法語 -age|suf
+ity|suf|-ity / -ty / -ety|性質、狀態（名詞）|拉丁語 -itas|suf
 ment|suf|-ment|行為、結果（名詞）|拉丁語 -mentum|suf
 ee|suf|-ee|受…者（名詞）|古法語 -é|suf
 er|suf|-er|做…的人或物（名詞）|古英語 -ere|suf
@@ -264,3 +298,6 @@ ar|suf|-ar|…的（形容詞）|拉丁語 -aris|suf
 imum|suf|-imum|最…（名詞）|拉丁語 -imus|suf
 ine|suf|-ine|名詞字尾（物質、技藝）|拉丁語 -ina|suf
 ship|suf|-ship|狀態、關係（名詞）|古英語 -scipe|suf
+acy|suf|-acy|性質、狀態（名詞）|拉丁語 -acia|suf
+ics|suf|-ics|學科（名詞）|希臘語 -ika|suf
+ery|suf|-ery|行為、場所（名詞）|古法語 -erie|suf
